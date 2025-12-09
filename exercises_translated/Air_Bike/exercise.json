@@ -1,0 +1,50 @@
+{
+  "name": "Air Bike",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
+    "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
+    "Now simultaneously, slowly go through a cycle pedal motion kicking forward with the right leg and bringing in the knee of the left leg. Bring your right elbow close to your left knee by crunching to the side, as you breathe out.",
+    "Go back to the initial position as you breathe in.",
+    "Crunch to the opposite side as you cycle your legs and bring closer your left elbow to your right knee and exhale.",
+    "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Rowerki",
+  "instructions_pl": [
+    "Połóż się płasko na podłodze, z odcinkiem lędźwiowym kręgosłupa dociśniętym do podłoża. Do tego ćwiczenia ułóż dłonie obok głowy. Uważaj jednak, aby nie obciążać nadmiernie szyi podczas wykonywania ruchu. Następnie unieś barki do pozycji spięcia brzucha.",
+    "Unieś kolana tak, aby były prostopadłe do podłoża, a podudzia równoległe do podłoża. Będzie to Twoja pozycja wyjściowa.",
+    "Teraz jednocześnie, powoli wykonuj ruch pedałowania, wyprostowując prawą nogę do przodu i przyciągając lewe kolano. Przyciągnij prawy łokieć do lewego kolana, wykonując spięcie boczne, jednocześnie wydychając powietrze.",
+    "Wróć do pozycji wyjściowej podczas wdechu.",
+    "Wykonaj spięcie na przeciwną stronę, kontynuując ruch pedałowania nogami i przyciągnij lewy łokieć do prawego kolana, oraz wydychając powietrze.",
+    "Kontynuuj naprzemiennie w ten sposób, aż do wykonania wszystkich zalecanych powtórzeń na każdą stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Air Bike",
+  "instructions_de": [
+    "Lege dich flach auf den Boden, den unteren Rücken fest auf den Boden gedrückt. Für diese Übung legst du deine Hände neben deinen Kopf. Achte jedoch darauf, den Nacken während der Ausführung nicht zu überlasten. Hebe nun deine Schultern in die Crunch-Position.",
+    "Ziehe die Knie so weit nach oben, dass sie senkrecht zum Boden stehen, wobei deine Unterschenkel parallel zum Boden sind. Dies ist deine Ausgangsposition.",
+    "Führe nun gleichzeitig langsam eine Tretbewegung aus, indem du das rechte Bein nach vorne streckst und das Knie des linken Beins heranziehst. Bringe dabei deinen rechten Ellbogen nah an dein linkes Knie, indem du dich seitlich zusammenziehst, während du ausatmest.",
+    "Kehre in die Ausgangsposition zurück, während du einatmest.",
+    "Ziehe dich zur entgegengesetzten Seite zusammen, während du deine Beine weiterbewegst, und bringe deinen linken Ellbogen näher an dein rechtes Knie, während du ausatmest.",
+    "Fahre in dieser Weise abwechselnd fort, bis alle empfohlenen Wiederholungen für jede Seite abgeschlossen sind."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,7 +1,7 @@
 # Skrypt Tłumaczenia Ćwiczeń
 
 ## Opis
-Skrypt automatycznie tłumaczy pliki JSON z ćwiczeniami na język polski i niemiecki używając Google Gemini API (model gemini-pro).
+Skrypt automatycznie tłumaczy pliki JSON z ćwiczeniami na język polski i niemiecki używając Google Gemini API.
 
 ## Wymagania
 - Python 3.7+
@@ -96,7 +96,7 @@ python translate_exercises.py
 
 ## Uwagi
 
-- Skrypt używa modelu `gemini-pro` (dostępny w Google AI Studio)
+- Skrypt używa modelu `gemini-flash-2.5` (dostępny w Google AI Studio)
 - Między requestami jest 0.5s przerwa, aby uniknąć limitów API
 - Wszystkie pliki są kodowane w UTF-8 dla obsługi polskich i niemieckich znaków
 - Gemini Pro jest darmowy w ramach limitu API

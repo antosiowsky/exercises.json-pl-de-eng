@@ -1,0 +1,56 @@
+{
+  "name": "Advanced Kettlebell Windmill",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Clean and press a kettlebell overhead with one arm.",
+    "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Keep the non-working arm behind your back and turn your feet out at a forty-five degree angle from the arm with the kettlebell.",
+    "Lower yourself as far as possible.",
+    "Pause for a second and reverse the motion back to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Zaawansowany Wiatrak z Kettlebell",
+  "instructions_pl": [
+    "Zarzuć i wyciśnij kettlebell nad głowę jedną ręką.",
+    "Utrzymując kettlebell zablokowany (wyprostowany) przez cały czas, wypchnij biodra w kierunku zablokowanego kettlebell. Trzymaj wolną rękę za plecami i skieruj stopy na zewnątrz pod kątem czterdziestu pięciu stopni od ręki trzymającej kettlebell.",
+    "Obniż się tak nisko, jak to możliwe.",
+    "Zatrzymaj się na sekundę i odwróć ruch, wracając do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Fortgeschrittene Kettlebell Windmühle",
+  "instructions_de": [
+    "Eine Kettlebell mit einem Arm umsetzen und über Kopf drücken.",
+    "Die Kettlebell jederzeit in gestreckter Position halten und das Gesäß in Richtung der gestreckten Kettlebell nach hinten schieben. Den nicht arbeitenden Arm hinter dem Rücken halten und die Füße in einem fünfundvierzig Grad Winkel vom Arm mit der Kettlebell wegdrehen.",
+    "Sich so weit wie möglich absenken.",
+    "Eine Sekunde innehalten und die Bewegung zurück in die Ausgangsposition umkehren."
+  ],
+  "secondaryMuscles_de": [
+    "Glutäen",
+    "Ischiocrurale Muskulatur",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}
