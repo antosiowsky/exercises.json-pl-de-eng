@@ -1,1 +1,4 @@
 exercises_before/
+.venv
+translation_progress.json
+translation_errors.log
