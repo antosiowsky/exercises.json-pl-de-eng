@@ -1,0 +1,56 @@
+{
+  "name": "Hanging Bar Good Morning",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin with a bar on a rack at about the same height as your stomach. Suspend the bar using chains or suspension straps.",
+    "Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your traps. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",
+    "Begin the motion by extending through the hips with your glutes and hamstrings, and you are standing with the weight.",
+    "Slowly lower the weight back to the starting position, where it is supported by the chains."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Skłon dzień dobry ze sztangą podwieszaną",
+  "instructions_pl": [
+    "Rozpocznij z gryfem sztangi na stojaku na wysokości mniej więcej Twojego brzucha. Podwieś sztangę za pomocą łańcuchów lub taśm podwieszanych.",
+    "Ugnij się pod sztangą i umieść gryf na tylnej części barków, tak jak do przysiadu ze sztangą na plecach (power squat), a nie na mięśniach czworobocznych. Na odpowiedniej wysokości, w pozycji pochylonej powinieneś być niemal równolegle do podłogi. Utrzymuj napięte plecy, ściągnięte łopatki i lekko ugięte kolana. Utrzymuj plecy wygięte w łuk (z naturalną krzywizną) i kręgosłup szyjny w prawidłowym ułożeniu.",
+    "Rozpocznij ruch, prostując biodra, angażując mięśnie pośladkowe i kulszowo-goleniowe, aż staniesz z ciężarem.",
+    "Powoli opuść ciężar z powrotem do pozycji początkowej, gdzie jest on podtrzymywany przez łańcuchy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie pośladkowe",
+    "mięśnie grzbietu (odcinek lędźwiowy)"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Schwebende Langhantel Good Morning",
+  "instructions_de": [
+    "Beginnen Sie mit einer Langhantel auf einem Rack auf etwa Bauchnabelhöhe. Hängen Sie die Langhantel mit Ketten oder Schlingentrainern auf.",
+    "Beugen Sie sich unter die Langhantel und legen Sie die Langhantel quer über den hinteren Teil Ihrer Schultern, wie bei einem Power Squat, nicht auf den oberen Teil Ihres Musculus trapezius. Bei korrekter Höhe sollten Sie im gebeugten Zustand nahezu parallel zum Boden sein. Halten Sie Ihren Rücken angespannt, die Schulterblätter zusammengezogen und die Knie leicht gebeugt. Halten Sie Ihren Rücken gewölbt und Ihre Halswirbelsäule in korrekter Ausrichtung.",
+    "Beginnen Sie die Bewegung, indem Sie sich aus den Hüften strecken, unter Einsatz Ihrer Musculi glutei und der Ischiocruralen Muskulatur, bis Sie mit dem Gewicht aufrecht stehen.",
+    "Senken Sie das Gewicht langsam zurück in die Ausgangsposition, wo es von den Ketten getragen wird."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi glutei",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraftdreikampf"
+}

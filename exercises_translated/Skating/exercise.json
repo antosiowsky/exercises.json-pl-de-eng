@@ -1,0 +1,56 @@
+{
+  "name": "Skating",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",
+    "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating — speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Jazda na rolkach",
+  "instructions_pl": [
+    "Jazda na rolkach to przyjemna aktywność, która może być skuteczna w poprawie wydolności krążeniowo-oddechowej i wytrzymałości mięśniowej. Wymaga stosunkowo dobrej równowagi i koordynacji. Konieczne jest nauczenie się podstaw jazdy, w tym skręcania i zatrzymywania się, oraz noszenie sprzętu ochronnego, aby uniknąć możliwych urazów.",
+    "Możesz jeździć w komfortowym tempie przez 30 minut bez przerwy. Jeśli szukasz wyzwania kardio, zastosuj jazdę interwałową — przyspieszaj przez dwie minuty z każdych pięciu minut, wykorzystując pozostałe trzy minuty na regenerację. Osoba ważąca 150 funtów spali zazwyczaj około 175 kalorii w ciągu 30 minut jazdy w komfortowym tempie, podobnie jak podczas szybkiego spaceru."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "kardio",
+  "name_de": "Skating",
+  "instructions_de": [
+    "Rollschuhlaufen ist eine unterhaltsame Aktivität, die effektiv zur Verbesserung der kardiorespiratorischen Fitness und der Muskelausdauer beitragen kann. Es erfordert ein relativ gutes Gleichgewicht und Koordination. Es ist notwendig, die Grundlagen des Skatens, einschließlich Wenden und Anhalten, zu erlernen und Schutzausrüstung zu tragen, um mögliche Verletzungen zu vermeiden.",
+    "Sie können 30 Minuten lang am Stück in einem angenehmen Tempo skaten. Wenn Sie eine kardiale Herausforderung suchen, betreiben Sie Intervall-Skating – skaten Sie zwei Minuten von jeweils fünf Minuten mit hoher Geschwindigkeit und nutzen Sie die verbleibenden drei Minuten zur Erholung. Eine Person von 150 Pfund (ca. 68 kg) verbrennt typischerweise etwa 175 Kalorien in 30 Minuten bei einem komfortablen Skating-Tempo, ähnlich wie beim zügigen Gehen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiokrurale Muskulatur"
+  ],
+  "category_de": "Cardio"
+}

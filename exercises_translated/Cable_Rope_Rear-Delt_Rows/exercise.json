@@ -1,0 +1,59 @@
+{
+  "name": "Cable Rope Rear-Delt Rows",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
+    "Attach a rope to the pulley and grasp it with an overhand grip. Your arms should be extended and parallel to the floor with the elbows flared out.",
+    "Keep your lower back upright and slide your hips back so that your knees are slightly bent. This will be your starting position.",
+    "Pull the cable attachment towards your upper chest, just below the neck, as you keep your elbows up and out to the sides. Continue this motion as you exhale until the elbows travel slightly behind the back. Tip: Keep your upper arms horizontal, perpendicular to the torso and parallel to the floor throughout the motion.",
+    "Go back to the initial position where the arms are extended and the shoulders are stretched forward. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie linką wyciągu na tylny akton mięśnia naramiennego",
+  "instructions_pl": [
+    "Usiądź na stanowisku do wiosłowania wyciągiem dolnym w tej samej pozycji, jak do wiosłowania siedząc na plecy.",
+    "Przymocuj linkę do wyciągu i chwyć ją nachwytem. Twoje ramiona powinny być wyprostowane i równoległe do podłogi, z łokciami skierowanymi na zewnątrz.",
+    "Utrzymuj prosty odcinek lędźwiowy kręgosłupa i cofnij biodra tak, aby kolana były lekko ugięte. Będzie to Twoja pozycja wyjściowa.",
+    "Przyciągnij uchwyt wyciągu w kierunku górnej części klatki piersiowej, tuż poniżej szyi, utrzymując łokcie wysoko i na zewnątrz. Kontynuuj ten ruch, wykonując wydech, aż łokcie znajdą się lekko za plecami. Wskazówka: Utrzymuj ramiona poziomo, prostopadle do tułowia i równolegle do podłogi przez cały czas trwania ruchu.",
+    "Wróć do pozycji początkowej, w której ramiona są wyprostowane, a barki rozciągnięte do przodu. Wykonaj wdech, wracając do tej fazy ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Seilzugrudern für den hinteren Deltamuskel",
+  "instructions_de": [
+    "Setzen Sie sich in die gleiche Position an einer Rudermaschine mit tiefem Kabelzug, wie Sie es beim sitzenden Kabelrudern für den Rücken tun würden.",
+    "Befestigen Sie ein Seil am Kabelzug und fassen Sie es im Obergriff. Ihre Arme sollten gestreckt und parallel zum Boden sein, wobei die Ellbogen nach außen zeigen.",
+    "Halten Sie Ihren unteren Rücken aufrecht und schieben Sie Ihre Hüften zurück, sodass Ihre Knie leicht gebeugt sind. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie den Seilgriff in Richtung Ihrer oberen Brust, direkt unterhalb des Halses, während Sie Ihre Ellbogen hoch und zu den Seiten halten. Führen Sie diese Bewegung fort, während Sie ausatmen, bis die Ellbogen leicht hinter den Rücken gelangen. Tipp: Halten Sie Ihre Oberarme während der gesamten Bewegung horizontal, senkrecht zum Rumpf und parallel zum Boden.",
+    "Kehren Sie in die Ausgangsposition zurück, in der die Arme gestreckt und die Schultern nach vorne gedehnt sind. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

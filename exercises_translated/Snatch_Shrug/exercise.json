@@ -1,0 +1,47 @@
+{
+  "name": "Snatch Shrug",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
+    "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a snatch, avoid overloading to the point that the execution slows down."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wzruszanie ramionami w pozycji do rwania",
+  "instructions_pl": [
+    "Rozpocznij z szerokim chwytem, ze sztangą zwisającą na wysokości środka uda. Możesz użyć chwytu zamkowego (hakowego) lub nachwytu. Plecy powinny być proste i lekko pochylone do przodu.",
+    "Wzruszaj ramionami w kierunku uszu. Chociaż to ćwiczenie zazwyczaj można wykonywać z większym obciążeniem niż rwanie, unikaj jednak przeciążania do tego stopnia, aby spowolnić wykonanie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Reiß-Shrug",
+  "instructions_de": [
+    "Beginnen Sie mit einem weiten Griff, wobei die Stange auf mittlerer Oberschenkelhöhe hängt. Sie können einen Haken- oder Obergriff verwenden. Ihr Rücken sollte gerade und leicht nach vorne geneigt sein.",
+    "Ziehen Sie Ihre Schultern in Richtung Ihrer Ohren. Obwohl diese Übung in der Regel mit mehr Gewicht als ein Reißen ausgeführt werden kann, vermeiden Sie eine Überladung bis zu dem Punkt, an dem die Ausführung langsamer wird."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Schultern"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Clean Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+    "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight and elbows out. Move the weight with control as you continue to above the knees.",
+    "Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Ciąg do zarzutu",
+  "instructions_pl": [
+    "Sztanga leży na podłodze blisko piszczeli. Chwyć ją nachwytem lub chwytem zamkowym (hakowym) nieco szerzej niż szerokość nóg. Opuść biodra, utrzymując ciężar ciała na piętach, plecy proste, głowa skierowana do przodu, klatka piersiowa wypięta, a barki lekko przed sztangą. To jest Twoja pozycja startowa.",
+    "Rozpocznij pierwsze pociągnięcie, odpychając się piętami i prostując kolana. Kąt nachylenia pleców powinien pozostać niezmieniony, a ramiona powinny pozostać proste, z łokciami skierowanymi na zewnątrz. Przesuwaj ciężar z kontrolą, kontynuując ruch do momentu, gdy sztanga znajdzie się powyżej kolan.",
+    "Następnie następuje drugie pociągnięcie, główne źródło przyspieszenia dla zarzutu. Gdy sztanga zbliża się do połowy uda, rozpocznij wyprost w stawach biodrowych. W ruchu przypominającym skok, przyspiesz, prostując biodra, kolana i stawy skokowe, wykorzystując szybkość do uniesienia sztangi w górę. Nie ma potrzeby aktywnego ciągnięcia ramionami, aby przyspieszyć ciężar; pod koniec drugiego pociągnięcia ciało powinno być w pełni wyprostowane, lekko odchylone do tyłu, z ramionami wciąż wyprostowanymi. Pełny wyprost powinien być gwałtowny i nagły, upewnij się, że nie przedłużasz go dłużej niż to konieczne."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "prostowniki grzbietu",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Zug zum Umsetzen",
+  "instructions_de": [
+    "Mit einer Langhantel auf dem Boden, nahe an den Schienbeinen, fassen Sie die Stange im Obergriff oder Haken-/Klemmgriff, knapp außerhalb der Beine. Senken Sie die Hüften, wobei das Gewicht auf den Fersen liegt, der Rücken gerade ist, der Kopf nach vorne blickt, der Brustkorb aufgerichtet ist und die Schultern leicht vor der Stange positioniert sind. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und die Knie strecken. Ihr Rückenwinkel sollte gleich bleiben, und Ihre Arme sollten gestreckt und die Ellbogen nach außen gerichtet bleiben. Bewegen Sie das Gewicht kontrolliert, bis es sich oberhalb der Knie befindet.",
+    "Als Nächstes folgt der zweite Zug, die Hauptquelle der Beschleunigung für das Umsetzen. Wenn die Stange die Mitte der Oberschenkel erreicht, beginnen Sie, sich durch die Hüften zu strecken. Beschleunigen Sie in einer Sprungbewegung, indem Sie Hüften, Knie und Sprunggelenke strecken und dabei Geschwindigkeit nutzen, um die Stange nach oben zu bewegen. Es sollte nicht notwendig sein, aktiv mit den Armen zu ziehen, um das Gewicht zu beschleunigen; am Ende des zweiten Zugs sollte der Körper vollständig gestreckt sein, leicht nach hinten gelehnt, mit immer noch gestreckten Armen. Die vollständige Streckung sollte explosiv und abrupt sein, und stellen Sie sicher, dass Sie die Streckung nicht länger als nötig hinauszögern."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Musculus trapezius"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Rowing, Stationary",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",
+    "There are three phases of movement when using a rower. The first phase is when you come forward on the rower. Your knees are bent and against your chest. Your upper body is leaning slightly forward while still maintaining good posture. Next, push against the foot pedals and extend your legs while bringing your hands to your upper abdominal area, squeezing your shoulders back as you do so. To avoid straining your back, use primarily your leg and hip muscles.",
+    "The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wiosłowanie na ergometrze wioślarskim",
+  "instructions_pl": [
+    "Aby rozpocząć, usiądź na ergometrze wioślarskim. Upewnij się, że pięty wygodnie opierają się o podstawę podnóżków, a paski są zapięte. Wybierz program, którego chcesz użyć, jeśli ma to zastosowanie. Usiądź prosto i pochyl się do przodu w stawach biodrowych.",
+    "Podczas korzystania z ergometru wioślarskiego występują trzy fazy ruchu. Pierwsza faza to moment, w którym przesuwasz się do przodu na ergometrze. Kolana są zgięte i przylegają do klatki piersiowej. Górna część ciała jest lekko pochylona do przodu, jednocześnie utrzymując prawidłową postawę. Następnie, odepchnij się od podnóżków i wyprostuj nogi, jednocześnie przyciągając ręce do górnej części brzucha, ściągając łopatki do tyłu. Aby uniknąć nadwyrężenia pleców, używaj przede wszystkim mięśni kończyn dolnych i mięśni pośladkowych.",
+    "Faza powrotu polega po prostu na wyprostowaniu ramion, zgięciu kolan i ponownym przesunięciu ciała do przodu, przechodząc z powrotem do pierwszej fazy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa",
+    "mięśnie środkowej części pleców"
+  ],
+  "category_pl": "trening aerobowy",
+  "name_de": "Rudern (Gerät)",
+  "instructions_de": [
+    "Setzen Sie sich zunächst auf das Rudergerät. Stellen Sie sicher, dass Ihre Fersen bequem an der Basis der Fußpedale anliegen und die Fußschlaufen gesichert sind. Wählen Sie gegebenenfalls das gewünschte Trainingsprogramm aus. Sitzen Sie aufrecht und beugen Sie sich aus den Hüften nach vorne.",
+    "Beim Rudern gibt es drei Bewegungsphasen. Die erste Phase ist die Vorwärtsbewegung auf dem Rudergerät. Ihre Knie sind gebeugt und nah an Ihrer Brust. Ihr Oberkörper ist leicht nach vorne gebeugt, wobei Sie eine gute Körperhaltung beibehalten. Drücken Sie anschließend gegen die Fußpedale und strecken Sie Ihre Beine, während Sie Ihre Hände zum oberen Bauchbereich ziehen und dabei die Schultern nach hinten ziehen. Um Ihren Rücken nicht zu überlasten, setzen Sie hauptsächlich Ihre Bein- und Hüftmuskulatur ein.",
+    "Die Erholungsphase beinhaltet lediglich das Strecken der Arme, das Beugen der Knie und das erneute Vorbringen des Körpers, während Sie in die erste Phase zurückkehren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur",
+    "Musculus erector spinae (Lendenabschnitt)",
+    "Musculus erector spinae (Brustabschnitt)"
+  ],
+  "category_de": "Ausdauertraining"
+}

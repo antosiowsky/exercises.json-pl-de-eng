@@ -1,0 +1,47 @@
+{
+  "name": "Side Lying Groin Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.",
+    "Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).",
+    "Pull your left knee in toward your left shoulder and simultaneously press your foot or knee down to the floor. To intensify this stretch, straighten your left leg. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie pachwiny w leżeniu na boku",
+  "instructions_pl": [
+    "Rozpocznij, leżąc na prawym boku i zegnij prawe kolano przed sobą, aby ustabilizować tułów.",
+    "Oprzyj głowę na prawej dłoni lub ramieniu. Unieś lewą nogę w górę i chwyć ją za tył kolana (łatwiejsza opcja) lub za stopę (trudniejsza opcja).",
+    "Przyciągnij lewe kolano w kierunku lewego barku i jednocześnie dociśnij stopę lub kolano do podłogi. Aby zintensyfikować rozciąganie, wyprostuj lewą nogę. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Leistendehnung in Seitenlage",
+  "instructions_de": [
+    "Legen Sie sich zunächst auf die rechte Seite und beugen Sie Ihr rechtes Knie vor sich, um den Rumpf zu stabilisieren.",
+    "Legen Sie Ihren Kopf auf Ihre rechte Hand oder Schulter. Heben Sie Ihr linkes Bein nach oben und halten Sie es an der Kniekehle (einfacher) oder am Fuß (schwerer).",
+    "Ziehen Sie Ihr linkes Knie in Richtung Ihrer linken Schulter und drücken Sie gleichzeitig Ihren Fuß oder Ihr Knie zum Boden. Um diese Dehnung zu intensivieren, strecken Sie Ihr linkes Bein. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "One Arm Dumbbell Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie down on a flat bench with a dumbbell in one hand on top of your thigh.",
+    "By using your thigh to help you get the dumbbell up, clean the dumbbell up so that you can hold it in front of you at shoulder width. Use the hand you are not lifting with to help position the dumbbell over you properly.",
+    "Once at shoulder width, rotate your wrist forward so that the palm of your hand is facing away from you. This will be your starting position.",
+    "Bring down the weights slowly to your side as you breathe in. Keep full control of the dumbbell at all times. Tip: Use the hand that you are not lifting with to help keep the dumbbell balance as you may struggle a bit at first. Only use your non-lifting hand if it is needed. Otherwise, keep it resting to the side.",
+    "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions of your training program.",
+    "Switch arms and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantla jednorącz na ławce",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, trzymając hantel w jednej dłoni, oparty na udzie.",
+    "Wspomagając się udem, unieś hantel do pozycji, w której możesz go trzymać przed sobą na szerokości barków. Użyj ręki, którą nie wykonujesz ćwiczenia, aby pomóc prawidłowo ustawić hantel nad sobą.",
+    "Gdy hantel znajdzie się na szerokości barków, obróć nadgarstek do przodu tak, aby dłoń była skierowana od ciebie. Będzie to twoja pozycja początkowa.",
+    "Powoli opuść hantel w dół do boku, wykonując wdech. Przez cały czas utrzymuj pełną kontrolę nad hantlem. Wskazówka: Użyj ręki, którą nie wykonujesz ćwiczenia, aby pomóc utrzymać równowagę hantla, ponieważ początkowo możesz mieć z tym trudności. Używaj ręki niećwiczącej tylko wtedy, gdy jest to konieczne. W przeciwnym razie trzymaj ją swobodnie z boku.",
+    "Wykonując wydech, wypchnij hantel w górę, używając mięśni piersiowych. Zablokuj ramię w pozycji skurczonej, ściśnij klatkę piersiową, przytrzymaj przez sekundę, a następnie zacznij powoli opuszczać hantel. Wskazówka: Faza opuszczania powinna trwać co najmniej dwukrotnie dłużej niż faza podnoszenia.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń zgodnie z programem treningowym.",
+    "Zmień ramię i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Einarmiges Kurzhantel-Bankdrücken",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank, mit einer Kurzhantel in einer Hand, die auf Ihrem Oberschenkel ruht.",
+    "Nutzen Sie Ihren Oberschenkel, um die Kurzhantel nach oben zu bringen und sie auf Schulterbreite vor sich zu halten. Verwenden Sie die nicht-trainierende Hand, um die Kurzhantel korrekt über sich zu positionieren.",
+    "Sobald die Kurzhantel auf Schulterbreite ist, drehen Sie Ihr Handgelenk nach vorne, sodass Ihre Handfläche von Ihnen weg zeigt. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Kurzhantel langsam zur Seite ab, während Sie einatmen. Behalten Sie jederzeit die volle Kontrolle über die Kurzhantel. Tipp: Verwenden Sie die nicht-trainierende Hand, um das Gleichgewicht der Kurzhantel zu halten, da Sie anfangs möglicherweise etwas Schwierigkeiten haben. Nutzen Sie die nicht-trainierende Hand nur bei Bedarf. Andernfalls lassen Sie sie seitlich ruhen.",
+    "Während Sie ausatmen, drücken Sie die Kurzhantel mit Ihren Musculi pectorales nach oben. Strecken Sie Ihre Arme in der kontrahierten Position, spannen Sie Ihre Brust an, halten Sie für eine Sekunde und beginnen Sie dann langsam mit dem Absenken. Tipp: Das Absenken sollte mindestens doppelt so lange dauern wie das Anheben.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen Ihres Trainingsprogramms.",
+    "Wechseln Sie die Arme und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "With a barbell on the floor close to the shins, take an overhand (or hook) grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+    "",
+    "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",
+    "Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.",
+    "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut",
+  "instructions_pl": [
+    "Sztanga leży na podłodze blisko goleni. Chwyć sztangę nachwytem (lub chwytem zamkowym) nieco szerzej niż szerokość nóg. Opuść biodra, koncentrując ciężar na piętach, plecy proste, głowa skierowana do przodu, klatka piersiowa uniesiona, barki lekko przed sztangą. To będzie Twoja pozycja wyjściowa.",
+    "",
+    "Rozpocznij pierwsze podciągnięcie, napierając piętami i prostując kolana. Kąt nachylenia tułowia powinien pozostać niezmieniony, a ramiona powinny pozostać proste. Przesuwaj ciężar z kontrolą, kontynuując ruch do wysokości powyżej kolan.",
+    "Następnie następuje drugie podciągnięcie, główne źródło przyspieszenia dla zarzutu. Gdy sztanga zbliża się do połowy uda, rozpocznij wyprost w stawach biodrowych. W ruchu przypominającym skok, przyspiesz, prostując biodra, kolana i stawy skokowe, wykorzystując szybkość do uniesienia sztangi w górę. Nie ma potrzeby aktywnego ciągnięcia ramionami, aby przyspieszyć ciężar; pod koniec drugiego podciągnięcia ciało powinno być w pełni wyprostowane, lekko odchylone do tyłu, z ramionami nadal wyprostowanymi.",
+    "Po osiągnięciu pełnego wyprostu, przejdź do trzeciego podciągnięcia przez energiczne uniesienie barków (szrugs) i zgięcie ramion z łokciami skierowanymi w górę i na zewnątrz. W szczytowym momencie wyprostu, energicznie wciągnij się pod sztangę, obracając łokcie pod sztangę. Przyjmij sztangę w pozycji przysiadu przedniego, którego głębokość zależy od wysokości sztangi pod koniec trzeciego podciągnięcia. Sztanga powinna spoczywać na wysuniętych barkach, lekko dotykając gardła, z rozluźnionymi dłońmi. Kontynuuj schodzenie do najniższej pozycji przysiadu, co pomoże w fazie wstawania.",
+    "Natychmiast wstań, napierając piętami, utrzymując tułów wyprostowany i łokcie uniesione. Kontynuuj, aż osiągniesz pozycję stojącą."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Umsetzen",
+  "instructions_de": [
+    "Stellen Sie eine Langhantel auf dem Boden nah an Ihren Schienbeinen ab. Fassen Sie die Stange im Obergriff (oder Haken-Griff) etwas außerhalb Ihrer Beine. Senken Sie Ihre Hüften, wobei das Gewicht auf den Fersen liegt, der Rücken gerade ist, der Kopf nach vorne blickt, die Brust erhoben ist und Ihre Schultern leicht vor der Stange positioniert sind. Dies ist Ihre Ausgangsposition.",
+    "",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und die Knie strecken. Ihr Rückenwinkel sollte gleich bleiben, und Ihre Arme sollten gestreckt bleiben. Bewegen Sie das Gewicht kontrolliert, bis es sich oberhalb der Knie befindet.",
+    "Als Nächstes folgt der zweite Zug, die Hauptquelle der Beschleunigung für das Umsetzen. Wenn die Stange die Mitte des Oberschenkels erreicht, beginnen Sie, sich aus den Hüften zu strecken. Beschleunigen Sie in einer Sprungbewegung, indem Sie Hüften, Knie und Sprunggelenke strecken und dabei Geschwindigkeit nutzen, um die Stange nach oben zu bewegen. Es sollte nicht notwendig sein, die Arme aktiv zu ziehen, um das Gewicht zu beschleunigen; am Ende des zweiten Zugs sollte der Körper vollständig gestreckt sein, leicht nach hinten gelehnt, mit immer noch gestreckten Armen.",
+    "Sobald die volle Streckung erreicht ist, gehen Sie in den dritten Zug über, indem Sie aggressiv die Schultern hochziehen und die Arme beugen, wobei die Ellbogen hoch und nach außen zeigen. Am Höhepunkt der Streckung ziehen Sie sich aggressiv nach unten und rotieren dabei Ihre Ellbogen unter die Stange. Fangen Sie die Stange in einer Frontkniebeugeposition ab, deren Tiefe von der Höhe der Stange am Ende des dritten Zugs abhängt. Die Stange sollte auf den protrahierten Schultern abgelegt werden, wobei sie leicht den Hals berührt und die Hände entspannt sind. Fahren Sie fort, in die unterste Kniebeugeposition abzusteigen, was die Erholung unterstützen wird.",
+    "Erholen Sie sich sofort, indem Sie sich durch die Fersen abdrücken, den Oberkörper aufrecht und die Ellbogen oben halten. Fahren Sie fort, bis Sie eine stehende Position erreicht haben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Unterarmmuskulatur",
+    "Musculus gluteus maximus",
+    "Musculus erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

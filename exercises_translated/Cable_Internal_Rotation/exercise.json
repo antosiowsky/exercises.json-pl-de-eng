@@ -1,0 +1,47 @@
+{
+  "name": "Cable Internal Rotation",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulley's height, you can use a flat bench to sit on instead.",
+    "Position the elbow against your side with the elbow bent at 90° and the arm pointing towards the pulley. This will be your starting position.",
+    "Pull the single hand cable attachment toward your body by internally rotating your shoulder until your forearm is across your abs. You will be creating an imaginary semi-circle. Tip: The forearm should be perpendicular to your torso at all times.",
+    "Slowly go back to the initial position.",
+    "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Rotacja wewnętrzna stawu ramiennego z wyciągiem",
+  "instructions_pl": [
+    "Usiądź bokiem do niskiego bloczka wyciągu (z nogami wyprostowanymi przed sobą lub skrzyżowanymi) i chwyć uchwyt jednoręczny wyciągu ręką znajdującą się najbliżej linki. Wskazówka: Jeśli możesz regulować wysokość bloczka, możesz zamiast tego usiąść na płaskiej ławce.",
+    "Ułóż łokieć przy boku tułowia, z łokciem zgiętym pod kątem 90° i przedramieniem skierowanym w stronę bloczka. Będzie to Twoja pozycja początkowa.",
+    "Przyciągnij uchwyt jednoręczny wyciągu do tułowia poprzez rotację wewnętrzną stawu ramiennego, aż przedramię znajdzie się w poprzek brzucha. Będziesz wykonywać ruch przypominający półokrąg. Wskazówka: Przedramię powinno być przez cały czas prostopadłe do tułowia.",
+    "Powoli wróć do pozycji początkowej.",
+    "Powtórz ćwiczenie zalecaną liczbę razy, a następnie powtórz ruch drugą ręką."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Innenrotation am Kabelzug",
+  "instructions_de": [
+    "Setzen Sie sich seitlich neben einen tiefen Kabelzug (mit ausgestreckten oder gekreuzten Beinen) und greifen Sie den Einzelgriff mit dem Arm, der dem Kabelzug am nächsten ist. Tipp: Wenn Sie die Höhe der Umlenkrolle einstellen können, können Sie stattdessen eine Flachbank zum Sitzen verwenden.",
+    "Positionieren Sie den Ellenbogen an Ihrer Seite, wobei das Ellenbogengelenk um 90° gebeugt ist und der Unterarm zum Kabelzug zeigt. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie den Einzelgriff zu Ihrem Körper, indem Sie Ihre Schulter innenrotieren, bis Ihr Unterarm quer über Ihren Bauch liegt. Sie beschreiben dabei einen imaginären Halbkreis. Tipp: Der Unterarm sollte jederzeit senkrecht zu Ihrem Rumpf stehen.",
+    "Kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen und führen Sie die Bewegung anschließend mit dem anderen Arm aus."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

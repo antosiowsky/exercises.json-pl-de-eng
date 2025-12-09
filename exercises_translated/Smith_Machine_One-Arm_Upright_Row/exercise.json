@@ -1,0 +1,56 @@
+{
+  "name": "Smith Machine One-Arm Upright Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "traps"
+  ],
+  "instructions": [
+    "With the bar at thigh level, load an appropriate weight.",
+    "Take a wide grip on the bar and unhook the weight, removing your off hand from the bar. Your arm should be extended as you stand up straight with your head and chest up. This will be your starting position.",
+    "Begin the movement by flexing the elbow, raising the upper arm with the elbow pointed out. Continue until your upper arm is parallel to the floor.",
+    "After a brief pause, return the weight to the starting position.",
+    "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Jednoramienne wiosłowanie w pionie na Maszynie Smitha",
+  "instructions_pl": [
+    "Ze sztangą na wysokości ud, załaduj odpowiedni ciężar.",
+    "Chwyć sztangę szeroko i odblokuj ciężar, zdejmując wolną rękę ze sztangi. Ramię powinno być wyprostowane, gdy stoisz prosto z głową i klatką piersiową uniesionymi. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, zginając staw łokciowy, unosząc ramię z łokciem skierowanym na zewnątrz. Kontynuuj, aż ramię będzie równoległe do podłogi.",
+    "Po krótkiej pauzie, wróć z ciężarem do pozycji początkowej.",
+    "Powtórz ćwiczenie dla żądanej liczby powtórzeń, zanim zablokujesz sztangę na hakach."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiges Aufrechtrudern an der Multipresse",
+  "instructions_de": [
+    "Platzieren Sie die Stange auf Oberschenkelhöhe und beladen Sie sie mit einem angemessenen Gewicht.",
+    "Fassen Sie die Stange weit und lösen Sie das Gewicht aus der Sicherung. Nehmen Sie die nicht-arbeitende Hand von der Stange. Der Arbeitsarm sollte gestreckt sein, während Sie aufrecht stehen, mit erhobenem Kopf und Brust. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie den Ellbogen beugen und den Oberarm anheben, wobei der Ellbogen nach außen zeigt. Führen Sie die Bewegung fort, bis Ihr Oberarm parallel zum Boden ist.",
+    "Nach einer kurzen Pause führen Sie das Gewicht in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die gewünschte Anzahl an Wiederholungen, bevor Sie die Sicherungshaken wieder einrasten, um das Gewicht abzulegen."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Trapezmuskel"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Smith Machine Close-Grip Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a flat bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the flat bench. Using a close and pronated grip (palms facing forward) that is around shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that as opposed to a regular bench press, you keep the elbows close to the torso at all times in order to maximize triceps involvement.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, lock the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie sztangi na maszynie Smitha wąskim chwytem",
+  "instructions_pl": [
+    "Ustaw płaską ławkę pod maszyną Smitha. Ustaw sztangę na wysokości, którą możesz dosięgnąć, leżąc na ławce, z ramionami niemal całkowicie wyprostowanymi. Po wybraniu odpowiedniego obciążenia, połóż się na płaskiej ławce. Używając wąskiego chwytu pronowanego (dłonie skierowane w stronę nóg), o szerokości zbliżonej do szerokości barków, odblokuj sztangę z blokad i trzymaj ją prosto nad sobą z zablokowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Wraz z wdechem, powoli opuść sztangę, aż poczujesz ją na środkowej części klatki piersiowej. Wskazówka: Upewnij się, że w przeciwieństwie do zwykłego wyciskania sztangi leżąc, przez cały czas utrzymujesz łokcie blisko tułowia, aby zmaksymalizować zaangażowanie mięśnia trójgłowego ramienia.",
+    "Po sekundowej pauzie, wraz z wydechem, wróć ze sztangą do pozycji początkowej, wypychając ją mięśniami trójgłowymi ramion. Zablokuj ramiona w pozycji skurczonej, przytrzymaj przez sekundę, a następnie ponownie zacznij powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Po zakończeniu, zablokuj sztangę z powrotem w stojaku."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy większy",
+    "mięsień naramienny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Enggriffiges Bankdrücken an der Smith-Maschine",
+  "instructions_de": [
+    "Stellen Sie eine Flachbank unter die Smith-Maschine. Positionieren Sie die Langhantel auf einer Höhe, die Sie im Liegen mit fast vollständig gestreckten Armen erreichen können. Nachdem Sie das gewünschte Gewicht ausgewählt haben, legen Sie sich auf die Flachbank. Fassen Sie die Stange mit einem engen und pronierten Griff (Handflächen zeigen nach vorne/unten), der etwa schulterbreit ist, entriegeln Sie die Stange aus der Ablage und halten Sie sie mit gestreckten Armen direkt über sich. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie ein und senken Sie die Stange langsam ab, bis Sie sie auf Ihrem mittleren Brustbereich spüren. Tipp: Achten Sie darauf, dass Sie im Gegensatz zum regulären Bankdrücken die Ellbogen stets eng am Rumpf halten, um die Beteiligung des Musculus triceps brachii zu maximieren.",
+    "Nach einer Sekunde Pause drücken Sie die Stange beim Ausatmen mit Ihren Musculi triceps brachii zurück in die Ausgangsposition. Strecken Sie die Arme in der kontrahierten Position vollständig durch, halten Sie für eine Sekunde und beginnen Sie dann erneut, langsam abzusenken. Tipp: Die Abwärtsbewegung sollte mindestens doppelt so lange dauern wie die Aufwärtsbewegung.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, verriegeln Sie die Stange wieder in der Ablage."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Krafttraining"
+}

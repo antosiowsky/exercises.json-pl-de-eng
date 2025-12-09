@@ -1,0 +1,53 @@
+{
+  "name": "Side Standing Long Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin standing with your feet hip width apart in an athletic stance. Your head and chest should be up, knees and hips slightly bent. This will be your starting position.",
+    "Leaning to your right, extend through your hips, knees, and ankles to jump into the air. Block with the arms to lead the movement, jumping as far to your right as you can.",
+    "Land facing the same direction with your feet hip width apart, absorbing the impact through your lower body."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Boczny skok w dal",
+  "instructions_pl": [
+    "Rozpocznij w pozycji stojącej ze stopami rozstawionymi na szerokość bioder, przyjmując postawę atletyczną. Głowa i klatka piersiowa powinny być uniesione, a kolana i biodra lekko ugięte. Będzie to Twoja pozycja wyjściowa.",
+    "Pochylając się w prawo, wyprostuj biodra, kolana i stawy skokowe, aby wyskoczyć w powietrze. Wykonaj zamach ramionami, aby zainicjować ruch, skacząc jak najdalej w prawo.",
+    "Wyląduj, zachowując ten sam kierunek, ze stopami rozstawionymi na szerokość bioder, amortyzując uderzenie dolną częścią ciała."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Seitlicher Weitsprung aus dem Stand",
+  "instructions_de": [
+    "Beginnen Sie im Stand mit hüftbreit auseinanderstehenden Füßen in einer athletischen Grundhaltung. Kopf und Brust sind aufrecht, Knie und Hüften leicht gebeugt. Dies ist Ihre Ausgangsposition.",
+    "Verlagern Sie Ihr Gewicht nach rechts und strecken Sie Hüften, Knie und Sprunggelenke explosiv, um in die Luft zu springen. Führen Sie die Bewegung mit den Armen an und springen Sie so weit wie möglich nach rechts.",
+    "Landen Sie in der gleichen Richtung blickend, mit hüftbreit auseinanderstehenden Füßen, und federn Sie den Aufprall mit dem Unterkörper ab."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

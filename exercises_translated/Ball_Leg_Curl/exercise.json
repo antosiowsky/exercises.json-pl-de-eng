@@ -1,0 +1,56 @@
+{
+  "name": "Ball Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Begin on the floor laying on your back with your feet on top of the ball.",
+    "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
+    "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
+    "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
+    "After a brief pause, return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Uginanie podudzi na piłce",
+  "instructions_pl": [
+    "Rozpocznij leżąc na plecach na podłodze, ze stopami opartymi na piłce.",
+    "Ustaw piłkę tak, aby przy wyprostowanych nogach Twoje kostki znajdowały się na piłce. Będzie to Twoja pozycja początkowa.",
+    "Unieś biodra z podłogi, utrzymując ciężar ciała na łopatkach i stopach.",
+    "Ugnij kolana, przyciągając piłkę jak najbliżej siebie, jednocześnie napinając mięśnie kulszowo-goleniowe.",
+    "Po krótkiej pauzie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie trójgłowe łydki",
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Beinbeugen am Ball",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken auf den Boden und platzieren Sie Ihre Füße auf dem Ball.",
+    "Positionieren Sie den Ball so, dass Ihre Knöchel auf dem Ball liegen, wenn Ihre Beine gestreckt sind. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie Ihre Hüften vom Boden an, während Sie das Gewicht auf den Schulterblättern und Füßen belassen.",
+    "Beugen Sie die Knie, ziehen Sie den Ball so nah wie möglich an sich heran und kontrahieren Sie dabei die Beinbeuger.",
+    "Nach einer kurzen Pause kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

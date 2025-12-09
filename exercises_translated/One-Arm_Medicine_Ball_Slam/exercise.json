@@ -1,0 +1,53 @@
+{
+  "name": "One-Arm Medicine Ball Slam",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start in a standing position with a staggered, athletic stance. Hold a medicine ball in one hand, on the same side as your back leg. This will be your starting position.",
+    "Begin by winding the arm, raising the medicine ball above your head. As you do so, extend through the hips, knees, and ankles to load up for the slam.",
+    "At peak extension, flex the shoulders, spine, and hips to throw the ball hard into the ground directly in front of you.",
+    "Catch the ball on the bounce and continue for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Uderzenie piłki lekarskiej jednorącz o ziemię",
+  "instructions_pl": [
+    "Rozpocznij w pozycji stojącej z nogami w lekkim wykroku, w postawie atletycznej. Trzymaj piłkę lekarską w jednej ręce, po tej samej stronie co noga zakroczna. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij od zamachu ramieniem, unosząc piłkę lekarską nad głowę. Jednocześnie wyprostuj biodra, kolana i stawy skokowe, aby zgromadzić siłę do uderzenia.",
+    "W szczytowym punkcie wyprostu ugnij barki, kręgosłup i biodra, aby mocno rzucić piłkę o ziemię bezpośrednio przed sobą.",
+    "Złap piłkę po odbiciu i kontynuuj przez żądaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięsień naramienny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmiger Medizinball-Slam",
+  "instructions_de": [
+    "Beginnen Sie in einer stehenden Position mit einem versetzten, athletischen Stand. Halten Sie einen Medizinball in einer Hand, auf der gleichen Seite wie Ihr hinteres Bein. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, den Arm aufzuziehen, indem Sie den Medizinball über Ihren Kopf heben. Dabei strecken Sie Hüften, Knie und Sprunggelenke, um sich für den Slam aufzuladen.",
+    "Am Höhepunkt der Streckung beugen Sie Schultern, Wirbelsäule und Hüften, um den Ball mit Kraft direkt vor sich auf den Boden zu werfen.",
+    "Fangen Sie den Ball nach dem Aufprall und fahren Sie mit der gewünschten Anzahl von Wiederholungen fort."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Deltamuskel"
+  ],
+  "category_de": "Kraft"
+}

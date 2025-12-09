@@ -1,0 +1,62 @@
+{
+  "name": "Machine Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Sit down on the Chest Press Machine and select the weight.",
+    "Step on the lever provided by the machine since it will help you to bring the handles forward so that you can grab the handles and fully extend the arms.",
+    "Grab the handles with a palms-down grip and lift your elbows so that your upper arms are parallel to the floor to the sides of your torso. Tip: Your forearms will be pointing forward since you are grabbing the handles. Once you bring the handles forward and extend the arms you will be at the starting position.",
+    "Now bring the handles back towards you as you breathe in.",
+    "Push the handles away from you as you flex your pecs and you breathe out. Hold the contraction for a second before going back to the starting position.",
+    "Repeat for the recommended amount of reps.",
+    "When finished step on the lever again and slowly get the handles back to their original place."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie klatki piersiowej na maszynie",
+  "instructions_pl": [
+    "Usiądź na maszynie do wyciskania klatki piersiowej i wybierz obciążenie.",
+    "Naciśnij dźwignię dostarczoną przez maszynę; pomoże ci to przesunąć uchwyty do przodu, abyś mógł je chwycić i w pełni wyprostować ramiona.",
+    "Chwyć uchwyty nachwytem (dłońmi skierowanymi w dół) i unieś łokcie tak, aby twoje ramiona były równoległe do podłogi, po bokach tułowia. Wskazówka: Przedramiona będą skierowane do przodu, ponieważ trzymasz uchwyty. Po przesunięciu uchwytów do przodu i wyprostowaniu ramion znajdziesz się w pozycji początkowej.",
+    "Teraz przyciągnij uchwyty z powrotem do siebie, wykonując wdech.",
+    "Odepchnij uchwyty od siebie, napinając mięśnie piersiowe i wykonując wydech. Przytrzymaj skurcz przez sekundę, zanim wrócisz do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Po zakończeniu ponownie naciśnij dźwignię i powoli odłóż uchwyty na ich pierwotne miejsce."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Maschinen-Brustpresse",
+  "instructions_de": [
+    "Setzen Sie sich auf die Brustpresse-Maschine und wählen Sie das Gewicht aus.",
+    "Betreten Sie den von der Maschine bereitgestellten Hebel, da dieser Ihnen hilft, die Griffe nach vorne zu bringen, damit Sie die Griffe greifen und die Arme vollständig ausstrecken können.",
+    "Greifen Sie die Griffe mit einem Obergriff (Handflächen nach unten) und heben Sie Ihre Ellbogen an, sodass Ihre Oberarme parallel zum Boden seitlich Ihres Rumpfes positioniert sind. Tipp: Ihre Unterarme zeigen nach vorne, da Sie die Griffe greifen. Sobald Sie die Griffe nach vorne gebracht und die Arme ausgestreckt haben, befinden Sie sich in der Ausgangsposition.",
+    "Ziehen Sie nun die Griffe beim Einatmen zu sich zurück.",
+    "Drücken Sie die Griffe von sich weg, während Sie Ihre Brustmuskulatur anspannen und ausatmen. Halten Sie die Kontraktion eine Sekunde lang, bevor Sie in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, treten Sie erneut auf den Hebel und führen Sie die Griffe langsam an ihren ursprünglichen Platz zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskel",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

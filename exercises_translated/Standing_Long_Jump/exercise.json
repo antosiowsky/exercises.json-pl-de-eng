@@ -1,0 +1,56 @@
+{
+  "name": "Standing Long Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
+    "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
+    "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
+    "Measure the distance from your landing point to the starting point and track results."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok w dal z miejsca",
+  "instructions_pl": [
+    "To ćwiczenie najlepiej wykonywać na piasku lub innej miękkiej nawierzchni do lądowania. Upewnij się, że jesteś w stanie zmierzyć odległość. Stań w pozycji częściowego przysiadu, ze stopami rozstawionymi na szerokość barków.",
+    "Wykorzystując obszerny zamach ramionami i przeciwruch nóg, skocz do przodu tak daleko, jak potrafisz.",
+    "Spróbuj wylądować ze stopami wysuniętymi przed siebie, wyciągając nogi jak najdalej.",
+    "Zmierz odległość od punktu lądowania do punktu startu i śledź wyniki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Standweitsprung",
+  "instructions_de": [
+    "Diese Übung wird am besten im Sand oder auf einer anderen weichen Landefläche ausgeführt. Stellen Sie sicher, dass Sie die Distanz messen können. Nehmen Sie eine leichte Kniebeugenhaltung ein, mit schulterbreit auseinanderstehenden Füßen.",
+    "Nutzen Sie einen kräftigen Armschwung und eine Gegenbewegung der Beine, um so weit wie möglich nach vorne zu springen.",
+    "Versuchen Sie, mit den Füßen weit vor dem Körper zu landen, indem Sie die Beine so weit wie möglich ausstrecken.",
+    "Messen Sie die Distanz von Ihrem Landepunkt zum Startpunkt und verfolgen Sie die Ergebnisse."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

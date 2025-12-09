@@ -1,0 +1,59 @@
+{
+  "name": "Bench Jump",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position.",
+    "Perform a short squat in preparation for the jump; swing your arms behind you.",
+    "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
+    "Jump over the bench, landing with the knees bent, absorbing the impact through the legs.",
+    "Turn around and face the opposite direction, then jump back over the bench."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok przez ławkę",
+  "instructions_pl": [
+    "Rozpocznij z ustawioną skrzynią lub ławką 1-2 stopy przed sobą. Stań ze stopami rozstawionymi na szerokość barków. Będzie to Twoja pozycja początkowa.",
+    "Wykonaj płytki przysiad w przygotowaniu do skoku; zamachnij ramionami do tyłu.",
+    "Odbij się z tej pozycji, prostując biodra, kolana i stawy skokowe, aby wyskoczyć jak najwyżej. Zamachnij ramionami do przodu i w górę.",
+    "Przeskocz przez ławkę, lądując z ugiętymi kolanami, amortyzując uderzenie nogami.",
+    "Odwróć się i stań przodem w przeciwnym kierunku, a następnie przeskocz z powrotem przez ławkę."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie trójgłowe łydki",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Bank Sprung",
+  "instructions_de": [
+    "Beginne mit einer Box oder Bank, die 30-60 cm vor dir steht. Stelle dich schulterbreit hin. Dies ist deine Ausgangsposition.",
+    "Führe eine kurze Kniebeuge aus, um dich auf den Sprung vorzubereiten; schwinge dabei die Arme nach hinten.",
+    "Stoße dich aus dieser Position ab, strecke dabei Hüften, Knie und Sprunggelenke, um so hoch wie möglich zu springen. Schwinge die Arme nach vorne und oben.",
+    "Springe über die Bank und lande mit gebeugten Knien, wobei du den Aufprall mit den Beinen abfederst.",
+    "Drehe dich um und blicke in die entgegengesetzte Richtung, springe dann zurück über die Bank."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

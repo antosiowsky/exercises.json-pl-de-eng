@@ -1,0 +1,56 @@
+{
+  "name": "Otis-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Secure your feet and lay back on the floor. Your knees should be bent. Hold a weight with both hands to your chest. This will be your starting position.",
+    "Initiate the movement by flexing the hips and spine to raise your torso up from the ground.",
+    "As you move up, press the weight up so that it is above your head at the top of the movement.",
+    "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Otis-Up",
+  "instructions_pl": [
+    "Zabezpiecz stopy i połóż się na plecach na podłodze. Kolana powinny być ugięte. Trzymaj obciążenie obiema rękami przy klatce piersiowej. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, zginając się w stawach biodrowych i kręgosłupie, aby unieść tułów z podłoża.",
+    "W trakcie unoszenia się, wyciśnij obciążenie w górę tak, aby znajdowało się nad głową w szczytowym punkcie ruchu.",
+    "Opuść obciążenie z powrotem do klatki piersiowej, odwracając ruch spięcia brzucha, upewniając się, aby nie opuszczać się całkowicie na podłogę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Otis-Up",
+  "instructions_de": [
+    "Fixieren Sie Ihre Füße und legen Sie sich auf den Boden zurück. Ihre Knie sind dabei angewinkelt. Halten Sie ein Gewicht mit beiden Händen an Ihre Brust. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie Hüfte und Wirbelsäule beugen, um Ihren Oberkörper vom Boden aufzurichten.",
+    "Während Sie sich aufrichten, drücken Sie das Gewicht nach oben, sodass es sich am höchsten Punkt der Bewegung über Ihrem Kopf befindet.",
+    "Führen Sie das Gewicht zurück zur Brust, während Sie die Aufrichtebewegung umkehren, und achten Sie darauf, nicht vollständig auf den Boden zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

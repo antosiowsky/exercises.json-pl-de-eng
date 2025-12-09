@@ -1,0 +1,53 @@
+{
+  "name": "Close-Grip EZ-Bar Curl with Band",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Attach a band to each end of the bar. Take the bar, placing a foot on the middle of the band. Stand upright with a narrow, supinated grip on the EZ bar. The elbows should be close to the torso. This will be your starting position.",
+    "While keeping the upper arms in place, flex the elbows to execute the curl. Exhale as the weight is lifted.",
+    "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Uginanie ramion ze sztangą łamaną (EZ) chwytem wąskim z gumą oporową",
+  "instructions_pl": [
+    "Przymocuj gumę oporową do każdego końca sztangi. Chwyć sztangę, stawiając stopę na środku gumy oporowej. Stań prosto, trzymając sztangę łamaną (EZ) chwytem wąskim, supinowanym. Łokcie powinny znajdować się blisko tułowia. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, ugnij łokcie, aby wykonać uginanie. Wykonaj wydech podczas podnoszenia ciężaru.",
+    "Kontynuuj ruch, aż mięśnie dwugłowe ramion będą w pełni napięte, a sztanga znajdzie się na wysokości barków. Przytrzymaj pozycję maksymalnego napięcia przez sekundę i mocno ściśnij mięśnie dwugłowe ramion.",
+    "Powoli opuść sztangę do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Bizeps-Curl mit der EZ-Stange im engen Griff und Widerstandsband",
+  "instructions_de": [
+    "Befestigen Sie ein Widerstandsband an jedem Ende der Stange. Nehmen Sie die Stange und stellen Sie einen Fuß auf die Mitte des Bandes. Stellen Sie sich aufrecht hin mit einem engen, supinierten Griff an der EZ-Stange. Die Ellenbogen sollten nah am Oberkörper sein. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme fixiert und beugen Sie die Ellenbogen, um den Curl auszuführen. Atmen Sie aus, während das Gewicht gehoben wird.",
+    "Führen Sie die Bewegung fort, bis Ihr Musculus biceps brachii vollständig kontrahiert ist und die Stange sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde und spannen Sie den Musculus biceps brachii fest an.",
+    "Beginnen Sie langsam, die Stange in die Ausgangsposition zurückzuführen, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Leverage Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Load the pins to an appropriate weight. Position yourself directly between the handles.",
+    "Grasp the top handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up.",
+    "Drive through the floor with your heels, extending your hips and knees as you rise to a standing position. Keep your arms straight throughout the movement, finishing with your shoulders back. This will be your starting position.",
+    "Raise the weight by shrugging the shoulders towards your ears, moving straight up and down.",
+    "Pause at the top of the motion, and then return the weight to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Szrugsy na maszynie typu leverage",
+  "instructions_pl": [
+    "Załaduj odpowiednie obciążenie na bolce. Ustaw się bezpośrednio między uchwytami.",
+    "Chwyć górne uchwyty wygodnym chwytem, a następnie opuść biodra, biorąc wdech. Patrz przed siebie i trzymaj klatkę piersiową uniesioną.",
+    "Odepchnij się od podłogi piętami, prostując biodra i kolana, unosząc się do pozycji stojącej. Utrzymuj ramiona proste przez cały ruch, kończąc z barkami cofniętymi. To będzie Twoja pozycja początkowa.",
+    "Unieś ciężar, wzruszając barkami w kierunku uszu, poruszając się prosto w górę i w dół.",
+    "Zatrzymaj się na szczycie ruchu, a następnie wróć z ciężarem do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Hebel-Schulterheben",
+  "instructions_de": [
+    "Beladen Sie die Aufnahmestifte mit einem angemessenen Gewicht. Positionieren Sie sich direkt zwischen den Griffen.",
+    "Fassen Sie die oberen Griffe mit einem bequemen Griff und senken Sie dann Ihre Hüften, während Sie einatmen. Blicken Sie mit dem Kopf nach vorne und halten Sie den Brustkorb aufgerichtet.",
+    "Drücken Sie sich mit den Fersen vom Boden ab, strecken Sie dabei Hüften und Knie, während Sie in eine stehende Position aufsteigen. Halten Sie die Arme während der gesamten Bewegung gestreckt, mit zurückgezogenen Schultern. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie das Gewicht, indem Sie die Schultern in Richtung Ihrer Ohren hochziehen, wobei Sie sich geradlinig auf und ab bewegen.",
+    "Pausieren Sie am oberen Punkt der Bewegung und senken Sie dann das Gewicht in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

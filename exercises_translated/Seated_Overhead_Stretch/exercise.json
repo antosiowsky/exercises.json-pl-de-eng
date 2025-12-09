@@ -1,0 +1,44 @@
+{
+  "name": "Seated Overhead Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit up straight on an exercise mat.",
+    "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
+    "Place one hand on the floor beside you and your other hand behind your head.",
+    "Lift your elbow to the ceiling as you incline your torso to the other side. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie nad głową w siadzie",
+  "instructions_pl": [
+    "Usiądź prosto na macie do ćwiczeń.",
+    "Złącz podeszwy stóp, umieszczając stopy od sześciu do ośmiu cali przed biodrami.",
+    "Połóż jedną dłoń na podłodze obok siebie, a drugą dłoń za głową.",
+    "Unieś łokieć w kierunku sufitu, jednocześnie pochylając tułów na drugą stronę. Przytrzymaj przez 10 do 20 sekund, następnie zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Sitzende Überkopfdehnung",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf eine Gymnastikmatte.",
+    "Führen Sie die Fußsohlen zusammen, wobei sich Ihre Füße sechs bis acht Zoll vor Ihren Hüften befinden.",
+    "Legen Sie eine Hand neben sich auf den Boden und die andere Hand hinter Ihren Kopf.",
+    "Heben Sie Ihren Ellbogen zur Decke, während Sie Ihren Oberkörper zur anderen Seite neigen. Halten Sie diese Position für 10 bis 20 Sekunden und wechseln Sie dann die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

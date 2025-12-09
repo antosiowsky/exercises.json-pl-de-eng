@@ -1,0 +1,50 @@
+{
+  "name": "Standing Hip Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Begin standing on one leg, holding to a vertical support.",
+    "Raise the unsupported knee to 90 degrees. This will be your starting position.",
+    "Open the hip as far as possible, attempting to make a big circle with your knee.",
+    "Perform this movement slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Odwodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Abduktoren"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Krążenia bioder w pozycji stojącej",
+  "instructions_pl": [
+    "Rozpocznij, stojąc na jednej nodze i trzymając się pionowego podparcia.",
+    "Unieś kolano nogi niepodpartej do 90 stopni. Będzie to Twoja pozycja wyjściowa.",
+    "Otwórz biodro tak szeroko, jak to możliwe, starając się wykonać duże koło kolanem.",
+    "Wykonaj ten ruch powoli przez określoną liczbę powtórzeń i powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehendes Hüftkreisen",
+  "instructions_de": [
+    "Beginnen Sie im Einbeinstand und halten Sie sich an einer vertikalen Stütze fest.",
+    "Heben Sie das unbelastete Knie auf 90 Grad an. Dies ist Ihre Ausgangsposition.",
+    "Öffnen Sie die Hüfte so weit wie möglich und versuchen Sie dabei, mit Ihrem Knie einen großen Kreis zu beschreiben.",
+    "Führen Sie diese Bewegung langsam für eine bestimmte Anzahl von Wiederholungen aus und wiederholen Sie sie dann auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "category_de": "Dehnen"
+}

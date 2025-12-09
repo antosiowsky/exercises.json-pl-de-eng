@@ -1,0 +1,59 @@
+{
+  "name": "Cross Over - With Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Secure an exercise band around a stationary post.",
+    "While facing away from the post, grab the handles on both ends of the band and step forward enough to create tension on the band.",
+    "Raise your arms to the sides, parallel to the floor, perpendicular to your torso (your torso and the arms should resemble the letter \"T\") and with the palms facing forward. Have them extended with a slight bend at the elbows. This will be your starting position.",
+    "While keeping your arms straight, bring them across your chest in a semicircular motion to the front as you exhale and flex your pecs. Hold the contraction for a second.",
+    "Slowly return to the starting position as you inhale.",
+    "Perform for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Rozpiętki z taśmami oporowymi",
+  "instructions_pl": [
+    "Przymocuj taśmę oporową wokół stabilnego słupka.",
+    "Stojąc tyłem do słupka, chwyć uchwyty na obu końcach taśmy i zrób krok w przód, aby wytworzyć napięcie w taśmie.",
+    "Unieś ramiona na boki, równolegle do podłogi, prostopadle do tułowia (twój tułów i ramiona powinny tworzyć kształt litery „T”), z dłońmi skierowanymi do przodu. Trzymaj je wyprostowane z lekkim ugięciem w łokciach. Będzie to twoja pozycja wyjściowa.",
+    "Utrzymując ramiona proste, przenieś je przed klatkę piersiową ruchem półkolistym do przodu, wykonując wydech i napinając mięśnie piersiowe. Przytrzymaj skurcz przez sekundę.",
+    "Powoli wróć do pozycji wyjściowej, wykonując wdech.",
+    "Wykonaj zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Siłowe",
+  "name_de": "Crossover mit Bändern",
+  "instructions_de": [
+    "Befestigen Sie ein Übungsband um einen stabilen Pfosten.",
+    "Mit dem Rücken zum Pfosten stehend, fassen Sie die Griffe an beiden Enden des Bandes und treten Sie weit genug nach vorne, um Spannung auf das Band zu bringen.",
+    "Heben Sie Ihre Arme seitlich an, parallel zum Boden, senkrecht zu Ihrem Oberkörper (Ihr Oberkörper und die Arme sollten den Buchstaben „T“ bilden) und mit den Handflächen nach vorne gerichtet. Halten Sie sie gestreckt mit einer leichten Beugung in den Ellbogen. Dies ist Ihre Ausgangsposition.",
+    "Während Sie Ihre Arme gestreckt halten, führen Sie sie in einer halbkreisförmigen Bewegung vor Ihrer Brust zusammen, während Sie ausatmen und Ihre Brustmuskulatur anspannen. Halten Sie die Kontraktion für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Führen Sie die empfohlene Anzahl an Wiederholungen durch."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

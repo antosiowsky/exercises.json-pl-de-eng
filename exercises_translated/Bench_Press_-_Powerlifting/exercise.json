@@ -1,0 +1,59 @@
+{
+  "name": "Bench Press - Powerlifting",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
+    "However wide your grip, it should cover the ring on the bar. Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart.",
+    "Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.",
+    "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi leżąc - Trójbój siłowy",
+  "instructions_pl": [
+    "Rozpocznij od położenia się na ławce, jeśli to możliwe, umieść głowę za linią sztangi. Podwiń stopy pod siebie i wygnij plecy w łuk. Używając sztangi do podparcia ciężaru ciała, unieś barki z ławki i ściągnij je, ściskając łopatki razem. Użyj stóp, aby wbić mięśnie czworoboczne grzbietu w ławkę. Utrzymuj tę napiętą pozycję ciała przez cały ruch.",
+    "Niezależnie od szerokości chwytu, powinien on obejmować pierścień na sztandze. Wyciągnij sztangę ze stojaka bez protrakcji barków. Skup się na ściskaniu sztangi i próbie jej rozerwania.",
+    "Opuść sztangę do dolnej części klatki piersiowej lub górnej części brzucha. Sztanga, nadgarstek i łokieć powinny przez cały czas pozostawać w jednej linii.",
+    "Zatrzymaj ruch, gdy sztanga dotknie tułowia, a następnie wypchnij sztangę w górę z jak największą siłą. Łokcie powinny być schowane aż do pełnego wyprostu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy większy",
+    "mięśnie przedramion",
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Bankdrücken - Kraftdreikampf",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf die Bank legen, wobei Ihr Kopf, wenn möglich, über die Stange hinausragt. Ziehen Sie Ihre Füße unter sich und machen Sie ein Hohlkreuz. Nutzen Sie die Stange, um Ihr Gewicht zu stützen, heben Sie Ihre Schultern von der Bank ab und ziehen Sie sie zurück, indem Sie die Schulterblätter zusammenpressen. Nutzen Sie Ihre Füße, um Ihre Musculi trapezius in die Bank zu drücken. Behalten Sie diese straffe Körperposition während der gesamten Bewegung bei.",
+    "Unabhängig von Ihrer Griffbreite sollte Ihr Griff den Ring auf der Stange bedecken. Heben Sie die Stange aus dem Rack, ohne die Schultern zu protrahieren. Konzentrieren Sie sich darauf, die Stange fest zu umgreifen und zu versuchen, sie auseinanderzuziehen.",
+    "Senken Sie die Stange zu Ihrem unteren Brustbereich oder oberen Bauchbereich ab. Stange, Handgelenk und Ellbogen sollten jederzeit in einer Linie bleiben.",
+    "Pausieren Sie, wenn die Langhantel Ihren Rumpf berührt, und drücken Sie die Stange dann mit größtmöglicher Kraft nach oben. Die Ellbogen sollten bis zur vollständigen Streckung (Lockout) eng am Körper anliegen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculi antebrachii",
+    "Musculus latissimus dorsi",
+    "Musculi deltoidei"
+  ],
+  "category_de": "Kraftdreikampf"
+}

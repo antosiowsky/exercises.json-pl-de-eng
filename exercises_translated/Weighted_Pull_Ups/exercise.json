@@ -1,0 +1,53 @@
+{
+  "name": "Weighted Pull Ups",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Attach a weight to a dip belt and secure it around your waist. Grab the pull-up bar with the palms of your hands facing forward. For a medium grip, your hands should be spaced at shoulder width. Both arms should be extended in front of you holding the bar at the chosen grip.",
+    "You'll want to bring your torso back about 30 degrees while creating a curvature in your lower back and sticking your chest out. This will be your starting position.",
+    "Now, exhale and pull your torso up until your head is above your hands. Concentrate on squeezing yourshoulder blades back and down as you reach the top contracted position.",
+    "After a brief moment at the top contracted position, inhale and slowly lower your torso back to the starting position with your arms extended and your lats fully stretched."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Podciąganie na drążku z obciążeniem",
+  "instructions_pl": [
+    "Przymocuj obciążenie do pasa do dipów i zabezpiecz je wokół talii. Chwyć drążek do podciągania dłońmi skierowanymi do przodu. Dla średniego chwytu, dłonie powinny być rozstawione na szerokość barków. Obie ręce powinny być wyprostowane przed tobą, trzymając drążek wybranym chwytem.",
+    "Odchyl tułów do tyłu o około 30 stopni, tworząc łuk w dolnej części pleców i wypinając klatkę piersiową. Będzie to twoja pozycja początkowa.",
+    "Teraz, wykonaj wydech i podciągnij tułów w górę, aż twoja głowa znajdzie się powyżej dłoni. Skoncentruj się na ściąganiu łopatek w dół i do tyłu, gdy osiągniesz szczytową pozycję skurczu.",
+    "Po krótkiej chwili w szczytowej pozycji skurczu, wykonaj wdech i powoli opuść tułów z powrotem do pozycji początkowej, z wyprostowanymi ramionami i w pełni rozciągniętymi mięśniami najszerszymi grzbietu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Gewichtete Klimmzüge",
+  "instructions_de": [
+    "Befestigen Sie ein Gewicht an einem Gewichtsgürtel und sichern Sie ihn um Ihre Taille. Greifen Sie die Klimmzugstange mit nach vorne zeigenden Handflächen. Für einen mittleren Griff sollten Ihre Hände schulterbreit auseinanderliegen. Beide Arme sollten vor Ihnen ausgestreckt sein, während Sie die Stange im gewählten Griff halten.",
+    "Neigen Sie Ihren Oberkörper etwa 30 Grad nach hinten, wobei Sie eine leichte Krümmung im unteren Rücken erzeugen und die Brust herausstrecken. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie nun aus und ziehen Sie Ihren Oberkörper nach oben, bis Ihr Kopf über Ihren Händen ist. Konzentrieren Sie sich darauf, Ihre Schulterblätter nach hinten und unten zusammenzuziehen, während Sie die oberste, kontrahierte Position erreichen.",
+    "Nach einem kurzen Moment in der obersten, kontrahierten Position atmen Sie ein und senken Sie Ihren Oberkörper langsam zurück in die Ausgangsposition, mit ausgestreckten Armen und vollständig gedehntem Musculus latissimus dorsi."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

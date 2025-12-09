@@ -1,0 +1,53 @@
+{
+  "name": "Seated Dumbbell Palms-Up Wrist Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing two dumbbells on the floor in front of a flat bench.",
+    "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
+    "Use your arms to grab both of the dumbbells and bring them up so that your forearms are resting against your thighs with the palms of the hands facing up. Your wrists should be hanging over the edge of your thighs.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise. Tip: Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions.",
+    "When finished, simply lower the dumbbells to the floor."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie nadgarstków z hantlami podchwytem w pozycji siedzącej",
+  "instructions_pl": [
+    "Rozpocznij, kładąc dwie hantle na podłodze przed płaską ławką.",
+    "Usiądź na krawędzi płaskiej ławki, rozstawiając nogi na szerokość barków. Upewnij się, że stopy pozostają na podłodze.",
+    "Użyj ramion, aby chwycić obie hantle i unieś je tak, aby przedramiona opierały się o uda, a dłonie były skierowane ku górze. Nadgarstki powinny zwisać poza krawędź ud.",
+    "Rozpocznij, uginając nadgarstki w górę i wykonując wydech.",
+    "Powoli opuść nadgarstki z powrotem do pozycji początkowej, wykonując wdech. Upewnij się, że wykonujesz wdech podczas tej części ćwiczenia. Wskazówka: Przedramiona powinny pozostać nieruchome, ponieważ ruch nadgarstka jest jedynym ruchem wymaganym do wykonania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Po zakończeniu po prostu odłóż hantle na podłogę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Kurzhantel-Handgelenkbeugen mit supinierten Händen",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie zwei Kurzhanteln vor einer Flachbank auf den Boden legen.",
+    "Setzen Sie sich auf den Rand der Flachbank, die Beine etwa schulterbreit auseinander. Achten Sie darauf, die Füße auf dem Boden zu lassen.",
+    "Greifen Sie mit den Armen beide Kurzhanteln und heben Sie sie an, sodass Ihre Unterarme auf Ihren Oberschenkeln aufliegen, wobei die Handflächen nach oben zeigen. Ihre Handgelenke sollten über den Rand Ihrer Oberschenkel hängen.",
+    "Beginnen Sie, indem Sie Ihr Handgelenk nach oben beugen und dabei ausatmen.",
+    "Senken Sie Ihre Handgelenke langsam wieder in die Ausgangsposition ab, während Sie einatmen. Achten Sie darauf, während dieses Teils der Übung einzuatmen. Tipp: Ihre Unterarme sollten stationär bleiben, da nur das Handgelenk für die Ausführung dieser Übung bewegt werden muss.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl von Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Kurzhanteln einfach auf den Boden ab."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

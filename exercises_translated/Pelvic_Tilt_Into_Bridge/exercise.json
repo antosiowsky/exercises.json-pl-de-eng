@@ -1,0 +1,41 @@
+{
+  "name": "Pelvic Tilt Into Bridge",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down with your feet on the floor, heels directly under your knees.",
+    "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
+    "To go into a bridge, lift the entire spine except the neck."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Pochylenie miednicy z przejściem do mostka",
+  "instructions_pl": [
+    "Połóż się na plecach ze stopami na podłodze, pięty ustawiając bezpośrednio pod kolanami.",
+    "Unieś jedynie kość ogonową w kierunku sufitu, aby rozciągnąć odcinek lędźwiowy kręgosłupa. (Nie unoś jeszcze całego kręgosłupa.) Wciągnij brzuch.",
+    "Aby przejść do mostka, unieś cały kręgosłup, z wyjątkiem odcinka szyjnego."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Beckenkippung in die Brücke",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken, die Füße auf dem Boden und die Fersen direkt unter den Knien.",
+    "Heben Sie ausschließlich Ihr Steißbein in Richtung Decke, um Ihren unteren Rücken zu dehnen. (Heben Sie noch nicht die gesamte Wirbelsäule an.) Ziehen Sie den Bauch ein.",
+    "Um in die Brücke zu gehen, heben Sie die gesamte Wirbelsäule mit Ausnahme des Nackens an."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

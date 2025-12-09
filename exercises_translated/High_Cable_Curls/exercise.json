@@ -1,0 +1,44 @@
+{
+  "name": "High Cable Curls",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand between a couple of high pulleys and grab a handle in each arm. Position your upper arms in a way that they are parallel to the floor with the palms of your hands facing you. This will be your starting position.",
+    "Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.",
+    "Slowly bring back the arms to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie ramion z wyciągiem górnym",
+  "instructions_pl": [
+    "Stań między dwoma wysokimi wyciągami i chwyć rączkę w każdą dłoń. Ustaw ramiona tak, aby były równoległe do podłogi, z dłońmi skierowanymi do siebie. To będzie Twoja pozycja początkowa.",
+    "Ugnij rączki w kierunku siebie, aż znajdą się obok uszu. Upewnij się, że podczas tego ruchu napinasz biceps i wydychasz powietrze. Ramiona powinny pozostać nieruchome, a poruszać się powinny tylko przedramiona. Przytrzymaj przez sekundę w pozycji maksymalnego skurczu, ściskając biceps.",
+    "Powoli wróć ramionami do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Hohe Kabelzug-Curls",
+  "instructions_de": [
+    "Stellen Sie sich zwischen zwei hohe Kabelzüge und greifen Sie jeweils einen Griff mit jeder Hand. Positionieren Sie Ihre Oberarme parallel zum Boden, wobei Ihre Handflächen zu Ihnen zeigen. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie die Griffe zu sich heran, bis sie sich neben Ihren Ohren befinden. Achten Sie darauf, dabei Ihren Bizeps anzuspannen und auszuatmen. Die Oberarme sollten dabei unbewegt bleiben und nur die Unterarme sich bewegen. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Bizeps fest anspannen.",
+    "Führen Sie die Arme langsam zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

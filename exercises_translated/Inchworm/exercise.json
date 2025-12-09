@@ -1,0 +1,47 @@
+{
+  "name": "Inchworm",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
+    "Begin by walking your hands forward slowly, alternating your left and your right. As you do so, bend only at the hip, keeping your legs straight.",
+    "Keep going until your body is parallel to the ground in a pushup position.",
+    "Now, keep your hands in place and slowly take short steps with your feet, moving only a few inches at a time.",
+    "Continue walking until your feet are by hour hands, keeping your legs straight as you do so."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spacerujący mostek",
+  "instructions_pl": [
+    "Stań ze stopami blisko siebie. Utrzymując proste nogi, pochyl się i połóż dłonie na podłodze bezpośrednio przed sobą. Będzie to Twoja pozycja wyjściowa.",
+    "Zacznij powoli przesuwać dłonie do przodu, naprzemiennie lewą i prawą. Podczas tego ruchu zginaj się wyłącznie w stawie biodrowym, utrzymując proste nogi.",
+    "Kontynuuj, aż Twoje ciało znajdzie się równolegle do podłoża w pozycji do pompki.",
+    "Teraz, utrzymując dłonie w miejscu, powoli wykonuj krótkie kroki stopami, przesuwając się za każdym razem tylko o kilka centymetrów.",
+    "Kontynuuj marsz, aż Twoje stopy znajdą się przy dłoniach, utrzymując proste nogi."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Inchworm",
+  "instructions_de": [
+    "Stellen Sie sich mit eng zusammenstehenden Füßen hin. Halten Sie Ihre Beine gestreckt, beugen Sie sich nach unten und legen Sie Ihre Hände direkt vor sich auf den Boden. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, Ihre Hände langsam nach vorne zu bewegen, abwechselnd links und rechts. Beugen Sie dabei nur in der Hüfte und halten Sie Ihre Beine gestreckt.",
+    "Gehen Sie so lange weiter, bis Ihr Körper parallel zum Boden in einer Liegestützposition ist.",
+    "Halten Sie nun Ihre Hände an Ort und Stelle und machen Sie langsam kurze Schritte mit Ihren Füßen, wobei Sie sich jeweils nur wenige Zentimeter bewegen.",
+    "Gehen Sie weiter, bis Ihre Füße bei Ihren Händen sind, wobei Sie Ihre Beine dabei gestreckt halten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

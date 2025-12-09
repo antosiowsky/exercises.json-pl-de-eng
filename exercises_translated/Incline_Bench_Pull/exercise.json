@@ -1,0 +1,62 @@
+{
+  "name": "Incline Bench Pull",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand and lie face down on an incline bench that is set to an incline that is approximately 30 degrees.",
+    "Let the arms hang to your sides fully extended as they point to the floor.",
+    "Turn the wrists until your hands have a pronated (palms down) grip.",
+    "Now flare the elbows out. This will be your starting position.",
+    "As you breathe out, start to pull the dumbbells up as if you are doing a reverse bench press. You will do this by bending at the elbows and bringing the upper arms up as you let the forearms hang. Continue this motion until the upper arms are at the same level as your back. Tip: The elbows will come out to the side and your upper arms and torso should make the letter \"T\" at the top of the movement. Hold the contraction at the top for a second.",
+    "Slowly go back down to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie hantlami na ławce skośnej",
+  "instructions_pl": [
+    "Chwyć hantlę w każdą dłoń i połóż się twarzą w dół na ławce skośnej ustawionej pod kątem około 30 stopni.",
+    "Pozwól ramionom swobodnie zwisać po bokach, w pełni wyprostowanym, skierowanym w stronę podłogi.",
+    "Obróć nadgarstki, aż dłonie przyjmą uchwyt pronowany (kciuki do wewnątrz, dłonie skierowane w dół).",
+    "Teraz rozszerz łokcie na boki. Będzie to Twoja pozycja początkowa.",
+    "Wraz z wydechem, zacznij podciągać hantle w górę, jakbyś wykonywał odwrotne wyciskanie sztangi leżąc. Wykonasz to, zginając łokcie i unosząc ramiona, jednocześnie pozwalając przedramionom swobodnie zwisać. Kontynuuj ten ruch, aż ramiona znajdą się na tym samym poziomie co plecy. Wskazówka: Łokcie będą skierowane na boki, a Twoje ramiona i tułów powinny tworzyć literę „T” w szczytowej fazie ruchu. Przytrzymaj skurcz w górnej pozycji przez sekundę.",
+    "Powoli wróć do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Schrägbankzug",
+  "instructions_de": [
+    "Nimm in jede Hand eine Kurzhantel und lege dich bäuchlings auf eine Schrägbank, die auf einen Neigungswinkel von etwa 30 Grad eingestellt ist.",
+    "Lass die Arme vollständig gestreckt seitlich deines Körpers hängen, wobei sie zum Boden zeigen.",
+    "Drehe die Handgelenke, bis deine Hände einen Pronationsgriff (Handflächen nach unten) haben.",
+    "Spreize nun die Ellenbogen nach außen. Dies ist deine Ausgangsposition.",
+    "Während du ausatmest, beginne, die Kurzhanteln nach oben zu ziehen, als würdest du ein umgekehrtes Bankdrücken ausführen. Du tust dies, indem du die Ellenbogen beugst und die Oberarme nach oben führst, während du die Unterarme hängen lässt. Setze diese Bewegung fort, bis die Oberarme auf gleicher Höhe mit deinem Rücken sind. Tipp: Die Ellenbogen werden seitlich herausgeführt, und deine Oberarme und dein Rumpf sollten am oberen Punkt der Bewegung den Buchstaben „T“ bilden. Halte die Kontraktion am oberen Punkt für eine Sekunde.",
+    "Kehre langsam in die Ausgangsposition zurück, während du einatmest.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Stride Jump Crossover",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.",
+    "Repeat the movement, crossing back over to the other side."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok kroczny z przekroczeniem",
+  "instructions_pl": [
+    "Stań z boku skrzyni, umieszczając wewnętrzną stopę na jej wierzchu, blisko krawędzi.",
+    "Rozpocznij, wykonując zamach ramionami w górę i jednocześnie odpychając się nogą opartą na skrzyni, wykonaj jak najwyższy skok w górę. Staraj się unieść przeciwne kolano w górę.",
+    "Wyląduj w pozycji przeciwnej do początkowej, po przeciwnej stronie skrzyni. Stopa, która początkowo znajdowała się na skrzyni, będzie teraz na ziemi, a przeciwna stopa znajdzie się na skrzyni.",
+    "Powtórz ruch, przechodząc z powrotem na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Überkreuz-Schrittsprung",
+  "instructions_de": [
+    "Stellen Sie sich seitlich zu einer Box, wobei Ihr innerer Fuß auf der Box, nahe am Rand, platziert ist.",
+    "Beginnen Sie, indem Sie die Arme nach oben schwingen, während Sie sich mit dem auf der Box befindlichen Bein abstoßen und so hoch wie möglich nach oben springen. Versuchen Sie dabei, das gegenüberliegende Knie nach oben zu führen.",
+    "Landen Sie in der entgegengesetzten Ausgangsposition, auf der gegenüberliegenden Seite der Box. Der Fuß, der ursprünglich auf der Box war, befindet sich nun auf dem Boden, während der gegenüberliegende Fuß nun auf der Box platziert ist.",
+    "Wiederholen Sie die Bewegung, indem Sie zurück auf die andere Seite wechseln."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Ischiokrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

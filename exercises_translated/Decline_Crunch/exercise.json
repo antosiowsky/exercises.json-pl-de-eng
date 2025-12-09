@@ -1,0 +1,50 @@
+{
+  "name": "Decline Crunch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure your legs at the end of the decline bench and lie down.",
+    "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
+    "While pushing the small of your back down in the bench to better isolate your abdominal muscles, begin to roll your shoulders off it.",
+    "Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum.",
+    "After the one second contraction, begin to come down slowly again to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia brzucha na ławce skośnej",
+  "instructions_pl": [
+    "Zaczep nogi na końcu ławki skośnej i połóż się.",
+    "Następnie delikatnie ułóż dłonie po obu stronach głowy, trzymając łokcie skierowane do przodu. Wskazówka: Nie splataj palców za głową.",
+    "Dociskając odcinek lędźwiowy kręgosłupa do ławki, aby lepiej zaizolować mięśnie brzucha, zacznij unosić barki z ławki.",
+    "Kontynuuj mocne dociskanie odcinka lędźwiowego kręgosłupa, jednocześnie napinając mięśnie brzucha i wykonując wydech. Twoje barki powinny unieść się z ławki tylko o około dziesięć centymetrów, a odcinek lędźwiowy kręgosłupa powinien pozostać na ławce. W szczytowej fazie ruchu mocno napnij mięśnie brzucha i utrzymaj napięcie przez sekundę. Wskazówka: Skup się na powolnym, kontrolowanym ruchu – nie oszukuj się, używając pędu.",
+    "Po sekundzie napięcia zacznij powoli wracać do pozycji początkowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Negativbank-Crunch",
+  "instructions_de": [
+    "Fixieren Sie Ihre Beine am Ende der Negativbank und legen Sie sich hin.",
+    "Legen Sie nun Ihre Hände leicht an die Seiten Ihres Kopfes, wobei Sie Ihre Ellbogen eng halten. Tipp: Verschränken Sie Ihre Finger nicht hinter Ihrem Kopf.",
+    "Während Sie die Lendenwirbelsäule fest in die Bank drücken, um Ihre Bauchmuskulatur besser zu isolieren, beginnen Sie, Ihre Schultern von der Bank zu lösen.",
+    "Drücken Sie weiterhin so fest wie möglich mit der Lendenwirbelsäule nach unten, während Sie Ihre Bauchmuskeln anspannen und ausatmen. Ihre Schultern sollten sich nur etwa zehn Zentimeter (vier Zoll) von der Bank lösen, und Ihre Lendenwirbelsäule sollte auf der Bank bleiben. Am höchsten Punkt der Bewegung spannen Sie Ihre Bauchmuskeln fest an und halten die Kontraktion für eine Sekunde. Tipp: Konzentrieren Sie sich auf eine langsame, kontrollierte Bewegung – betrügen Sie sich nicht, indem Sie Schwung nutzen.",
+    "Nach der einsekündigen Kontraktion beginnen Sie, langsam wieder in die Ausgangsposition zurückzukehren, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

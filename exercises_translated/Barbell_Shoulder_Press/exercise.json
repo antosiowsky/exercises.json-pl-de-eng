@@ -1,0 +1,56 @@
+{
+  "name": "Barbell Shoulder Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Sit on a bench with back support in a squat rack. Position a barbell at a height that is just above your head. Grab the barbell with a pronated grip (palms facing forward).",
+    "Once you pick up the barbell with the correct grip width, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
+    "Lower the bar down to the shoulders slowly as you inhale.",
+    "Lift the bar back up to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi na barki",
+  "instructions_pl": [
+    "Usiądź na ławce z oparciem w stojaku do przysiadów. Ustaw sztangę na wysokości tuż nad głową. Chwyć sztangę nachwytem (dłonie skierowane do przodu).",
+    "Po zdjęciu sztangi z odpowiednią szerokością chwytu, unieś ją nad głowę, prostując ramiona. Następnie opuść ją do wysokości barków, lekko przed głową. To jest Twoja pozycja startowa.",
+    "Powoli opuść sztangę do barków, wykonując wdech.",
+    "Unieś sztangę z powrotem do pozycji startowej, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Schulterdrücken",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Bank mit Rückenlehne in einem Kniebeugenständer. Positionieren Sie eine Langhantel auf einer Höhe, die sich knapp über Ihrem Kopf befindet. Greifen Sie die Langhantel im Obergriff (Handflächen zeigen nach vorne).",
+    "Sobald Sie die Langhantel mit der korrekten Griffbreite aufgenommen haben, heben Sie die Stange über Ihren Kopf, indem Sie Ihre Arme strecken. Halten Sie die Stange etwa auf Schulterhöhe und leicht vor Ihrem Kopf. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Stange langsam bis zu den Schultern ab, während Sie einatmen.",
+    "Heben Sie die Stange beim Ausatmen wieder in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

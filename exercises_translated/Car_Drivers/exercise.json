@@ -1,0 +1,50 @@
+{
+  "name": "Car Drivers",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "While standing upright, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
+    "Initiate the movement by rotating the plate as far to one side as possible. Use the same type of movement you would use to turn a steering wheel to one side.",
+    "Reverse the motion, turning it all the way to the opposite side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Kierownice",
+  "instructions_pl": [
+    "Stojąc prosto, chwyć talerz sztangi obiema rękami na pozycjach godziny 3 i 9. Dłonie powinny być zwrócone do siebie, a ramiona wyprostowane przed tobą. Będzie to twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, obracając talerz jak najdalej w jedną stronę. Wykonaj ruch podobny do obracania kierownicy w jedną stronę.",
+    "Odwróć ruch, obracając talerz całkowicie w przeciwną stronę.",
+    "Powtórz przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona"
+  ],
+  "category_pl": "siła",
+  "name_de": "Autofahrer",
+  "instructions_de": [
+    "Im aufrechten Stand halten Sie eine Hantelscheibe mit beiden Händen in der 3-Uhr- und 9-Uhr-Position. Ihre Handflächen zeigen zueinander und Ihre Arme sind gerade nach vorne ausgestreckt. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie die Scheibe so weit wie möglich zu einer Seite drehen. Nutzen Sie dabei die gleiche Art von Bewegung, die Sie zum Drehen eines Lenkrads zu einer Seite verwenden würden.",
+    "Kehren Sie die Bewegung um und drehen Sie die Scheibe ganz zur entgegengesetzten Seite.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

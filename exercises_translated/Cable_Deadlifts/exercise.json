@@ -1,0 +1,59 @@
+{
+  "name": "Cable Deadlifts",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.",
+    "To begin, squat down be flexing your hips and knees until you can reach the handles.",
+    "After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.",
+    "After reaching a full standing position, Return to the starting position and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Martwy ciąg na wyciągu",
+  "instructions_pl": [
+    "Ustaw bloczki wyciągu w najniższej pozycji i wybierz odpowiednie obciążenie. Stań dokładnie pomiędzy kolumnami wyciągu.",
+    "Aby rozpocząć, przysiądź, zginając biodra i kolana, aż dosięgniesz uchwytów.",
+    "Po chwyceniu uchwytów, rozpocznij fazę wznoszenia. Pchnij piętami, wyprostuj biodra i kolana, utrzymując ręce swobodnie zwisające wzdłuż tułowia. Utrzymuj głowę i klatkę piersiową uniesione przez cały czas trwania ruchu.",
+    "Po osiągnięciu pełnej pozycji stojącej, wróć do pozycji początkowej i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kabelzug-Kreuzheben",
+  "instructions_de": [
+    "Stellen Sie die Kabelrollen auf die unterste Position der Türme ein und wählen Sie ein passendes Gewicht. Stellen Sie sich mittig zwischen die Kabeltürme.",
+    "Um zu beginnen, beugen Sie Hüften und Knie, bis Sie die Griffe erreichen können.",
+    "Nachdem Sie die Griffe gefasst haben, beginnen Sie mit der Aufwärtsbewegung. Drücken Sie sich durch die Fersen ab, strecken Sie Hüften und Knie, wobei Ihre Hände seitlich hängen bleiben. Halten Sie Kopf und Brust während der gesamten Bewegung oben.",
+    "Nachdem Sie eine vollständig aufrechte Position erreicht haben, kehren Sie in die Ausgangsposition zurück und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

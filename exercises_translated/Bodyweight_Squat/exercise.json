@@ -1,0 +1,50 @@
+{
+  "name": "Bodyweight Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your feet shoulder width apart. You can place your hands behind your head. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue down to full depth if you are able,and quickly reverse the motion until you return to the starting position. As you squat, keep your head and chest up and push your knees out."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Przysiad z masą własnego ciała",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków. Dłonie możesz spleść za głową. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, uginając kolana i biodra, jednocześnie cofając biodra do tyłu.",
+    "Kontynuuj ruch w dół do pełnej głębokości, jeśli jesteś w stanie, a następnie szybko odwróć ruch, wracając do pozycji wyjściowej. Podczas przysiadu, utrzymuj głowę i klatkę piersiową uniesione i wypychaj kolana na zewnątrz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Körpergewichts-Kniebeuge",
+  "instructions_de": [
+    "Stellen Sie sich mit schulterbreit auseinander stehenden Füßen hin. Sie können Ihre Hände hinter dem Kopf platzieren. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie Knie und Hüften beugen und die Hüften nach hinten schieben.",
+    "Gehen Sie, falls möglich, bis zur vollen Tiefe hinunter und kehren Sie die Bewegung zügig um, bis Sie die Ausgangsposition wieder erreichen. Halten Sie während der Kniebeuge Kopf und Brust aufrecht und drücken Sie die Knie nach außen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

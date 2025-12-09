@@ -1,0 +1,59 @@
+{
+  "name": "Kettlebell Hang Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Lower kettlebell to a hanging position between your legs while keeping the hamstrings loaded. Keep your head up at all times."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Zarzut odważnika kulowego z zwisu",
+  "instructions_pl": [
+    "Umieść odważnik kulowy między stopami. Aby przyjąć pozycję wyjściową, cofnij biodra i patrz prosto przed siebie.",
+    "Zarzucaj odważnik kulowy na barki, prostując nogi i biodra, jednocześnie unosząc odważnik kulowy w kierunku barku. Nadgarstek powinien obracać się w trakcie ruchu.",
+    "Opuść odważnik kulowy do pozycji zwisu między nogami, utrzymując napięcie w mięśniach dwugłowych uda. Przez cały czas utrzymuj głowę uniesioną."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "prostowniki grzbietu",
+    "mięśnie naramienne",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Kettlebell Umsetzen aus dem Hang",
+  "instructions_de": [
+    "Platziere die Kettlebell zwischen deinen Füßen. Um in die Ausgangsposition zu gelangen, schiebe dein Gesäß nach hinten und blicke geradeaus.",
+    "Setze die Kettlebell auf deine Schulter um. Dies geschieht durch Strecken von Beinen und Hüfte, während du die Kettlebell in Richtung deiner Schulter hebst. Dabei sollte sich das Handgelenk drehen.",
+    "Senke die Kettlebell in eine hängende Position zwischen deinen Beinen ab, während die ischiocrurale Muskulatur unter Spannung bleibt. Halte deinen Kopf jederzeit oben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

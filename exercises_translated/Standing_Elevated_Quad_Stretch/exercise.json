@@ -1,0 +1,41 @@
+{
+  "name": "Standing Elevated Quad Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start by standing with your back about two to three feet away from a bench or step.",
+    "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",
+    "Keep your supporting knee slightly bent and avoid letting that knee extend out beyond your toes. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśnia czworogłowego uda w pozycji stojącej z podparciem stopy",
+  "instructions_pl": [
+    "Rozpocznij, stając plecami około dwóch do trzech stóp od ławki lub stopnia.",
+    "Unieś jedną nogę za siebie i oprzyj stopę na stopniu, albo na podbiciu, albo na śródstopiu, w sposób, który jest dla Ciebie najwygodniejszy.",
+    "Utrzymuj kolano nogi podporowej lekko ugięte i unikaj wysuwania tego kolana poza linię palców stóp. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehende erhöhte Quadrizepsdehnung",
+  "instructions_de": [
+    "Stellen Sie sich mit dem Rücken etwa zwei bis drei Fuß entfernt von einer Bank oder Stufe auf.",
+    "Heben Sie ein Bein nach hinten an und legen Sie Ihren Fuß auf die Stufe, entweder auf den Spann oder den Fußballen, je nachdem, was Sie am bequemsten finden.",
+    "Halten Sie Ihr Standbein-Knie leicht gebeugt und vermeiden Sie, dass dieses Knie über Ihre Zehen hinausragt. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

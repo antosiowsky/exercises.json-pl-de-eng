@@ -1,0 +1,62 @@
+{
+  "name": "Decline Close-Grip Bench To Skull Crusher",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+    "Using a close grip (a grip that is slightly less than shoulder width), lift the bar from the rack and hold it straight over you with your arms locked and elbows in. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack.",
+    "Now lower the bar down to your lower chest as you breathe in. Keep the elbows in as you perform this movement.",
+    "Using the triceps to push the bar back up, press it back to the starting position as you exhale.",
+    "As you breathe in and you keep the upper arms stationary, bring the bar down slowly by moving your forearms in a semicircular motion towards you until you feel the bar slightly touch your forehead. Breathe in as you perform this portion of the movement.",
+    "Lift the bar back to the starting position by contracting the triceps and exhaling.",
+    "Repeat steps 3-6 until the recommended amount of repetitions is performed."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi wąskim chwytem na ławce ze skosem ujemnym przechodzące w francuskie wyciskanie",
+  "instructions_pl": [
+    "Zabezpiecz nogi na końcu ławki ze skosem ujemnym i powoli połóż się na ławce.",
+    "Używając wąskiego chwytu (nieco węższego niż szerokość barków), zdejmij sztangę ze stojaka i trzymaj ją prosto nad sobą, z zablokowanymi ramionami i łokciami skierowanymi do wewnątrz. Ramiona powinny być prostopadłe do podłogi. Będzie to Twoja pozycja początkowa. Wskazówka: Aby chronić stożek rotatorów, najlepiej jest poprosić o pomoc asekuranta przy zdejmowaniu sztangi ze stojaka.",
+    "Teraz opuść sztangę do dolnej części klatki piersiowej, wykonując wdech. Utrzymuj łokcie skierowane do wewnątrz podczas wykonywania tego ruchu.",
+    "Używając mięśni trójgłowych ramienia do wypchnięcia sztangi w górę, wyciśnij ją z powrotem do pozycji początkowej, wykonując wydech.",
+    "Wykonując wdech i utrzymując ramiona nieruchomo, powoli opuść sztangę, poruszając przedramionami ruchem półkolistym w swoją stronę, aż poczujesz, że sztanga lekko dotyka czoła. Wykonaj wdech podczas tej części ruchu.",
+    "Podnieś sztangę z powrotem do pozycji początkowej, napinając mięśnie trójgłowe ramienia i wykonując wydech.",
+    "Powtarzaj kroki 3-6, aż do wykonania zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Negativbank-Enggriff-Bankdrücken übergehend in Stirndrücken",
+  "instructions_de": [
+    "Fixieren Sie Ihre Beine am Ende der Negativbank und legen Sie sich langsam auf die Bank.",
+    "Verwenden Sie einen engen Griff (etwas enger als Schulterbreite), heben Sie die Stange aus der Ablage und halten Sie sie mit gestreckten Armen und eng anliegenden Ellbogen gerade über sich. Die Arme sollten senkrecht zum Boden stehen. Dies ist Ihre Ausgangsposition. Tipp: Um Ihre Rotatorenmanschette zu schützen, ist es am besten, wenn ein Trainingspartner Ihnen hilft, die Langhantel aus der Ablage zu heben.",
+    "Senken Sie nun die Stange beim Einatmen zu Ihrer unteren Brust ab. Halten Sie die Ellbogen während dieser Bewegung eng am Körper.",
+    "Drücken Sie die Stange mit Hilfe des Musculus triceps brachii (Trizeps) wieder nach oben und drücken Sie sie beim Ausatmen zurück in die Ausgangsposition.",
+    "Während Sie einatmen und die Oberarme stationär halten, senken Sie die Stange langsam ab, indem Sie Ihre Unterarme in einer halbkreisförmigen Bewegung zu sich hin bewegen, bis Sie spüren, wie die Stange leicht Ihre Stirn berührt. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Heben Sie die Stange durch Kontraktion des Musculus triceps brachii (Trizeps) und Ausatmen zurück in die Ausgangsposition.",
+    "Wiederholen Sie die Schritte 3-6, bis die empfohlene Anzahl an Wiederholungen erreicht ist."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis (Brustmuskulatur)",
+    "Musculus deltoideus (Schultermuskulatur)"
+  ],
+  "category_de": "Krafttraining"
+}

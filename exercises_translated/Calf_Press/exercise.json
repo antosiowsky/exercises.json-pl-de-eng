@@ -1,0 +1,44 @@
+{
+  "name": "Calf Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
+    "Select an appropriate weight, and grasp the handles. This will be your starting position.",
+    "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
+    "After a brief pause, reverse the motion and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie łydek",
+  "instructions_pl": [
+    "Ustaw siedzisko tak, aby w pozycji początkowej nogi były tylko lekko ugięte. Śródstopia powinny stabilnie spoczywać na platformie.",
+    "Wybierz odpowiednie obciążenie i chwyć uchwyty. Będzie to Twoja pozycja początkowa.",
+    "Wyprostuj nogi, prostując kolana i jedynie minimalnie odrywając ciężar od stosu. W tej pozycji staw skokowy powinien być w pełnym zgięciu grzbietowym, a palce stóp skierowane w górę. Wykonaj ruch, naciskając w dół przez śródstopia tak daleko, jak to możliwe.",
+    "Po krótkiej pauzie odwróć ruch i powtórz."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Wadenpresse",
+  "instructions_de": [
+    "Stellen Sie den Sitz so ein, dass Ihre Beine in der Startposition nur leicht gebeugt sind. Die Fußballen sollten fest auf der Plattform aufliegen.",
+    "Wählen Sie ein passendes Gewicht und fassen Sie die Griffe. Dies ist Ihre Startposition.",
+    "Strecken Sie die Beine durch Kniestreckung, heben Sie das Gewicht gerade so vom Stapel ab. Ihr Sprunggelenk sollte vollständig dorsalflektiert sein, die Zehen zeigen nach oben. Führen Sie die Bewegung aus, indem Sie mit den Fußballen so weit wie möglich nach unten drücken.",
+    "Nach einer kurzen Pause kehren Sie die Bewegung um und wiederholen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

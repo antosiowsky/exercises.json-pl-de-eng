@@ -1,0 +1,47 @@
+{
+  "name": "Scissor Kick",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
+    "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",
+    "Now lift your left leg up to about a 45 degree angle while your right leg is lowered until the heel is about 2-3 inches from the ground.",
+    "Switch movements by raising your right leg up and lowering your left leg. Remember to breathe while performing this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Nożyce",
+  "instructions_pl": [
+    "Aby rozpocząć, połóż się na plecach, dociskając je do podłogi lub maty do ćwiczeń (opcjonalnie). Ramiona powinny być w pełni wyprostowane na boki, z dłońmi skierowanymi w dół. Uwaga: Ramiona powinny pozostać nieruchome przez cały czas trwania ćwiczenia.",
+    "Z lekko ugiętymi kolanami, unieś nogi tak, aby pięty znajdowały się około 15 cm nad ziemią. To jest pozycja wyjściowa.",
+    "Teraz unieś lewą nogę do kąta około 45 stopni, jednocześnie opuszczając prawą nogę, aż pięta znajdzie się około 5-7,5 cm od ziemi.",
+    "Zmień ruch, unosząc prawą nogę i opuszczając lewą nogę. Pamiętaj o oddychaniu podczas wykonywania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Rozciąganie",
+  "name_de": "Beinscheren",
+  "instructions_de": [
+    "Legen Sie sich zunächst mit dem Rücken fest auf den Boden oder auf eine Gymnastikmatte (optional). Ihre Arme sollten vollständig seitlich ausgestreckt sein, mit den Handflächen nach unten. Hinweis: Die Arme bleiben während der gesamten Übung unbeweglich.",
+    "Heben Sie mit leicht gebeugten Knien Ihre Beine an, sodass Ihre Fersen etwa 6 Zoll über dem Boden schweben. Dies ist die Ausgangsposition.",
+    "Heben Sie nun Ihr linkes Bein auf einen Winkel von etwa 45 Grad an, während Ihr rechtes Bein gesenkt wird, bis die Ferse etwa 2-3 Zoll über dem Boden schwebt.",
+    "Wechseln Sie die Bewegung, indem Sie Ihr rechtes Bein anheben und Ihr linkes Bein senken. Denken Sie daran, während dieser Übung zu atmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

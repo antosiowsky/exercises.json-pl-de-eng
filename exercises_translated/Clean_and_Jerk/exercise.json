@@ -1,0 +1,80 @@
+{
+  "name": "Clean and Jerk",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+    "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",
+    "Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.",
+    "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position.",
+    "The second phase is the jerk, which raises the weight overhead. Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible.",
+    "Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
+    "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be split, with one foot forward, and one foot back. Receive the bar with the arms locked out overhead. Return to a standing position."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie i Podrzut",
+  "instructions_pl": [
+    "Sztanga leży na podłodze blisko goleni. Chwyć ją nachwytem lub chwytem zamkowym (hakowym) tuż poza szerokością nóg. Opuść biodra, utrzymując ciężar ciała skupiony na piętach, plecy proste, głowę skierowaną do przodu, klatkę piersiową uniesioną, a barki lekko przed sztangą. To będzie Twoja pozycja startowa.",
+    "Rozpocznij pierwsze podciągnięcie, pchając się przez pięty i prostując kolana. Kąt nachylenia pleców powinien pozostać niezmieniony, a ramiona proste. Kontrolowanie przemieszczaj ciężar, aż znajdzie się powyżej kolan.",
+    "Następnie następuje drugie podciągnięcie, główne źródło przyspieszenia dla zarzutu. Gdy sztanga zbliża się do pozycji na wysokości środka uda, rozpocznij wyprost w stawach biodrowych. Ruchem przypominającym skok, przyspiesz, prostując biodra, kolana i stawy skokowe, wykorzystując prędkość do uniesienia sztangi w górę. Nie ma potrzeby aktywnego podciągania ramionami w celu przyspieszenia ciężaru; pod koniec drugiego podciągnięcia ciało powinno być w pełni wyprostowane, lekko odchylone do tyłu, z ramionami nadal wyprostowanymi.",
+    "Po osiągnięciu pełnego wyprostu, przejdź do trzeciego podciągnięcia, agresywnie wzruszając barkami i zginając ramiona, z łokciami skierowanymi w górę i na zewnątrz. W szczytowym punkcie wyprostu, agresywnie podciągnij się w dół, jednocześnie obracając łokcie pod sztangę. Przyjmij sztangę w pozycji przysiadu przedniego, którego głębokość zależy od wysokości sztangi na końcu trzeciego podciągnięcia. Sztanga powinna spoczywać na wysuniętych do przodu barkach, lekko dotykając gardła, z rozluźnionymi dłońmi. Kontynuuj zejście do dolnej pozycji przysiadu, co pomoże w odzyskaniu równowagi.",
+    "Natychmiast wyprostuj się, pchając się przez pięty, utrzymując tułów w pozycji pionowej i łokcie uniesione. Kontynuuj, aż osiągniesz pozycję stojącą.",
+    "Druga faza to podrzut, który unosi ciężar nad głowę. Stojąc ze sztangą opartą na przedniej części barków, rozpocznij od ugięcia. Stopy powinny być bezpośrednio pod biodrami; zegnij kolana, nie cofając bioder. Zejdź tylko nieznacznie w dół i zmień kierunek ruchu tak mocno, jak to możliwe.",
+    "Pchnij się przez pięty, generując jak największą prędkość i siłę, i upewnij się, że odsuniesz głowę, gdy sztanga opuszcza barki.",
+    "W tym momencie, gdy stopy odrywają się od podłogi, muszą zostać jak najszybciej ustawione w pozycji przyjęcia. W krótkiej chwili, gdy stopy nie naciskają aktywnie na platformę, wysiłek sportowca, aby pchnąć sztangę w górę, spowoduje jego obniżenie. Stopy powinny być rozstawione, jedna stopa z przodu, a druga z tyłu. Przyjmij sztangę z zablokowanymi ramionami nad głową. Wróć do pozycji stojącej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Umsetzen und Stoßen",
+  "instructions_de": [
+    "Stellen Sie sich mit einer Langhantel auf dem Boden, nah an den Schienbeinen, auf. Fassen Sie die Stange im Obergriff oder Haken-Griff (Hook Grip) etwas außerhalb der Beine. Senken Sie Ihre Hüften ab, wobei das Gewicht auf den Fersen liegt, der Rücken gerade ist, der Kopf nach vorne zeigt, die Brust erhoben ist und die Schultern sich leicht vor der Stange befinden. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und Ihre Knie strecken. Ihr Rückenwinkel sollte gleich bleiben und Ihre Arme sollten gestreckt bleiben. Bewegen Sie das Gewicht kontrolliert, bis es sich oberhalb der Knie befindet.",
+    "Als Nächstes folgt der zweite Zug, die Hauptquelle der Beschleunigung für das Umsetzen. Wenn sich die Stange der Mitte des Oberschenkels nähert, beginnen Sie, sich durch die Hüften zu strecken. Beschleunigen Sie in einer Sprungbewegung, indem Sie Hüften, Knie und Sprunggelenke strecken und dabei Geschwindigkeit nutzen, um die Stange nach oben zu bewegen. Es sollte nicht notwendig sein, aktiv mit den Armen zu ziehen, um das Gewicht zu beschleunigen; am Ende des zweiten Zugs sollte der Körper vollständig gestreckt sein, leicht nach hinten gelehnt, mit immer noch gestreckten Armen.",
+    "Sobald die volle Streckung erreicht ist, gehen Sie in den dritten Zug über, indem Sie aggressiv die Schultern hochziehen (shrug) und die Arme beugen, wobei die Ellbogen hoch und nach außen zeigen. Am Höhepunkt der Streckung ziehen Sie sich aggressiv nach unten und drehen dabei Ihre Ellbogen unter die Stange. Fangen Sie die Stange in einer Frontkniebeuge-Position ab, deren Tiefe von der Höhe der Stange am Ende des dritten Zugs abhängt. Die Stange sollte auf den protrahierten Schultern abgelegt werden, wobei sie leicht den Hals berührt und die Hände entspannt sind. Fahren Sie fort, in die unterste Kniebeugeposition abzusteigen, was die Erholung unterstützt.",
+    "Erholen Sie sich sofort, indem Sie sich durch die Fersen abdrücken, den Oberkörper aufrecht und die Ellbogen oben halten. Fahren Sie fort, bis Sie eine stehende Position erreicht haben.",
+    "Die zweite Phase ist der Stoß (Jerk), bei dem das Gewicht über Kopf gehoben wird. Stehen Sie mit dem Gewicht auf der Vorderseite der Schultern abgelegt und beginnen Sie mit dem Dip. Mit den Füßen direkt unter den Hüften beugen Sie die Knie, ohne die Hüften nach hinten zu bewegen. Gehen Sie nur leicht nach unten und kehren Sie die Bewegung so kraftvoll wie möglich um.",
+    "Drücken Sie sich durch die Fersen ab, um so viel Geschwindigkeit und Kraft wie möglich zu erzeugen, und achten Sie darauf, Ihren Kopf aus dem Weg zu bewegen, wenn die Stange die Schultern verlässt.",
+    "In diesem Moment, wenn die Füße den Boden verlassen, müssen die Füße so schnell wie möglich in die Empfangsposition gebracht werden. In dem kurzen Moment, in dem die Füße nicht aktiv gegen die Plattform drücken, wird die Anstrengung des Athleten, die Stange nach oben zu drücken, ihn nach unten treiben. Die Füße sollten gesplittet sein, mit einem Fuß vorne und einem Fuß hinten. Fangen Sie die Stange mit über Kopf ausgestreckten Armen ab. Kehren Sie in eine stehende Position zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

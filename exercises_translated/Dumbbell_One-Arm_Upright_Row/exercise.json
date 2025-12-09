@@ -1,0 +1,56 @@
+{
+  "name": "Dumbbell One-Arm Upright Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "traps"
+  ],
+  "instructions": [
+    "Grab a dumbbell and stand up straight with your arm extended in front of you with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be resting on top of your thigh with the palm of your hands facing your thighs.",
+    "Keep the other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface. This will be your starting position.",
+    "Use your side shoulders to lift the dumbbell as you exhale. The dumbbell should be close to the body as you move it up. Continue to lift it until the dumbbell is nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the dumbbell back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions and switch arms."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Podciąganie hantli jednorącz wzdłuż tułowia",
+  "instructions_pl": [
+    "Chwyć hantlę i stań prosto, z ramieniem wyciągniętym przed siebie, z lekkim ugięciem w łokciu i prostymi plecami. To będzie Twoja pozycja wyjściowa. Wskazówka: Hantla powinna spoczywać na udzie, a dłoń powinna być skierowana w stronę uda.",
+    "Drugą rękę możesz trzymać wyprostowaną z boku, przy pasie lub chwytając stabilną powierzchnię. To będzie Twoja pozycja wyjściowa.",
+    "Użyj bocznych aktonów mięśni naramiennych, aby unieść hantlę, wykonując wydech. Hantla powinna być blisko ciała podczas jej unoszenia. Kontynuuj unoszenie, aż hantla znajdzie się prawie na wysokości podbródka. Wskazówka: Ruch powinien być prowadzony przez łokieć. Podczas unoszenia hantli, łokieć powinien zawsze znajdować się wyżej niż przedramię. Ponadto, utrzymuj tułów nieruchomo i zatrzymaj ruch na sekundę w szczytowym punkcie.",
+    "Powoli opuść hantlę z powrotem do pozycji wyjściowej. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń i zmień ramię."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Einarmiges Kurzhantel-Aufrechtes Rudern",
+  "instructions_de": [
+    "Nehmen Sie eine Kurzhantel und stellen Sie sich aufrecht hin, den Arm mit einer leichten Beugung in den Ellenbogen vor dem Körper ausgestreckt und den Rücken gerade. Dies ist Ihre Ausgangsposition. Tipp: Die Kurzhantel sollte auf Ihrem Oberschenkel aufliegen, wobei die Handfläche zum Oberschenkel zeigt.",
+    "Die andere Hand kann seitlich vollständig ausgestreckt, an der Taille oder an einer festen Oberfläche abgestützt werden. Dies ist Ihre Ausgangsposition.",
+    "Nutzen Sie Ihre seitliche Schultermuskulatur, um die Kurzhantel beim Ausatmen anzuheben. Die Kurzhantel sollte beim Anheben nah am Körper geführt werden. Heben Sie sie weiter an, bis die Kurzhantel fast auf Höhe Ihres Kinns ist. Tipp: Ihre Ellenbogen sollten die Bewegung anführen. Beim Anheben der Kurzhantel sollte Ihr Ellenbogen immer höher sein als Ihr Unterarm. Halten Sie außerdem Ihren Rumpf stabil und halten Sie am oberen Punkt der Bewegung eine Sekunde inne.",
+    "Senken Sie die Kurzhantel langsam wieder in die Ausgangsposition ab. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen und wechseln Sie den Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus trapezius"
+  ],
+  "category_de": "Krafttraining"
+}

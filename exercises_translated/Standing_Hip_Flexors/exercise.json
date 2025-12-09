@@ -1,0 +1,38 @@
+{
+  "name": "Standing Hip Flexors",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up straight with the spine vertical, the left foot slightly in front of the right.",
+    "Bend both knees and lift the back heel off the floor as you press the right hip forward. You can't get a thorough, deep stretch in this position, however, because it's hard to relax the hip flexor and stand on it at the same time. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie zginaczy stawu biodrowego w pozycji stojącej",
+  "instructions_pl": [
+    "Stań prosto, z kręgosłupem w pozycji pionowej, lewa stopa lekko przed prawą.",
+    "Ugnij oba kolana i unieś piętę tylnej stopy z podłogi, jednocześnie wypychając prawe biodro do przodu. W tej pozycji nie uzyskasz jednak dokładnego, głębokiego rozciągnięcia, ponieważ trudno jest rozluźnić zginacz stawu biodrowego i jednocześnie utrzymać na nim ciężar ciała. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehende Hüftbeuger",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, mit vertikaler Wirbelsäule und dem linken Fuß leicht vor dem rechten.",
+    "Beugen Sie beide Knie und heben Sie die hintere Ferse vom Boden ab, während Sie die rechte Hüfte nach vorne drücken. In dieser Position ist jedoch keine gründliche, tiefe Dehnung möglich, da es schwierig ist, den Hüftbeuger gleichzeitig zu entspannen und darauf zu stehen. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

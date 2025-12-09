@@ -1,0 +1,38 @@
+{
+  "name": "Side Neck Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
+    "Assist stretch with a gentle pull on the side of the head."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Szyja"
+  ],
+  "primaryMuscles_de": [
+    "Nacken"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Boczne rozciąganie szyi",
+  "instructions_pl": [
+    "Rozpocznij z rozluźnionymi barkami, delikatnie przechyl głowę w kierunku barku.",
+    "Wspomóż rozciąganie, delikatnie pociągając za bok głowy."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Seitliche Nackendehnung",
+  "instructions_de": [
+    "Beginnen Sie mit entspannten Schultern und neigen Sie Ihren Kopf sanft in Richtung Ihrer Schulter.",
+    "Unterstützen Sie die Dehnung mit einem sanften Zug an der Seite des Kopfes."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

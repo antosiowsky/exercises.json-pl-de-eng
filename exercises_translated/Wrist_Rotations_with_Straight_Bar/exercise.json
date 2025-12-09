@@ -1,0 +1,41 @@
+{
+  "name": "Wrist Rotations with Straight Bar",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width. This will be your starting position.",
+    "Alternating between each of your hands, perform the movement by extending the wrist as though you were rolling up a newspaper. Continue alternating back and forth until failure.",
+    "Reverse the motion by flexing the wrist, rolling the opposite direction. Continue the alternating motion until failure."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rotacje nadgarstków ze sztangą prostą",
+  "instructions_pl": [
+    "Chwyć sztangę obiema rękami, z dłońmi skierowanymi w dół; rozstaw rąk na szerokość barków. Będzie to twoja pozycja wyjściowa.",
+    "Naprzemiennie, każdą ręką, wykonaj ruch, prostując nadgarstek, tak jakbyś zwijał gazetę. Kontynuuj naprzemiennie, aż do upadku mięśniowego.",
+    "Odwróć ruch, zginając nadgarstek i zwijając w przeciwnym kierunku. Kontynuuj naprzemienny ruch, aż do upadku mięśniowego."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Handgelenksrotationen mit Langhantelstange",
+  "instructions_de": [
+    "Halten Sie eine Langhantelstange mit beiden Händen im Obergriff, die Hände etwa schulterbreit auseinander. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie die Bewegung abwechselnd mit jeder Hand aus, indem Sie das Handgelenk strecken, als würden Sie eine Zeitung aufrollen. Fahren Sie mit dem abwechselnden Bewegen fort, bis zum Muskelversagen.",
+    "Kehren Sie die Bewegung um, indem Sie das Handgelenk beugen und in die entgegengesetzte Richtung rollen. Fahren Sie mit der abwechselnden Bewegung fort, bis zum Muskelversagen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

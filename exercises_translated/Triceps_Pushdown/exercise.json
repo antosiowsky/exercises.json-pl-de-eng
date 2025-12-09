@@ -1,0 +1,47 @@
+{
+  "name": "Triceps Pushdown",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
+    "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.",
+    "Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.",
+    "After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Prostowanie przedramion na wyciągu górnym",
+  "instructions_pl": [
+    "Przymocuj prosty lub łamany drążek do wyciągu górnego i chwyć go nachwytem (dłonie skierowane w dół) na szerokość barków.",
+    "Stojąc prosto z wyprostowanym tułowiem i bardzo niewielkim pochyleniem do przodu, przyciągnij ramiona blisko ciała i ustaw je prostopadle do podłogi. Przedramiona powinny być skierowane w górę, w stronę wyciągu, trzymając drążek. To jest Twoja pozycja początkowa.",
+    "Używając mięśni trójgłowych ramion (tricepsów), opuść drążek w dół, aż dotknie przodu Twoich ud, a ramiona będą w pełni wyprostowane, prostopadle do podłogi. Ramiona powinny zawsze pozostawać nieruchomo przy tułowiu, a poruszać się powinny tylko przedramiona. Wykonując ten ruch, zrób wydech.",
+    "Po sekundowej pauzie w pozycji maksymalnego skurczu, powoli podnieś drążek do pozycji początkowej. Wykonując ten krok, zrób wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Trizepsdrücken am Kabelzug",
+  "instructions_de": [
+    "Befestigen Sie eine gerade oder angewinkelte Stange an einem hohen Kabelzug und fassen Sie sie im Obergriff (Handflächen zeigen nach unten) schulterbreit.",
+    "Stellen Sie sich aufrecht hin, der Oberkörper ist gerade und leicht nach vorne geneigt. Führen Sie die Oberarme eng an den Körper und senkrecht zum Boden. Die Unterarme zeigen dabei mit der Stange nach oben zum Kabelzug. Dies ist Ihre Ausgangsposition.",
+    "Spannen Sie den Musculus triceps brachii an und drücken Sie die Stange nach unten, bis sie die Vorderseite Ihrer Oberschenkel berührt und die Arme vollständig senkrecht zum Boden gestreckt sind. Die Oberarme sollten dabei stets unbewegt am Oberkörper bleiben und nur die Unterarme bewegen sich. Atmen Sie während dieser Bewegung aus.",
+    "Halten Sie die kontrahierte Position für eine Sekunde und führen Sie die Stange langsam zurück zur Ausgangsposition. Atmen Sie während dieses Schrittes ein.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

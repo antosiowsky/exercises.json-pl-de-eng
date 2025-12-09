@@ -1,0 +1,50 @@
+{
+  "name": "Alternating Kettlebell Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
+    "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
+    "Lower the kettlebell in the working arm and repeat with your other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Naprzemienne Wiosłowanie Kettlebell",
+  "instructions_pl": [
+    "Umieść dwa kettlebelle przed stopami. Lekko ugnij kolana i wypchnij biodra maksymalnie do tyłu. Pochylając się do pozycji startowej, chwyć oba kettlebelle za uchwyty.",
+    "Unieś jeden kettlebell z podłogi, trzymając jednocześnie drugi kettlebell. Zretrakuj łopatkę po stronie pracującej, jednocześnie zginając staw łokciowy, przyciągając kettlebell w kierunku brzucha lub klatki piersiowej.",
+    "Opuść kettlebell w ramieniu pracującym i powtórz ćwiczenie drugą ręką."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Alternierendes Kettlebell-Rudern",
+  "instructions_de": [
+    "Platziere zwei Kettlebells vor deinen Füßen. Beuge deine Knie leicht und schiebe dein Gesäß so weit wie möglich nach hinten. Während du dich nach vorne beugst, um in die Startposition zu gelangen, greife beide Kettlebells an den Griffen.",
+    "Ziehe eine Kettlebell vom Boden hoch, während du die andere Kettlebell festhältst. Retrahiere die Scapula (Schulterblatt) der arbeitenden Seite, während du den Ellbogen beugst und die Kettlebell in Richtung deines Bauches oder Brustkorbs ziehst.",
+    "Senke die Kettlebell im arbeitenden Arm ab und wiederhole die Bewegung mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

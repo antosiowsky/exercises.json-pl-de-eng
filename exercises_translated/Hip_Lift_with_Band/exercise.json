@@ -1,0 +1,53 @@
+{
+  "name": "Hip Lift with Band",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn't have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won't move.",
+    "Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.",
+    "Keeping your shoulders on the ground, drive through your heels to raise your hips, pushing into the band as high as you can.",
+    "Pause at the top of the motion, and return to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Unoszenie bioder z gumą oporową",
+  "instructions_pl": [
+    "Po wybraniu odpowiedniej gumy oporowej, połóż się na środku stojaka, po zabezpieczeniu gumy po obu stronach. Jeśli Twój stojak nie posiada kołków, gumę można zabezpieczyć ciężkimi hantlami lub podobnymi przedmiotami, upewnij się tylko, że się nie przesuną.",
+    "Dostosuj swoją pozycję tak, aby guma znajdowała się bezpośrednio nad Twoimi biodrami. Ugnij kolana i postaw stopy płasko na podłodze. Dłonie mogą spoczywać na podłodze lub utrzymywać gumę w pozycji.",
+    "Utrzymując barki na podłodze, odepchnij się piętami, aby unieść biodra, naciskając na gumę tak wysoko, jak tylko potrafisz.",
+    "Zatrzymaj się w szczytowej fazie ruchu, a następnie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Hüftheben mit Band",
+  "instructions_de": [
+    "Nachdem Sie ein passendes Band gewählt haben, legen Sie sich in die Mitte des Racks, nachdem Sie das Band auf beiden Seiten von sich befestigt haben. Falls Ihr Rack keine Stifte hat, kann das Band mit schweren Kurzhanteln oder ähnlichen Gegenständen gesichert werden; stellen Sie einfach sicher, dass diese sich nicht bewegen.",
+    "Positionieren Sie sich so, dass das Band direkt über Ihren Hüften liegt. Beugen Sie Ihre Knie und stellen Sie Ihre Füße flach auf den Boden. Ihre Hände können auf dem Boden liegen oder das Band in Position halten.",
+    "Halten Sie Ihre Schultern auf dem Boden und drücken Sie sich durch die Fersen, um Ihre Hüften anzuheben, wobei Sie so hoch wie möglich gegen das Band drücken.",
+    "Halten Sie am höchsten Punkt der Bewegung inne und kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Ischiokrurale Muskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

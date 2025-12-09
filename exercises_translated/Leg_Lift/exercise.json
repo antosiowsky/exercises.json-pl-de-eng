@@ -1,0 +1,53 @@
+{
+  "name": "Leg Lift",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "While standing up straight with both feet next to each other at around shoulder width, grab a sturdy surface such as the sides of a squat rack or the top of a chair to brace yourself and keep balance.",
+    "With or without an ankle weight, lift one leg behind you as if performing a leg curl but standing up while keeping the other leg straight. Breathe out as you perform this movement.",
+    "Slowly bring the raised leg back to the floor as you breathe in.",
+    "Repeat for the recommended amount of repetitions.",
+    "Repeat the movement with the opposite leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wznos nogi w tył",
+  "instructions_pl": [
+    "Stojąc prosto, ze stopami ustawionymi obok siebie na szerokość barków, chwyć stabilną powierzchnię, taką jak boki stojaka do przysiadów lub oparcie krzesła, aby się ustabilizować i utrzymać równowagę.",
+    "Z obciążeniem na kostkę lub bez niego, unieś jedną nogę w tył, jakbyś wykonywał uginanie nóg, ale w pozycji stojącej, jednocześnie utrzymując drugą nogę prosto. Wykonując ten ruch, zrób wydech.",
+    "Powoli opuść uniesioną nogę z powrotem na podłogę, robiąc wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń.",
+    "Powtórz ruch drugą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Stehendes Beinheben nach hinten",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, die Füße etwa schulterbreit auseinander. Greifen Sie eine stabile Oberfläche, wie die Seiten eines Kniebeugenständers oder die Oberseite eines Stuhls, um sich abzustützen und das Gleichgewicht zu halten.",
+    "Mit oder ohne Fußgelenkgewicht heben Sie ein Bein nach hinten an, als ob Sie ein Beinbeugen im Stehen ausführen würden, während Sie das andere Bein gestreckt halten. Atmen Sie bei dieser Bewegung aus.",
+    "Führen Sie das angehobene Bein langsam zurück zum Boden, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wiederholen Sie die Bewegung mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Kraft"
+}

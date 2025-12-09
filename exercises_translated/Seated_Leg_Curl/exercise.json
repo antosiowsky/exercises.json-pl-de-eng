@@ -1,0 +1,47 @@
+{
+  "name": "Seated Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the machine lever to fit your height and sit on the machine with your back against the back support pad.",
+    "Place the back of lower leg on top of padded lever (just a few inches under the calves) and secure the lap pad against your thighs, just above the knees. Then grasp the side handles on the machine as you point your toes straight (or you can also use any of the other two stances) and ensure that the legs are fully straight right in front of you. This will be your starting position.",
+    "As you exhale, pull the machine lever as far as possible to the back of your thighs by flexing at the knees. Keep your torso stationary at all times. Hold the contracted position for a second.",
+    "Slowly return to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Siedzące uginanie nóg",
+  "instructions_pl": [
+    "Dostosuj dźwignię maszyny do swojego wzrostu i usiądź na maszynie, opierając plecy o poduszkę oparcia.",
+    "Umieść tylną część podudzia na wyściełanej dźwigni (kilka centymetrów poniżej mięśni łydek) i zabezpiecz poduszkę udową na udach, tuż nad kolanami. Następnie chwyć boczne uchwyty maszyny, kierując palce stóp prosto (lub możesz również zastosować jedną z dwóch pozostałych pozycji stóp) i upewnij się, że nogi są całkowicie wyprostowane przed tobą. Będzie to twoja pozycja początkowa.",
+    "Podczas wydechu przyciągnij dźwignię maszyny jak najdalej do tylnej części ud, poprzez zgięcie w stawach kolanowych. Utrzymuj tułów nieruchomo przez cały czas. Przytrzymaj pozycję skurczoną przez sekundę.",
+    "Powoli wróć do pozycji początkowej podczas wdechu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Beinbeugen",
+  "instructions_de": [
+    "Stellen Sie den Hebel der Maschine auf Ihre Körpergröße ein und setzen Sie sich mit dem Rücken an das Rückenpolster der Maschine.",
+    "Legen Sie die Rückseite Ihrer Unterschenkel auf das gepolsterte Hebelpolster (wenige Zentimeter unterhalb der Waden) und fixieren Sie das Oberschenkelpolster gegen Ihre Oberschenkel, knapp oberhalb der Knie. Greifen Sie dann die seitlichen Griffe der Maschine, während Sie Ihre Zehen gerade nach vorne strecken (oder Sie können auch eine der beiden anderen Fußstellungen verwenden), und stellen Sie sicher, dass Ihre Beine vollständig gestreckt direkt vor Ihnen sind. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen ziehen Sie den Hebel der Maschine so weit wie möglich zur Rückseite Ihrer Oberschenkel, indem Sie die Knie beugen. Halten Sie Ihren Oberkörper jederzeit stabil. Halten Sie die kontrahierte Position für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

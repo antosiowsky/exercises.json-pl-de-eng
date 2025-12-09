@@ -1,0 +1,44 @@
+{
+  "name": "Lying High Bench Barbell Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face forward on a tall flat bench while holding a barbell with a supinated grip (palms facing up). Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles. Your upper body should be positioned in a way that the upper chest is over the end of the bench and the barbell is hanging in front of you with the arms extended and perpendicular to the floor. This will be your starting position.",
+    "While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.",
+    "As you inhale, slowly go back to the starting position. Tip: Maintain full control of the weight at all times and avoid any swinging. Remember, only the forearms should move throughout the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie ramion ze sztangą leżąc przodem na wysokiej ławce",
+  "instructions_pl": [
+    "Połóż się przodem na wysokiej, płaskiej ławce, trzymając sztangę chwytem supinacyjnym (dłonie skierowane do góry). Wskazówka: Jeśli używasz sztangi prostej, chwyć ją na szerokość barków, a jeśli używasz gryfu łamanego (EZ), chwyć go za wewnętrzne uchwyty. Górna część tułowia powinna być ułożona tak, aby górna część klatki piersiowej znajdowała się poza końcem ławki, a sztanga zwisała przed tobą z wyprostowanymi ramionami, prostopadle do podłogi. To będzie twoja pozycja początkowa.",
+    "Trzymając łokcie blisko tułowia i ramiona nieruchomo, uginaj ciężar w górę półkolistym ruchem, jednocześnie napinając mięśnie dwugłowe ramion i wykonując wydech. Przytrzymaj w szczytowym punkcie ruchu przez sekundę.",
+    "Wraz z wdechem, powoli wróć do pozycji początkowej. Wskazówka: Przez cały czas utrzymuj pełną kontrolę nad ciężarem i unikaj kołysania. Pamiętaj, że tylko przedramiona powinny poruszać się podczas całego ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Liegendes Langhantel-Bizepscurl auf der hohen Flachbank",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf eine hohe Flachbank, während Sie eine Langhantel im Supinationsgriff (Handflächen zeigen nach oben) halten. Tipp: Wenn Sie eine Langhantel verwenden, greifen Sie diese schulterbreit, und wenn Sie eine SZ-Stange verwenden, greifen Sie diese an den inneren Griffen. Ihr Oberkörper sollte so positioniert sein, dass der obere Brustbereich über das Ende der Bank hinausragt und die Langhantel mit ausgestreckten Armen senkrecht zum Boden vor Ihnen hängt. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Ellbogen eng am Körper und die Oberarme unbewegt, während Sie das Gewicht in einer halbkreisförmigen Bewegung nach oben beugen, den Musculus biceps brachii kontrahieren und ausatmen. Halten Sie die Position am oberen Punkt der Bewegung für eine Sekunde.",
+    "Während Sie einatmen, kehren Sie langsam in die Ausgangsposition zurück. Tipp: Behalten Sie jederzeit die volle Kontrolle über das Gewicht und vermeiden Sie jegliches Schwingen. Denken Sie daran, dass sich während der gesamten Bewegung nur die Unterarme bewegen sollten.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

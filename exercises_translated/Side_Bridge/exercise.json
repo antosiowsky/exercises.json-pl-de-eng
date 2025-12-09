@@ -1,0 +1,35 @@
+{
+  "name": "Side Bridge",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Mostek boczny",
+  "instructions_pl": [],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Seitliche Brücke",
+  "instructions_de": [],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

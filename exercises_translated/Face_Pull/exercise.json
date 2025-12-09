@@ -1,0 +1,41 @@
+{
+  "name": "Face Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Przyciąganie do twarzy",
+  "instructions_pl": [
+    "Stojąc przodem do wyciągu górnego z zamocowaną liną lub podwójnymi uchwytami, przyciągnij ciężar bezpośrednio do twarzy, rozszerzając dłonie podczas ruchu. Utrzymuj ramiona równolegle do podłoża."
+  ],
+  "secondaryMuscles_pl": [
+    "Środkowa część grzbietu"
+  ],
+  "category_pl": "Siłowe",
+  "name_de": "Face Pull",
+  "instructions_de": [
+    "Stellen Sie sich mit Blick zu einem hohen Kabelzug, an dem ein Seil oder Doppelgriffe befestigt sind. Ziehen Sie das Gewicht direkt zu Ihrem Gesicht, während Sie die Hände voneinander entfernen. Halten Sie Ihre Oberarme parallel zum Boden."
+  ],
+  "secondaryMuscles_de": [
+    "Mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

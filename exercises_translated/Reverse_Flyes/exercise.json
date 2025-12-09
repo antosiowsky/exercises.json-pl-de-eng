@@ -1,0 +1,50 @@
+{
+  "name": "Reverse Flyes",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down on an incline bench with the chest and stomach pressing against the incline. Have the dumbbells in each hand with the palms facing each other (neutral grip).",
+    "Extend the arms in front of you so that they are perpendicular to the angle of the bench. The legs should be stationary while applying pressure with the ball of your toes. This is the starting position.",
+    "Maintaining the slight bend of the elbows, move the weights out and away from each other (to the side) in an arc motion while exhaling. Tip: Try to squeeze your shoulder blades together to get the best results from this exercise.",
+    "The arms should be elevated until they are parallel to the floor.",
+    "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Odwrotne rozpiętki",
+  "instructions_pl": [
+    "Na początek, połóż się na ławce skośnej, tak aby klatka piersiowa i brzuch przylegały do skosu. Trzymaj hantle w każdej dłoni, z dłońmi skierowanymi do siebie (chwyt neutralny).",
+    "Wyprostuj ramiona przed sobą, tak aby były prostopadłe do kąta ławki. Nogi powinny być nieruchome, a ciężar ciała oparty na przedniej części stóp. To jest pozycja wyjściowa.",
+    "Utrzymując lekko ugięte łokcie, rozsuń ciężary na boki ruchem łukowym, wykonując wydech. Wskazówka: Staraj się ściskać łopatki razem, aby uzyskać najlepsze rezultaty z tego ćwiczenia.",
+    "Ramiona powinny być uniesione, aż znajdą się równolegle do podłogi.",
+    "Poczuj skurcz i powoli opuść ciężary z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Reverse Flyes",
+  "instructions_de": [
+    "Legen Sie sich zunächst auf eine Schrägbank, wobei Brust und Bauch gegen die Schräge gepresst sind. Halten Sie in jeder Hand eine Kurzhantel, die Handflächen zeigen zueinander (neutraler Griff).",
+    "Strecken Sie die Arme vor sich aus, sodass sie senkrecht zum Winkel der Bank stehen. Die Beine sollten unbewegt bleiben, während Sie mit dem Fußballen Druck ausüben. Dies ist die Ausgangsposition.",
+    "Behalten Sie die leichte Beugung in den Ellenbogen bei und bewegen Sie die Gewichte in einer Bogenbewegung nach außen und voneinander weg (zur Seite), während Sie ausatmen. Tipp: Versuchen Sie, Ihre Schulterblätter zusammenzuziehen, um die besten Ergebnisse aus dieser Übung zu erzielen.",
+    "Die Arme sollten so weit angehoben werden, bis sie parallel zum Boden sind.",
+    "Spüren Sie die Kontraktion und senken Sie die Gewichte langsam wieder in die Ausgangsposition ab, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

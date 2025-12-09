@@ -1,0 +1,56 @@
+{
+  "name": "Bent Over Barbell Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+    "Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.",
+    "Then inhale and slowly lower the barbell back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą w opadzie tułowia",
+  "instructions_pl": [
+    "Trzymając sztangę nachwytem (dłonie skierowane w dół), lekko ugnij kolana i pochyl tułów do przodu, zginając się w pasie, utrzymując proste plecy, aż tułów będzie niemal równoległy do podłogi. Wskazówka: Upewnij się, że głowa jest uniesiona. Sztanga powinna zwisać bezpośrednio przed tobą, gdy twoje ramiona zwisają prostopadle do podłogi i tułowia. To jest pozycja wyjściowa.",
+    "Teraz, utrzymując tułów nieruchomo, wykonaj wydech i podnieś sztangę do siebie. Trzymaj łokcie blisko ciała i używaj tylko przedramion do utrzymania ciężaru. W szczytowej pozycji spięcia, mocno ściśnij mięśnie pleców i przytrzymaj przez krótką chwilę.",
+    "Następnie wykonaj wdech i powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Vorgebeugtes Langhantelrudern",
+  "instructions_de": [
+    "Halten Sie eine Langhantel im Obergriff (Handflächen zeigen nach unten), beugen Sie Ihre Knie leicht und bringen Sie Ihren Oberkörper aus der Hüfte nach vorne, wobei der Rücken gerade bleibt, bis er nahezu parallel zum Boden ist. Tipp: Achten Sie darauf, den Kopf oben zu halten. Die Langhantel sollte direkt vor Ihnen hängen, während Ihre Arme senkrecht zum Boden und zu Ihrem Oberkörper hängen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie nun den Oberkörper stabil, atmen Sie aus und ziehen Sie die Langhantel zu sich hoch. Halten Sie die Ellbogen eng am Körper und nutzen Sie die Unterarme nur zum Halten des Gewichts. In der obersten, kontrahierten Position spannen Sie die Rückenmuskulatur an und halten diese kurz.",
+    "Atmen Sie dann ein und senken Sie die Langhantel langsam zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

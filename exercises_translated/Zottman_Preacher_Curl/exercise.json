@@ -1,0 +1,56 @@
+{
+  "name": "Zottman Preacher Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand and place your upper arms on top of the preacher bench or the incline bench. The dumbbells should be held at shoulder height and the elbows should be flexed. Hold the dumbbells with the palms of your hands facing down. This will be your starting position.",
+    "As you breathe in, slowly lower the dumbbells keeping the palms down until your upper arm is extended and your biceps are fully stretched.",
+    "Now rotate your wrists once you are at the bottom of the movement so that the palms of the hands are facing up.",
+    "As you exhale, use your biceps to curl the weights up until they are fully contracted and the dumbbells are at shoulder height. Again, remember that to ensure full contraction you need to bring that small finger higher than the thumb.",
+    "Squeeze the biceps hard for a second at the contracted position and rotate your wrists so that the palms are facing down again.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramion Zottmana na modlitewniku",
+  "instructions_pl": [
+    "Chwyć hantlę w każdą dłoń i umieść ramiona na ławce skośnej lub modlitewniku. Hantle powinny być trzymane na wysokości barków, a łokcie zgięte. Trzymaj hantle dłońmi skierowanymi w dół. To będzie Twoja pozycja początkowa.",
+    "Podczas wdechu powoli opuszczaj hantle, zachowując dłonie skierowane w dół, aż ramię będzie wyprostowane, a mięsień dwugłowy ramienia w pełni rozciągnięty.",
+    "Teraz obróć nadgarstki, gdy znajdziesz się w dolnej fazie ruchu, tak aby dłonie były skierowane w górę.",
+    "Podczas wydechu użyj mięśnia dwugłowego ramienia, aby unieść ciężary, aż do pełnego skurczu, a hantle znajdą się na wysokości barków. Pamiętaj, że aby zapewnić pełny skurcz, musisz unieść mały palec wyżej niż kciuk.",
+    "Mocno ściśnij mięsień dwugłowy ramienia na sekundę w pozycji skurczonej i obróć nadgarstki tak, aby dłonie ponownie były skierowane w dół.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Zottman Preacher Curl",
+  "instructions_de": [
+    "Nehmen Sie in jede Hand eine Kurzhantel und legen Sie Ihre Oberarme auf die Scottbank oder die Schrägbank. Die Kurzhanteln sollten sich auf Schulterhöhe befinden und die Ellenbogen sollten gebeugt sein. Halten Sie die Kurzhanteln mit den Handflächen nach unten gerichtet. Dies ist Ihre Ausgangsposition.",
+    "Während Sie einatmen, senken Sie die Kurzhanteln langsam ab, wobei die Handflächen nach unten zeigen, bis Ihr Oberarm gestreckt und Ihr Musculus biceps brachii vollständig gedehnt ist.",
+    "Drehen Sie nun Ihre Handgelenke, sobald Sie sich am unteren Punkt der Bewegung befinden, sodass die Handflächen nach oben zeigen.",
+    "Während Sie ausatmen, nutzen Sie Ihren Musculus biceps brachii, um die Gewichte nach oben zu curlen, bis dieser vollständig kontrahiert ist und sich die Kurzhanteln auf Schulterhöhe befinden. Denken Sie daran, dass Sie für eine vollständige Kontraktion den kleinen Finger höher als den Daumen bringen müssen.",
+    "Spannen Sie den Musculus biceps brachii in der kontrahierten Position eine Sekunde lang fest an und drehen Sie Ihre Handgelenke, sodass die Handflächen wieder nach unten zeigen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Muskulatur des Unterarms"
+  ],
+  "category_de": "Kraft"
+}

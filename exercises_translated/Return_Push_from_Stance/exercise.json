@@ -1,0 +1,56 @@
+{
+  "name": "Return Push from Stance",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "You will need a partner for this drill.",
+    "Begin in an athletic 2 or 3 point stance.",
+    "At the signal, move into a position to receive the pass from your partner.",
+    "Catch the medicine ball with both hands and immediately throw it back to your partner.",
+    "You can modify this drill by running different routes."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Wypchnięcie powrotne z pozycji",
+  "instructions_pl": [
+    "Do tego ćwiczenia będziesz potrzebować partnera.",
+    "Rozpocznij w sportowej pozycji dwu- lub trzypunktowej.",
+    "Na sygnał, przejdź do pozycji, aby odebrać podanie od partnera.",
+    "Złap piłkę lekarską obiema rękami i natychmiast odrzuć ją z powrotem do partnera.",
+    "Możesz zmodyfikować to ćwiczenie, biegając po różnych trasach."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Rückstoß aus der Startposition",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie einen Partner.",
+    "Beginnen Sie in einer athletischen Zwei- oder Drei-Punkt-Stellung.",
+    "Auf das Signal hin begeben Sie sich in eine Position, um den Pass von Ihrem Partner zu empfangen.",
+    "Fangen Sie den Medizinball mit beiden Händen und werfen Sie ihn sofort zu Ihrem Partner zurück.",
+    "Sie können diese Übung modifizieren, indem Sie verschiedene Laufwege absolvieren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

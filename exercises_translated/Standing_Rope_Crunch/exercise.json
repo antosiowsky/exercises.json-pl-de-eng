@@ -1,0 +1,44 @@
+{
+  "name": "Standing Rope Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope to a high pulley and select an appropriate weight.",
+    "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
+    "Perform the movement by flexing the spine, crunching the weight down as far as you can.",
+    "Hold the peak contraction for a moment before returning to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Spięcie brzucha stojąc z liną",
+  "instructions_pl": [
+    "Przymocuj linę do górnego wyciągu i wybierz odpowiednie obciążenie.",
+    "Stań tyłem do wieży wyciągu. Chwyć linę obiema rękami, przerzucając ją przez ramiona i trzymając przy górnej części klatki piersiowej. Będzie to Twoja pozycja początkowa.",
+    "Wykonaj ruch, zginając kręgosłup i wykonując spięcie tułowia w dół tak daleko, jak to możliwe.",
+    "Przytrzymaj maksymalne spięcie przez chwilę, a następnie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Stehende Seilzug-Crunches",
+  "instructions_de": [
+    "Befestigen Sie ein Seil an einem oberen Seilzug und wählen Sie ein passendes Gewicht.",
+    "Stellen Sie sich mit dem Rücken zum Kabelturm. Nehmen Sie das Seil mit beiden Händen über Ihre Schultern und halten Sie es an Ihre obere Brust. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie die Bewegung aus, indem Sie die Wirbelsäule beugen und den Oberkörper so weit wie möglich nach unten ziehen.",
+    "Halten Sie die maximale Kontraktion für einen Moment, bevor Sie kontrolliert in die Ausgangsposition zurückkehren."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

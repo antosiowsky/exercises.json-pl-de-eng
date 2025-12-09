@@ -1,0 +1,44 @@
+{
+  "name": "One-Arm Kettlebell Swings",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Jednoramienne wymachy kettlebell",
+  "instructions_pl": [],
+  "secondaryMuscles_pl": [
+    "mięśnie brzuchate łydki",
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmige Kettlebell Swings",
+  "instructions_de": [],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "untere Rückenmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

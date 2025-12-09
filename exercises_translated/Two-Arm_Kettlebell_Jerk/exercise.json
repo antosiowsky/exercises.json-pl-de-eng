@@ -1,0 +1,57 @@
+{
+  "name": "Two-Arm Kettlebell Jerk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. Squat down a few inches and reverse the motion rapidly driving both kettlebells overhead. Immediately after the initial push, squat down again and get under the kettlebells. Once the kettlebells are locked out, stand upright to complete the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Podrzut Kettlebell Oburącz",
+  "instructions_pl": [
+    "Zarzuć dwa kettlebelle na barki.",
+    "Wykonaj zarzut kettlebelli na barki, dynamicznie prostując nogi i biodra, jednocześnie zarzucając kettlebelle w kierunku barków.",
+    "W trakcie ruchu obróć nadgarstki tak, aby dłonie były skierowane do przodu.",
+    "Wykonaj lekki przysiad (kilka centymetrów) i dynamicznie odwróć ruch, wypychając oba kettlebelle nad głowę.",
+    "Natychmiast po początkowym wybiciu, ponownie wykonaj przysiad i wejdź pod kettlebelle.",
+    "Gdy kettlebelle zostaną zablokowane w pozycji nad głową (ramiona wyprostowane), wyprostuj się, aby zakończyć ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięsień czworogłowy uda",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Zweiarmiges Kettlebell-Ausstoßen",
+  "instructions_de": [
+    "Setze zwei Kettlebells auf deine Schultern um.",
+    "Führe das Umsetzen der Kettlebells auf deine Schultern aus, indem du Beine und Hüfte streckst, während du die Kettlebells zu deinen Schultern schwingst.",
+    "Rotiere dabei deine Handgelenke, sodass die Handflächen nach vorne zeigen.",
+    "Gehe einige Zentimeter in die Hocke und kehre die Bewegung schnell um, indem du beide Kettlebells über Kopf stößt.",
+    "Unmittelbar nach dem anfänglichen Stoß gehst du erneut in die Hocke und begibst dich unter die Kettlebells.",
+    "Sobald die Kettlebells über Kopf fixiert sind (Arme gestreckt), stehe aufrecht, um die Übung abzuschließen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

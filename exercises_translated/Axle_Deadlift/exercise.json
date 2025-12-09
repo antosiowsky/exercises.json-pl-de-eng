@@ -1,0 +1,65 @@
+{
+  "name": "Axle Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an over/under grip.",
+    "With your feet and your grip set, take a big breath and then lower your hips and flex the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
+    "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Martwy ciąg Axle",
+  "instructions_pl": [
+    "Podejdź do sztangi tak, aby znajdowała się na środku stóp. Stopy powinny być rozstawione na szerokość bioder. Ugnij się w biodrach, aby chwycić sztangę na szerokość barków, pozwalając łopatkom na protrakcję. Zazwyczaj stosuje się chwyt mieszany.",
+    "Po ustawieniu stóp i chwytu, weź głęboki wdech, a następnie obniż biodra i zegnij kolana, aż piszczele dotkną sztangi. Patrz przed siebie, trzymaj klatkę piersiową uniesioną i zachowaj naturalną krzywiznę kręgosłupa, a następnie zacznij pchać piętami w podłogę, aby unieść ciężar w górę.",
+    "Gdy sztanga minie kolana, agresywnie przyciągnij ją do siebie, ściągając łopatki razem, jednocześnie wypychając biodra do przodu w kierunku sztangi.",
+    "Opuść sztangę, uginając się w biodrach i prowadząc ją do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (część środkowa)",
+    "mięśnie czworogłowe uda",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Axle Kreuzheben",
+  "instructions_de": [
+    "Nähern Sie sich der Stange, sodass sie mittig über Ihren Füßen liegt. Ihre Füße sollten etwa hüftbreit auseinander stehen. Beugen Sie sich aus der Hüfte, um die Stange schulterbreit zu greifen, wobei Sie Ihre Schulterblätter protrahieren lassen. Typischerweise verwenden Sie einen Kreuzgriff.",
+    "Nachdem Ihre Füße und Ihr Griff positioniert sind, atmen Sie tief ein und senken Sie dann Ihre Hüften und beugen Sie die Knie, bis Ihre Schienbeine die Stange berühren. Halten Sie den Kopf nach vorne gerichtet, die Brust oben und den Rücken gewölbt, und beginnen Sie, sich durch die Fersen nach oben zu drücken, um das Gewicht anzuheben.",
+    "Nachdem die Stange die Knie passiert hat, ziehen Sie die Stange aggressiv nach hinten, indem Sie Ihre Schulterblätter retrahieren, während Sie Ihre Hüften nach vorne gegen die Stange drücken.",
+    "Senken Sie die Stange, indem Sie sich aus der Hüfte beugen und sie kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Mittlerer Rücken",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Strongman"
+}

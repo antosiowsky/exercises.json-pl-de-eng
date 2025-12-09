@@ -1,0 +1,50 @@
+{
+  "name": "Seated Barbell Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by sitting at the end of a flat bench with a barbell placed on top of your thighs. Your feet should be shoulder width apart from each other.",
+    "Grip the bar with your palms facing down and make sure your hands are wider than shoulder width apart from each other. Begin to lift the barbell up over your head until your arms are fully extended.",
+    "Now lower the barbell behind your head until it is resting along the base of your neck. This is the starting position.",
+    "While keeping your feet and head stationary, move your waist from side to side so that your oblique muscles feel the contraction. Only move from side to side as far as your waist will allow you to go. Stretching or moving too far can cause an injury to occur. Tip: Use a slow and controlled motion.",
+    "Remember to breathe out while twisting your body to the side and in when moving back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Skręty tułowia ze sztangą siedząc",
+  "instructions_pl": [
+    "Rozpocznij, siedząc na końcu płaskiej ławki ze sztangą umieszczoną na udach. Stopy powinny być rozstawione na szerokość barków.",
+    "Chwyć sztangę nachwytem (dłońmi skierowanymi w dół), upewniając się, że dłonie są rozstawione szerzej niż szerokość barków. Zacznij unosić sztangę nad głowę, aż ramiona będą w pełni wyprostowane.",
+    "Teraz opuść sztangę za głowę, aż oprze się u podstawy szyi. To jest pozycja wyjściowa.",
+    "Utrzymując stopy i głowę nieruchomo, przesuwaj tułów z boku na bok, tak aby mięśnie skośne brzucha odczuły skurcz. Skręcaj tułów tylko w zakresie, na jaki pozwala Twoja mobilność. Nadmierne rozciąganie lub zbyt daleki ruch może spowodować kontuzję. Wskazówka: Wykonuj ruch powoli i w sposób kontrolowany.",
+    "Pamiętaj, aby wydychać powietrze podczas skręcania tułowia na bok i wdychać, wracając do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzende Langhantelrotation",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf das Ende einer Flachbank setzen und eine Langhantel auf Ihren Oberschenkeln ablegen. Ihre Füße sollten schulterbreit auseinander stehen.",
+    "Fassen Sie die Stange mit den Handflächen nach unten und stellen Sie sicher, dass Ihre Hände weiter als schulterbreit auseinander sind. Beginnen Sie, die Langhantel über Ihren Kopf zu heben, bis Ihre Arme vollständig gestreckt sind.",
+    "Senken Sie nun die Langhantel hinter Ihren Kopf, bis sie am Nackenansatz aufliegt. Dies ist die Ausgangsposition.",
+    "Halten Sie Füße und Kopf stationär und bewegen Sie Ihre Taille von Seite zu Seite, sodass Ihre schrägen Bauchmuskeln die Kontraktion spüren. Bewegen Sie sich nur so weit von Seite zu Seite, wie es Ihre Taille zulässt. Übermäßiges Dehnen oder zu weites Bewegen kann zu Verletzungen führen. Tipp: Führen Sie die Bewegung langsam und kontrolliert aus.",
+    "Denken Sie daran, beim Drehen des Körpers zur Seite auszuatmen und beim Zurückkehren in die Ausgangsposition einzuatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

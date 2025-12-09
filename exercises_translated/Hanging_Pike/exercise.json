@@ -1,0 +1,47 @@
+{
+  "name": "Hanging Pike",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.",
+    "Now bend your knees at a 90 degree angle and bring the upper legs forward so that the calves are perpendicular to the floor while the thighs remain parallel to it. This will be your starting position.",
+    "Pull your legs up as you exhale until you almost touch your shins with the bar above you. Tip: Try to straighten your legs as much as possible while at the top.",
+    "Lower your legs as slowly as possible until you reach the starting position. Tip: Avoid swinging and using momentum at all times.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Zwis szczupakowy",
+  "instructions_pl": [
+    "Zawieś się na drążku do podciągania, trzymając złączone nogi i stopy, używając nachwytu (dłonie skierowane od siebie) nieco szerszego niż szerokość barków. Wskazówka: Możesz użyć pasków na nadgarstki, aby ułatwić utrzymanie się na drążku.",
+    "Teraz zegnij kolana pod kątem 90 stopni i unieś uda do przodu tak, aby łydki były prostopadłe do podłogi, podczas gdy uda pozostają do niej równoległe. Będzie to twoja pozycja wyjściowa.",
+    "Unieś nogi w górę, wykonując wydech, aż prawie dotkniesz piszczelami drążka nad tobą. Wskazówka: Staraj się wyprostować nogi tak bardzo, jak to możliwe, w najwyższym punkcie ruchu.",
+    "Opuszczaj nogi tak wolno, jak to możliwe, aż wrócisz do pozycji wyjściowej. Wskazówka: Całkowicie unikaj kołysania się i używania pędu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Hängender Hecht",
+  "instructions_de": [
+    "Hängen Sie sich mit geschlossenen Beinen und Füßen im Obergriff (Handflächen zeigen von Ihnen weg), der etwas breiter als schulterbreit ist, an eine Klimmzugstange. Tipp: Sie können Handgelenkbandagen verwenden, um das Halten an der Stange zu erleichtern.",
+    "Beugen Sie nun Ihre Knie in einem 90-Grad-Winkel und führen Sie die Oberschenkel nach vorne, sodass die Waden senkrecht zum Boden stehen, während die Oberschenkel parallel dazu bleiben. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie beim Ausatmen Ihre Beine nach oben, bis Ihre Schienbeine fast die Stange über Ihnen berühren. Tipp: Versuchen Sie, Ihre Beine am höchsten Punkt so weit wie möglich zu strecken.",
+    "Senken Sie Ihre Beine so langsam wie möglich, bis Sie die Ausgangsposition erreichen. Tipp: Vermeiden Sie jederzeit Schwingen und die Nutzung von Schwung.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

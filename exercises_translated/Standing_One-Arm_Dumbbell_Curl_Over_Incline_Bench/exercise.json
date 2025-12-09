@@ -1,0 +1,50 @@
+{
+  "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.",
+    "Position your non lifting hand at the corner or side of the incline bench. The chest should be pressed against the top part of the incline and your feet should be pressed against the floor at a wide stance. This is the starting position.",
+    "While holding the upper arm stationary, curl the dumbbell upward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a second.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms while performing this exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramienia z hantlem jednorącz w pozycji stojącej z oparciem o ławkę skośną",
+  "instructions_pl": [
+    "Ustaw się z tyłu ławki skośnej. Trzymaj hantel w jednej ręce i oprzyj go o ławkę skośną, używając chwytu supinacyjnego (dłoń skierowana do góry).",
+    "Dłoń ręki niećwiczącej oprzyj na rogu lub z boku ławki skośnej. Klatka piersiowa powinna być dociśnięta do górnej części ławki skośnej, a stopy mocno oparte o podłogę w szerokim rozkroku. To jest pozycja wyjściowa.",
+    "Utrzymując ramię nieruchomo, uginaj je z hantlem w górę, jednocześnie napinając mięsień dwugłowy ramienia podczas wydechu. Poruszają się tylko przedramiona. Kontynuuj ruch, aż mięsień dwugłowy ramienia będzie w pełni napięty, a hantel znajdzie się na wysokości barku. Przytrzymaj pozycję maksymalnego napięcia przez sekundę.",
+    "Powoli opuszczaj hantel do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń.",
+    "Zmień rękę podczas wykonywania tego ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siłowe",
+  "name_de": "Stehendes einarmiges Kurzhantel-Bizepscurl über die Schrägbank",
+  "instructions_de": [
+    "Stellen Sie sich auf die Rückseite einer Schrägbank, als ob Sie Hilfestellung leisten würden. Halten Sie eine Kurzhantel in einer Hand und legen Sie diese mit einem supinierten Griff (Handflächen nach oben) über die Schrägbank.",
+    "Positionieren Sie Ihre nicht-trainierende Hand an der Ecke oder Seite der Schrägbank. Die Brust sollte gegen den oberen Teil der Schrägbank gedrückt sein und Ihre Füße sollten in einem breiten Stand fest auf dem Boden stehen. Dies ist die Ausgangsposition.",
+    "Halten Sie den Oberarm stationär und curlen Sie die Kurzhantel nach oben, während Sie den Musculus biceps brachii kontrahieren und ausatmen. Nur die Unterarme sollten sich bewegen. Führen Sie die Bewegung fort, bis Ihr Musculus biceps brachii vollständig kontrahiert ist und die Kurzhantel sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde.",
+    "Beginnen Sie langsam, die Kurzhantel in die Ausgangsposition zurückzuführen, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Arme, um diese Übung auszuführen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

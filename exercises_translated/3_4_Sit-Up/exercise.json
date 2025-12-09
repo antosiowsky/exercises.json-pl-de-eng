@@ -1,0 +1,47 @@
+{
+  "name": "3/4 Sit-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
+    "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
+    "Flex your hips and spine to raise your torso toward your knees.",
+    "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia brzucha 3/4",
+  "instructions_pl": [
+    "Połóż się na podłodze i zabezpiecz stopy. Nogi powinny być ugięte w kolanach.",
+    "Umieść dłonie za głową lub po jej bokach. Rozpoczniesz z plecami opartymi o podłoże. Będzie to Twoja pozycja wyjściowa.",
+    "Zegnij biodra i kręgosłup, aby unieść tułów w kierunku kolan.",
+    "W szczytowym momencie skurczu Twój tułów powinien być prostopadły do podłoża. Wykonaj ruch powrotny, opuszczając się tylko do ¾ drogi w dół.",
+    "Powtórz ćwiczenie przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Dreiviertel-Sit-up",
+  "instructions_de": [
+    "Legen Sie sich auf den Boden und fixieren Sie Ihre Füße. Ihre Knie sind gebeugt.",
+    "Legen Sie Ihre Hände hinter den Kopf oder seitlich davon. Ihr Rücken liegt auf dem Boden auf. Dies ist Ihre Ausgangsposition.",
+    "Beugen Sie Ihre Hüften und Wirbelsäule, um Ihren Oberkörper in Richtung Ihrer Knie anzuheben.",
+    "Am höchsten Punkt der Kontraktion sollte Ihr Oberkörper senkrecht zum Boden stehen. Kehren Sie die Bewegung um und senken Sie sich nur zu drei Vierteln ab.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

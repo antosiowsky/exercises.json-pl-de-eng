@@ -1,0 +1,65 @@
+{
+  "name": "Smith Machine Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "To begin, first set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+    "Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+    "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Przysiad na Suwnicy Smitha",
+  "instructions_pl": [
+    "Na początek ustaw sztangę na wysokości najlepiej dopasowanej do Twojego wzrostu. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, wejdź pod sztangę i umieść ją na tylnej części barków (nieco poniżej szyi).",
+    "Chwyć sztangę obiema rękami po obu stronach (dłonie skierowane do przodu), odblokuj ją i unieś ze stojaka, najpierw pchając nogami i jednocześnie prostując tułów.",
+    "Ustaw nogi w średnim rozstawie na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Przez cały czas utrzymuj głowę uniesioną i plecy proste. Będzie to Twoja pozycja początkowa. (Uwaga: Na potrzeby tego opisu używamy średniego rozstawu, który angażuje ogólny rozwój; możesz jednak wybrać dowolny z trzech rozstawów omówionych w sekcji dotyczącej ustawienia stóp).",
+    "Zacznij powoli opuszczać sztangę, uginając kolana, jednocześnie utrzymując prostą postawę z uniesioną głową. Kontynuuj ruch w dół, aż kąt między udem a łydką stanie się nieco mniejszy niż 90 stopni (co oznacza, że uda znajdą się poniżej równoległości do podłogi). Wykonując tę część ruchu, zrób wdech. Wskazówka: Jeśli wykonałeś ćwiczenie prawidłowo, przednia część kolan powinna tworzyć wyimaginowaną prostą linię z palcami stóp, prostopadłą do przodu. Jeśli Twoje kolana przekraczają tę wyimaginowaną linię (tj. są przed palcami stóp), nadmiernie obciążasz staw kolanowy, a ćwiczenie zostało wykonane nieprawidłowo.",
+    "Zacznij unosić sztangę, robiąc wydech, pchając podłogę piętą stopy, prostując nogi i wracając do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kniebeuge an der Multipresse",
+  "instructions_de": [
+    "Um zu beginnen, stellen Sie zuerst die Stange auf die Höhe ein, die am besten zu Ihrer Körpergröße passt. Sobald die korrekte Höhe gewählt und die Stange mit Gewichten bestückt ist, treten Sie unter die Stange und legen Sie den hinteren Teil Ihrer Schultern (leicht unterhalb des Nackens) darauf ab.",
+    "Fassen Sie die Stange mit beiden Armen an jeder Seite (Handflächen nach vorne gerichtet), entriegeln Sie sie und heben Sie sie aus der Halterung, indem Sie zuerst mit den Beinen drücken und gleichzeitig Ihren Oberkörper aufrichten.",
+    "Stellen Sie Ihre Beine in einem schulterbreiten, mittleren Stand auf, wobei die Zehen leicht nach außen zeigen. Halten Sie Ihren Kopf stets oben und bewahren Sie einen geraden Rücken. Dies ist Ihre Ausgangsposition. (Hinweis: Für die Zwecke dieser Beschreibung verwenden wir den mittleren Stand, der eine umfassende Entwicklung fördert; Sie können jedoch jeden der drei im Abschnitt über Fußstellungen besprochenen Stände wählen).",
+    "Beginnen Sie, die Stange langsam zu senken, indem Sie die Knie beugen, während Sie eine aufrechte Haltung mit erhobenem Kopf beibehalten. Fahren Sie fort, bis der Winkel zwischen Oberschenkel und Wadenmuskulatur etwas weniger als 90 Grad beträgt (dies ist der Punkt, an dem die Oberschenkel parallel zum Boden oder darunter sind). Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen. Tipp: Wenn Sie die Übung korrekt ausgeführt haben, sollten die Vorderseiten der Knie eine imaginäre gerade Linie mit den Zehen bilden, die senkrecht nach vorne verläuft. Wenn Ihre Knie diese imaginäre Linie überschreiten (d.h. über Ihre Zehen hinausragen), belasten Sie das Knie unnötig, und die Übung wurde falsch ausgeführt.",
+    "Beginnen Sie, die Stange beim Ausatmen anzuheben, indem Sie mit der Ferse Ihres Fußes vom Boden abdrücken, während Sie die Beine wieder strecken und in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

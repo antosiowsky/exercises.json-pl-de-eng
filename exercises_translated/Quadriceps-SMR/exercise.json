@@ -1,0 +1,38 @@
+{
+  "name": "Quadriceps-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lay facedown on the floor with your weight supported by your hands or forearms. Place a foam roll underneath one leg on the quadriceps, and keep the foot off of the ground. Make sure to relax the leg as much as possible. This will be your starting position.",
+    "Shifting as much weight onto the leg to be stretched as is tolerable, roll over the foam from above the knee to below the hip, holding points of tension for 10-30 seconds. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Rozluźnianie mięśniowo-powięziowe mięśnia czworogłowego uda",
+  "instructions_pl": [
+    "Połóż się na brzuchu, opierając ciężar ciała na dłoniach lub przedramionach. Umieść wałek piankowy pod jedną nogą, pod mięśniem czworogłowym uda, i unieś stopę nad ziemię. Upewnij się, że noga jest maksymalnie rozluźniona. To będzie Twoja pozycja wyjściowa.",
+    "Przenieś na rozciąganą nogę tyle ciężaru ciała, ile jesteś w stanie tolerować, i przetaczaj się po wałku piankowym od miejsca powyżej kolana do miejsca poniżej biodra, zatrzymując się na punktach napięcia na 10-30 sekund. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Quadriceps-SMR",
+  "instructions_de": [
+    "Lege dich bäuchlings auf den Boden, wobei dein Gewicht von deinen Händen oder Unterarmen gestützt wird. Platziere eine Faszienrolle unter einem Bein auf dem Musculus quadriceps femoris und halte den Fuß vom Boden fern. Achte darauf, das Bein so weit wie möglich zu entspannen. Dies ist deine Ausgangsposition.",
+    "Verlagere so viel Gewicht wie erträglich auf das zu dehnende Bein und rolle über die Faszienrolle vom Bereich oberhalb des Knies bis unterhalb der Hüfte, wobei du Spannungspunkte für 10-30 Sekunden hältst. Wechsle die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

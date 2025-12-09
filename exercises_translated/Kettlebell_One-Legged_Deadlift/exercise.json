@@ -1,0 +1,50 @@
+{
+  "name": "Kettlebell One-Legged Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
+    "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",
+    "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Martwy ciąg jednonożny z kettlebell",
+  "instructions_pl": [
+    "Chwyć kettlebell za uchwyt jedną ręką. Stań na jednej nodze, po tej samej stronie, po której trzymasz kettlebell.",
+    "Utrzymując to kolano lekko ugięte, wykonaj martwy ciąg na prostych nogach, uginając się w biodrze i wyciągając wolną nogę za siebie dla zachowania równowagi.",
+    "Kontynuuj opuszczanie kettlebell, aż tułów znajdzie się równolegle do podłoża, a następnie wróć do pozycji wyprostowanej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einbeiniges Kettlebell-Kreuzheben",
+  "instructions_de": [
+    "Halten Sie eine Kettlebell am Griff in einer Hand. Stellen Sie sich auf ein Bein, auf derselben Seite, auf der Sie die Kettlebell halten.",
+    "Halten Sie das Knie leicht gebeugt und führen Sie ein Rumänisches Kreuzheben aus, indem Sie sich aus der Hüfte beugen und Ihr freies Bein zur Balance nach hinten ausstrecken.",
+    "Senken Sie die Kettlebell weiter ab, bis Ihr Oberkörper parallel zum Boden ist, und kehren Sie dann in die aufrechte Position zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Glutealmuskeln",
+    "Rückenstrecker"
+  ],
+  "category_de": "Kraft"
+}

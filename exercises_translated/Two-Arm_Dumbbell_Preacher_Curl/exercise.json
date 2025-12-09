@@ -1,0 +1,44 @@
+{
+  "name": "Two-Arm Dumbbell Preacher Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Grab a dumbbell with each arm and place the upper arms on top of the preacher bench or the incline bench. The dumbbell should be held at shoulder length. This will be your starting position.",
+    "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
+    "As you exhale, use the biceps to curl the weights up until your biceps is fully contracted and the dumbbells are at shoulder height.",
+    "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramion ze sztangielkami oburącz na modlitewniku",
+  "instructions_pl": [
+    "Chwyć po jednej sztangielce w każdą dłoń i umieść ramiona na modlitewniku lub ławce skośnej. Sztangielki powinny być trzymane na wysokości barków. To będzie Twoja pozycja początkowa.",
+    "Podczas wdechu powoli opuszczaj sztangielki, aż ramię będzie wyprostowane, a mięsień dwugłowy ramienia w pełni rozciągnięty.",
+    "Podczas wydechu użyj mięśnia dwugłowego ramienia, aby ugiąć ciężary w górę, aż mięsień dwugłowy ramienia będzie w pełni skurczony, a sztangielki znajdą się na wysokości barków.",
+    "Mocno napnij mięsień dwugłowy ramienia na sekundę w pozycji maksymalnego skurczu i powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Beidarmiger Kurzhantel-Scott-Curl",
+  "instructions_de": [
+    "Nimm eine Kurzhantel in jede Hand und lege die Oberarme auf die Scottbank oder die Schrägbank. Die Kurzhanteln sollten sich auf Schulterhöhe befinden. Dies ist deine Ausgangsposition.",
+    "Atme ein und senke die Kurzhanteln langsam ab, bis dein Oberarm gestreckt und der Bizeps vollständig gedehnt ist.",
+    "Atme aus und nutze den Bizeps, um die Gewichte nach oben zu curlen, bis dein Bizeps vollständig kontrahiert ist und die Kurzhanteln sich auf Schulterhöhe befinden.",
+    "Spanne den Bizeps in der kontrahierten Position für eine Sekunde fest an und wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

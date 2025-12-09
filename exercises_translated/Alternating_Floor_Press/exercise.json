@@ -1,0 +1,56 @@
+{
+  "name": "Alternating Floor Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on the floor with two kettlebells next to your shoulders.",
+    "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
+    "Extend both arms, so that the kettlebells are being held above your chest. Lower one kettlebell, bringing it to your chest and turn the wrist in the direction of the locked out kettlebell.",
+    "Raise the kettlebell and repeat on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Naprzemienne wyciskanie na podłodze",
+  "instructions_pl": [
+    "Połóż się na podłodze z dwoma kettlebellami ułożonymi obok barków.",
+    "Ułóż jeden kettlebell na klatce piersiowej, a następnie drugi, chwytając kettlebelle za uchwyt, z dłońmi skierowanymi do przodu.",
+    "Wyprostuj oba ramiona, tak aby kettlebelle znajdowały się nad klatką piersiową. Opuść jeden kettlebell, przyciągając go do klatki piersiowej i obróć nadgarstek w kierunku zablokowanego kettlebella.",
+    "Podnieś kettlebell i powtórz ćwiczenie na przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Alternierendes Bodenpressen",
+  "instructions_de": [
+    "Legen Sie sich mit zwei Kettlebells neben Ihren Schultern auf den Boden.",
+    "Bringen Sie eine Kettlebell auf Ihre Brust und anschließend die andere in Position. Fassen Sie dabei die Kettlebells am Griff, sodass die Handflächen nach vorne zeigen.",
+    "Strecken Sie beide Arme aus, sodass die Kettlebells über Ihrer Brust gehalten werden. Senken Sie eine Kettlebell ab, indem Sie sie zu Ihrer Brust führen, und drehen Sie dabei das Handgelenk in Richtung der gestreckten Kettlebell.",
+    "Heben Sie die Kettlebell wieder an und wiederholen Sie die Bewegung auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Schultern",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

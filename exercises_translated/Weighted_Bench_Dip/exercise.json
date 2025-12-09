@@ -1,0 +1,56 @@
+{
+  "name": "Weighted Bench Dip",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "For this exercise you will need to place a bench behind your back and another one in front of you. With the benches perpendicular to your body, hold on to one bench on its edge with the hands close to your body, separated at shoulder width. Your arms should be fully extended.",
+    "The legs will be extended forward on top of the other bench. Your legs should be parallel to the floor while your torso is to be perpendicular to the floor. Have your partner place the dumbbell on your lap. Note: This exercise is best performed with a partner as placing the weight on your lap can be challenging and cause injury without assistance. This will be your starting position.",
+    "Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.",
+    "Using your triceps to bring your torso up again, lift yourself back to the starting position while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Dipy na ławce z obciążeniem",
+  "instructions_pl": [
+    "Do tego ćwiczenia będziesz potrzebować umieścić jedną ławkę za plecami, a drugą przed sobą. Ławki powinny być ustawione prostopadle do ciała. Chwyć krawędź jednej ławki rękami blisko ciała, rozstawionymi na szerokość barków. Ramiona powinny być w pełni wyprostowane.",
+    "Nogi będą wyprostowane do przodu, oparte na drugiej ławce. Nogi powinny być równoległe do podłogi, a tułów prostopadły do podłogi. Poproś partnera, aby umieścił hantel na Twoich udach. Uwaga: To ćwiczenie najlepiej wykonywać z partnerem, ponieważ samodzielne umieszczenie ciężaru na udach może być trudne i grozić kontuzją bez pomocy. Będzie to Twoja pozycja wyjściowa.",
+    "Powoli opuszczaj ciało, wykonując wdech i zginając łokcie, aż obniżysz się na tyle, by kąt między ramieniem a przedramieniem był nieco mniejszy niż 90 stopni. Wskazówka: Utrzymuj łokcie jak najbliżej ciała przez cały ruch. Przedramiona powinny zawsze być skierowane w dół.",
+    "Używając mięśni trójgłowych ramion (tricepsów), aby ponownie unieść tułów, unieś się z powrotem do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Gewichtete Bankdips",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie eine Bank hinter Ihrem Rücken und eine weitere vor sich. Positionieren Sie die Bänke senkrecht zu Ihrem Körper. Fassen Sie mit den Händen schulterbreit und körpernah den Rand einer Bank. Ihre Arme sollten vollständig gestreckt sein.",
+    "Die Beine werden nach vorne auf die andere Bank gestreckt. Ihre Beine sollten parallel zum Boden sein, während Ihr Rumpf senkrecht zum Boden steht. Lassen Sie Ihren Partner die Kurzhantel auf Ihre Oberschenkel legen. Hinweis: Diese Übung wird am besten mit einem Partner durchgeführt, da das Platzieren des Gewichts auf den Oberschenkeln ohne Hilfe schwierig sein und zu Verletzungen führen kann. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie Ihren Körper langsam während Sie einatmen, indem Sie die Ellenbogen beugen, bis Sie sich so weit abgesenkt haben, dass der Winkel zwischen Oberarm und Unterarm etwas kleiner als 90 Grad ist. Tipp: Halten Sie die Ellenbogen während der gesamten Bewegung so nah wie möglich am Körper. Die Unterarme sollten stets nach unten zeigen.",
+    "Nutzen Sie Ihre Trizeps, um Ihren Rumpf wieder anzuheben, und heben Sie sich während des Ausatmens zurück in die Ausgangsposition.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

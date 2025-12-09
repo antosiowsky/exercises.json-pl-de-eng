@@ -1,0 +1,59 @@
+{
+  "name": "Spinal Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "lower back",
+    "neck",
+    "traps"
+  ],
+  "instructions": [
+    "Sit in a chair so your back is straight and your feet planted on the floor.",
+    "Interlace your fingers behind your head, elbows out and your chin down.",
+    "Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.",
+    "Return to upright position and then repeat for your other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie kręgosłupa",
+  "instructions_pl": [
+    "Usiądź na krześle, tak aby plecy były proste, a stopy opierały się płasko o podłogę.",
+    "Spleć palce za głową, rozchyl łokcie na boki i opuść podbródek.",
+    "Wykonaj 3 skręty górnej części ciała w jedną stronę, sięgając tak daleko, jak potrafisz. Następnie pochyl się do przodu i skręć tułów, aby dotknąć łokciem podłogi po wewnętrznej stronie kolana.",
+    "Wróć do pozycji wyprostowanej, a następnie powtórz ćwiczenie na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięśnie lędźwiowe",
+    "mięśnie szyi",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Wirbelsäulendehnung",
+  "instructions_de": [
+    "Setzen Sie sich auf einen Stuhl, sodass Ihr Rücken gerade ist und Ihre Füße fest auf dem Boden stehen.",
+    "Verschränken Sie Ihre Finger hinter Ihrem Kopf, die Ellenbogen nach außen und das Kinn nach unten.",
+    "Drehen Sie Ihren Oberkörper etwa 3 Mal zu einer Seite, so weit wie möglich. Lehnen Sie sich dann nach vorne und drehen Sie Ihren Rumpf, um Ihren Ellenbogen an der Innenseite Ihres Knies auf den Boden zu bringen.",
+    "Kehren Sie in die aufrechte Position zurück und wiederholen Sie dies dann für die andere Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Lendenmuskulatur",
+    "Halsmuskulatur",
+    "Musculus trapezius"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Smith Machine Overhead Shoulder Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "To begin, place a flat bench (or preferably one with back support) underneath a smith machine. Position the barbell at a height so that when seated on the flat bench, the arms must be almost fully extended to reach the barbell.",
+    "Once you have the correct height, sit slightly in behind the barbell so that there is an imaginary straight line from the tip of your nose to the barbell. Your feet should be stationary. Grab the barbell with the palms facing forward, unlock it and lift it up so that your arms are fully extended. This is the starting position.",
+    "Slowly begin to lower the barbell until it is level with your chin while inhaling.",
+    "Then lift the barbell back to the starting position using your shoulders while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie barków nad głowę na suwnicy Smitha",
+  "instructions_pl": [
+    "Na początek, umieść płaską ławkę (lub najlepiej taką z oparciem) pod suwnicą Smitha. Ustaw sztangę na takiej wysokości, aby siedząc na ławce, ramiona były niemal całkowicie wyprostowane, by dosięgnąć sztangi.",
+    "Po ustawieniu odpowiedniej wysokości, usiądź lekko za sztangą tak, aby wyobrażona prosta linia biegła od czubka nosa do sztangi. Stopy powinny być nieruchome. Chwyć sztangę nachwytem (dłońmi skierowanymi do przodu), odblokuj ją i unieś, tak aby ramiona były całkowicie wyprostowane. To jest pozycja początkowa.",
+    "Powoli opuszczaj sztangę do poziomu brody, wykonując wdech.",
+    "Następnie unieś sztangę z powrotem do pozycji początkowej, używając mięśni naramiennych, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Überkopf-Schulterdrücken an der Smith-Maschine",
+  "instructions_de": [
+    "Stellen Sie zunächst eine Flachbank (oder vorzugsweise eine mit Rückenlehne) unter eine Smith-Maschine. Positionieren Sie die Langhantel auf einer Höhe, sodass, wenn Sie auf der Flachbank sitzen, die Arme fast vollständig gestreckt sein müssen, um die Langhantel zu erreichen.",
+    "Sobald Sie die richtige Höhe eingestellt haben, setzen Sie sich leicht hinter die Langhantel, sodass eine imaginäre gerade Linie von Ihrer Nasenspitze zur Langhantel verläuft. Ihre Füße sollten stabil stehen. Greifen Sie die Langhantel mit nach vorne zeigenden Handflächen, entriegeln Sie sie und heben Sie sie an, sodass Ihre Arme vollständig gestreckt sind. Dies ist die Ausgangsposition.",
+    "Beginnen Sie, die Langhantel langsam abzusenken, bis sie sich auf Kinnhöhe befindet, während Sie einatmen.",
+    "Heben Sie dann die Langhantel unter Einsatz Ihrer Schultern zurück in die Ausgangsposition, während Sie ausatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

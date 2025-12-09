@@ -1,0 +1,53 @@
+{
+  "name": "Dancer's Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "glutes"
+  ],
+  "instructions": [
+    "Sit up on the floor.",
+    "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
+    "Place your left arm on your right leg and your right hand on the floor.",
+    "Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie tancerza",
+  "instructions_pl": [
+    "Usiądź na podłodze.",
+    "Skrzyżuj prawą nogę nad lewą, utrzymując kolano zgięte. Lewa noga jest wyprostowana i oparta na podłodze.",
+    "Połóż lewe ramię na prawej nodze, a prawą dłoń na podłodze.",
+    "Obróć tułów w prawo i utrzymaj pozycję przez 10-20 sekund. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Tänzerdehnung",
+  "instructions_de": [
+    "Setzen Sie sich auf den Boden.",
+    "Kreuzen Sie Ihr rechtes Bein über Ihr linkes, wobei das Knie gebeugt bleibt. Ihr linkes Bein ist gestreckt und liegt auf dem Boden.",
+    "Legen Sie Ihren linken Arm auf Ihr rechtes Bein und Ihre rechte Hand auf den Boden.",
+    "Drehen Sie Ihren Oberkörper nach rechts und halten Sie die Position für 10-20 Sekunden. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Glutäen"
+  ],
+  "category_de": "Dehnung"
+}

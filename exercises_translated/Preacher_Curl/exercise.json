@@ -1,0 +1,47 @@
+{
+  "name": "Preacher Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To perform this movement you will need a preacher bench and an E-Z bar. Grab the E-Z curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar.",
+    "With the upper arms positioned against the preacher bench pad and the chest against it, hold the E-Z Curl Bar at shoulder length. This will be your starting position.",
+    "As you breathe in, slowly lower the bar until your upper arm is extended and the biceps is fully stretched.",
+    "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the bar is at shoulder height. Squeeze the biceps hard and hold this position for a second.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie przedramion ze sztangą łamaną na modlitewniku",
+  "instructions_pl": [
+    "Do wykonania tego ćwiczenia potrzebny będzie modlitewnik oraz sztanga łamana (E-Z bar). Chwyć sztangę łamaną za wewnętrzne, wąskie uchwyty (najlepiej, aby ktoś podał Ci sztangę, lub chwyć ją z przedniego stojaka, w który wyposażona jest większość modlitewników). Dłonie powinny być skierowane do przodu i lekko pochylone do wewnątrz ze względu na kształt sztangi.",
+    "Z ramionami opartymi o poduszkę modlitewnika i klatką piersiową przylegającą do niej, trzymaj sztangę łamaną na wysokości barków. To będzie Twoja pozycja wyjściowa.",
+    "Wraz z wdechem powoli opuszczaj sztangę, aż do pełnego wyprostu ramienia i całkowitego rozciągnięcia mięśnia dwugłowego ramienia.",
+    "Wraz z wydechem użyj mięśnia dwugłowego ramienia, aby unieść ciężar, aż mięsień dwugłowy ramienia będzie w pełni skurczony, a sztanga znajdzie się na wysokości barków. Mocno ściśnij mięsień dwugłowy ramienia i przytrzymaj tę pozycję przez sekundę.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Bizeps-Curls an der Scottbank",
+  "instructions_de": [
+    "Um diese Übung auszuführen, benötigen Sie eine Scottbank und eine SZ-Stange. Greifen Sie die SZ-Stange am engen, inneren Griff (lassen Sie sich die Stange reichen, was vorzuziehen ist, oder nehmen Sie die Stange von der vorderen Ablage, die die meisten Scottbänke bieten). Ihre Handflächen sollten nach vorne zeigen und aufgrund der Form der Stange leicht nach innen geneigt sein.",
+    "Mit den Oberarmen am Polster der Scottbank und der Brust dagegen, halten Sie die SZ-Stange auf Schulterbreite. Dies ist Ihre Ausgangsposition.",
+    "Beim Einatmen senken Sie die Stange langsam ab, bis Ihr Oberarm gestreckt und der Bizeps vollständig gedehnt ist.",
+    "Beim Ausatmen nutzen Sie den Bizeps, um das Gewicht nach oben zu curlen, bis Ihr Bizeps vollständig kontrahiert ist und sich die Stange auf Schulterhöhe befindet. Spannen Sie den Bizeps fest an und halten Sie diese Position für eine Sekunde.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Dumbbell Step Ups",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
+    "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+    "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+    "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wchodzenie na podwyższenie z hantlami",
+  "instructions_pl": [
+    "Stań prosto, trzymając hantel w każdej dłoni (dłonie skierowane do boków nóg).",
+    "Umieść prawą stopę na podwyższonej platformie. Wejdź na platformę, prostując staw biodrowy i kolanowy prawej nogi. Użyj głównie pięty, aby unieść resztę ciała i umieść stopę lewej nogi również na platformie. Wydychaj powietrze, wykonując siłę wymaganą do uniesienia się.",
+    "Zejdź w dół lewą nogą, zginając staw biodrowy i kolanowy prawej nogi, jednocześnie wdechając powietrze. Wróć do pozycji wyjściowej, stawiając prawą stopę obok lewej stopy w pozycji początkowej.",
+    "Powtórz ćwiczenie prawą nogą przez zalecaną liczbę powtórzeń, a następnie wykonaj je lewą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Kurzhantel-Step-ups",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie in jeder Hand eine Kurzhantel halten (Handflächen zeigen zur Seite Ihrer Beine).",
+    "Platzieren Sie den rechten Fuß auf der erhöhten Plattform. Steigen Sie auf die Plattform, indem Sie die Hüfte und das Knie Ihres rechten Beins strecken. Nutzen Sie hauptsächlich die Ferse, um den Rest Ihres Körpers nach oben zu heben und stellen Sie den Fuß des linken Beins ebenfalls auf die Plattform. Atmen Sie aus, während Sie die zum Aufsteigen erforderliche Kraft aufwenden.",
+    "Steigen Sie mit dem linken Bein ab, indem Sie die Hüfte und das Knie des rechten Beins beugen, während Sie einatmen. Kehren Sie in die ursprüngliche stehende Position zurück, indem Sie den rechten Fuß neben den linken Fuß in die Ausgangsposition stellen.",
+    "Wiederholen Sie dies mit dem rechten Bein für die empfohlene Anzahl an Wiederholungen und führen Sie die Übung anschließend mit dem linken Bein aus."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Seated Front Deltoid",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Sit upright on the floor with your legs bent, your partner standing behind you. Stick your arms straight out to your sides, with your palms facing the ground. Attempt to move them as far behind you as possible, as your assistant holds your wrists. This will be your starting position.",
+    "Keeping your elbows straight, attempt to move your arms to the front, with your partner gently restraining you to prevent any actual movement for 10-20 seconds.",
+    "Now, relax your muscles and allow your partner to gently increase the stretch on the shoulders and chest. Hold for 10 to 20 seconds."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Siedzący Akton Przedni Mięśnia Naramiennego",
+  "instructions_pl": [
+    "Usiądź prosto na podłodze z ugiętymi nogami, partner stoi za tobą. Wyprostuj ramiona na boki, dłońmi skierowanymi do ziemi. Spróbuj przesunąć je jak najdalej za siebie, podczas gdy asystent trzyma twoje nadgarstki. Będzie to twoja pozycja początkowa.",
+    "Utrzymując wyprostowane łokcie, spróbuj przesunąć ramiona do przodu, podczas gdy partner delikatnie cię powstrzymuje, aby zapobiec faktycznemu ruchowi przez 10-20 sekund.",
+    "Teraz rozluźnij mięśnie i pozwól partnerowi delikatnie zwiększyć rozciągnięcie w obrębie barków i klatki piersiowej. Utrzymaj przez 10 do 20 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie klatki piersiowej"
+  ],
+  "category_pl": "Rozciąganie",
+  "name_de": "Sitzende Dehnung des Musculus deltoideus pars clavicularis",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf den Boden, die Beine angewinkelt. Ihr Partner steht hinter Ihnen. Strecken Sie Ihre Arme gerade zu den Seiten aus, die Handflächen zeigen zum Boden. Versuchen Sie, die Arme so weit wie möglich nach hinten zu bewegen, während Ihr Partner Ihre Handgelenke festhält. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihre Ellbogen gestreckt und versuchen Sie, Ihre Arme nach vorne zu bewegen, während Ihr Partner Sie sanft zurückhält, um jegliche tatsächliche Bewegung für 10-20 Sekunden zu verhindern.",
+    "Entspannen Sie nun Ihre Muskulatur und lassen Sie Ihren Partner die Dehnung auf dem Musculus deltoideus und dem Musculus pectoralis major sanft verstärken. Halten Sie diese Position für 10 bis 20 Sekunden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major"
+  ],
+  "category_de": "Dehnung"
+}

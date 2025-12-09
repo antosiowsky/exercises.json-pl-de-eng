@@ -1,0 +1,41 @@
+{
+  "name": "Shoulder Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Wznosy barków",
+  "instructions_pl": [
+    "Rozluźnij ramiona wzdłuż tułowia i unieś barki w kierunku uszu, następnie opuść je z powrotem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Schulterheben",
+  "instructions_de": [
+    "Lassen Sie Ihre Arme entspannt an den Seiten hängen und ziehen Sie Ihre Schultern nach oben in Richtung Ihrer Ohren, dann senken Sie sie wieder ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Dehnung"
+}

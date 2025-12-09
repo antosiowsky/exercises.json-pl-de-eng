@@ -1,0 +1,59 @@
+{
+  "name": "Single-Leg Hop Progression",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Arrange a line of cones in front of you. Assume a relaxed standing position, balanced on one leg. Raise the knee of your opposite leg. This will be your starting position.",
+    "Hop forward, jumping and landing with the same leg over the cone.",
+    "Use a countermovement jump to hop from cone to cone.",
+    "At the end, turn around and go back on the other leg."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Progresja podskoków jednonóż",
+  "instructions_pl": [
+    "Ustaw linię pachołków przed sobą. Przyjmij zrelaksowaną pozycję stojącą, balansując na jednej nodze. Unieś kolano nogi przeciwnej. Będzie to Twoja pozycja startowa.",
+    "Wykonaj podskok w przód, przeskakując nad pachołkiem i lądując na tej samej nodze.",
+    "Wykorzystaj skok z zamachem (countermovement jump), aby przeskakiwać z pachołka na pachołek.",
+    "Po zakończeniu, odwróć się i wróć, wykonując ćwiczenie na drugiej nodze."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Einbeinige Sprungprogression",
+  "instructions_de": [
+    "Stellen Sie eine Reihe von Hütchen vor sich auf. Nehmen Sie eine entspannte Standposition ein, im Gleichgewicht auf einem Bein. Heben Sie das Knie des gegenüberliegenden Beins an. Dies ist Ihre Ausgangsposition.",
+    "Springen Sie vorwärts, indem Sie mit demselben Bein über das Hütchen springen und landen.",
+    "Nutzen Sie einen Gegenbewegungs-Sprung, um von Hütchen zu Hütchen zu springen.",
+    "Am Ende drehen Sie sich um und kehren auf dem anderen Bein zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Cable Lying Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on a flat bench and grasp the straight bar attachment of a low pulley with a narrow overhand grip. Tip: The easiest way to do this is to have someone hand you the bar as you lay down.",
+    "With your arms extended, position the bar over your torso. Your arms and your torso should create a 90-degree angle. This will be your starting position.",
+    "Lower the bar by bending at the elbow while keeping the upper arms stationary and elbows in. Go down until the bar lightly touches your forehead. Breathe in as you perform this portion of the movement.",
+    "Flex the triceps as you lift the bar back to its starting position. Exhale as you perform this portion of the movement.",
+    "Hold for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprosty mięśnia trójgłowego ramienia na wyciągu leżąc",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce i chwyć prosty drążek dolnego wyciągu wąskim nachwytem. Wskazówka: Najłatwiej jest poprosić kogoś, aby podał Ci drążek, gdy już leżysz.",
+    "Z wyprostowanymi ramionami umieść drążek nad tułowiem. Twoje ramiona i tułów powinny tworzyć kąt 90 stopni. Będzie to Twoja pozycja początkowa.",
+    "Opuść drążek, zginając ramiona w stawach łokciowych, jednocześnie utrzymując górne części ramion nieruchomo i łokcie skierowane do wewnątrz. Opuść drążek, aż lekko dotknie czoła. Wykonując tę część ruchu, wykonaj wdech.",
+    "Napnij mięsień trójgłowy ramienia, unosząc drążek z powrotem do pozycji początkowej. Wykonując tę część ruchu, wykonaj wydech.",
+    "Przytrzymaj przez sekundę w pozycji maksymalnego skurczu i powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Liegendes Trizepsstrecken am Kabelzug",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank und greifen Sie die Geradestange eines tiefen Kabelzugs mit engem Obergriff. Tipp: Am einfachsten ist es, wenn Ihnen jemand die Stange reicht, während Sie sich hinlegen.",
+    "Strecken Sie Ihre Arme aus und positionieren Sie die Stange über Ihrem Rumpf. Ihre Arme und Ihr Rumpf sollten einen 90-Grad-Winkel bilden. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Stange, indem Sie die Ellenbogen beugen, während Sie die Oberarme ruhig halten und die Ellenbogen eng am Körper lassen. Gehen Sie so weit nach unten, bis die Stange leicht Ihre Stirn berührt. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Spannen Sie den Trizeps an, während Sie die Stange zurück in die Ausgangsposition heben. Atmen Sie während dieses Teils der Bewegung aus.",
+    "Halten Sie die kontrahierte Position für eine Sekunde und wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

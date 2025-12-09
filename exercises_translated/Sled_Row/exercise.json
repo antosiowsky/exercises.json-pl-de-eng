@@ -1,0 +1,53 @@
+{
+  "name": "Sled Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.",
+    "With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.",
+    "To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.",
+    "Take a step or two back to get tension in the line and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wiosłowanie z sankami",
+  "instructions_pl": [
+    "Przymocuj dwa uchwyty do sanek połączonych liną lub łańcuchem. Obciąż sanki odpowiednią wagą. Stań przodem do sanek, cofając się, aż lina będzie napięta.",
+    "Trzymając po jednym uchwycie w każdej dłoni, lekko ugnij kolana, utrzymaj głowę i klatkę piersiową uniesione, i rozpocznij z wyprostowanymi ramionami.",
+    "Aby rozpocząć ruch, ugnij łokcie, jednocześnie ściągając łopatki, przyciągając sanki do siebie.",
+    "Cofnij się o krok lub dwa, aby ponownie napiąć linę i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Schlittenrudern",
+  "instructions_de": [
+    "Befestigen Sie zwei Griffe an einem Schlitten, der mit einem Seil oder einer Kette verbunden ist. Beladen Sie den Schlitten mit einem angemessenen Gewicht. Stellen Sie sich dem Schlitten gegenüber und gehen Sie rückwärts, bis eine gewisse Spannung im Seil ist.",
+    "Mit einem Griff in jeder Hand beugen Sie die Knie leicht, halten Kopf und Brust aufrecht und beginnen mit gestreckten Armen.",
+    "Um die Bewegung einzuleiten, beugen Sie die Ellbogen, während Sie Ihre Schulterblätter zurückziehen, und ziehen Sie den Schlitten zu sich heran.",
+    "Machen Sie ein oder zwei Schritte zurück, um wieder Spannung in das Seil zu bekommen, und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Reverse Barbell Preacher Curls",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Grab an EZ-bar using a shoulder width and palms down (pronated) grip.",
+    "Now place the upper part of both arms on top of the preacher bench and have your arms extended. This will be your starting position.",
+    "As you exhale, use the biceps to curl the weight up until your biceps are fully contracted and the barbell is at shoulder height. Squeeze the biceps hard for a second at the contracted position.",
+    "As you breathe in, slowly lower the barbell until your upper arms are extended and the biceps is fully stretched.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Uginanie ramion ze sztangą nachwytem na modlitewniku",
+  "instructions_pl": [
+    "Chwyć sztangę łamaną (EZ-bar) nachwytem (dłonie skierowane w dół) na szerokość barków.",
+    "Następnie ułóż górną część obu ramion na górnej części ławki Scotta (modlitewnika) i wyprostuj ramiona. Będzie to Twoja pozycja wyjściowa.",
+    "Podczas wydechu, użyj mięśni dwugłowych ramion, aby unieść ciężar, aż mięśnie dwugłowe ramion będą w pełnym skurczu, a sztanga znajdzie się na wysokości barków. Mocno ściśnij mięśnie dwugłowe ramion na sekundę w pozycji maksymalnego skurczu.",
+    "Podczas wdechu, powoli opuść sztangę, aż ramiona będą wyprostowane, a mięśnie dwugłowe ramion w pełni rozciągnięte.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona"
+  ],
+  "category_pl": "siła",
+  "name_de": "Umgekehrte Langhantel-Curls an der Scottbank",
+  "instructions_de": [
+    "Fassen Sie eine SZ-Stange im schulterbreiten Obergriff (proniert).",
+    "Legen Sie nun den oberen Teil beider Arme auf die Scottbank und strecken Sie Ihre Arme aus. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen nutzen Sie den Musculus biceps brachii, um das Gewicht nach oben zu beugen, bis der Musculus biceps brachii vollständig kontrahiert ist und sich die Langhantel auf Schulterhöhe befindet. Spannen Sie den Musculus biceps brachii in der kontrahierten Position für eine Sekunde fest an.",
+    "Beim Einatmen senken Sie die Langhantel langsam ab, bis Ihre Oberarme gestreckt sind und der Musculus biceps brachii vollständig gedehnt ist.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Muskulatur des Unterarms"
+  ],
+  "category_de": "Kraft"
+}

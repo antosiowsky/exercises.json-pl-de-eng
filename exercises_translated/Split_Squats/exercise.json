@@ -1,0 +1,50 @@
+{
+  "name": "Split Squats",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
+    "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Wykroki z przeskokiem",
+  "instructions_pl": [
+    "Przyjmij pozycję stojącą. Wyskokiem przejdź do pozycji wykroku, z jedną nogą z przodu i drugą z tyłu, uginając kolana i jednocześnie lekko obniżając biodra.",
+    "W trakcie opuszczania się, natychmiast zmień kierunek ruchu, prostując się i wykonując wyskok, zmieniając pozycję nóg. Powtórz 5-10 razy na każdą nogę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy łydki",
+    "mięśnie pośladkowe",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Gesprungene Ausfallschritte",
+  "instructions_de": [
+    "Beginnen Sie in einer stehenden Position. Springen Sie in eine Ausfallschrittposition, mit einem Bein vorne und einem Bein hinten, wobei Sie die Knie beugen und die Hüften dabei leicht absenken.",
+    "Beim Absenken kehren Sie die Bewegung sofort um, indem Sie sich wieder aufrichten und springen, um die Beinposition zu wechseln. Wiederholen Sie dies 5-10 Mal pro Bein."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Gesäßmuskulatur",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Dehnung"
+}

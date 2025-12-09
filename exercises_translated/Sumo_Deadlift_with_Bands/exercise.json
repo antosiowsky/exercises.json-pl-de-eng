@@ -1,0 +1,71 @@
+{
+  "name": "Sumo Deadlift with Bands",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "forearms",
+    "glutes",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.",
+    "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip.",
+    "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
+    "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
+    "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg sumo z gumami oporowymi",
+  "instructions_pl": [
+    "Aby wykonać martwy ciąg z krótkimi gumami oporowymi, po prostu załóż je na sztangę przed rozpoczęciem i wdepnij w nie, aby przygotować się do ćwiczenia. Upewnij się, że znajdują się pod tylną częścią stopy, dokładnie tam, gdzie naciskasz na podłoże.",
+    "Rozpocznij ze sztangą załadowaną na podłożu. Podejdź do sztangi tak, aby przecinała środek stóp. Stopy powinny być ustawione bardzo szeroko, blisko tulei sztangi. Ugnij się w biodrach, aby chwycić sztangę. Ramiona powinny znajdować się bezpośrednio pod barkami, wewnątrz nóg, i możesz użyć chwytu pronowanego, chwytu mieszanego lub chwytu zamkowego.",
+    "Weź wdech, a następnie obniż biodra, patrząc przed siebie z głową uniesioną i klatką piersiową w górze. Wypchnij się z podłoża, rozpychając stopy na boki, z ciężarem ciała spoczywającym na tylnej części stóp. Wyprostuj się w biodrach i kolanach.",
+    "Gdy sztanga minie kolana, odchyl się do tyłu i wypchnij biodra w kierunku sztangi, ściągając łopatki razem.",
+    "Opuść ciężar na podłoże, uginając się w biodrach i kontrolując ciężar podczas opuszczania."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przywodziciele",
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięśnie grzbietu (część środkowa)",
+    "Mięśnie czworogłowe uda",
+    "Mięśnie czworoboczne"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Sumo-Kreuzheben mit Bändern",
+  "instructions_de": [
+    "Um mit kurzen Bändern Kreuzheben zu machen, schlingen Sie diese einfach vor Beginn über die Hantelstange und treten Sie hinein, um sich zu positionieren. Stellen Sie sicher, dass sie sich unter der hinteren Hälfte Ihres Fußes befinden, genau dort, wo Sie sich vom Boden abdrücken.",
+    "Beginnen Sie mit einer auf dem Boden liegenden, beladenen Hantelstange. Treten Sie an die Stange heran, sodass diese die Mitte Ihrer Füße schneidet. Die Füße sollten sehr weit auseinander stehen, nahe den Scheibenaufnahmen. Beugen Sie sich in den Hüften, um die Stange zu greifen. Die Arme sollten direkt unter den Schultern, innerhalb der Beine sein, und Sie können einen Obergriff, einen Kreuzgriff oder einen Haken-Griff verwenden.",
+    "Atmen Sie ein und senken Sie dann Ihre Hüften, wobei Sie mit dem Kopf nach vorne schauen und die Brust oben halten. Drücken Sie sich vom Boden ab, indem Sie Ihre Füße auseinanderdrücken und Ihr Gewicht auf der hinteren Hälfte Ihrer Füße liegt. Strecken Sie Hüften und Knie.",
+    "Sobald die Stange die Knie passiert, lehnen Sie sich zurück und drücken Sie die Hüften gegen die Stange, wobei Sie die Schulterblätter zusammenziehen.",
+    "Führen Sie das Gewicht zurück zum Boden, indem Sie sich in den Hüften beugen und das Gewicht auf dem Weg nach unten kontrollieren."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "unterer Rücken",
+    "mittlerer Rücken",
+    "Quadrizeps",
+    "Trapezmuskel"
+  ],
+  "category_de": "Kraftdreikampf"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Double Leg Butt Kick",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin standing with your knees slightly bent.",
+    "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",
+    "As you go up, tuck your heels by flexing the knees, attempting to touch the buttocks.",
+    "Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wykop piętami w pośladki obunóż",
+  "instructions_pl": [
+    "Rozpocznij w pozycji stojącej z lekko ugiętymi kolanami.",
+    "Szybko wykonaj płytki przysiad, zginając stawy biodrowe i kolanowe, a następnie natychmiast wyprostuj się, aby wyskoczyć na maksymalną wysokość pionową.",
+    "W fazie wznoszenia, przyciągnij pięty, zginając kolana, starając się dotknąć pośladków.",
+    "Zakończ ruch lądując z kolanami jedynie częściowo ugiętymi, wykorzystując nogi do amortyzacji uderzenia."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Beidbeiniger Fersentritt zum Gesäß",
+  "instructions_de": [
+    "Beginnen Sie im Stehen mit leicht gebeugten Knien.",
+    "Gehen Sie schnell in eine kurze Hocke, beugen Sie dabei Hüften und Knie, und strecken Sie sich sofort explosiv, um maximal hoch zu springen.",
+    "Während Sie nach oben gehen, ziehen Sie Ihre Fersen durch Beugen der Knie an und versuchen Sie dabei, das Gesäß zu berühren.",
+    "Beenden Sie die Bewegung, indem Sie mit nur teilweise gebeugten Knien landen und Ihre Beine nutzen, um den Aufprall abzufedern."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

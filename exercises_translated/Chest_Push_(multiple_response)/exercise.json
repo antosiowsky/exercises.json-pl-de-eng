@@ -1,0 +1,56 @@
+{
+  "name": "Chest Push (multiple response)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
+    "Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.",
+    "Follow through by falling forward, catching yourself with your hands.",
+    "Immediately return to an upright position. Repeat for the desired number of repetitions."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Pchnięcie klatką piersiową (wielokrotna reakcja)",
+  "instructions_pl": [
+    "Rozpocznij w pozycji klęczącej, przodem do ściany lub korzystając z pomocy partnera. Trzymaj piłkę obiema rękami mocno przy klatce piersiowej.",
+    "Wykonaj pchnięcie, dynamicznie wypychając biodra do przodu i na zewnątrz, jednocześnie pchając piłkę tak mocno, jak to możliwe.",
+    "Kontynuuj ruch, pozwalając ciału opaść do przodu i amortyzując się rękami.",
+    "Natychmiast wróć do pozycji wyprostowanej. Powtórz ćwiczenie przez żądaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Bruststoß (Mehrfachausführung)",
+  "instructions_de": [
+    "Beginnen Sie in kniender Position mit Blick zur Wand oder mit einem Partner. Halten Sie den Ball mit beiden Händen fest an die Brust.",
+    "Führen Sie den Wurf aus, indem Sie mit den Hüften explosiv nach vorne und außen stoßen, während Sie den Ball so kräftig wie möglich stoßen.",
+    "Führen Sie die Bewegung zu Ende aus, indem Sie nach vorne fallen und sich mit den Händen abfangen.",
+    "Kehren Sie sofort in eine aufrechte Position zurück. Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Deltamuskeln",
+    "Trizeps"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Barbell Rear Delt Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand up straight while holding a barbell using a wide (higher than shoulder width) and overhand (palms facing your body) grip.",
+    "Bend knees slightly and bend over as you keep the natural arch of your back. Let the arms hang in front of you as they hold the bar. Once your torso is parallel to the floor, flare the elbows out and away from your body. Tip: Your torso and your arms should resemble the letter \"T\". Now you are ready to begin the exercise.",
+    "While keeping the upper arms perpendicular to the torso, pull the barbell up towards your upper chest as you squeeze the rear delts and you breathe out. Tip: When performed correctly, this exercise should resemble a bench press in reverse. Also, refrain from using your biceps to do the work. Focus on targeting the rear delts; the arms should only act as hooks.",
+    "Slowly go back to the initial position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą w opadzie tułowia na tylne aktony mięśni naramiennych",
+  "instructions_pl": [
+    "Stań prosto, trzymając sztangę szerokim (szerszym niż szerokość barków) nachwytem (dłonie skierowane do ciała).",
+    "Lekko ugnij kolana i pochyl się, utrzymując naturalną krzywiznę kręgosłupa. Pozwól ramionom swobodnie zwisać przed sobą, trzymając sztangę. Gdy tułów znajdzie się równolegle do podłogi, rozszerz łokcie na zewnątrz i od ciała. Wskazówka: Twój tułów i ramiona powinny przypominać literę „T”. Jesteś gotowy do rozpoczęcia ćwiczenia.",
+    "Utrzymując ramiona prostopadle do tułowia, przyciągnij sztangę w górę, w kierunku górnej części klatki piersiowej, jednocześnie ściskając tylne aktony mięśni naramiennych i wydychając powietrze. Wskazówka: Prawidłowo wykonane ćwiczenie powinno przypominać odwrócone wyciskanie sztangi na ławce. Ponadto, powstrzymaj się od angażowania mięśnia dwugłowego ramienia do wykonania pracy. Skup się na angażowaniu tylnych aktonów mięśni naramiennych; ramiona powinny działać jedynie jako haki.",
+    "Powoli wróć do pozycji początkowej, wdechając powietrze.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu",
+    "Mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Langhantelrudern für den hinteren Deltamuskel",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin und halten Sie eine Langhantel im breiten (weiter als schulterbreiten) Obergriff (Handflächen zeigen zu Ihrem Körper).",
+    "Beugen Sie die Knie leicht und lehnen Sie sich nach vorne, während Sie die natürliche Krümmung Ihres Rückens beibehalten. Lassen Sie die Arme mit der Stange vor sich hängen. Sobald Ihr Oberkörper parallel zum Boden ist, spreizen Sie die Ellbogen nach außen und vom Körper weg. Tipp: Ihr Oberkörper und Ihre Arme sollten den Buchstaben „T“ bilden. Nun sind Sie bereit, die Übung zu beginnen.",
+    "Halten Sie die Oberarme senkrecht zum Oberkörper und ziehen Sie die Langhantel in Richtung Ihrer oberen Brust, während Sie die hinteren Deltamuskeln anspannen und ausatmen. Tipp: Bei korrekter Ausführung sollte diese Übung einem umgekehrten Bankdrücken ähneln. Vermeiden Sie es außerdem, Ihre Musculi biceps brachii zur Ausführung der Arbeit zu nutzen. Konzentrieren Sie sich darauf, die hinteren Deltamuskeln zu trainieren; die Arme sollten lediglich als Haken dienen.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Krafttraining"
+}

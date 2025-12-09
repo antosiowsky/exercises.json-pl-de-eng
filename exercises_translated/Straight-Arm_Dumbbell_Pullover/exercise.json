@@ -1,0 +1,62 @@
+{
+  "name": "Straight-Arm Dumbbell Pullover",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Place a dumbbell standing up on a flat bench.",
+    "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",
+    "Grasp the dumbbell with both hands and hold it straight over your chest at arms length. Both palms should be pressing against the underside one of the sides of the dumbbell. This will be your starting position.\nCaution: Always ensure that the dumbbell used for this exercise is secure. Using a dumbbell with loose plates can result in the dumbbell falling apart and falling on your face.",
+    "While keeping your arms straight, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
+    "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
+    "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Przenoszenie hantli za głowę na prostych ramionach",
+  "instructions_pl": [
+    "Połóż hantlę pionowo na płaskiej ławce.",
+    "Upewnij się, że hantla jest bezpiecznie umieszczona na końcu ławki, a następnie połóż się prostopadle do ławki (tułów w poprzek, tworząc krzyż), tak aby tylko barki spoczywały na jej powierzchni. Biodra powinny znajdować się poniżej poziomu ławki, a nogi być ugięte, ze stopami pewnie opartymi na podłodze. Głowa również będzie poza ławką.",
+    "Chwyć hantlę obiema rękami i trzymaj ją prosto nad klatką piersiową na wyprostowanych ramionach. Obie dłonie powinny naciskać na spód jednej ze stron hantli. Będzie to Twoja pozycja początkowa.\nUwaga: Zawsze upewnij się, że hantla używana do tego ćwiczenia jest bezpieczna. Użycie hantli z luźnymi obciążeniami może spowodować jej rozpadnięcie się i upadek na twarz.",
+    "Utrzymując ramiona proste, powoli opuść ciężar po łuku za głowę, wykonując wdech, aż poczujesz rozciąganie w klatce piersiowej.",
+    "W tym momencie wróć z hantlą do pozycji początkowej, wykorzystując ten sam łuk, po którym ciężar był opuszczany, i wykonaj wydech podczas wykonywania tego ruchu.",
+    "Przytrzymaj ciężar w pozycji początkowej przez sekundę i powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kurzhantel-Überzug mit gestreckten Armen",
+  "instructions_de": [
+    "Platzieren Sie eine Kurzhantel hochkant auf einer Flachbank.",
+    "Vergewissern Sie sich, dass die Kurzhantel sicher am oberen Ende der Bank platziert ist. Legen Sie sich quer zur Bank, sodass nur Ihre Schultern auf der Oberfläche aufliegen. Ihr Rumpf sollte quer über die Bank liegen (wie bei der Bildung eines Kreuzes). Die Hüften sollten unterhalb der Bank sein, die Beine angewinkelt und die Füße fest auf dem Boden. Der Kopf wird ebenfalls von der Bank hängen.",
+    "Fassen Sie die Kurzhantel mit beiden Händen und halten Sie sie mit gestreckten Armen direkt über Ihrer Brust. Beide Handflächen sollten gegen die Unterseite einer der Hantelscheiben drücken. Dies ist Ihre Ausgangsposition.\nVorsicht: Stellen Sie immer sicher, dass die für diese Übung verwendete Kurzhantel sicher ist. Die Verwendung einer Kurzhantel mit lockeren Hantelscheiben kann dazu führen, dass die Hantel auseinanderfällt und Ihnen ins Gesicht fällt.",
+    "Halten Sie die Arme gestreckt und senken Sie das Gewicht langsam in einem Bogen hinter Ihren Kopf ab, während Sie einatmen, bis Sie eine Dehnung in der Brust spüren.",
+    "An diesem Punkt führen Sie die Kurzhantel entlang desselben Bogens, durch den das Gewicht abgesenkt wurde, in die Ausgangsposition zurück und atmen Sie aus, während Sie diese Bewegung ausführen.",
+    "Halten Sie das Gewicht für eine Sekunde in der Ausgangsposition und wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

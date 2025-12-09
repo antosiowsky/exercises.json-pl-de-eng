@@ -1,0 +1,44 @@
+{
+  "name": "Barbell Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+    "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps.",
+    "Slowly return to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Szrugsy ze sztangą",
+  "instructions_pl": [
+    "Stań prosto ze stopami rozstawionymi na szerokość barków, trzymając sztangę oburącz przed sobą chwytem pronowanym (dłonie skierowane w stronę ud). Wskazówka: Dłonie powinny być rozstawione nieco szerzej niż szerokość barków. Dla lepszego chwytu możesz użyć pasków na nadgarstki do tego ćwiczenia. To będzie Twoja pozycja wyjściowa.",
+    "Unieś barki tak wysoko, jak tylko potrafisz, wykonując wydech i przytrzymaj skurcz przez sekundę. Wskazówka: Powstrzymaj się od próby podnoszenia sztangi za pomocą mięśni dwugłowych ramienia.",
+    "Powoli wróć do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Schulterzucken",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, die Füße schulterbreit auseinander, während Sie eine Langhantel mit beiden Händen im Obergriff (Handflächen zeigen zu den Oberschenkeln) vor sich halten. Tipp: Ihre Hände sollten etwas weiter als schulterbreit auseinander sein. Für einen besseren Griff können Sie bei dieser Übung Zughilfen verwenden. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie Ihre Schultern so weit wie möglich nach oben, während Sie ausatmen, und halten Sie die Kontraktion für eine Sekunde. Tipp: Versuchen Sie nicht, die Langhantel mit dem Bizeps anzuheben.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

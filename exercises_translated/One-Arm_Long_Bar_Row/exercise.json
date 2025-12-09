@@ -1,0 +1,56 @@
+{
+  "name": "One-Arm Long Bar Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
+    "Stand next to the bar, and take a grip with one hand close to the collar. Using your hips and legs, rise to a standing position.",
+    "Assume a bent-knee stance with your hips back and your chest up. Your arm should be extended. This will be your starting position.",
+    "Pull the weight to your side by retracting the shoulder and flexing the elbow. Do not jerk the weight or cheat during the movement.",
+    "After a brief pause, return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą jednorącz w oporze",
+  "instructions_pl": [
+    "Umieść sztangę w uchwycie typu landmine lub w narożniku, aby ją ustabilizować. Załaduj odpowiedni ciężar na wolny koniec sztangi.",
+    "Stań obok sztangi i chwyć ją jedną ręką blisko kołnierza (tulei obciążeniowej). Używając bioder i nóg, podnieś się do pozycji stojącej.",
+    "Przyjmij pozycję ze zgiętymi kolanami, biodrami cofniętymi do tyłu i klatką piersiową uniesioną. Ramię powinno być wyprostowane. Będzie to Twoja pozycja początkowa.",
+    "Przyciągnij ciężar do boku, wykonując retrakcję łopatki i zginając staw łokciowy. Nie szarp ciężaru ani nie oszukuj podczas ruchu.",
+    "Po krótkiej pauzie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiges Langhantelrudern",
+  "instructions_de": [
+    "Positionieren Sie eine Langhantel in einem Landmine-Aufsatz oder in einer Ecke, um sie am Verrutschen zu hindern. Laden Sie ein passendes Gewicht auf Ihr Ende.",
+    "Stellen Sie sich neben die Langhantel und fassen Sie sie mit einer Hand nahe an der Hantelscheibenaufnahme. Nutzen Sie Ihre Hüften und Beine, um in eine stehende Position zu gelangen.",
+    "Nehmen Sie eine Position mit gebeugten Knien, zurückgeschobenen Hüften und aufgerichteter Brust ein. Ihr Arm sollte gestreckt sein. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie das Gewicht zur Seite, indem Sie die Schulter zurückziehen und den Ellbogen beugen. Reißen Sie nicht am Gewicht und schummeln Sie nicht während der Bewegung.",
+    "Kehren Sie nach einer kurzen Pause in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Latissimus"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Reverse Triceps Bench Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie back on a flat bench. Using a close, supinated grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked extended in front of you and perpendicular to the floor. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that as opposed to a regular bench press, you keep the elbows close to the torso at all times in order to maximize triceps involvement.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi leżąc chwytem odwrotnym na mięsień trójgłowy ramienia",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce. Używając wąskiego, supinowanego (odwrotnego) chwytu (na szerokość barków), zdejmij sztangę ze stojaków i trzymaj ją prosto nad sobą, z wyprostowanymi ramionami przed sobą i prostopadle do podłogi. To będzie Twoja pozycja początkowa.",
+    "Podczas wdechu, opuść sztangę powoli, aż poczujesz ją na środkowej części klatki piersiowej. Wskazówka: Upewnij się, że w przeciwieństwie do zwykłego wyciskania sztangi leżąc, przez cały czas utrzymujesz łokcie blisko tułowia, aby zmaksymalizować zaangażowanie mięśnia trójgłowego ramienia.",
+    "Po sekundowej pauzie, unieś sztangę z powrotem do pozycji początkowej podczas wydechu, wypychając ją mięśniami trójgłowymi ramienia. Zablokuj ramiona w pozycji skurczonej, przytrzymaj przez sekundę, a następnie zacznij ponownie powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń.",
+    "Po zakończeniu, odłóż sztangę z powrotem na stojaki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Reverses Trizeps-Bankdrücken",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank. Fassen Sie die Stange mit einem engen, supinierten Griff (etwa schulterbreit), heben Sie sie aus der Ablage und halten Sie sie mit gestreckten Armen senkrecht zum Boden über sich. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie ein und senken Sie die Stange langsam ab, bis Sie sie auf Ihrer mittleren Brust spüren. Tipp: Achten Sie darauf, dass Sie im Gegensatz zum regulären Bankdrücken die Ellbogen stets eng am Oberkörper halten, um die Beteiligung des Trizeps zu maximieren.",
+    "Nach einer Sekunde Pause führen Sie die Stange beim Ausatmen in die Ausgangsposition zurück und drücken Sie die Stange mit Ihren Trizepsmuskeln nach oben. Strecken Sie die Arme in der kontrahierten Position vollständig durch, halten Sie die Position für eine Sekunde und beginnen Sie dann erneut langsam mit dem Absenken. Tipp: Das Absenken sollte mindestens doppelt so lange dauern wie das Hochdrücken.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Stange zurück in die Ablage."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

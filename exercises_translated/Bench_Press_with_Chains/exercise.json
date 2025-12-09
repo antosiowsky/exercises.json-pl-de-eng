@@ -1,0 +1,56 @@
+{
+  "name": "Bench Press with Chains",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.",
+    "Lying on the bench, get your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement. However wide your grip, it should cover the ring on the bar.",
+    "Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart. Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.",
+    "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi leżąc z łańcuchami",
+  "instructions_pl": [
+    "Dostosuj łańcuch prowadzący, skracając go do pożądanej długości. Umieść łańcuchy na tulejach sztangi.",
+    "Połóż się na ławce, jeśli to możliwe, umieść głowę za sztangą. Podwiń stopy pod siebie i wygnij plecy w łuk. Używając sztangi do podparcia ciężaru ciała, unieś barki z ławki i zretraktuj je, ściągając łopatki razem. Użyj stóp, aby wcisnąć mięśnie czworoboczne grzbietu w ławkę. Utrzymuj tę napiętą pozycję ciała przez cały ruch. Niezależnie od szerokości chwytu, powinien on obejmować pierścień na sztandze.",
+    "Wyciągnij sztangę ze stojaków bez protrakcji barków. Skup się na ściskaniu sztangi i próbie jej rozerwania. Opuść sztangę do dolnej części klatki piersiowej lub górnej części brzucha. Sztanga, nadgarstek i łokieć powinny przez cały czas pozostawać w jednej linii.",
+    "Zatrzymaj ruch, gdy sztanga dotknie tułowia, a następnie wypchnij sztangę w górę z jak największą siłą. Łokcie powinny być schowane (przyciągnięte do ciała) aż do zablokowania stawu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie najszersze grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Bankdrücken mit Ketten",
+  "instructions_de": [
+    "Die Führungskette anpassen und auf die gewünschte Länge kürzen. Die Ketten auf die Scheibenaufnahmen der Hantelstange legen.",
+    "Auf der Bank liegend, den Kopf, wenn möglich, über die Hantel hinaus positionieren. Die Füße unter sich stellen und den Rücken wölben. Sich an der Hantel abstützen, um das Gewicht zu unterstützen, die Schultern von der Bank heben und zurückziehen, wobei die Schulterblätter zusammengezogen werden. Die Füße nutzen, um die Trapezmuskeln in die Bank zu drücken. Diese stabile Körperposition während der gesamten Bewegung beibehalten. Unabhängig von der Griffbreite sollte der Griff den Ring auf der Hantelstange bedecken.",
+    "Die Hantel aus dem Rack heben, ohne die Schultern zu protrahieren. Sich darauf konzentrieren, die Hantel fest zu umgreifen und zu versuchen, sie auseinanderzuziehen. Die Hantel zum unteren Brustbereich oder oberen Bauchbereich absenken. Hantel, Handgelenk und Ellbogen sollten jederzeit in einer Linie bleiben.",
+    "Pausieren, wenn die Hantel den Rumpf berührt, und dann die Hantel mit so viel Kraft wie möglich nach oben drücken. Die Ellbogen sollten bis zur vollständigen Streckung (Lockout) eng am Körper bleiben."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Latissimus dorsi",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Powerlifting"
+}

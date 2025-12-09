@@ -1,0 +1,53 @@
+{
+  "name": "Cable Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
+    "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
+    "After pausing at full extension, return to th starting position, keeping tension on the cables.",
+    "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyciskanie klatki piersiowej na wyciągu",
+  "instructions_pl": [
+    "Ustaw odpowiednie obciążenie i usiądź, chwytając uchwyty. Ramiona powinny znajdować się pod kątem około 45 stopni względem tułowia, z uniesioną głową i klatką piersiową. Łokcie powinny być zgięte pod kątem około 90 stopni. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij, prostując łokcie i dociskając uchwyty do siebie prosto przed sobą. Utrzymuj ściągnięte łopatki podczas wykonywania ruchu.",
+    "Po krótkiej pauzie w pełnym wyproście, wróć do pozycji początkowej, utrzymując napięcie na linkach wyciągu.",
+    "Możesz również wykonywać ten ruch bez oparcia pleców, na ławce skośnej w górę lub w dół, lub naprzemiennie rękami."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kabelbrustpresse",
+  "instructions_de": [
+    "Stellen Sie ein angemessenes Gewicht ein und setzen Sie sich hin, die Griffe fassend. Ihre Oberarme sollten etwa 45 Grad zum Körper ausgerichtet sein, Kopf und Brust aufrecht. Die Ellbogen sollten etwa 90 Grad gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie die Ellbogen strecken und die Griffe gerade vor sich zusammenpressen. Halten Sie Ihre Schulterblätter während der Ausführung der Bewegung retrahiert.",
+    "Nach einer kurzen Pause in der vollständigen Streckung kehren Sie in die Ausgangsposition zurück, unter Beibehaltung der Spannung auf den Kabeln.",
+    "Sie können diese Bewegung auch ohne Rückenlehne, in einer positiven oder negativen Neigung oder alternierend mit den Händen ausführen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

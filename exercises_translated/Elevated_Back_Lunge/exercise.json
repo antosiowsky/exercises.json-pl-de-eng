@@ -1,0 +1,53 @@
+{
+  "name": "Elevated Back Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Position a bar onto a rack at shoulder height loaded to an appropriate weight. Place a short, raised platform behind you.",
+    "Rack the bar onto your upper back, keeping your back arched and tight. Step onto your raised platform with both feet. This will be your starting position.",
+    "Begin by stepping backwards with one leg. Descend by flexing your hips and knees until your knee touches the floor.",
+    "Pause, and extend through the hips and knees to rise up, returning all the way to the starting position before alternating."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wykrok w tył na podwyższeniu",
+  "instructions_pl": [
+    "Ustaw sztangę na stojaku na wysokości barków, obciążoną odpowiednim ciężarem. Umieść krótką, podwyższoną platformę za sobą.",
+    "Załóż sztangę na górną część pleców, utrzymując plecy wygięte w łuk i napięte. Wejdź obiema stopami na podwyższoną platformę. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij, wykonując krok w tył jedną nogą. Opuść się, zginając stawy biodrowe i kolanowe, aż kolano dotknie podłogi.",
+    "Zatrzymaj się, a następnie wyprostuj stawy biodrowe i kolanowe, aby unieść się, wracając całkowicie do pozycji wyjściowej przed zmianą nogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Erhöhter Rückwärtiger Ausfallschritt",
+  "instructions_de": [
+    "Positioniere eine Langhantel auf einem Rack in Schulterhöhe, beladen mit einem angemessenen Gewicht. Stelle eine kurze, erhöhte Plattform hinter dich.",
+    "Nimm die Langhantel auf deinen oberen Rücken, halte deinen Rücken gewölbt und angespannt. Steige mit beiden Füßen auf die erhöhte Plattform. Dies ist deine Ausgangsposition.",
+    "Beginne, indem du mit einem Bein nach hinten trittst. Senke dich ab, indem du deine Hüften und Knie beugst, bis dein Knie den Boden berührt.",
+    "Halte kurz inne und strecke Hüften und Knie, um dich wieder aufzurichten, kehre vollständig in die Ausgangsposition zurück, bevor du die Seite wechselst."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

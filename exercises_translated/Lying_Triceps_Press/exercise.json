@@ -1,0 +1,47 @@
+{
+  "name": "Lying Triceps Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",
+    "Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.",
+    "As you breathe in, slowly lower the weight until the bar lightly touches your forehead while keeping the upper arms and elbows stationary.",
+    "At that point, use the triceps to bring the weight back up to the starting position as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Wyciskanie francuskie sztangi leżąc",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, ze sztangą łamaną (moja preferencja) lub prostą umieszczoną na podłodze za głową i stopami opartymi o podłogę.",
+    "Chwyć sztangę za sobą, używając średniego nachwytu, i unieś ją przed siebie na wyprostowanych ramionach. Wskazówka: Ramiona powinny być prostopadłe do tułowia i podłogi. Łokcie powinny być blisko tułowia. To jest pozycja początkowa.",
+    "Podczas wdechu powoli opuść ciężar, aż sztanga lekko dotknie czoła, utrzymując ramiona i łokcie nieruchomo.",
+    "W tym momencie użyj mięśni trójgłowych ramienia, aby unieść ciężar z powrotem do pozycji początkowej podczas wydechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Liegendes Trizepsdrücken",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank, wobei eine SZ-Stange (meine Präferenz) oder eine gerade Langhantel auf dem Boden hinter Ihrem Kopf liegt und Ihre Füße auf dem Boden stehen.",
+    "Greifen Sie die Stange hinter sich mit einem mittleren Obergriff (proniert) und heben Sie die Stange auf Armeslänge vor sich an. Tipp: Die Arme sollten senkrecht zum Oberkörper und zum Boden stehen. Die Ellenbogen sollten eng am Körper anliegen. Dies ist die Ausgangsposition.",
+    "Während Sie einatmen, senken Sie das Gewicht langsam ab, bis die Stange leicht Ihre Stirn berührt, während Sie die Oberarme und Ellenbogen stationär halten.",
+    "An diesem Punkt nutzen Sie den Trizeps, um das Gewicht während des Ausatmens zurück in die Ausgangsposition zu bringen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

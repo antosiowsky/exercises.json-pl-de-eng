@@ -1,0 +1,41 @@
+{
+  "name": "Leg-Up Hamstring Stretch",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
+    "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
+    "Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni kulszowo-goleniowych z uniesioną kończyną dolną",
+  "instructions_pl": [
+    "Połóż się płasko na plecach, zegnij jedno kolano i postaw stopę płasko na podłodze, aby ustabilizować kręgosłup.",
+    "Wyprostuj drugą kończynę dolną w powietrzu. Jeśli masz ograniczoną elastyczność, możesz nie być w stanie jej całkowicie wyprostować. To normalne. Wyprostuj kolano tak, aby podeszwa uniesionej stopy była skierowana w stronę sufitu (lub jak najbliżej tego położenia).",
+    "Powoli wyprostuj kończynę dolną tak bardzo, jak to możliwe, a następnie przyciągnij ją w kierunku nosa. Zmień stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung der ischiocruralen Muskulatur mit Beinhebung",
+  "instructions_de": [
+    "Legen Sie sich flach auf den Rücken. Beugen Sie ein Knie und stellen Sie den Fuß flach auf den Boden, um Ihre Wirbelsäule zu stabilisieren.",
+    "Strecken Sie das andere Bein in die Luft. Wenn Sie verspannt sind, können Sie es möglicherweise nicht vollständig strecken. Das ist in Ordnung. Strecken Sie das Knie so, dass die Fußsohle des gehobenen Fußes zur Decke zeigt (oder so nah wie möglich daran).",
+    "Strecken Sie das Bein langsam so weit wie möglich durch und ziehen Sie es dann in Richtung Ihrer Nase. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Incline Inner Biceps Curl",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a dumbbell in each hand and lie back on an incline bench.",
+    "The dumbbells should be at arm's length hanging at your sides and your palms should be facing out. This will be your starting position.",
+    "Now as you exhale curl the weight outward and up while keeping your forearms in line with your side deltoids. Continue the curl until the dumbbells are at shoulder height and to the sides of your deltoids. Tip: The end of the movement should look similar to a double biceps pose.",
+    "After a second contraction at the top of the movement, start to inhale and slowly lower the weights back to the starting position using the same path used to bring them up.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Skośne uginanie ramion z hantlami z prowadzeniem na zewnątrz",
+  "instructions_pl": [
+    "Chwyć hantel w każdą dłoń i połóż się na ławce skośnej.",
+    "Hantle powinny zwisać na wyciągniętych ramionach po bokach ciała, a dłonie powinny być skierowane na zewnątrz. Będzie to Twoja pozycja początkowa.",
+    "Teraz, wykonując wydech, uginaj ramiona, prowadząc ciężar na zewnątrz i w górę, utrzymując przedramiona w linii z bocznymi częściami mięśni naramiennych. Kontynuuj uginanie, aż hantle znajdą się na wysokości barków i po bokach mięśni naramiennych. Wskazówka: Końcowa faza ruchu powinna przypominać pozę podwójnego bicepsa.",
+    "Po sekundowym skurczu w szczytowej fazie ruchu, zacznij wykonywać wdech i powoli opuszczaj ciężary z powrotem do pozycji początkowej, tą samą ścieżką, którą zostały uniesione.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Schrägbank-Bizepscurl mit innerer Betonung",
+  "instructions_de": [
+    "Nimm in jede Hand eine Kurzhantel und lege dich auf eine Schrägbank.",
+    "Die Kurzhanteln sollten mit ausgestreckten Armen seitlich von dir hängen, wobei deine Handflächen nach außen zeigen. Dies ist deine Ausgangsposition.",
+    "Atme nun aus und führe das Gewicht nach außen und oben, während du deine Unterarme auf einer Linie mit den Musculi deltoidei partes acromiales hältst. Setze den Curl fort, bis sich die Kurzhanteln auf Schulterhöhe und seitlich der Musculi deltoidei befinden. Tipp: Das Ende der Bewegung sollte einer Doppel-Bizeps-Pose ähneln.",
+    "Nach einer einsekündigen Kontraktion am oberen Punkt der Bewegung beginne einzuatmen und senke die Gewichte langsam auf dem gleichen Weg, den du zum Anheben verwendet hast, zurück in die Ausgangsposition.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

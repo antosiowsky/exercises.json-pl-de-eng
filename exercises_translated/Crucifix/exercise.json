@@ -1,0 +1,44 @@
+{
+  "name": "Crucifix",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "In the crucifix, you statically hold weights out to the side for time. While the event can be practiced using dumbbells, it is best to practice with one of the various implements used, such as axes and hammers, as it feels different.",
+    "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Krucyfiks",
+  "instructions_pl": [
+    "W krucyfiksie statycznie utrzymujesz ciężary rozłożone na boki przez określony czas. Chociaż to wydarzenie można ćwiczyć z hantlami, najlepiej jest trenować z jednym z różnych używanych przyrządów, takich jak siekiery i młoty, ponieważ daje to inne odczucia.",
+    "Rozpocznij w pozycji stojącej i unieś ramiona na boki, trzymając przyrządy. Twoje ramiona powinny być równoległe do podłoża. W zawodach sędziowie lub czujniki są używane, aby poinformować Cię, kiedy przekroczysz linię równoległą. Utrzymuj pozycję tak długo, jak potrafisz. Zazwyczaj ciężary powinny być wystarczająco ciężkie, aby doprowadzić do wyczerpania w ciągu 30-60 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Crucifix",
+  "instructions_de": [
+    "Beim Crucifix hält man Gewichte statisch seitlich für eine bestimmte Zeit. Obwohl die Disziplin mit Kurzhanteln geübt werden kann, ist es am besten, mit einem der verschiedenen verwendeten Geräte wie Äxten und Hämmern zu üben, da sich dies anders anfühlt.",
+    "Beginnen Sie im Stehen und heben Sie Ihre Arme seitlich an, während Sie die Geräte halten. Ihre Arme sollten parallel zum Boden sein. Im Wettkampf werden Kampfrichter oder Sensoren eingesetzt, um Sie darauf hinzuweisen, wenn Sie die Parallelposition unterschreiten. Halten Sie so lange wie möglich. Typischerweise sollten die Gewichte schwer genug sein, dass Sie nach 30-60 Sekunden versagen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Strongman"
+}

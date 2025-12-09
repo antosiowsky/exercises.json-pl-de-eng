@@ -1,0 +1,47 @@
+{
+  "name": "Body Tricep Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Position a bar in a rack at chest height.",
+    "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",
+    "Begin by flexing the elbow, lowering yourself towards the bar.",
+    "Pause, and then reverse the motion by extending the elbows.",
+    "Progress from bodyweight by adding chains over your shoulders."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wyciskanie na triceps z masą ciała",
+  "instructions_pl": [
+    "Ustaw sztangę w stojaku na wysokości klatki piersiowej.",
+    "Stojąc, chwyć sztangę na szerokość barków i cofnij się o metr lub dwa, stopy razem i ramiona wyprostowane, tak aby opierać się na sztandze. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij od zgięcia łokci, opuszczając się w kierunku sztangi.",
+    "Zatrzymaj się, a następnie odwróć ruch, prostując łokcie.",
+    "Zwiększaj trudność, dodając łańcuchy na barki."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Körpergewicht-Trizepsdrücken",
+  "instructions_de": [
+    "Positionieren Sie eine Stange in einem Rack auf Brusthöhe.",
+    "Stellen Sie sich hin, fassen Sie die Stange schulterbreit und treten Sie ein bis zwei Meter zurück. Die Füße sind zusammen und die Arme ausgestreckt, sodass Sie sich auf die Stange lehnen. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie die Ellbogen beugen und sich zur Stange hin absenken.",
+    "Pausieren Sie kurz und kehren Sie dann die Bewegung um, indem Sie die Ellbogen strecken.",
+    "Erhöhen Sie den Widerstand über das Körpergewicht hinaus, indem Sie Ketten über Ihre Schultern legen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

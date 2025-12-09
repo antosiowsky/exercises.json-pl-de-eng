@@ -1,0 +1,53 @@
+{
+  "name": "Seated Calf Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Sit up straight on an exercise mat.",
+    "Bend one knee and put that foot on the floor to stabilize the torso.",
+    "Straighten your other leg and flex your ankle.",
+    "Using a band, towel, or your hand if you can reach, pull the toes toward you. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni łydki w pozycji siedzącej",
+  "instructions_pl": [
+    "Usiądź prosto na macie do ćwiczeń.",
+    "Zegnij jedno kolano i postaw stopę na podłodze, aby ustabilizować tułów.",
+    "Wyprostuj drugą nogę i wykonaj zgięcie grzbietowe w stawie skokowym.",
+    "Używając taśmy, ręcznika lub dłoni (jeśli jesteś w stanie dosięgnąć), przyciągnij palce stopy do siebie. Utrzymaj pozycję przez 10 do 20 sekund, a następnie zmień stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (odcinek lędźwiowy)"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Sitzende Wadenmuskeldehnung",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf eine Übungsmatte.",
+    "Beugen Sie ein Knie und stellen Sie den entsprechenden Fuß auf den Boden, um den Rumpf zu stabilisieren.",
+    "Strecken Sie Ihr anderes Bein aus und ziehen Sie die Fußspitze zu sich heran.",
+    "Verwenden Sie ein Band, ein Handtuch oder Ihre Hand, falls Sie sie erreichen können, und ziehen Sie die Zehen zu sich heran. Halten Sie die Dehnung für 10 bis 20 Sekunden und wechseln Sie dann die Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur",
+    "Lumbale Rückenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

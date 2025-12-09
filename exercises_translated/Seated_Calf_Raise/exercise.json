@@ -1,0 +1,50 @@
+{
+  "name": "Seated Calf Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter.",
+    "Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward.",
+    "Lift the lever slightly by pushing your heels up and release the safety bar. This will be your starting position.",
+    "Slowly lower your heels by bending at the ankles until the calves are fully stretched. Inhale as you perform this movement.",
+    "Raise the heels by extending the ankles as high as possible as you contract the calves and breathe out. Hold the top contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wspięcia łydek siedząc",
+  "instructions_pl": [
+    "Usiądź na maszynie i umieść palce stóp na dolnej części platformy, tak aby pięty wystawały poza nią. Wybierz preferowane ułożenie palców (skierowane do przodu, do wewnątrz lub na zewnątrz), zgodnie z opisem na początku tego rozdziału.",
+    "Umieść dolną część ud pod poduszką dźwigni, którą należy dostosować do wysokości Twoich ud. Następnie połóż dłonie na poduszce dźwigni, aby zapobiec jej zsunięciu się do przodu.",
+    "Lekko unieś dźwignię, unosząc pięty do góry, i zwolnij blokadę bezpieczeństwa. Będzie to Twoja pozycja początkowa.",
+    "Powoli opuść pięty, zginając stawy skokowe, aż mięśnie łydek zostaną w pełni rozciągnięte. Wykonując ten ruch, zrób wdech.",
+    "Unieś pięty, prostując stawy skokowe tak wysoko, jak to możliwe, jednocześnie napinając mięśnie łydek i wydychając powietrze. Przytrzymaj maksymalne napięcie przez sekundę.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Wadenheben",
+  "instructions_de": [
+    "Setzen Sie sich an die Maschine und platzieren Sie Ihre Zehen auf dem unteren Teil der vorgesehenen Plattform, wobei die Fersen überstehen. Wählen Sie die Zehenpositionierung Ihrer Wahl (nach vorne, nach innen oder nach außen), wie zu Beginn dieses Kapitels beschrieben.",
+    "Platzieren Sie Ihre unteren Oberschenkel unter dem Hebelpolster, das entsprechend der Höhe Ihrer Oberschenkel angepasst werden muss. Legen Sie nun Ihre Hände auf das Hebelpolster, um ein Abrutschen nach vorne zu verhindern.",
+    "Heben Sie den Hebel leicht an, indem Sie Ihre Fersen nach oben drücken, und lösen Sie die Sicherheitsstange. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie Ihre Fersen langsam, indem Sie die Sprunggelenke beugen, bis die Wadenmuskulatur vollständig gedehnt ist. Atmen Sie während dieser Bewegung ein.",
+    "Heben Sie die Fersen, indem Sie die Sprunggelenke so hoch wie möglich strecken, während Sie die Wadenmuskulatur kontrahieren und ausatmen. Halten Sie die maximale Kontraktion für eine Sekunde.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

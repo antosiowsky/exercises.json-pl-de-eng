@@ -1,0 +1,50 @@
+{
+  "name": "Low Cable Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Select the desired weight and lay down face up on the bench of a seated row machine that has a rope attached to it. Your head should be pointing towards the attachment.",
+    "Grab the outside of the rope ends with your palms facing each other (neutral grip).",
+    "Position your elbows so that they are bent at a 90 degree angle and your upper arms are perpendicular (90 degree angle) to your torso. Tip: Keep the elbows in and make sure that the upper arms point to the ceiling while your forearms point towards the pulley above your head. This will be your starting position.",
+    "As you breathe out, extend your lower arms until they are straight and vertical. The upper arms and elbows remain stationary throughout the movement. Only the forearms should move. Contract the triceps hard for a second.",
+    "As you breathe in slowly return to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprost tricepsa na wyciągu dolnym",
+  "instructions_pl": [
+    "Wybierz odpowiednie obciążenie i połóż się na plecach na ławce maszyny do wiosłowania siedząc, do której przymocowana jest lina. Głowa powinna być skierowana w stronę punktu mocowania.",
+    "Chwyć zewnętrzne końce liny, dłońmi skierowanymi do siebie (chwyt neutralny).",
+    "Ustaw łokcie tak, aby były zgięte pod kątem 90 stopni, a ramiona były prostopadłe (kąt 90 stopni) do tułowia. Wskazówka: Trzymaj łokcie blisko ciała i upewnij się, że ramiona są skierowane w stronę sufitu, podczas gdy przedramiona wskazują na bloczek nad twoją głową. Będzie to twoja pozycja początkowa.",
+    "Podczas wydechu wyprostuj przedramiona, aż będą proste i pionowe. Ramiona i łokcie pozostają nieruchome przez cały ruch. Poruszają się tylko przedramiona. Mocno napnij mięsień trójgłowy ramienia na sekundę.",
+    "Podczas wdechu powoli wróć do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Trizepsstrecken am tiefen Kabelzug",
+  "instructions_de": [
+    "Wählen Sie das gewünschte Gewicht und legen Sie sich mit dem Gesicht nach oben auf die Bank einer Rudermaschine im Sitzen, an der ein Seil befestigt ist. Ihr Kopf sollte zum Befestigungspunkt zeigen.",
+    "Fassen Sie die äußeren Enden des Seils mit den Handflächen zueinander zeigend (neutraler Griff).",
+    "Positionieren Sie Ihre Ellbogen so, dass sie in einem 90-Grad-Winkel gebeugt sind und Ihre Oberarme senkrecht (90-Grad-Winkel) zum Oberkörper stehen. Tipp: Halten Sie die Ellbogen eng beieinander und stellen Sie sicher, dass die Oberarme zur Decke zeigen, während Ihre Unterarme zum Kabelzug über Ihrem Kopf zeigen. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen strecken Sie Ihre Unterarme, bis sie gerade und vertikal sind. Die Oberarme und Ellbogen bleiben während der gesamten Bewegung stationär. Nur die Unterarme sollten sich bewegen. Kontrahieren Sie den Musculus triceps brachii für eine Sekunde kräftig.",
+    "Beim Einatmen kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

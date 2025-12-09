@@ -1,0 +1,53 @@
+{
+  "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing two dumbbells on one side of a flat bench.",
+    "Kneel down on both of your knees so that your body is facing the flat bench.",
+    "Use your arms to grab both of the dumbbells with a supinated grip (palms up) and bring them up so that your forearms are resting against the flat bench. Your wrists should be hanging over the edge.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie nadgarstków z hantlami chwytem supinacyjnym na ławce",
+  "instructions_pl": [
+    "Rozpocznij od położenia dwóch hantli po jednej stronie płaskiej ławki.",
+    "Uklęknij na obu kolanach tak, aby twoje ciało było zwrócone w stronę płaskiej ławki.",
+    "Użyj ramion, aby chwycić obie hantle chwytem supinacyjnym (dłonie skierowane w górę) i unieś je tak, aby twoje przedramiona spoczywały na płaskiej ławce. Twoje nadgarstki powinny zwisać poza krawędź.",
+    "Rozpocznij od ugięcia nadgarstków w górę, wykonując wydech.",
+    "Powoli opuść nadgarstki z powrotem do pozycji początkowej, wykonując wdech. Upewnij się, że wykonujesz wdech podczas tej części ćwiczenia.",
+    "Twoje przedramiona powinny pozostać nieruchome, ponieważ ruch nadgarstków jest jedynym ruchem wymaganym do wykonania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Handgelenkscurl mit Kurzhanteln im Supinationsgriff über eine Flachbank",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie zwei Kurzhanteln auf einer Seite einer Flachbank ablegen.",
+    "Knien Sie sich auf beide Knie, sodass Ihr Körper der Flachbank zugewandt ist.",
+    "Greifen Sie mit Ihren Armen beide Kurzhanteln im Supinationsgriff (Handflächen nach oben) und heben Sie sie so an, dass Ihre Unterarme auf der Flachbank aufliegen. Ihre Handgelenke sollten über den Rand hängen.",
+    "Beginnen Sie, Ihr Handgelenk nach oben zu beugen und dabei auszuatmen.",
+    "Senken Sie Ihre Handgelenke langsam wieder in die Ausgangsposition ab, während Sie einatmen. Achten Sie darauf, während dieses Teils der Übung einzuatmen.",
+    "Ihre Unterarme sollten stationär bleiben, da nur das Handgelenk für diese Übung bewegt werden muss.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

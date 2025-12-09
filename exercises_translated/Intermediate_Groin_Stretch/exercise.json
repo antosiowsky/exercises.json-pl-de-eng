@@ -1,0 +1,38 @@
+{
+  "name": "Intermediate Groin Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back with your legs extended. Loop a belt, rope, or band around one of your feet, and swing that leg as far to the side as you can. This will be your starting position.",
+    "Pull gently on the belt to create tension in your groin and hamstring muscles. Hold for 10-20 seconds, and repeat on the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie Pachwin (Poziom Średniozaawansowany)",
+  "instructions_pl": [
+    "Połóż się na plecach z wyprostowanymi nogami. Owiń pas, linę lub taśmę wokół jednej stopy i odwiedź tę nogę jak najdalej na bok. Będzie to Twoja pozycja wyjściowa.",
+    "Delikatnie pociągnij za pas, aby wytworzyć napięcie w mięśniach pachwiny i mięśniach kulszowo-goleniowych. Utrzymaj przez 10-20 sekund i powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Adduktorendehnung (Mittelstufe)",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken, die Beine ausgestreckt. Schlingen Sie einen Gürtel, ein Seil oder ein Band um einen Ihrer Füße und schwingen Sie dieses Bein so weit wie möglich zur Seite. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie sanft am Gürtel, um eine Dehnung in Ihren Adduktoren und der Ischiocruralen Muskulatur zu erzeugen. Halten Sie die Position für 10-20 Sekunden und wiederholen Sie die Übung auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

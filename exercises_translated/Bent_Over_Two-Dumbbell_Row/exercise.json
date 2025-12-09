@@ -1,0 +1,56 @@
+{
+  "name": "Bent Over Two-Dumbbell Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "With a dumbbell in each hand (palms facing your torso), bend your knees slightly and bring your torso forward by bending at the waist; as you bend make sure to keep your back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+    "While keeping the torso stationary, lift the dumbbells to your side (as you breathe out), keeping the elbows close to the body (do not exert any force with the forearm other than holding the weights). On the top contracted position, squeeze the back muscles and hold for a second.",
+    "Slowly lower the weight again to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wiosłowanie sztangielkami w opadzie tułowia",
+  "instructions_pl": [
+    "Trzymając sztangielkę w każdej dłoni (dłonie skierowane do tułowia), lekko ugnij kolana i pochyl tułów do przodu, zginając się w pasie; podczas pochylania upewnij się, że plecy są proste, aż tułów będzie niemal równoległy do podłogi. Wskazówka: Upewnij się, że głowa jest uniesiona. Ciężary powinny swobodnie zwisać bezpośrednio przed tobą, gdy ramiona zwisają prostopadle do podłogi i tułowia. To jest pozycja wyjściowa.",
+    "Utrzymując tułów nieruchomo, unieś sztangielki do boku tułowia (podczas wydechu), trzymając łokcie blisko ciała (nie używaj siły przedramion poza utrzymywaniem ciężarów). W górnej, skurczonej pozycji, mocno ściśnij mięśnie pleców i przytrzymaj przez sekundę.",
+    "Powoli opuść ciężar z powrotem do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Vorgebeugtes Kurzhantelrudern",
+  "instructions_de": [
+    "Nehmen Sie in jede Hand eine Kurzhantel (Handflächen zeigen zum Oberkörper). Beugen Sie die Knie leicht und beugen Sie den Oberkörper aus der Hüfte nach vorne. Achten Sie beim Beugen darauf, den Rücken gerade zu halten, bis er nahezu parallel zum Boden ist. Tipp: Achten Sie darauf, den Kopf oben zu halten. Die Gewichte sollten direkt vor Ihnen hängen, während Ihre Arme senkrecht zum Boden und zu Ihrem Oberkörper hängen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den Oberkörper stabil und heben Sie die Kurzhanteln seitlich nach oben (während Sie ausatmen). Halten Sie die Ellbogen nah am Körper (üben Sie mit den Unterarmen keine andere Kraft aus, als die Gewichte zu halten). In der obersten, kontrahierten Position spannen Sie die Rückenmuskulatur an und halten die Spannung für eine Sekunde.",
+    "Senken Sie die Gewichte langsam wieder in die Ausgangsposition ab, während Sie einatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Foot-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "This exercise stretches the fascia of the muscles in the feet. Start off seated with your shoes removed. Using a foot roller or a similar object, such as a small section of pvc pipe, place your foot against the roller across the arch of your foot. This will be your starting position.",
+    "Press down firmly, rolling across the arch of your foot. Hold for 10-30 seconds, and then switch feet."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Automasaż Mięśniowo-Powięziowy Stopy",
+  "instructions_pl": [
+    "To ćwiczenie rozciąga powięź mięśni stóp. Rozpocznij w pozycji siedzącej, ze zdjętymi butami. Używając rollera do stóp lub podobnego przedmiotu, np. krótkiego odcinka rury PCV, umieść stopę na rollerze, tak aby znajdował się on w poprzek łuku stopy. Będzie to Twoja pozycja wyjściowa.",
+    "Naciśnij mocno, przetaczając roller wzdłuż łuku stopy. Przytrzymaj przez 10-30 sekund, a następnie zmień stopę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Fuß-SMR",
+  "instructions_de": [
+    "Diese Übung dehnt die Faszien der Fußmuskulatur. Beginnen Sie sitzend und ohne Schuhe. Verwenden Sie eine Fußrolle oder einen ähnlichen Gegenstand, wie z.B. ein kurzes PVC-Rohr. Legen Sie Ihren Fuß mit dem Fußgewölbe auf die Rolle. Dies ist Ihre Ausgangsposition.",
+    "Drücken Sie fest nach unten und rollen Sie über das Fußgewölbe. Halten Sie die Position für 10-30 Sekunden und wechseln Sie dann den Fuß."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

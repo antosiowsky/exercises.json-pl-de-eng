@@ -1,0 +1,65 @@
+{
+  "name": "One-Arm Dumbbell Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Choose a flat bench and place a dumbbell on each side of it.",
+    "Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.",
+    "Use the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position.",
+    "Pull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms.",
+    "Lower the resistance straight down to the starting position. Breathe in as you perform this step.",
+    "Repeat the movement for the specified amount of repetitions.",
+    "Switch sides and repeat again with the other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wiosłowanie hantlem jednorącz",
+  "instructions_pl": [
+    "Wybierz płaską ławkę i umieść hantel po każdej jej stronie.",
+    "Umieść prawą nogę na końcu ławki, pochyl tułów do przodu z bioder, aż górna część ciała będzie równoległa do podłogi, i oprzyj prawą dłoń na drugim końcu ławki dla wsparcia.",
+    "Lewą ręką podnieś hantel z podłogi i trzymaj ciężar, utrzymując prosty odcinek lędźwiowy kręgosłupa. Dłoń powinna być skierowana w stronę tułowia. Będzie to Twoja pozycja wyjściowa.",
+    "Przyciągnij ciężar prosto w górę, do boku klatki piersiowej, utrzymując ramię blisko tułowia i stabilizując tułów. Wykonując ten krok, wydychaj powietrze. Wskazówka: Skoncentruj się na maksymalnym napięciu mięśni pleców po osiągnięciu pełnego skurczu. Upewnij się również, że ruch jest wykonywany mięśniami pleców, a nie ramionami. Ostatecznie, górna część tułowia powinna pozostać nieruchoma, a poruszać się powinny tylko ramiona. Przedramiona nie powinny wykonywać żadnej innej pracy poza trzymaniem hantla; dlatego nie próbuj podciągać hantla używając przedramion.",
+    "Opuść ciężar prosto w dół do pozycji wyjściowej. Wykonując ten krok, wdychaj powietrze.",
+    "Powtórz ruch określoną liczbę powtórzeń.",
+    "Zmień strony i powtórz ćwiczenie drugą ręką."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu",
+    "Mięsień naramienny"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiges Kurzhantelrudern",
+  "instructions_de": [
+    "Wählen Sie eine Flachbank und legen Sie auf jeder Seite eine Kurzhantel ab.",
+    "Platzieren Sie das rechte Bein auf dem Ende der Bank, beugen Sie Ihren Oberkörper aus der Taille nach vorne, bis Ihr Oberkörper parallel zum Boden ist, und legen Sie Ihre rechte Hand zur Unterstützung auf das andere Ende der Bank.",
+    "Nehmen Sie mit der linken Hand die Kurzhantel vom Boden auf und halten Sie das Gewicht, während Sie Ihren unteren Rücken gerade halten. Die Handfläche sollte zu Ihrem Oberkörper zeigen. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie den Widerstand gerade nach oben zur Seite Ihrer Brust, halten Sie dabei Ihren Oberarm eng am Körper und den Rumpf stabil. Atmen Sie bei dieser Bewegung aus. Tipp: Konzentrieren Sie sich darauf, die Rückenmuskulatur anzuspannen, sobald Sie die vollständig kontrahierte Position erreicht haben. Stellen Sie außerdem sicher, dass die Kraft von der Rückenmuskulatur und nicht von den Armen ausgeht. Schließlich sollte der obere Rumpf stabil bleiben und sich nur die Arme bewegen. Die Unterarme sollten keine andere Arbeit leisten, außer die Kurzhantel zu halten; versuchen Sie daher nicht, die Kurzhantel mit den Unterarmen hochzuziehen.",
+    "Senken Sie den Widerstand gerade nach unten in die Ausgangsposition ab. Atmen Sie bei dieser Bewegung ein.",
+    "Wiederholen Sie die Bewegung für die angegebene Anzahl von Wiederholungen.",
+    "Wechseln Sie die Seiten und wiederholen Sie die Übung mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

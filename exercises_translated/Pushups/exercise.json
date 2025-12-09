@@ -1,0 +1,53 @@
+{
+  "name": "Pushups",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
+    "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
+    "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
+    "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompki",
+  "instructions_pl": [
+    "Połóż się na podłodze twarzą w dół i rozstaw dłonie na szerokość około 90 cm, utrzymując tułów uniesiony na wyprostowanych ramionach.",
+    "Następnie opuść tułów w dół, aż klatka piersiowa prawie dotknie podłogi, wykonując wdech.",
+    "Teraz wykonaj wydech i unieś górną część ciała z powrotem do pozycji początkowej, jednocześnie napinając mięśnie piersiowe.",
+    "Po krótkiej pauzie w górnej, skurczonej pozycji, możesz ponownie opuścić tułów w dół, wykonując tyle powtórzeń, ile potrzeba."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Liegestütze",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf den Boden und platzieren Sie Ihre Hände etwa 90 cm (36 Zoll) auseinander, während Sie Ihren Oberkörper mit ausgestreckten Armen abstützen.",
+    "Senken Sie sich anschließend ab, bis Ihre Brust fast den Boden berührt, während Sie einatmen.",
+    "Atmen Sie nun aus und drücken Sie Ihren Oberkörper zurück in die Ausgangsposition, wobei Sie Ihre Brustmuskulatur anspannen.",
+    "Nach einer kurzen Pause in der obersten, kontrahierten Position können Sie sich erneut absenken für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskel",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

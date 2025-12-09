@@ -1,0 +1,53 @@
+{
+  "name": "Lying Dumbbell Tricep Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
+    "As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.",
+    "At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Francuskie wyciskanie z hantlami leżąc",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, trzymając dwie hantle bezpośrednio przed sobą. Ramiona powinny być w pełni wyprostowane, tworząc kąt 90 stopni względem tułowia i podłogi. Dłonie powinny być skierowane do siebie, a łokcie trzymane blisko ciała. Jest to pozycja wyjściowa.",
+    "Podczas wdechu, utrzymując górne części ramion nieruchomo i łokcie blisko ciała, powoli opuść ciężar, aż hantle znajdą się blisko uszu.",
+    "W tym momencie, utrzymując łokcie blisko ciała i górne części ramion nieruchomo, użyj mięśni trójgłowych ramion, aby podnieść ciężar z powrotem do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz ćwiczenie dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Liegendes Kurzhantel-Trizepsstrecken",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank, während Sie zwei Kurzhanteln direkt vor sich halten. Ihre Arme sollten vollständig gestreckt sein und einen 90-Grad-Winkel zu Ihrem Oberkörper und zum Boden bilden. Die Handflächen sollten zueinander zeigen und die Ellbogen sollten eng gehalten werden. Dies ist die Ausgangsposition.",
+    "Während Sie einatmen und die Oberarme stationär mit eng gehaltenen Ellbogen halten, senken Sie das Gewicht langsam ab, bis sich die Kurzhanteln in der Nähe Ihrer Ohren befinden.",
+    "An diesem Punkt, während Sie die Ellbogen eng halten und die Oberarme stationär lassen, nutzen Sie den Musculus triceps brachii, um das Gewicht beim Ausatmen wieder in die Ausgangsposition zu bringen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Krafttraining"
+}

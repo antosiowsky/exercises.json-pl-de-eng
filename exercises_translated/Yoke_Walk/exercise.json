@@ -1,0 +1,65 @@
+{
+  "name": "Yoke Walk",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "The yoke is usually done with a yoke apparatus, but is sometimes seen with refrigerators or other heavy objects.",
+    "Begin by racking the apparatus across the back of the shoulders. With your head looking forward and back arched, lift the yoke by driving through the heels.",
+    "Begin walking as quickly as possible using short, quick steps. You may hold the side posts of the yoke to help steady it and hold it in position. Continue for the given distance as fast as possible, usually 75-100 feet."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Spacer z jarzmem",
+  "instructions_pl": [
+    "Ćwiczenie z jarzmem zazwyczaj wykonuje się z użyciem specjalnego sprzętu (jarzma), ale czasami widuje się je z lodówkami lub innymi ciężkimi przedmiotami.",
+    "Rozpocznij, umieszczając jarzmo na karku, opierając je na tylnej części barków. Z głową skierowaną do przodu i plecami wygiętymi w łuk, unieś jarzmo, napierając na pięty.",
+    "Rozpocznij marsz tak szybko, jak to możliwe, używając krótkich, szybkich kroków. Możesz trzymać boczne słupki jarzma, aby pomóc je ustabilizować i utrzymać w pozycji. Kontynuuj na zadaną odległość tak szybko, jak to możliwe, zazwyczaj 75-100 stóp."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie lędźwiowe"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Jochgang",
+  "instructions_de": [
+    "Der Jochgang wird üblicherweise mit einem Joch-Gerät ausgeführt, ist aber manchmal auch mit Kühlschränken oder anderen schweren Objekten zu sehen.",
+    "Beginnen Sie, indem Sie das Gerät auf dem oberen Rücken (Schultern) positionieren. Mit dem Kopf nach vorne gerichtet und einem leicht gewölbten Rücken heben Sie das Joch an, indem Sie sich durch die Fersen abdrücken.",
+    "Beginnen Sie so schnell wie möglich zu gehen, indem Sie kurze, schnelle Schritte machen. Sie können die seitlichen Pfosten des Jochs festhalten, um es zu stabilisieren und in Position zu halten. Gehen Sie die vorgegebene Distanz so schnell wie möglich weiter, üblicherweise 75-100 Fuß (ca. 23-30 Meter)."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Muskulatur des unteren Rückens"
+  ],
+  "category_de": "Strongman"
+}

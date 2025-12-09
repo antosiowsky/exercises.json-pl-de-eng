@@ -1,0 +1,53 @@
+{
+  "name": "Band Pull Apart",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with your arms extended straight out in front of you, holding the band with both hands.",
+    "Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.",
+    "Keep your elbows extended as you perform the movement, bringing the band to your chest. Ensure that you keep your shoulders back during the exercise.",
+    "Pause as you complete the movement, returning to the starting position under control."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Rozciąganie taśmy oporowej",
+  "instructions_pl": [
+    "Rozpocznij z ramionami wyprostowanymi prosto przed sobą, trzymając taśmę oporową obiema rękami.",
+    "Rozpocznij ruch, wykonując odwrotne rozpiętki, odwodząc dłonie na boki.",
+    "Utrzymuj łokcie wyprostowane podczas wykonywania ruchu, przyciągając taśmę do klatki piersiowej. Upewnij się, że barki są ściągnięte w tył przez cały czas trwania ćwiczenia.",
+    "Zatrzymaj ruch w jego końcowej fazie, a następnie wróć do pozycji początkowej w kontrolowany sposób."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie środkowej części grzbietu",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Band-Auseinanderziehen",
+  "instructions_de": [
+    "Beginnen Sie mit ausgestreckten Armen direkt vor dem Körper, das Band mit beiden Händen haltend.",
+    "Leiten Sie die Bewegung ein, indem Sie eine Reverse-Fly-Bewegung ausführen und die Hände seitlich vom Körper wegführen.",
+    "Halten Sie die Ellbogen während der Bewegung gestreckt und führen Sie das Band zur Brust. Achten Sie darauf, die Schultern während der gesamten Übung zurückzuziehen.",
+    "Pausieren Sie am Ende der Bewegung und kehren Sie kontrolliert in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi rhomboidei",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

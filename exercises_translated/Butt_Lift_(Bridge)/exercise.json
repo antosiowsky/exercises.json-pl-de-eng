@@ -1,0 +1,47 @@
+{
+  "name": "Butt Lift (Bridge)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.",
+    "Pushing mainly with your heels, lift your hips off the floor while keeping your back straight. Breathe out as you perform this part of the motion and hold at the top for a second.",
+    "Slowly go back to the starting position as you breathe in."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Unoszenie pośladków (Mostek)",
+  "instructions_pl": [
+    "Połóż się płasko na plecach na podłodze, z rękami wzdłuż tułowia i ugiętymi kolanami. Stopy powinny być rozstawione na szerokość barków. Będzie to twoja pozycja wyjściowa.",
+    "Wypychając się głównie piętami, unieś biodra z podłogi, zachowując prosty kręgosłup. Wykonując tę część ruchu, zrób wydech i przytrzymaj przez sekundę w górnej pozycji.",
+    "Powoli wróć do pozycji wyjściowej, robiąc wdech."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Beckenbrücke",
+  "instructions_de": [
+    "Legen Sie sich flach auf den Rücken auf den Boden, die Hände seitlich am Körper und die Knie angewinkelt. Ihre Füße sollten etwa schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+    "Drücken Sie sich vorwiegend mit den Fersen ab und heben Sie Ihr Becken vom Boden ab, während Sie Ihren Rücken gerade halten. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Position oben für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

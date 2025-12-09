@@ -1,0 +1,47 @@
+{
+  "name": "Single-Arm Cable Crossover",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
+    "Step forward in front of both pulleys with your arms extended in front of you, bringing your hands together. Your head and chest should be up as you lean forward, while your feet should be staggered. This will be your starting position.",
+    "Keeping your left arm in place, allow your right arm to extend out to the side, maintaining a slight bend at the elbow. The right arm should be perpendicular to the body at approximately shoulder level.",
+    "Return your arm back to the starting position by pulling your hand back to the midline of the body.",
+    "Hold for a second at the starting position and repeat the movement on the opposite side. Continue alternating back and forth for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Jednoramienne przenoszenie linki wyciągu",
+  "instructions_pl": [
+    "Rozpocznij od ustawienia bloczków wyciągu w wysokiej pozycji, wybierz odpowiednie obciążenie i chwyć po jednej rączce w każdą dłoń.",
+    "Stań przodem do obu bloczków wyciągu z wyprostowanymi ramionami przed sobą, łącząc dłonie. Głowa i klatka piersiowa powinny być uniesione, gdy pochylasz się do przodu, a stopy ustawione w wykroku. Będzie to Twoja pozycja wyjściowa.",
+    "Trzymając lewe ramię nieruchomo, odwiedź prawe ramię na bok, utrzymując lekko ugięty łokieć. Prawe ramię powinno być prostopadłe do tułowia, mniej więcej na wysokości barku.",
+    "Wróć ramieniem do pozycji wyjściowej, przyciągając dłoń z powrotem do linii środkowej ciała.",
+    "Zatrzymaj się na sekundę w pozycji wyjściowej i powtórz ruch na przeciwnej stronie. Kontynuuj naprzemienne ruchy dla przepisanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Kabelzugüberkreuzen",
+  "instructions_de": [
+    "Stellen Sie die Rollen zunächst in die hohe Position ein, wählen Sie den gewünschten Widerstand und nehmen Sie jeweils einen Griff in jede Hand.",
+    "Treten Sie vor beide Rollen, strecken Sie die Arme vor sich aus und führen Sie die Hände zusammen. Kopf und Brust sollten aufrecht sein, während Sie sich nach vorne lehnen, wobei die Füße versetzt stehen sollten. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den linken Arm in Position und lassen Sie den rechten Arm zur Seite ausstrecken, wobei eine leichte Beugung im Ellbogen beibehalten wird. Der rechte Arm sollte etwa auf Schulterhöhe senkrecht zum Körper stehen.",
+    "Führen Sie den Arm in die Ausgangsposition zurück, indem Sie die Hand zur Körpermittellinie zurückziehen.",
+    "Halten Sie eine Sekunde lang in der Ausgangsposition und wiederholen Sie die Bewegung auf der gegenüberliegenden Seite. Fahren Sie fort, die Seiten abwechselnd für die vorgeschriebene Anzahl von Wiederholungen auszuführen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

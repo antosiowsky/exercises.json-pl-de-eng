@@ -1,0 +1,38 @@
+{
+  "name": "On Your Side Quad Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).",
+    "Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśnia czworogłowego uda w pozycji bocznej",
+  "instructions_pl": [
+    "Rozpocznij, leżąc na prawym boku, z prawym kolanem zgiętym pod kątem 90 stopni, opartym o podłogę przed tobą (stabilizuje to tułów).",
+    "Zegnij lewe kolano za sobą i chwyć lewą stopę lewą ręką. Aby rozciągnąć zginacz biodra, przesuń lewe biodro do przodu, jednocześnie pchając lewą stopę w tył, w kierunku dłoni. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung des Musculus quadriceps femoris in Seitenlage",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf Ihre rechte Seite legen, das rechte Knie in einem 90-Grad-Winkel gebeugt und vor Ihnen auf dem Boden ruhend (dies stabilisiert den Rumpf).",
+    "Beugen Sie Ihr linkes Knie nach hinten und fassen Sie Ihren linken Fuß mit der linken Hand. Um Ihren Hüftbeuger zu dehnen, drücken Sie Ihre linke Hüfte nach vorne, während Sie Ihren linken Fuß gegen Ihre Hand drücken. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

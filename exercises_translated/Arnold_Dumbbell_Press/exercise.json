@@ -1,0 +1,53 @@
+{
+  "name": "Arnold Dumbbell Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl.",
+    "Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward.",
+    "Continue lifting the dumbbells until your arms are extended above you in straight arm position. Breathe out as you perform this portion of the movement.",
+    "After a second pause at the top, begin to lower the dumbbells to the original position by rotating the palms of your hands towards you. Tip: The left arm will be rotated in a counter clockwise manner while the right one will be rotated clockwise. Breathe in as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli Arnolda",
+  "instructions_pl": [
+    "Usiądź na ławce treningowej z oparciem i trzymaj dwa hantle przed sobą na wysokości górnej części klatki piersiowej, z dłońmi skierowanymi do tułowia i ugiętymi łokciami. Wskazówka: Ramiona powinny znajdować się blisko tułowia. Pozycja początkowa powinna przypominać fazę skurczu w uginaniu ramion z hantlami.",
+    "Aby wykonać ruch, unieś hantle, jednocześnie obracając dłonie, aż będą skierowane do przodu.",
+    "Kontynuuj unoszenie hantli, aż ramiona będą wyprostowane nad głową. Wykonując tę część ruchu, wykonaj wydech.",
+    "Po sekundowej pauzie w górnej fazie ruchu, zacznij opuszczać hantle do pozycji wyjściowej, obracając dłonie z powrotem do siebie. Wskazówka: Lewe ramię będzie obracane w kierunku przeciwnym do ruchu wskazówek zegara, natomiast prawe zgodnie z ruchem wskazówek zegara. Wykonując tę część ruchu, wykonaj wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Arnold-Kurzhantelpresse",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Trainingsbank mit Rückenlehne und halten Sie zwei Kurzhanteln vor sich auf etwa oberer Brusthöhe, wobei Ihre Handflächen zu Ihrem Körper zeigen und Ihre Ellbogen gebeugt sind. Tipp: Ihre Arme sollten sich neben Ihrem Rumpf befinden. Die Ausgangsposition sollte dem kontrahierten Teil eines Kurzhantel-Curls ähneln.",
+    "Um die Bewegung auszuführen, heben Sie nun die Kurzhanteln an, während Sie Ihre Handflächen drehen, bis sie nach vorne zeigen.",
+    "Heben Sie die Kurzhanteln weiter an, bis Ihre Arme über Ihnen in gestreckter Position sind. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+    "Nach einer kurzen Pause an der obersten Position beginnen Sie, die Kurzhanteln in die Ausgangsposition abzusenken, indem Sie Ihre Handflächen zu sich drehen. Tipp: Der linke Arm wird gegen den Uhrzeigersinn gedreht, während der rechte Arm im Uhrzeigersinn gedreht wird. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

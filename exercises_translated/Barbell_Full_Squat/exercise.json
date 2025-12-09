@@ -1,0 +1,65 @@
+{
+  "name": "Barbell Full Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just above shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Step away from the rack and position your legs using a shoulder-width medium stance with the toes slightly pointed out. Keep your head up at all times and maintain a straight back. This will be your starting position.",
+    "Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement.",
+    "Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Głęboki przysiad ze sztangą",
+  "instructions_pl": [
+    "Dla bezpieczeństwa, to ćwiczenie najlepiej wykonywać w klatce do przysiadów (power rack). Aby rozpocząć, ustaw sztangę na stojaku nieco powyżej poziomu barków. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, wejdź pod sztangę i umieść ją na tylnej części barków (nieco poniżej karku).",
+    "Chwyć sztangę obiema rękami po obu stronach i zdejmij ją ze stojaka, najpierw wypychając nogami i jednocześnie prostując tułów.",
+    "Odejdź od stojaka i ustaw nogi w średnim rozkroku na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Przez cały czas utrzymuj głowę uniesioną i proste plecy. Będzie to Twoja pozycja początkowa.",
+    "Zacznij powoli opuszczać sztangę, uginając kolana i cofając biodra, zachowując prostą postawę z uniesioną głową. Kontynuuj ruch w dół, aż mięśnie kulszowo-goleniowe dotkną łydek. Wykonując tę część ruchu, wykonaj wdech.",
+    "Zacznij podnosić sztangę, wykonując wydech, odpychając się od podłogi piętą lub środkową częścią stopy, prostując nogi i wyprostowując biodra, aby wrócić do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Tiefe Langhantelkniebeuge",
+  "instructions_de": [
+    "Diese Übung wird aus Sicherheitsgründen am besten in einem Kniebeugenständer ausgeführt. Stellen Sie zu Beginn die Langhantel auf einem Ständer knapp über Schulterhöhe ein. Sobald die korrekte Höhe gewählt und die Hantel beladen ist, treten Sie unter die Stange und legen Sie den hinteren Teil Ihrer Schultern (leicht unterhalb des Nackens) darauf ab.",
+    "Fassen Sie die Stange mit beiden Armen seitlich an und heben Sie sie aus dem Ständer, indem Sie zuerst mit den Beinen drücken und gleichzeitig Ihren Oberkörper aufrichten.",
+    "Treten Sie vom Ständer zurück und stellen Sie Ihre Beine in einem schulterbreiten, mittleren Stand auf, wobei die Zehen leicht nach außen zeigen. Halten Sie Ihren Kopf stets oben und Ihren Rücken gerade. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, die Langhantel langsam abzusenken, indem Sie die Knie beugen und die Hüften nach hinten schieben, während Sie eine gerade Haltung mit erhobenem Kopf beibehalten. Fahren Sie fort, bis Ihre Ischiocrurale Muskulatur Ihre Waden berührt. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Beginnen Sie, die Langhantel beim Ausatmen anzuheben, indem Sie mit der Ferse oder dem Mittelfuß den Boden wegdrücken, während Sie die Beine strecken und die Hüften strecken, um in die Ausgangsposition zurückzukehren.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Muskulatur des unteren Rückens"
+  ],
+  "category_de": "Kraft"
+}

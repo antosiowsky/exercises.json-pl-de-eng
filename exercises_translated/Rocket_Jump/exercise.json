@@ -1,0 +1,50 @@
+{
+  "name": "Rocket Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+    "To initiate the move, squat down halfway and explode back up as high as possible.",
+    "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok Rakietowy",
+  "instructions_pl": [
+    "Przyjmij swobodną postawę ze stopami rozstawionymi na szerokość barków i trzymaj ramiona blisko tułowia.",
+    "Aby zainicjować ruch, wykonaj półprzysiad i dynamicznie wybij się w górę tak wysoko, jak to możliwe.",
+    "W pełni wyprostuj całe ciało, sięgając ramionami jak najdalej nad głowę. Podczas lądowania zamortyzuj je nogami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy łydki",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Raketensprung",
+  "instructions_de": [
+    "Beginne in einem entspannten Stand, die Füße schulterbreit auseinander, und halte die Arme eng am Körper.",
+    "Um die Bewegung einzuleiten, gehe halb in die Kniebeuge und stoße dich explosiv so hoch wie möglich nach oben ab.",
+    "Strecke deinen gesamten Körper vollständig aus und reiche mit den Armen so weit wie möglich über den Kopf. Beim Landen federe den Aufprall mit den Beinen ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Plyometrie"
+}

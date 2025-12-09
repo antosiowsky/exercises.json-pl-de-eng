@@ -1,0 +1,68 @@
+{
+  "name": "Reverse Band Deadlift",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Set the bar up in a power rack. Attach bands to the top of the rack, using either bands pegs or the frame itself. Attach the other end of the bands to the bar.",
+    "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.",
+    "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
+    "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg z gumami odciążającymi",
+  "instructions_pl": [
+    "Ustaw sztangę w ramie treningowej. Przymocuj gumy do górnej części ramy, używając kołków na gumy lub samej konstrukcji ramy. Drugi koniec gum przymocuj do sztangi.",
+    "Podejdź do sztangi tak, aby znajdowała się centralnie nad stopami. Stopy powinny być rozstawione na szerokość bioder. Ugnij się w stawach biodrowych, aby chwycić sztangę na szerokość barków, pozwalając na protrakcję łopatek. Zazwyczaj stosuje się chwyt nachwytem lub chwytem mieszanym (nachwyt/podchwyt) przy cięższych seriach.",
+    "Po ustawieniu stóp i chwytu, weź głęboki wdech, a następnie obniż biodra i ugnij kolana, aż piszczele dotkną sztangi. Patrz przed siebie, trzymaj klatkę piersiową uniesioną, plecy wygięte w łuk i zacznij pchać piętami w podłogę, aby unieść ciężar.",
+    "Gdy sztanga minie kolana, agresywnie pociągnij ją do tyłu, ściągając łopatki, jednocześnie wypychając biodra do przodu w kierunku sztangi.",
+    "Opuść sztangę, uginając się w stawach biodrowych i kontrolując jej ruch w dół do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Reverse-Band-Kreuzheben",
+  "instructions_de": [
+    "Platziere die Langhantel in einem Power Rack. Befestige Bänder am oberen Teil des Racks, entweder an Band-Pins oder am Rahmen selbst. Befestige das andere Ende der Bänder an der Langhantel.",
+    "Stelle dich so an die Langhantel, dass sie mittig über deinen Füßen positioniert ist. Deine Füße sollten etwa hüftbreit auseinander stehen. Beuge dich aus der Hüfte, um die Langhantel schulterbreit zu greifen, wobei du deine Schulterblätter protrahieren lässt. Typischerweise verwendest du einen Obergriff oder einen Kreuzgriff bei schwereren Sätzen.",
+    "Nachdem Füße und Griff positioniert sind, atme tief ein und senke dann deine Hüften und beuge die Knie, bis deine Schienbeine die Langhantel berühren. Blicke mit dem Kopf nach vorne, halte die Brust oben und den Rücken gewölbt, und beginne, dich über die Fersen nach oben zu drücken, um das Gewicht anzuheben.",
+    "Nachdem die Langhantel die Knie passiert hat, ziehe die Langhantel aggressiv nach hinten, wobei du deine Schulterblätter zusammenziehst, während du deine Hüften nach vorne gegen die Langhantel drückst.",
+    "Senke die Langhantel, indem du dich aus der Hüfte beugst und sie kontrolliert zum Boden führst."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Kraftdreikampf"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Deadlift with Bands",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack.",
+    "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg z gumami oporowymi",
+  "instructions_pl": [
+    "Aby wykonać martwy ciąg z krótkimi gumami oporowymi, po prostu załóż je na sztangę przed rozpoczęciem i wejdź w nie, aby ustawić się do ćwiczenia. W przypadku długich gum oporowych, muszą być one zakotwiczone do stabilnej podstawy, takiej jak ciężkie hantle lub stojak (rack).",
+    "Po ustawieniu stóp i chwytu, weź głęboki wdech, a następnie obniż biodra i zegnij kolana, aż piszczele dotkną sztangi. Patrz przed siebie, utrzymuj klatkę piersiową uniesioną i plecy w naturalnej krzywiźnie, a następnie zacznij pchać piętami w podłogę, aby unieść ciężar. Gdy sztanga minie kolana, agresywnie pociągnij ją do tyłu, ściągając łopatki, jednocześnie wypychając biodra do przodu w kierunku sztangi.",
+    "Opuść sztangę, zginając się w biodrach i prowadząc ją do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie środkowej części pleców",
+    "mięśnie czworogłowe uda",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kreuzheben mit Widerstandsbändern",
+  "instructions_de": [
+    "Für Kreuzheben mit kurzen Widerstandsbändern schlingen Sie diese einfach vor Beginn über die Hantelstange und treten Sie hinein, um sich zu positionieren. Lange Widerstandsbänder müssen an einer sicheren Basis verankert werden, wie schweren Kurzhanteln oder einem Rack.",
+    "Nachdem Füße und Griff positioniert sind, atmen Sie tief ein und senken Sie dann Ihre Hüften und beugen Sie die Knie, bis Ihre Schienbeine die Hantelstange berühren. Blicken Sie mit dem Kopf nach vorne, halten Sie die Brust oben und den Rücken gewölbt, und beginnen Sie, sich durch die Fersen nach oben zu drücken, um das Gewicht anzuheben. Nachdem die Hantelstange die Knie passiert hat, ziehen Sie die Hantelstange aggressiv zurück, indem Sie die Schulterblätter zusammenziehen, während Sie Ihre Hüften nach vorne in die Hantelstange drücken.",
+    "Senken Sie die Hantelstange, indem Sie sich in den Hüften beugen und sie kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Musculi ischiocrurales",
+    "Rückenstrecker",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraftdreikampf"
+}

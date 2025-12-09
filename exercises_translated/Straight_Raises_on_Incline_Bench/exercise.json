@@ -1,0 +1,50 @@
+{
+  "name": "Straight Raises on Incline Bench",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Place a bar on the ground behind the head of an incline bench.",
+    "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor, keeping your arms straight. Allow the bar to hang straight down. This will be your starting position.",
+    "To begin, raise the barbell out in front of your head while keeping your arms extended.",
+    "Return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Unoszenie ramion w przód na ławce skośnej",
+  "instructions_pl": [
+    "Umieść sztangę na podłodze za głową ławki skośnej.",
+    "Połóż się na ławce twarzą w dół. Nachwytem podnieś sztangę z podłogi, utrzymując ramiona proste. Pozwól sztandze swobodnie zwisać. Będzie to twoja pozycja wyjściowa.",
+    "Aby rozpocząć, unieś sztangę przed głowę, utrzymując ramiona wyprostowane.",
+    "Wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Gerades Heben auf der Schrägbank",
+  "instructions_de": [
+    "Legen Sie eine Langhantel auf den Boden hinter das Kopfende einer Schrägbank.",
+    "Legen Sie sich bäuchlings auf die Bank. Fassen Sie die Langhantel im Obergriff vom Boden auf, wobei Ihre Arme gestreckt bleiben. Lassen Sie die Langhantel gerade nach unten hängen. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Langhantel mit gestreckten Armen vor Ihren Kopf an.",
+    "Kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

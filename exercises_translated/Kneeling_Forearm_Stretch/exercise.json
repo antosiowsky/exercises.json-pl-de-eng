@@ -1,0 +1,38 @@
+{
+  "name": "Kneeling Forearm Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
+    "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie przedramion w klęku",
+  "instructions_pl": [
+    "Przyjmij pozycję klęczącą na macie, z płasko ułożonymi dłońmi i palcami skierowanymi w stronę kolan.",
+    "Powoli odchyl się do tyłu, utrzymując dłonie płasko na podłodze, aż poczujesz rozciąganie w nadgarstkach i przedramionach. Utrzymaj pozycję przez 20-30 sekund."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Kniende Unterarmdehnung",
+  "instructions_de": [
+    "Beginnen Sie kniend auf einer Matte, die Handflächen flach auf dem Boden und die Finger zu Ihren Knien zeigend.",
+    "Lehnen Sie sich langsam zurück, wobei Ihre Handflächen flach auf dem Boden bleiben, bis Sie eine Dehnung in Ihren Handgelenken und Unterarmen spüren. Halten Sie die Position für 20-30 Sekunden."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

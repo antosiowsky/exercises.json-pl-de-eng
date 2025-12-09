@@ -1,0 +1,62 @@
+{
+  "name": "Alternate Leg Diagonal Bound",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Assume a comfortable stance with one foot slightly in front of the other.",
+    "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
+    "It may help to use a line on the ground to guage distance from side to side.",
+    "Repeat the sequence with the other leg."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Wyskok diagonalny naprzemienny",
+  "instructions_pl": [
+    "Przyjmij wygodną postawę, stawiając jedną stopę lekko przed drugą.",
+    "Rozpocznij, odbijając się od przedniej nogi, jednocześnie dynamicznie unosząc przeciwne kolano do przodu i jak najwyżej, zanim wylądujesz. Staraj się pokonać jak największą odległość na boki z każdym wyskokiem.",
+    "Pomocne może być użycie linii na ziemi do mierzenia odległości na boki.",
+    "Powtórz sekwencję drugą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Wechselbein-Diagonalsprung",
+  "instructions_de": [
+    "Nimm eine bequeme Standposition ein, wobei ein Fuß leicht vor dem anderen steht.",
+    "Beginne mit einem Abstoß vom vorderen Bein, wobei du das gegenüberliegende Knie vor der Landung so weit wie möglich nach vorne und oben führst. Versuche, mit jedem Sprung so viel seitliche Distanz wie möglich zurückzulegen.",
+    "Es kann hilfreich sein, eine Linie auf dem Boden zu verwenden, um die seitliche Distanz zu messen.",
+    "Wiederhole die Abfolge mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

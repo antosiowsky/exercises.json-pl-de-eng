@@ -1,0 +1,59 @@
+{
+  "name": "Standing Palm-In One-Arm Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.",
+    "Your feet should be shoulder width apart from each other. Now slowly lift the dumbbell up until you create a 90 degree angle with your arm. Note: Your forearm should be perpendicular to the floor. Continue to maintain a neutral grip throughout the entire exercise.",
+    "Slowly lift the dumbbell up until your arm is fully extended. This the starting position.",
+    "While inhaling lower the weight down until your arm is at a 90 degree angle again.",
+    "Feel the contraction for a second and then lift the weight back up towards the starting position while exhaling. Remember to hold on to the incline bench and keep your feet positioned to keep balance during the exercise.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli jednorącz stojąc chwytem neutralnym",
+  "instructions_pl": [
+    "Zacznij, trzymając hantlę w jednej dłoni, z ramieniem w pełni wyprostowanym w bok, używając chwytu neutralnego. Drugą ręką przytrzymaj się ławki skośnej, aby utrzymać równowagę.",
+    "Stopy powinny być rozstawione na szerokość barków. Teraz powoli unieś hantlę, aż ramię utworzy kąt 90 stopni. Uwaga: Przedramię powinno być prostopadłe do podłogi. Utrzymuj chwyt neutralny przez cały czas trwania ćwiczenia.",
+    "Powoli unieś hantlę, aż ramię będzie w pełni wyprostowane. Jest to pozycja wyjściowa.",
+    "Podczas wdechu opuść ciężar, aż ramię ponownie znajdzie się pod kątem 90 stopni.",
+    "Poczuj skurcz przez sekundę, a następnie unieś ciężar z powrotem do pozycji wyjściowej podczas wydechu. Pamiętaj, aby trzymać się ławki skośnej i utrzymywać stopy w odpowiedniej pozycji, aby zachować równowagę podczas ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Zmień ręce i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Stehendes einarmiges Kurzhanteldrücken mit neutralem Griff",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie eine Kurzhantel in einer Hand halten, den Arm vollständig zur Seite ausgestreckt und im neutralen Griff. Nutzen Sie den anderen Arm, um sich an einer Schrägbank festzuhalten und das Gleichgewicht zu wahren.",
+    "Ihre Füße sollten schulterbreit auseinander stehen. Heben Sie nun die Kurzhantel langsam an, bis Ihr Arm einen 90-Grad-Winkel bildet. Hinweis: Ihr Unterarm sollte senkrecht zum Boden stehen. Halten Sie den neutralen Griff während der gesamten Übung bei.",
+    "Heben Sie die Kurzhantel langsam an, bis Ihr Arm vollständig gestreckt ist. Dies ist die Ausgangsposition.",
+    "Während Sie einatmen, senken Sie das Gewicht ab, bis Ihr Arm wieder einen 90-Grad-Winkel bildet.",
+    "Spüren Sie die Kontraktion für eine Sekunde und heben Sie dann das Gewicht beim Ausatmen zurück in die Ausgangsposition. Denken Sie daran, sich an der Schrägbank festzuhalten und Ihre Füße positioniert zu lassen, um das Gleichgewicht während der Übung zu wahren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Arme und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Elbow Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Sit or stand with your feet slightly apart.",
+    "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",
+    "Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Krążenia łokciami",
+  "instructions_pl": [
+    "Usiądź lub stań ze stopami lekko rozstawionymi.",
+    "Połóż dłonie na barkach, z łokciami na wysokości barków i skierowanymi na zewnątrz.",
+    "Powoli wykonuj krążenia łokciami. Wydychaj powietrze, rozpoczynając krążenie, i wdychaj, kończąc je."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Ellenbogenkreisen",
+  "instructions_de": [
+    "Sitzen oder stehen Sie mit leicht geöffneten Füßen.",
+    "Legen Sie Ihre Hände auf Ihre Schultern, wobei Ihre Ellenbogen auf Schulterhöhe sind und nach außen zeigen.",
+    "Kreisen Sie langsam mit den Ellenbogen. Atmen Sie aus, wenn Sie den Kreis beginnen, und atmen Sie ein, wenn Sie den Kreis beenden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Dehnung"
+}

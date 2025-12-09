@@ -1,0 +1,53 @@
+{
+  "name": "One Knee To Chest",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Start off by lying on the floor.",
+    "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
+    "Gently tug that knee toward your nose.",
+    "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Przyciąganie jednego kolana do klatki piersiowej",
+  "instructions_pl": [
+    "Połóż się na podłodze.",
+    "Wyprostuj jedną nogę, a drugie kolano przyciągnij do klatki piersiowej. Chwyć pod stawem kolanowym, aby chronić rzepkę.",
+    "Delikatnie pociągnij to kolano w kierunku nosa.",
+    "Zmień strony. Ćwiczenie to rozciąga mięśnie pośladkowe i dolną część pleców nogi zgiętej oraz zginacz biodra nogi wyprostowanej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Ein Knie zur Brust",
+  "instructions_de": [
+    "Legen Sie sich auf den Boden.",
+    "Strecken Sie ein Bein gerade aus und ziehen Sie das andere Knie zur Brust. Halten Sie unterhalb des Kniegelenks, um die Kniescheibe zu schützen.",
+    "Ziehen Sie das Knie sanft in Richtung Ihrer Nase.",
+    "Wechseln Sie die Seiten. Dies dehnt die Gesäßmuskulatur und den unteren Rücken des gebeugten Beins sowie den Hüftbeuger des gestreckten Beins."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur",
+    "Lendenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

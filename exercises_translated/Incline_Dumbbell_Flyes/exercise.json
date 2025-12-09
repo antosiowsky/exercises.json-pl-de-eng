@@ -1,0 +1,56 @@
+{
+  "name": "Incline Dumbbell Flyes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
+    "Extend your arms above you with a slight bend at the elbows.",
+    "Now rotate the wrists so that the palms of your hands are facing you. Tip: The pinky fingers should be next to each other. This will be your starting position.",
+    "As you breathe in, start to slowly lower the arms to the side while keeping the arms extended and while rotating the wrists until the palms of the hand are facing each other. Tip: At the end of the movement the arms will be by your side with the palms facing the ceiling.",
+    "As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Rozpiętki hantlami na ławce skośnej",
+  "instructions_pl": [
+    "Trzymaj hantel w każdej dłoni i połóż się na ławce skośnej, ustawionej pod kątem nachylenia nie większym niż 30 stopni.",
+    "Wyprostuj ramiona nad sobą, z lekkim zgięciem w stawach łokciowych.",
+    "Teraz obróć nadgarstki tak, aby dłonie były skierowane do siebie. Wskazówka: Małe palce powinny znajdować się blisko siebie. Będzie to Twoja pozycja początkowa.",
+    "Podczas wdechu zacznij powoli opuszczać ramiona na boki, utrzymując je wyprostowane i jednocześnie obracając nadgarstki, aż dłonie będą skierowane do siebie. Wskazówka: W końcowej fazie ruchu ramiona znajdą się po bokach ciała, z dłońmi skierowanymi w stronę sufitu.",
+    "Podczas wydechu zacznij unosić hantle z powrotem do pozycji początkowej, odwracając ruch i obracając dłonie tak, aby małe palce ponownie znalazły się blisko siebie. Wskazówka: Pamiętaj, że ruch odbywa się wyłącznie w stawie ramiennym i w nadgarstku. W stawie łokciowym nie zachodzi żaden ruch.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Schrägbank-Kurzhantel-Fliegende",
+  "instructions_de": [
+    "Nimm in jede Hand eine Kurzhantel und lege dich auf eine Schrägbank, die auf einen Neigungswinkel von maximal 30 Grad eingestellt ist.",
+    "Strecke deine Arme mit einer leichten Beugung in den Ellenbogengelenken über dir aus.",
+    "Rotiere nun die Handgelenke, sodass deine Handflächen zu dir zeigen. Tipp: Die kleinen Finger sollten nebeneinander liegen. Dies ist deine Ausgangsposition.",
+    "Während du einatmest, beginne, die Arme langsam seitlich zu senken, während du die Arme gestreckt hältst und die Handgelenke rotierst, bis die Handflächen zueinander zeigen. Tipp: Am Ende der Bewegung befinden sich die Arme seitlich von dir, mit den Handflächen zur Decke gerichtet.",
+    "Während du ausatmest, beginne, die Kurzhanteln zurück in die Ausgangsposition zu führen, indem du die Bewegung umkehrst und die Hände so rotierst, dass die kleinen Finger wieder nebeneinander liegen. Tipp: Beachte, dass die Bewegung nur im Schultergelenk und im Handgelenk stattfindet. Es findet keine Bewegung im Ellenbogengelenk statt.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

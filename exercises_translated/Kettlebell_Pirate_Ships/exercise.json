@@ -1,0 +1,50 @@
+{
+  "name": "Kettlebell Pirate Ships",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.",
+    "Initiate the movement by turning to one side, swinging the kettlebell to head height. Briefly pause at the top of the motion.",
+    "Allow the bell to drop as you rotate to the opposite side, again raising the kettlebell to head height.",
+    "Repeat for the desired amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Statki Pirackie z Kettlebell",
+  "instructions_pl": [
+    "Przyjmij szeroki rozkrok i chwyć kettlebell oburącz. Pozwól mu swobodnie zwisać na wysokości pasa, z wyprostowanymi ramionami. To będzie Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, obracając się w jedną stronę i jednocześnie zarzucając kettlebell na wysokość głowy. Zatrzymaj się na krótko w szczytowym punkcie ruchu.",
+    "Pozwól kettlebellowi opaść, jednocześnie obracając się w przeciwną stronę i ponownie zarzucając go na wysokość głowy.",
+    "Powtórz ćwiczenie przez żądaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell-Piratenschiffe",
+  "instructions_de": [
+    "Nehmen Sie einen breiten Stand ein und halten Sie eine Kettlebell mit beiden Händen. Lassen Sie sie mit ausgestreckten Armen auf Taillenhöhe hängen. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie sich zu einer Seite drehen und die Kettlebell auf Kopfhöhe schwingen. Halten Sie am höchsten Punkt der Bewegung kurz inne.",
+    "Lassen Sie die Kettlebell absinken, während Sie zur gegenüberliegenden Seite rotieren, und heben Sie die Kettlebell erneut auf Kopfhöhe an.",
+    "Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis"
+  ],
+  "category_de": "Kraft"
+}

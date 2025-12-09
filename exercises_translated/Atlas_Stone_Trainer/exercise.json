@@ -1,0 +1,62 @@
+{
+  "name": "Atlas Stone Trainer",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",
+    "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
+    "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
+    "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Przyrząd treningowy do Kamienia Atlasa",
+  "instructions_pl": [
+    "Ten przyrząd treningowy jest skuteczny w rozwijaniu siły potrzebnej do podnoszenia Kamieni Atlasa dla osób, które nie mają do nich dostępu, i jest zazwyczaj wykonany z końcówek sztang lub ciężkich rur.",
+    "Rozpocznij od załadowania pożądanego ciężaru na sztangę. Rozkrocz się nad ciężarem, obejmując ramionami przyrząd, uginając się w stawach biodrowych.",
+    "Rozpocznij od podciągnięcia ciężaru powyżej kolan, prostując stawy biodrowe. Gdy ciężar minie kolana, można go zarzucić na uda, opierając go na nich i odchylając się do tyłu, mocno przytulając do klatki piersiowej.",
+    "Zakończ ruch, prostując stawy biodrowe i kolanowe, aby podnieść ciężar tak wysoko, jak to możliwe. Ciężar można opuścić z powrotem na uda lub na ziemię w celu wykonania kolejnych powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Atlasstein-Trainingsgerät",
+  "instructions_de": [
+    "Dieses Trainingsgerät ist effektiv zur Entwicklung der Atlasstein-Kraft für diejenigen, die keinen Zugang zu Atlassteinen haben, und wird typischerweise aus Stangenenden oder schweren Rohren hergestellt.",
+    "Beginnen Sie, indem Sie das gewünschte Gewicht auf die Stange laden. Stellen Sie sich rittlings über das Gewicht, umfassen Sie das Gerät mit den Armen und beugen Sie sich in den Hüften.",
+    "Beginnen Sie, indem Sie das Gewicht über die Knie nach oben ziehen und dabei die Hüften strecken. Sobald das Gewicht die Knie passiert hat, kann es in den Schoß genommen werden, indem Sie es auf Ihren Oberschenkeln ablegen, sich zurücklehnen und es fest an Ihre Brust drücken.",
+    "Beenden Sie die Bewegung, indem Sie Hüften und Knie strecken, um das Gewicht so hoch wie möglich anzuheben. Das Gewicht kann für aufeinanderfolgende Wiederholungen in den Schoß oder auf den Boden zurückgeführt werden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculi antebrachii",
+    "Musculi glutei",
+    "Musculi ischiocrurales",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Strongman"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Around The Worlds",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Lay down on a flat bench holding a dumbbell in each hand with the palms of the hands facing towards the ceiling. Tip: Your arms should be parallel to the floor and next to your thighs. To avoid injury, make sure that you keep your elbows slightly bent. This will be your starting position.",
+    "Now move the dumbbells by creating a semi-circle as you displace them from the initial position to over the head. All of the movement should happen with the arms parallel to the floor at all times. Breathe in as you perform this portion of the movement.",
+    "Reverse the movement to return the weight to the starting position as you exhale."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Krążenia hantlami dookoła świata",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, trzymając hantlę w każdej dłoni, z dłońmi skierowanymi w stronę sufitu. Wskazówka: Twoje ramiona powinny być równoległe do podłogi i znajdować się obok ud. Aby uniknąć kontuzji, upewnij się, że łokcie są lekko ugięte. Będzie to Twoja pozycja początkowa.",
+    "Teraz przesuń hantle, tworząc półokrąg, przenosząc je z pozycji początkowej nad głowę. Cały ruch powinien odbywać się z ramionami przez cały czas równoległymi do podłogi. Wykonując tę część ruchu, weź wdech.",
+    "Odwróć ruch, aby wrócić z ciężarem do pozycji początkowej, jednocześnie wykonując wydech."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Rund um die Welt",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank und halten Sie in jeder Hand eine Kurzhantel, wobei die Handflächen zur Decke zeigen. Tipp: Ihre Arme sollten parallel zum Boden und neben Ihren Oberschenkeln liegen. Um Verletzungen zu vermeiden, achten Sie darauf, Ihre Ellbogen leicht gebeugt zu halten. Dies ist Ihre Ausgangsposition.",
+    "Bewegen Sie nun die Kurzhanteln, indem Sie einen Halbkreis beschreiben, während Sie sie von der Ausgangsposition über den Kopf führen. Die gesamte Bewegung sollte stets mit parallel zum Boden gehaltenen Armen erfolgen. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Führen Sie die Bewegung umgekehrt aus, um das Gewicht beim Ausatmen in die Ausgangsposition zurückzuführen."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskeln"
+  ],
+  "category_de": "Kraft"
+}

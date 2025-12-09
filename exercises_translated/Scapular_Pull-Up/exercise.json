@@ -1,0 +1,50 @@
+{
+  "name": "Scapular Pull-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "middle back"
+  ],
+  "instructions": [
+    "Take a pronated grip on a pull-up bar.",
+    "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
+    "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Podciąganie łopatkowe",
+  "instructions_pl": [
+    "Przyjmij nachwyt na drążku do podciągania.",
+    "Z pozycji zwisu, unieś się o kilka centymetrów, nie angażując ramion. Wykonaj to poprzez depresję obręczy barkowej w ruchu odwrotnym do wzruszania ramionami.",
+    "Zatrzymaj ruch w fazie końcowej, a następnie powoli wróć do pozycji początkowej przed wykonaniem kolejnych powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Skapulärer Klimmzug",
+  "instructions_de": [
+    "Fasse die Klimmzugstange im Obergriff (pronierter Griff).",
+    "Hebe dich aus einer hängenden Position einige Zentimeter an, ohne die Arme zu beugen. Tue dies, indem du deinen Schultergürtel in einer umgekehrten Schulterzuckbewegung absenkst (deprimierst).",
+    "Halte am Ende der Bewegung kurz inne und kehre dann langsam in die Ausgangsposition zurück, bevor du weitere Wiederholungen ausführst."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Mittlerer Rücken"
+  ],
+  "category_de": "Kraft"
+}

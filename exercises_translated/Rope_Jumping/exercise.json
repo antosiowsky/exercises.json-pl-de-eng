@@ -1,0 +1,47 @@
+{
+  "name": "Rope Jumping",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold an end of the rope in each hand. Position the rope behind you on the ground. Raise your arms up and turn the rope over your head bringing it down in front of you. When it reaches the ground, jump over it. Find a good turning pace that can be maintained. Different speeds and techniques can be used to introduce variation.",
+    "Rope jumping is exciting, challenges your coordination, and requires a lot of energy. A 150 lb person will burn about 350 calories jumping rope for 30 minutes, compared to over 450 calories running."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skakanie na skakance",
+  "instructions_pl": [
+    "Trzymaj jeden koniec skakanki w każdej dłoni. Ułóż skakankę za sobą na ziemi. Unieś ramiona i obróć skakankę nad głową, opuszczając ją przed sobą. Gdy skakanka dotknie ziemi, przeskocz przez nią. Znajdź odpowiednie tempo obracania, które możesz utrzymać. Różne prędkości i techniki mogą być stosowane w celu urozmaicenia ćwiczenia.",
+    "Skakanie na skakance jest ekscytujące, stanowi wyzwanie dla koordynacji i wymaga dużo energii. Osoba ważąca 150 funtów spali około 350 kalorii, skacząc na skakance przez 30 minut, w porównaniu do ponad 450 kalorii podczas biegania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "kardio",
+  "name_de": "Seilspringen",
+  "instructions_de": [
+    "Halten Sie je ein Ende des Seils in jeder Hand. Positionieren Sie das Seil hinter sich auf dem Boden. Heben Sie die Arme an und schwingen Sie das Seil über Ihren Kopf, sodass es vor Ihnen nach unten kommt. Sobald es den Boden erreicht, springen Sie darüber. Finden Sie ein gutes, gleichmäßiges Schwungtempo. Verschiedene Geschwindigkeiten und Techniken können zur Variation eingesetzt werden.",
+    "Seilspringen ist aufregend, fordert Ihre Koordination heraus und erfordert viel Energie. Eine Person mit 150 Pfund (ca. 68 kg) verbrennt beim Seilspringen für 30 Minuten etwa 350 Kalorien, verglichen mit über 450 Kalorien beim Laufen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Cardio"
+}

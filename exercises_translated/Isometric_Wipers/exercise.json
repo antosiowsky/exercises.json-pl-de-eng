@@ -1,0 +1,56 @@
+{
+  "name": "Isometric Wipers",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Assume a push-up position, supporting your weight on your hands and toes while keeping your body straight. Your hands should be just outside of shoulder width. This will be your starting position.",
+    "Begin by shifting your body weight as far to one side as possible, allowing the elbow on that side to flex as you lower your body.",
+    "Reverse the motion by extending the flexed arm, pushing yourself up and then dropping to the other side.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Izometryczne Wycieraczki",
+  "instructions_pl": [
+    "Przyjmij pozycję do pompki, opierając ciężar ciała na dłoniach i palcach stóp, jednocześnie utrzymując proste ciało. Dłonie powinny znajdować się nieco szerzej niż szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij od przesunięcia ciężaru ciała jak najdalej na jedną stronę, pozwalając łokciowi po tej stronie ugiąć się, gdy opuszczasz ciało.",
+    "Odwróć ruch, prostując ugiętą rękę, wypychając się w górę, a następnie opuść się na drugą stronę.",
+    "Powtórz przez żądaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Isometrische Scheibenwischer",
+  "instructions_de": [
+    "Nimm eine Liegestützposition ein, stütze dein Gewicht auf Händen und Zehen ab und halte deinen Körper dabei gerade. Deine Hände sollten etwas außerhalb der Schulterbreite platziert sein. Dies ist deine Ausgangsposition.",
+    "Beginne, indem du dein Körpergewicht so weit wie möglich zu einer Seite verlagerst, wobei der Ellbogen auf dieser Seite beugt, während du deinen Körper absenkst.",
+    "Kehre die Bewegung um, indem du den gebeugten Arm streckst, dich nach oben drückst und dann zur anderen Seite absenkst.",
+    "Wiederhole dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Deltamuskeln",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

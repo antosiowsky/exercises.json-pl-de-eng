@@ -1,0 +1,41 @@
+{
+  "name": "Iliotibial Tract-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lay on your side, with the bottom leg placed onto a foam roller between the hip and the knee. The other leg can be crossed in front of you.",
+    "Place as much of your weight as is tolerable onto your bottom leg; there is no need to keep your bottom leg in contact with the ground. Be sure to relax the muscles of the leg you are stretching.",
+    "Roll your leg over the foam from you hip to your knee, pausing for 10-30 seconds at points of tension. Repeat with the opposite leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Odwodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Abduktoren"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Pasmo biodrowo-piszczelowe - Automasaż mięśniowo-powięziowy",
+  "instructions_pl": [
+    "Połóż się na boku, umieszczając dolną nogę na wałku piankowym między biodrem a kolanem. Drugą nogę możesz skrzyżować przed sobą.",
+    "Przenieś na dolną nogę tyle ciężaru ciała, ile jesteś w stanie tolerować; nie ma potrzeby utrzymywania dolnej nogi w kontakcie z podłożem. Pamiętaj, aby rozluźnić mięśnie rozciąganej nogi.",
+    "Przetaczaj nogę po wałku piankowym od biodra do kolana, zatrzymując się na 10-30 sekund w punktach napięcia. Powtórz na przeciwnej nodze."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Tractus iliotibialis - Selbst-Myofasziale Entspannung",
+  "instructions_de": [
+    "Legen Sie sich auf die Seite, wobei das untere Bein auf einer Faszienrolle zwischen Hüfte und Knie platziert wird. Das andere Bein kann vor Ihnen gekreuzt werden.",
+    "Verlagern Sie so viel Ihres Gewichts, wie erträglich ist, auf Ihr unteres Bein; es ist nicht nötig, das untere Bein in Kontakt mit dem Boden zu halten. Achten Sie darauf, die Muskeln des Beins, das Sie dehnen, zu entspannen.",
+    "Rollen Sie Ihr Bein über die Faszienrolle von der Hüfte bis zum Knie, wobei Sie an Spannungspunkten 10-30 Sekunden lang innehalten. Wiederholen Sie dies mit dem entgegengesetzten Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

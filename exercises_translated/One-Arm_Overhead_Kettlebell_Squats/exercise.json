@@ -1,0 +1,56 @@
+{
+  "name": "One-Arm Overhead Kettlebell Squats",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Clean and press a kettlebell with one arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so. Press the weight overhead by extending through the elbow.This will be your starting position.",
+    "Looking straight ahead and keeping a kettlebell locked out above you, flex the knees and hips and lower your torso between your legs, keeping your head and chest up.",
+    "Pause at the bottom position for a second before rising back to the top, driving through the heels of your feet."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Przysiady z odważnikiem kulowym nad głową jednorącz",
+  "instructions_pl": [
+    "Wykonaj zarzut i wyciśnięcie odważnika kulowego jedną ręką. Zarzuć odważnik kulowy do barku, prostując nogi i biodra, jednocześnie przyciągając odważnik do barku. W tym samym czasie obróć nadgarstek. Wyciśnij ciężar nad głowę, prostując łokieć. Będzie to Twoja pozycja wyjściowa.",
+    "Patrząc prosto przed siebie i utrzymując odważnik kulowy zablokowany nad głową, ugnij kolana i biodra, opuszczając tułów między nogi, jednocześnie utrzymując głowę i klatkę piersiową uniesione.",
+    "Zatrzymaj się na sekundę w dolnej pozycji, a następnie wróć do pozycji wyjściowej, napierając na pięty."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmige Überkopf-Kettlebell-Kniebeugen",
+  "instructions_de": [
+    "Setzen Sie eine Kettlebell einarmig um und stoßen Sie sie. Um die Kettlebell zur Schulter umzusetzen, strecken Sie Beine und Hüfte durch, während Sie die Kettlebell zur Schulter ziehen. Drehen Sie dabei Ihr Handgelenk. Drücken Sie das Gewicht über Kopf, indem Sie den Ellbogen strecken. Dies ist Ihre Ausgangsposition.",
+    "Blicken Sie geradeaus und halten Sie die Kettlebell über Ihnen fixiert. Beugen Sie Knie und Hüfte und senken Sie Ihren Oberkörper zwischen Ihre Beine, wobei Kopf und Brust oben bleiben.",
+    "Halten Sie in der untersten Position für eine Sekunde inne, bevor Sie sich durch die Fersen Ihrer Füße wieder nach oben drücken."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

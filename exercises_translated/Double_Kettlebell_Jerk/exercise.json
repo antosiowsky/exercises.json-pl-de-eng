@@ -1,0 +1,65 @@
+{
+  "name": "Double Kettlebell Jerk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Hold a kettlebell by the handle in each hand.",
+    "Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. This will be your starting position.",
+    "Dip your body by bending the knees, keeping your torso upright.",
+    "Immediately reverse direction, driving through the heels, in essence jumping to create momentum.",
+    "As you do so, press the kettlebells overhead to lockout by extending the arms, using your body's momentum to move the weights.",
+    "Return your feet to the ground in a split fashion, with one foot forward and one foot back.",
+    "Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Podwójny podrzut kettlebell",
+  "instructions_pl": [
+    "Trzymaj kettlebell za uchwyt w każdej dłoni.",
+    "Zarzuć kettlebelle na barki, prostując nogi i biodra, jednocześnie przyciągając kettlebelle do barków. W tym samym czasie obróć nadgarstki tak, aby dłonie były skierowane do przodu. Będzie to Twoja pozycja wyjściowa.",
+    "Ugnij ciało, zginając kolana i utrzymując tułów w pozycji pionowej.",
+    "Natychmiast zmień kierunek ruchu, odpychając się od pięt, w zasadzie wykonując podskok w celu wytworzenia pędu.",
+    "W tym samym czasie wyciśnij kettlebelle nad głowę, prostując ramiona do pełnego wyprostu stawów łokciowych, wykorzystując pęd ciała do uniesienia ciężarów.",
+    "Opuść stopy na ziemię w pozycji wykrocznej, z jedną stopą z przodu i jedną z tyłu.",
+    "Utrzymując ciężary nad głową, wróć do pozycji stojącej, łącząc stopy. Opuść ciężary, aby wykonać kolejne powtórzenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięsień czworogłowy uda",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Doppeltes Kettlebell-Ausstoßen",
+  "instructions_de": [
+    "Halte in jeder Hand eine Kettlebell am Griff.",
+    "Setze die Kettlebells auf Schulterhöhe um, indem du Beine und Hüften streckst und die Kettlebells zu deinen Schultern ziehst. Rotiere dabei deine Handgelenke, sodass die Handflächen nach vorne zeigen. Dies ist deine Ausgangsposition.",
+    "Senke deinen Körper ab, indem du die Knie beugst und den Rumpf aufrecht hältst.",
+    "Kehre die Bewegung sofort um, indem du dich über die Fersen abdrückst und quasi springst, um Schwung zu erzeugen.",
+    "Drücke dabei die Kettlebells über Kopf bis zur vollständigen Streckung der Arme, wobei du den Schwung deines Körpers nutzt, um die Gewichte zu bewegen.",
+    "Bringe deine Füße in einer Ausfallschrittposition auf den Boden zurück, mit einem Fuß vorne und einem Fuß hinten.",
+    "Halte die Gewichte über Kopf, kehre in eine stehende Position zurück, indem du die Füße zusammenführst. Senke die Gewichte ab, um die nächste Wiederholung auszuführen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Alternating Kettlebell Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
+    "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",
+    "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Naprzemienne wyciskanie kettlebell",
+  "instructions_pl": [
+    "Zarzuć dwa kettlebelle na barki. Zarzucaj kettlebelle na barki, prostując nogi i biodra, jednocześnie przyciągając kettlebelle do barków. W tym samym czasie obróć nadgarstki.",
+    "Wyciśnij jeden kettlebell bezpośrednio nad głowę, prostując staw łokciowy i obracając go tak, aby dłoń była skierowana do przodu, jednocześnie utrzymując drugi kettlebell nieruchomo.",
+    "Opuść wyciśnięty kettlebell do pozycji początkowej i natychmiast wyciśnij drugim ramieniem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Alternierendes Kettlebell-Drücken",
+  "instructions_de": [
+    "Setze zwei Kettlebells auf deine Schultern um. Dies geschieht, indem du dich durch Beine und Hüfte streckst, während du die Kettlebells zu deinen Schultern ziehst. Rotiere dabei deine Handgelenke.",
+    "Drücke eine Kettlebell direkt über Kopf, indem du das Ellenbogengelenk streckst und die Kettlebell so drehst, dass die Handfläche nach vorne zeigt, während du die andere Kettlebell stabil hältst.",
+    "Senke die gedrückte Kettlebell in die Ausgangsposition ab und drücke sofort mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

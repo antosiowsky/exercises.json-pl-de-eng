@@ -1,0 +1,47 @@
+{
+  "name": "Hip Circles (prone)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Position yourself on your hands and knees on the ground. Maintaining good posture, raise one bent knee off of the ground. This will be your starting position.",
+    "Keeping the knee in a bent position, rotate the femur in an arc, attempting to make a big circle with your knee.",
+    "Perform this slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Odwodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Abduktoren"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Krążenia bioder (w leżeniu przodem)",
+  "instructions_pl": [
+    "Przyjmij pozycję na czworakach. Utrzymując prawidłową postawę, unieś jedno zgięte kolano z podłoża. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując kolano w pozycji zgiętej, obracaj kość udową po łuku, starając się zatoczyć duże koło kolanem.",
+    "Wykonaj to powoli przez określoną liczbę powtórzeń, a następnie powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Hüftkreisen (im Vierfüßlerstand)",
+  "instructions_de": [
+    "Begeben Sie sich in den Vierfüßlerstand auf dem Boden. Achten Sie auf eine gute Körperhaltung und heben Sie ein gebeugtes Knie vom Boden ab. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie das Knie weiterhin gebeugt und rotieren Sie den Femur in einem Bogen, wobei Sie versuchen, mit Ihrem Knie einen großen Kreis zu beschreiben.",
+    "Führen Sie dies langsam für eine bestimmte Anzahl von Wiederholungen aus und wiederholen Sie die Übung auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "category_de": "Dehnung"
+}

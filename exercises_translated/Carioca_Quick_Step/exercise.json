@@ -1,0 +1,62 @@
+{
+  "name": "Carioca Quick Step",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
+    "With your right foot, quick step behind and pull the knee up.",
+    "Fire your arms back up when you pull the right knee, being sure that your knee goes straight up and down. Avoid turning your feet as you move and continue to look forward as you move to the side."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Szybki Krok Carioca",
+  "instructions_pl": [
+    "Rozpocznij ze stopami rozstawionymi na kilka centymetrów i lewym ramieniem uniesionym w luźnej, sportowej pozycji.",
+    "Prawą stopą wykonaj szybki krok w tył i unieś kolano.",
+    "Dynamicznie unieś ramiona w górę, gdy unosisz prawe kolano, upewniając się, że kolano porusza się prosto w górę i w dół. Unikaj obracania stóp podczas ruchu i utrzymuj wzrok skierowany do przodu, poruszając się na boki."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie odwodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie czworogłowe uda"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Carioca-Schnellschritt",
+  "instructions_de": [
+    "Beginnen Sie mit den Füßen einige Zentimeter auseinander und dem linken Arm in einer entspannten, athletischen Position nach oben.",
+    "Machen Sie mit dem rechten Fuß einen schnellen Schritt nach hinten und ziehen Sie das Knie hoch.",
+    "Schwingen Sie die Arme wieder nach oben, wenn Sie das rechte Knie hochziehen, achten Sie darauf, dass Ihr Knie gerade nach oben und unten geht. Vermeiden Sie es, Ihre Füße beim Bewegen zu drehen, und schauen Sie weiterhin nach vorne, während Sie sich zur Seite bewegen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Abduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Quadrizeps"
+  ],
+  "category_de": "Plyometrie"
+}

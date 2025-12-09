@@ -1,0 +1,50 @@
+{
+  "name": "Kettlebell Pass Between The Legs",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs, in the fashion of a \"W\". Go back and forth for several repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Przekładanie Kettlebella Między Nogami",
+  "instructions_pl": [
+    "Umieść jeden kettlebell między nogami i przyjmij wygodną postawę. Pochyl się, wypychając biodra do tyłu i utrzymując proste plecy.",
+    "Podnieś kettlebell i przełóż go do drugiej ręki między nogami, wykonując ruch w kształcie litery „W”. Wykonuj ruch naprzemiennie przez kilka powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Kettlebell-Pass zwischen den Beinen",
+  "instructions_de": [
+    "Stellen Sie eine Kettlebell zwischen Ihre Beine und nehmen Sie einen bequemen Stand ein. Beugen Sie sich vor, indem Sie Ihr Gesäß nach hinten schieben und Ihren Rücken gerade halten.",
+    "Nehmen Sie die Kettlebell auf und reichen Sie sie zwischen Ihren Beinen an die andere Hand weiter, in Form eines „W“. Führen Sie die Bewegung für mehrere Wiederholungen hin und her aus."
+  ],
+  "secondaryMuscles_de": [
+    "Glutaeusmuskeln",
+    "Ischiocrurale Muskulatur",
+    "Deltamuskeln"
+  ],
+  "category_de": "Kraft"
+}

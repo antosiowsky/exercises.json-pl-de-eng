@@ -1,0 +1,53 @@
+{
+  "name": "One Arm Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Select an appropriate weight and adjust the knee pad to help keep you down. Grasp the handle with a pronated grip. This will be your starting position.",
+    "Pull the handle down, squeezing your elbow to your side as you flex the elbow.",
+    "Pause at the bottom of the motion, and then slowly return the handle to the starting position.",
+    "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie wyciągu górnego jednorącz",
+  "instructions_pl": [
+    "Wybierz odpowiednie obciążenie i wyreguluj poduszkę na kolana, aby ustabilizować pozycję. Chwyć uchwyt nachwytem. To będzie Twoja pozycja początkowa.",
+    "Przyciągnij uchwyt w dół, przyciągając łokieć do boku tułowia, jednocześnie zginając go.",
+    "Zatrzymaj ruch w dolnej fazie, a następnie powoli wróć z uchwytem do pozycji początkowej.",
+    "W przypadku wielu powtórzeń, unikaj całkowitego odkładania ciężaru, aby utrzymać napięcie w pracujących mięśniach."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiger Latzug",
+  "instructions_de": [
+    "Wählen Sie ein passendes Gewicht und stellen Sie das Kniepolster so ein, dass es Sie fixiert. Fassen Sie den Griff im Pronierten Griff. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie den Griff nach unten, indem Sie den Ellbogen an Ihren Rumpf ziehen und dabei beugen.",
+    "Halten Sie am tiefsten Punkt der Bewegung kurz inne und führen Sie den Griff dann langsam in die Ausgangsposition zurück.",
+    "Bei mehreren Wiederholungen vermeiden Sie es, das Gewicht vollständig zurückzuführen, um die Spannung auf den arbeitenden Muskeln aufrechtzuerhalten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Krafttraining"
+}

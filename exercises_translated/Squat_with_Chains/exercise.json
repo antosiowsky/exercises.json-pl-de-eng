@@ -1,0 +1,62 @@
+{
+  "name": "Squat with Chains",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad z łańcuchami",
+  "instructions_pl": [
+    "Aby przygotować łańcuchy, zacznij od przełożenia łańcucha prowadzącego przez tuleje sztangi. Ciężki łańcuch powinien być przymocowany za pomocą karabińczyka. Dostosuj długość łańcucha prowadzącego tak, aby kilka ogniw nadal spoczywało na podłodze w szczytowej fazie ruchu.",
+    "Zacznij od wejścia pod sztangę i ułożenia jej na tylnej części barków. Ściągnij łopatki i obróć łokcie do przodu, próbując 'złamać' sztangę na barkach. Zdejmij sztangę ze stojaków, tworząc mocne wygięcie w odcinku lędźwiowym kręgosłupa, i cofnij się do pozycji. Rozstaw stopy szeroko, aby bardziej zaangażować mięśnie grzbietu, pośladkowe, przywodziciele i kulszowo-goleniowe. Utrzymuj głowę skierowaną do przodu.",
+    "Mając napięte mięśnie grzbietu, barków i tułowia (core), wypchnij kolana i pośladki na zewnątrz, rozpoczynając opuszczanie. Opuść biodra jak najdalej do tyłu. Idealnie, piszczele powinny być prostopadłe do podłoża. Niższe ułożenie sztangi wymaga większego pochylenia tułowia, aby utrzymać sztangę nad piętami. Kontynuuj ruch, aż przekroczysz równoległość, co oznacza, że zgięcie w stawie biodrowym znajdzie się na wysokości górnej części kolana.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, wypchnij się w górę, prowadząc ruch głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głowy, aż powrócisz do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "odcinek lędźwiowy kręgosłupa"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kniebeuge mit Ketten",
+  "instructions_de": [
+    "Zur Einrichtung der Ketten beginnen Sie, indem Sie die Führungskette über die Hantelaufnahmen der Stange legen. Die schwere Kette sollte mit einem Karabinerhaken befestigt werden. Passen Sie die Länge der Führungskette so an, dass im oberen Teil der Bewegung noch einige Glieder auf dem Boden liegen.",
+    "Beginnen Sie, indem Sie unter die Stange treten und diese quer über den oberen Rücken (hinter den Schultern) platzieren. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Stange über Ihren Schultern zu biegen. Heben Sie die Stange aus dem Rack, erzeugen Sie einen festen Bogen im unteren Rücken und treten Sie in die Ausgangsposition zurück. Stellen Sie Ihre Füße breit, um den Fokus stärker auf Rücken, Gesäßmuskulatur, Adduktoren und hintere Oberschenkelmuskulatur zu legen. Halten Sie den Kopf nach vorne gerichtet.",
+    "Mit angespanntem Rücken, Schultern und Rumpf drücken Sie Ihre Knie und Ihr Gesäß nach außen, während Sie die Abwärtsbewegung beginnen. Setzen Sie sich mit den Hüften so weit wie möglich nach hinten. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Eine tiefere Stangenposition erfordert eine stärkere Rumpfneigung, um die Stange über den Fersen zu halten. Fahren Sie fort, bis Sie die Parallele durchbrechen, was bedeutet, dass die Hüftfalte auf Höhe der Oberkante des Knies ist.",
+    "Halten Sie das Gewicht auf den Fersen und drücken Sie Ihre Füße und Knie nach außen, treiben Sie sich nach oben, während Sie die Bewegung mit dem Kopf anführen. Fahren Sie nach oben fort, wobei Sie die Spannung von Kopf bis Fuß beibehalten, bis Sie in die Ausgangsposition zurückgekehrt sind."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "hintere Oberschenkelmuskulatur",
+    "unterer Rücken"
+  ],
+  "category_de": "Kraftdreikampf"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Chair Leg Extended Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Sit upright in a chair and grip the seat on the sides.",
+    "Raise one leg, extending the knee, flexing the ankle as you do so.",
+    "Slowly move that leg outward as far as you can, and then back to the center and down.",
+    "Repeat for your other leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie wyprostowanej nogi na krześle",
+  "instructions_pl": [
+    "Usiądź prosto na krześle i chwyć siedzisko po bokach.",
+    "Unieś jedną nogę, prostując kolano i jednocześnie zginając staw skokowy.",
+    "Powoli przesuń tę nogę na zewnątrz, jak najdalej potrafisz, a następnie z powrotem do pozycji centralnej i w dół.",
+    "Powtórz dla drugiej nogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Gestreckte Beindehnung im Sitzen",
+  "instructions_de": [
+    "Sitzen Sie aufrecht auf einem Stuhl und fassen Sie die Sitzfläche seitlich fest.",
+    "Heben Sie ein Bein an, strecken Sie das Knie und führen Sie gleichzeitig eine Dorsalextension des Fußes aus.",
+    "Bewegen Sie dieses Bein langsam so weit wie möglich nach außen und dann zurück zur Mitte und nach unten.",
+    "Wiederholen Sie dies mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "category_de": "Dehnung"
+}

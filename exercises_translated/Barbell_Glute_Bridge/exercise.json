@@ -1,0 +1,50 @@
+{
+  "name": "Barbell Glute Bridge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor.",
+    "Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet.",
+    "Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Unoszenie bioder ze sztangą",
+  "instructions_pl": [
+    "Rozpocznij siedząc na ziemi ze sztangą umieszczoną na nogach. Użycie grubego gryfu lub podkładki na sztandze może znacznie zmniejszyć dyskomfort spowodowany tym ćwiczeniem. Przetocz sztangę tak, aby znajdowała się bezpośrednio nad Twoimi biodrami, a następnie połóż się płasko na podłodze.",
+    "Rozpocznij ruch, napierając na pięty i unosząc biodra pionowo w górę ze sztangą. Ciężar ciała powinien być podparty przez górną część pleców oraz pięty stóp.",
+    "Unieś biodra tak wysoko, jak to możliwe, a następnie odwróć ruch, aby wrócić do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Langhantel-Gesäßbrücke",
+  "instructions_de": [
+    "Beginnen Sie sitzend auf dem Boden mit einer beladenen Langhantel über Ihren Beinen. Die Verwendung einer Fat Bar oder eines Polsters an der Stange kann das durch diese Übung verursachte Unbehagen erheblich reduzieren. Rollen Sie die Stange so, dass sie sich direkt über Ihren Hüften befindet, und legen Sie sich flach auf den Boden.",
+    "Beginnen Sie die Bewegung, indem Sie sich mit den Fersen abdrücken und Ihre Hüften vertikal durch die Stange nach oben strecken. Ihr Gewicht sollte von Ihrem oberen Rücken und den Fersen Ihrer Füße getragen werden.",
+    "Strecken Sie sich so weit wie möglich nach oben, und kehren Sie dann durch Umkehren der Bewegung in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Oberschenkelbeuger"
+  ],
+  "category_de": "Kraftdreikampf"
+}

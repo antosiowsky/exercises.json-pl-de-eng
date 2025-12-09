@@ -1,0 +1,59 @@
+{
+  "name": "Incline Push-Up Medium",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
+    "Place your hands on the bar, with your hands about shoulder width apart.",
+    "Position your feet back from the bar with arms and body straight. This will be your starting position.",
+    "Keeping your body straight, lower your chest to the bar by bending the arms.",
+    "Return to the starting position by extending the elbows, pressing yourself back up."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompka skośna ze średnim rozstawem rąk",
+  "instructions_pl": [
+    "Stań przodem do sztangi maszyny Smitha lub stabilnej, podwyższonej platformy na odpowiedniej wysokości.",
+    "Połóż dłonie na sztandze, rozstawiając je mniej więcej na szerokość barków.",
+    "Odstaw stopy do tyłu od sztangi, utrzymując ramiona i ciało prosto. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ciało prosto, opuść klatkę piersiową do sztangi, zginając ramiona.",
+    "Wróć do pozycji wyjściowej, prostując łokcie i odpychając się w górę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Schräge Liegestütze (mittlerer Neigungswinkel)",
+  "instructions_de": [
+    "Stellen Sie sich mit Blickrichtung zu einer Langhantelstange einer Smith-Maschine oder einer stabilen, erhöhten Plattform in einer angemessenen Höhe.",
+    "Platzieren Sie Ihre Hände auf der Stange, mit etwa schulterbreitem Abstand.",
+    "Stellen Sie Ihre Füße hinter der Stange auf, wobei Arme und Körper gestreckt sind. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihren Körper gerade und senken Sie Ihre Brust zur Stange, indem Sie die Arme beugen.",
+    "Kehren Sie in die Ausgangsposition zurück, indem Sie die Ellenbogen strecken und sich wieder nach oben drücken."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

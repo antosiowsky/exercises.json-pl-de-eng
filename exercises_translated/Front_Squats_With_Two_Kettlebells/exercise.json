@@ -1,0 +1,50 @@
+{
+  "name": "Front Squats With Two Kettlebells",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
+    "Looking straight ahead at all times, squat as low as you can and pause at the bottom. As you squat down, push your knees out. You should squat between your legs, keeping an upright torso, with your head and chest up.",
+    "Rise back up by driving through your heels and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Przysiady przednie z dwoma odważnikami kulowymi",
+  "instructions_pl": [
+    "Zarzuć dwa odważniki kulowe na barki. Zarzuć odważniki kulowe na barki, prostując nogi i biodra, jednocześnie przyciągając odważniki kulowe w stronę barków. W tym samym czasie obróć nadgarstki.",
+    "Przez cały czas patrz prosto przed siebie, wykonaj przysiad tak nisko, jak potrafisz, i zatrzymaj się w dolnej pozycji. Podczas schodzenia w dół, wypychaj kolana na zewnątrz. Powinieneś przysiadać między nogami, utrzymując wyprostowany tułów, z głową i klatką piersiową uniesionymi.",
+    "Wstań z powrotem, odpychając się od pięt, i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Frontkniebeugen mit zwei Kettlebells",
+  "instructions_de": [
+    "Bringe zwei Kettlebells mit einem Umsetzen (Clean) auf deine Schultern. Das Umsetzen erfolgt durch eine Streckung der Beine und Hüfte, während du die Kettlebells zu deinen Schultern ziehst. Drehe dabei deine Handgelenke.",
+    "Blicke stets geradeaus. Gehe so tief wie möglich in die Kniebeuge und pausiere am tiefsten Punkt. Drücke beim Heruntergehen die Knie nach außen. Halte den Oberkörper aufrecht, den Kopf und die Brust oben.",
+    "Drücke dich durch die Fersen wieder nach oben und wiederhole die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

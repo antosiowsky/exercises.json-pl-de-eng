@@ -1,0 +1,50 @@
+{
+  "name": "Cat Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Koci grzbiet",
+  "instructions_pl": [
+    "Ustaw się na podłodze na czworakach.",
+    "Wciągnij brzuch i zaokrąglij kręgosłup, odcinek lędźwiowy, barki i szyję, pozwalając głowie swobodnie opaść.",
+    "Utrzymaj pozycję przez 15 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie grzbietu",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Katzenbuckel",
+  "instructions_de": [
+    "Begeben Sie sich auf alle Viere auf den Boden.",
+    "Ziehen Sie den Bauch ein und runden Sie Ihre Wirbelsäule, den unteren Rücken, die Schultern und den Nacken, während Sie den Kopf hängen lassen.",
+    "Halten Sie die Position für 15 Sekunden."
+  ],
+  "secondaryMuscles_de": [
+    "Muskulatur des mittleren Rückens",
+    "Musculus trapezius"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Cuban Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Take a dumbbell in each hand with a pronated grip in a standing position. Raise your upper arms so that they are parallel to the floor, allowing your lower arms to hang in the \"scarecrow\" position. This will be your starting position.",
+    "To initiate the movement, externally rotate the shoulders to move the upper arm 180 degrees. Keep the upper arms in place, rotating the upper arms until the wrists are directly above the elbows, the forearms perpendicular to the floor.",
+    "Now press the dumbbells by extending at the elbows, straightening your arms overhead.",
+    "Return to the starting position as you breathe in by reversing the steps.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie kubańskie",
+  "instructions_pl": [
+    "Chwyć hantel w każdą dłoń chwytem pronacyjnym w pozycji stojącej. Unieś ramiona tak, aby były równoległe do podłogi, pozwalając przedramionom swobodnie zwisać w pozycji „stracha na wróble”. Będzie to Twoja pozycja wyjściowa.",
+    "Aby rozpocząć ruch, wykonaj rotację zewnętrzną w stawach barkowych. Utrzymuj ramiona w stałej pozycji, obracając je tak, aby nadgarstki znalazły się bezpośrednio nad łokciami, a przedramiona były prostopadłe do podłogi.",
+    "Następnie wyciśnij hantle, prostując ramiona w stawach łokciowych nad głowę.",
+    "Wróć do pozycji wyjściowej, wykonując wdech i odwracając kolejność ruchów.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kubanisches Drücken",
+  "instructions_de": [
+    "Nehmen Sie im Stehen in jede Hand eine Kurzhantel im Pronationsgriff. Heben Sie Ihre Oberarme an, sodass sie parallel zum Boden sind, wobei Ihre Unterarme in der „Vogelscheuchenposition“ herabhängen. Dies ist Ihre Ausgangsposition.",
+    "Um die Bewegung einzuleiten, führen Sie eine Außenrotation der Schultern aus, um den Oberarm um 180 Grad zu bewegen. Halten Sie die Oberarme fixiert und rotieren Sie sie weiter, bis sich die Handgelenke direkt über den Ellbogen befinden und die Unterarme senkrecht zum Boden stehen.",
+    "Drücken Sie nun die Kurzhanteln, indem Sie die Ellbogen strecken und die Arme über Kopf ausstrecken.",
+    "Kehren Sie in die Ausgangsposition zurück, während Sie einatmen, indem Sie die Schritte umkehren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

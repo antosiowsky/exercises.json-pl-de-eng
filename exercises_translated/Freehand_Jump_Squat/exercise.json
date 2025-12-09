@@ -1,0 +1,62 @@
+{
+  "name": "Freehand Jump Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Cross your arms over your chest.",
+    "With your head up and your back straight, position your feet at shoulder width.",
+    "Keeping your back straight and chest up, squat down as you inhale until your upper thighs are parallel, or lower, to the floor.",
+    "Now pressing mainly with the ball of your feet, jump straight up in the air as high as possible, using the thighs like springs. Exhale during this portion of the movement.",
+    "When you touch the floor again, immediately squat down and jump again.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Przysiad wyskokowy bez obciążenia",
+  "instructions_pl": [
+    "Skrzyżuj ramiona na klatce piersiowej.",
+    "Z głową uniesioną i prostymi plecami, ustaw stopy na szerokość barków.",
+    "Utrzymując proste plecy i uniesioną klatkę piersiową, wykonaj przysiad, wdechając powietrze, aż górna część ud znajdzie się równolegle lub niżej do podłogi.",
+    "Następnie, naciskając głównie śródstopiem, wyskocz prosto w górę tak wysoko, jak to możliwe, używając ud jak sprężyn. Wykonaj wydech podczas tej fazy ruchu.",
+    "Po ponownym dotknięciu podłogi, natychmiast wykonaj przysiad i ponownie wyskocz.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Körpergewichts-Sprungkniebeuge",
+  "instructions_de": [
+    "Verschränken Sie Ihre Arme vor der Brust.",
+    "Halten Sie den Kopf oben und den den Rücken gerade. Stellen Sie Ihre Füße schulterbreit auseinander.",
+    "Halten Sie den Rücken gerade und die Brust oben. Gehen Sie beim Einatmen in die Hocke, bis Ihre Oberschenkel parallel zum Boden oder tiefer sind.",
+    "Drücken Sie sich nun hauptsächlich mit dem Fußballen ab und springen Sie so hoch wie möglich gerade nach oben, wobei Sie die Oberschenkel wie Federn nutzen. Atmen Sie während dieses Teils der Bewegung aus.",
+    "Sobald Sie den Boden wieder berühren, gehen Sie sofort wieder in die Hocke und springen erneut.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

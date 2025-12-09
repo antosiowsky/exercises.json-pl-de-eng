@@ -1,0 +1,62 @@
+{
+  "name": "Squat with Bands",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Set up the bands on the sleeves, secured to either band pegs, the rack, or dumbbells so that there is appropriate tension.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad z gumami oporowymi",
+  "instructions_pl": [
+    "Zamocuj gumy oporowe na tulejach sztangi, zabezpieczając je do kołków na gumy, stojaka lub hantli, tak aby zapewnić odpowiednie napięcie.",
+    "Rozpocznij od wejścia pod sztangę i umieszczenia jej na górnej części pleców, na wysokości barków. Ściągnij łopatki i skieruj łokcie do przodu, próbując 'złamać' sztangę na barkach. Zdejmij sztangę ze stojaka, tworząc mocny łuk w odcinku lędźwiowym kręgosłupa, i cofnij się do pozycji wyjściowej. Rozstaw stopy szeroko, aby bardziej zaangażować mięśnie grzbietu, pośladkowe, przywodziciele i kulszowo-goleniowe. Trzymaj głowę skierowaną do przodu.",
+    "Utrzymując napięty grzbiet, barki i mięśnie głębokie tułowia, wypchnij kolana na zewnątrz i pośladki do tyłu, rozpoczynając opuszczanie. Opuść biodra jak najdalej do tyłu. Idealnie, piszczele powinny być prostopadłe do podłoża. Niższe ułożenie sztangi wymaga większego pochylenia tułowia, aby utrzymać sztangę nad piętami. Kontynuuj, aż przekroczysz równoległość, co oznacza, że zgięcie w stawie biodrowym znajdzie się na wysokości górnej części kolana.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, wykonaj ruch w górę, prowadząc go głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głów, aż wrócisz do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kniebeuge mit Widerstandsbändern",
+  "instructions_de": [
+    "Befestigen Sie die Widerstandsbänder an den Hantelstangenaufnahmen, gesichert entweder an Band-Pegs, dem Rack oder Kurzhanteln, sodass eine angemessene Spannung entsteht.",
+    "Beginnen Sie, indem Sie unter die Langhantel treten und diese auf dem oberen Rücken platzieren. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Langhantel über Ihren Schultern zu beugen. Heben Sie die Langhantel aus dem Rack, erzeugen Sie ein festes Hohlkreuz im unteren Rücken und treten Sie in die Ausgangsposition zurück. Stellen Sie Ihre Füße breit, um den Fokus stärker auf den Rücken, die Gesäßmuskulatur, die Adduktoren und die Ischiocruralmuskulatur zu legen. Halten Sie Ihren Kopf nach vorne gerichtet.",
+    "Halten Sie Rücken, Schultern und Rumpf angespannt, drücken Sie Ihre Knie und Ihr Gesäß nach außen, während Sie die Abwärtsbewegung einleiten. Setzen Sie sich mit den Hüften so weit wie möglich nach hinten. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Eine tiefere Langhantelposition erfordert eine stärkere Rumpfneigung, um die Langhantel über den Fersen zu halten. Fahren Sie fort, bis Sie die Parallele unterschreiten, was definiert ist als die Hüftfalte, die sich auf Höhe der Oberkante des Knies befindet.",
+    "Halten Sie das Gewicht auf den Fersen und drücken Sie Ihre Füße und Knie nach außen, während Sie sich nach oben drücken und die Bewegung mit dem Kopf anführen. Fahren Sie mit der Aufwärtsbewegung fort, wobei Sie die Spannung von Kopf bis Fuß beibehalten, bis Sie in die Ausgangsposition zurückgekehrt sind."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocruralmuskulatur",
+    "Lendenwirbelsäulenmuskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

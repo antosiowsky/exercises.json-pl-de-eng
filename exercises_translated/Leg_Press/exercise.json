@@ -1,0 +1,59 @@
+{
+  "name": "Leg Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances described in the foot positioning section).",
+    "Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you. Tip: Make sure that you do not lock your knees. Your torso and the legs should make a perfect 90-degree angle. This will be your starting position.",
+    "As you inhale, slowly lower the platform until your upper and lower legs make a 90-degree angle.",
+    "Pushing mainly with the heels of your feet and using the quadriceps go back to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions and ensure to lock the safety pins properly once you are done. You do not want that platform falling on you fully loaded."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie nogami na suwnicy",
+  "instructions_pl": [
+    "Używając maszyny do wypychania nóg (suwnicy), usiądź na niej i umieść stopy na platformie bezpośrednio przed sobą, rozstawiając je na średnią szerokość (na szerokość barków). (Uwaga: Na potrzeby tej instrukcji będziemy używać opisanego powyżej średniego rozstawu stóp, który angażuje mięśnie w sposób ogólny; możesz jednak wybrać dowolny z trzech rozstawów opisanych w sekcji dotyczącej pozycji stóp).",
+    "Opuść drążki zabezpieczające utrzymujące obciążoną platformę i wypchnij platformę całkowicie w górę, aż Twoje nogi będą w pełni wyprostowane przed Tobą. Wskazówka: Upewnij się, że nie blokujesz kolan. Twój tułów i nogi powinny tworzyć idealny kąt 90 stopni. Będzie to Twoja pozycja początkowa.",
+    "Wraz z wdechem, powoli opuść platformę, aż Twoje uda i podudzia utworzą kąt 90 stopni.",
+    "Odpychając się głównie piętami stóp i używając mięśni czworogłowych uda, wróć do pozycji początkowej wraz z wydechem.",
+    "Powtórz ćwiczenie dla zalecanej liczby powtórzeń i upewnij się, że prawidłowo zablokowałeś sworznie zabezpieczające po zakończeniu. Nie chcesz, aby platforma spadła na Ciebie z pełnym obciążeniem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Beinpresse",
+  "instructions_de": [
+    "An einer Beinpresse setzen Sie sich auf das Gerät und platzieren Ihre Füße auf der Plattform direkt vor Ihnen in einem mittleren (schulterbreiten) Stand. (Hinweis: Für die Zwecke dieser Beschreibung verwenden wir den oben genannten mittleren Stand, der eine umfassende Entwicklung fördert; Sie können jedoch auch eine der drei in der Sektion zur Fußpositionierung beschriebenen Stellungen wählen).",
+    "Lösen Sie die Sicherheitsriegel, die die beladene Plattform halten, und drücken Sie die Plattform ganz nach oben, bis Ihre Beine vollständig vor Ihnen gestreckt sind. Tipp: Achten Sie darauf, Ihre Knie nicht zu überstrecken. Ihr Oberkörper und die Beine sollten einen perfekten 90-Grad-Winkel bilden. Dies ist Ihre Startposition.",
+    "Während Sie einatmen, senken Sie die Plattform langsam ab, bis Ihre Ober- und Unterschenkel einen 90-Grad-Winkel bilden.",
+    "Drücken Sie hauptsächlich mit den Fersen Ihrer Füße und unter Einsatz des Musculus quadriceps femoris in die Startposition zurück, während Sie ausatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen und stellen Sie sicher, dass die Sicherheitsriegel nach Beendigung ordnungsgemäß verriegelt sind. Sie möchten nicht, dass die voll beladene Plattform auf Sie fällt."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Kraft"
+}

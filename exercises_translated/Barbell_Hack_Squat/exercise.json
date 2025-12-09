@@ -1,0 +1,56 @@
+{
+  "name": "Barbell Hack Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+    "While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.",
+    "Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiady Hacka ze sztangą",
+  "instructions_pl": [
+    "Stań prosto, trzymając sztangę za plecami na wyprostowanych ramionach, stopy rozstawione na szerokość barków. Wskazówka: Najlepszy jest chwyt na szerokość barków, z dłońmi skierowanymi do tyłu. Możesz użyć pasków na nadgarstki dla lepszego chwytu podczas tego ćwiczenia. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując głowę i wzrok skierowane w górę oraz proste plecy, wykonaj przysiad, aż górna część ud będzie równoległa do podłogi. Wdychaj powietrze, powoli opuszczając się w dół.",
+    "Odpychając się głównie piętami stóp i napinając mięśnie ud, wróć do pozycji wyjściowej, wydychając powietrze.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Hackenschmidt-Kniebeuge",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie eine Langhantel hinter Ihrem Körper mit ausgestreckten Armen halten und Ihre Füße schulterbreit auseinander stehen. Tipp: Ein schulterbreiter Griff ist am besten, wobei Ihre Handflächen nach hinten zeigen. Sie können Handgelenkbandagen für diese Übung verwenden, um einen besseren Halt zu erzielen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Kopf und Blick oben und den Rücken gerade. Gehen Sie in die Hocke, bis Ihre Oberschenkel parallel zum Boden sind. Atmen Sie ein, während Sie langsam nach unten gehen.",
+    "Drücken Sie sich hauptsächlich mit den Fersen ab und spannen Sie die Oberschenkel an, um wieder nach oben zu gehen, während Sie ausatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarme",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

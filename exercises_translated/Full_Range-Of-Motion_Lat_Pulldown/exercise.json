@@ -1,0 +1,50 @@
+{
+  "name": "Full Range-Of-Motion Lat Pulldown",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
+    "Keeping your chest up and maintaining a slight arch in your lower back, pull the handles down as if you were doing a regular pulldown. The range of motion will be more of an arc. During the movement, rotate your hands so that in the bottom position your palms face each other rather than forward. Return slowly to the starting position and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie wyciągu górnego w pełnym zakresie ruchu",
+  "instructions_pl": [
+    "Stojąc lub siedząc na wysokiej ławce, chwyć dwie linki z uchwytami strzemionowymi przymocowane do górnych bloczków. Chwyć ręką przeciwną, tak aby ramiona były skrzyżowane przed tobą, a dłonie skierowane do przodu.",
+    "Utrzymując klatkę piersiową uniesioną i zachowując lekki łuk w dolnej części pleców, pociągnij uchwyty w dół, tak jakbyś wykonywał standardowe ściąganie wyciągu. Zakres ruchu będzie bardziej przypominał łuk. Podczas ruchu obróć dłonie tak, aby w dolnej pozycji dłonie były skierowane do siebie, a nie do przodu. Powoli wróć do pozycji początkowej i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięśnie grzbietu (część środkowa)",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Latzug mit vollem Bewegungsumfang",
+  "instructions_de": [
+    "Entweder stehend oder auf einer hohen Bank sitzend, fassen Sie zwei Steigbügelgriffe, die an den oberen Umlenkrollen befestigt sind. Greifen Sie die Griffe über Kreuz, sodass Ihre Arme vor Ihnen gekreuzt sind und Ihre Handflächen nach vorne zeigen.",
+    "Halten Sie die Brust aufrecht und bewahren Sie ein leichtes Hohlkreuz im unteren Rücken. Ziehen Sie die Griffe nach unten, als würden Sie einen normalen Latzug ausführen. Der Bewegungsumfang wird eher bogenförmig sein. Während der Bewegung drehen Sie Ihre Hände, sodass in der untersten Position Ihre Handflächen zueinander zeigen, anstatt nach vorne. Kehren Sie langsam in die Ausgangsposition zurück und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Mittlerer Rücken",
+    "Schultern"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Two-Arm Kettlebell Military Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward.",
+    "Press the kettlebells up and out. As the kettlebells pass your head, lean into the weights so that the kettlebells are racked behind your head. Make sure to contract your lats, butt, and stomach for added stability."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie żołnierskie kettlebell oburącz",
+  "instructions_pl": [
+    "Zarzuć dwa kettlebelle na barki. Wykonaj zarzut, prostując nogi i biodra, jednocześnie zarzucając kettlebelle w kierunku barków. W trakcie ruchu obróć nadgarstki tak, aby dłonie były skierowane do przodu.",
+    "Wyciśnij kettlebelle w górę i na zewnątrz. Gdy kettlebelle miną głowę, pochyl się pod ciężar tak, aby kettlebelle spoczęły za głową. Pamiętaj o napięciu mięśnia najszerszego grzbietu, mięśni pośladkowych i mięśni brzucha dla zwiększenia stabilności."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Zweihändige Kettlebell Military Press",
+  "instructions_de": [
+    "Setze zwei Kettlebells auf deine Schultern um. Führe das Umsetzen der Kettlebells auf Schulterhöhe aus, indem du dich durch die Streckung von Beinen und Hüfte unterstützt, während du die Kettlebells zu deinen Schultern schwingst. Drehe dabei deine Handgelenke, sodass die Handflächen nach vorne zeigen.",
+    "Drücke die Kettlebells nach oben und außen. Sobald die Kettlebells deinen Kopf passieren, lehne dich leicht zurück, um die Kettlebells hinter deinem Kopf zu positionieren. Achte darauf, deinen Musculus latissimus dorsi, deine Gesäßmuskulatur und deine Bauchmuskulatur anzuspannen, um zusätzliche Stabilität zu gewährleisten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

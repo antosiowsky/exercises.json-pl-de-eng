@@ -1,0 +1,44 @@
+{
+  "name": "Speed Band Overhead Triceps",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.",
+    "To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.",
+    "To perform the movement, extend through the elbow to to straighten your arms, ensuring that you keep your upper arm in place.",
+    "Pause, and then return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Prostowanie ramion z gumą oporową nad głową (mięsień trójgłowy ramienia)",
+  "instructions_pl": [
+    "Dla tego ćwiczenia zakotwicz gumę oporową do podłoża. My użyliśmy ławki skośnej i zakotwiczyliśmy gumę do jej podstawy, stojąc nad ławką. Alternatywnie, ćwiczenie to można wykonać, stając na gumie.",
+    "Aby rozpocząć, pociągnij gumę za głowę, trzymając ją nachwytem i z łokciami skierowanymi w górę. Będzie to Twoja pozycja początkowa.",
+    "Aby wykonać ruch, wyprostuj ramiona w stawie łokciowym, upewniając się, że utrzymujesz ramię w miejscu.",
+    "Zatrzymaj ruch, a następnie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Speedband Überkopf-Trizepsstrecken",
+  "instructions_de": [
+    "Für diese Übung befestigen Sie ein Widerstandsband am Boden. Wir haben eine Schrägbank verwendet und das Band an deren Basis befestigt, wobei wir über der Bank standen. Alternativ kann die Übung auch ausgeführt werden, indem man auf dem Band steht.",
+    "Zu Beginn ziehen Sie das Band hinter Ihren Kopf, wobei Sie es mit einem Pronationsgriff halten und Ihre Ellbogen nach oben gerichtet sind. Dies ist Ihre Ausgangsposition.",
+    "Um die Bewegung auszuführen, strecken Sie den Ellbogen, um Ihre Arme zu strecken, wobei Sie darauf achten, dass Ihr Oberarm fixiert bleibt.",
+    "Pausieren Sie kurz und kehren Sie dann in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

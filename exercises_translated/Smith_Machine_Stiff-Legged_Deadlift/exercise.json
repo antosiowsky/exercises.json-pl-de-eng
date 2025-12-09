@@ -1,0 +1,56 @@
+{
+  "name": "Smith Machine Stiff-Legged Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
+    "Lift the bar up by fully extending your arms while keeping your back straight. Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+    "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+    "Start bringing your torso up straight again as soon as you feel the hamstrings stretch by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Martwy ciąg na prostych nogach na suwnicy Smitha",
+  "instructions_pl": [
+    "Na początek ustaw sztangę na suwnicy Smitha na wysokości mniej więcej środka ud. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, chwyć sztangę nachwytem (dłonie skierowane do przodu) na szerokość barków. Możesz potrzebować pasków na nadgarstki, jeśli używasz znacznego ciężaru.",
+    "Podnieś sztangę, całkowicie prostując ramiona, jednocześnie utrzymując proste plecy. Stań z prostym tułowiem i nogami rozstawionymi na szerokość barków lub węziej. Kolana powinny być lekko ugięte. Jest to twoja pozycja wyjściowa.",
+    "Utrzymując kolana nieruchomo, opuść sztangę nad stopy, pochylając się w pasie i utrzymując proste plecy. Kontynuuj ruch w przód, jakbyś chciał podnieść coś z podłogi, aż poczujesz rozciąganie w mięśniach dwugłowych uda. Wykonując ten ruch, zrób wydech.",
+    "Zacznij ponownie prostować tułów, gdy tylko poczujesz rozciąganie w mięśniach dwugłowych uda, prostując biodra i talię, aż wrócisz do pozycji wyjściowej. Wykonując ten ruch, zrób wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kreuzheben an der Multipresse mit gestreckten Beinen",
+  "instructions_de": [
+    "Stellen Sie zunächst die Stange an der Multipresse auf eine Höhe ein, die sich etwa in der Mitte Ihrer Oberschenkel befindet. Sobald die korrekte Höhe gewählt und die Stange beladen ist, greifen Sie die Stange mit einem pronatierten (Handflächen nach vorne gerichteten) Griff, der schulterbreit ist. Bei Verwendung eines erheblichen Gewichts benötigen Sie möglicherweise Handgelenksbandagen.",
+    "Heben Sie die Stange an, indem Sie Ihre Arme vollständig strecken und Ihren Rücken gerade halten. Stellen Sie sich mit geradem Oberkörper und schulterbreit oder enger auseinander stehenden Beinen hin. Die Knie sollten leicht gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Knie stationär und senken Sie die Langhantel über Ihre Füße, indem Sie sich in der Taille beugen und Ihren Rücken gerade halten. Bewegen Sie sich weiter nach vorne, als ob Sie etwas vom Boden aufheben wollten, bis Sie eine Dehnung in der ischiocruralen Muskulatur spüren. Atmen Sie aus, während Sie diese Bewegung ausführen.",
+    "Beginnen Sie, Ihren Oberkörper wieder aufzurichten, sobald Sie die Dehnung in der ischiocruralen Muskulatur spüren, indem Sie Ihre Hüften und Taille strecken, bis Sie wieder in der Ausgangsposition sind. Atmen Sie ein, während Sie diese Bewegung ausführen.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraft"
+}

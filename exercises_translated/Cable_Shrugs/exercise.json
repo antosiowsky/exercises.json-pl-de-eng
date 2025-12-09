@@ -1,0 +1,47 @@
+{
+  "name": "Cable Shrugs",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Grasp a cable bar attachment that is attached to a low pulley with a shoulder width or slightly wider overhand (palms facing down) grip.",
+    "Stand erect close to the pulley with your arms extended in front of you holding the bar. This will be your starting position.",
+    "Lift the bar by elevating the shoulders as high as possible as you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the bar. Only the shoulders should be moving up and down.",
+    "Lower the bar back to the original position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wznosy barków na wyciągu",
+  "instructions_pl": [
+    "Chwyć drążek wyciągu przymocowany do dolnego bloczka wyciągu chwytem nachwytem (dłonie skierowane w dół) na szerokość barków lub nieco szerzej.",
+    "Stań prosto blisko wyciągu, z ramionami wyprostowanymi przed sobą, trzymając drążek. Będzie to Twoja pozycja wyjściowa.",
+    "Unieś drążek, unosząc barki jak najwyżej podczas wydechu. Przytrzymaj skurcz w górnej pozycji przez sekundę. Wskazówka: Ramiona powinny pozostać wyprostowane przez cały czas. Powstrzymaj się od używania mięśni dwugłowych ramion do pomocy w podnoszeniu drążka. Tylko barki powinny poruszać się w górę i w dół.",
+    "Opuść drążek z powrotem do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Schulterheben am Kabelzug",
+  "instructions_de": [
+    "Fassen Sie eine Kabelstange, die an einem tiefen Kabelzug befestigt ist, mit einem schulterbreiten oder etwas breiteren Obergriff (Handflächen zeigen nach unten).",
+    "Stellen Sie sich aufrecht nahe am Kabelzug auf, mit ausgestreckten Armen vor sich, die Stange haltend. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Stange, indem Sie die Schultern beim Ausatmen so hoch wie möglich anheben. Halten Sie die Kontraktion oben für eine Sekunde. Tipp: Die Arme sollten jederzeit gestreckt bleiben. Vermeiden Sie es, den Musculus biceps brachii zur Unterstützung beim Anheben der Stange zu verwenden. Nur die Schultern sollten sich auf und ab bewegen.",
+    "Senken Sie die Stange zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

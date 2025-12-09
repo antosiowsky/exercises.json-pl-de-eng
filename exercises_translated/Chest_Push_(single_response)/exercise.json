@@ -1,0 +1,53 @@
+{
+  "name": "Chest Push (single response)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
+    "Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.",
+    "Follow through by falling forward, catching yourself with your hands."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Pchnięcie klatki piersiowej (jednorazowe wykonanie)",
+  "instructions_pl": [
+    "Rozpocznij w pozycji klęczącej, trzymając piłkę lekarską obiema rękami mocno przy klatce piersiowej.",
+    "Wykonaj pchnięcie, eksplodując biodrami do przodu i na zewnątrz, jednocześnie wypychając piłkę jak najdalej.",
+    "Kontynuuj ruch, opadając do przodu i amortyzując upadek rękami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Bruststoß (Einzelausführung)",
+  "instructions_de": [
+    "Beginnen Sie in kniender Position und halten Sie den Medizinball mit beiden Händen fest an die Brust gepresst.",
+    "Führen Sie den Stoß aus, indem Sie explosiv mit den Hüften nach vorne und außen drängen und den Ball dabei so weit wie möglich stoßen.",
+    "Gehen Sie in die Nachbewegung über, indem Sie nach vorne fallen und sich mit den Händen abfangen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

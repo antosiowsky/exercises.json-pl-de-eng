@@ -1,0 +1,53 @@
+{
+  "name": "Linear 3-Part Start Technique",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "instructions": [
+    "This drill helps you accelerate as quickly as possible into a sprint from a dead stop. It helps to use a line to start from. Begin with two feet on the line. Place your left foot with the toe next to your right ankle. Place your right foot 4-6 inches behind the left.",
+    "Place your right hand onto the line, and thing bring your nose close to your left knee.",
+    "Squat down as you lean foward, your head being lower than your hips and your weight loaded onto the left leg. This will be your starting position.",
+    "Take your left hand up so that it is parallel to the ground, pointing behind you, and explode out when ready."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Trójfazowa Technika Startu Liniowego",
+  "instructions_pl": [
+    "To ćwiczenie pomaga w jak najszybszym przyspieszeniu do sprintu z miejsca. Pomocne jest użycie linii startowej. Zacznij z obiema stopami na linii. Umieść lewą stopę tak, aby palce znajdowały się obok prawego stawu skokowego. Umieść prawą stopę 10-15 cm za lewą.",
+    "Połóż prawą dłoń na linii, a następnie zbliż nos do lewego kolana.",
+    "Przysiadnij, pochylając się do przodu, tak aby głowa znajdowała się niżej niż biodra, a ciężar ciała był obciążony na lewej nodze. Będzie to Twoja pozycja startowa.",
+    "Unieś lewą dłoń tak, aby była równoległa do podłoża, skierowana do tyłu, i dynamicznie wystartuj, gdy będziesz gotowy."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięsień czworogłowy uda"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Lineare dreiphasige Starttechnik",
+  "instructions_de": [
+    "Diese Übung hilft Ihnen, aus dem Stand so schnell wie möglich in einen Sprint zu beschleunigen. Es ist hilfreich, eine Linie als Startpunkt zu verwenden. Beginnen Sie mit beiden Füßen auf der Linie. Platzieren Sie Ihren linken Fuß mit der Zehenspitze neben Ihrem rechten Sprunggelenk. Platzieren Sie Ihren rechten Fuß 4-6 Zoll hinter dem linken.",
+    "Legen Sie Ihre rechte Hand auf die Linie und bringen Sie dann Ihre Nase nahe an Ihr linkes Knie.",
+    "Gehen Sie in die Hocke, während Sie sich nach vorne lehnen, wobei Ihr Kopf tiefer als Ihre Hüften ist und Ihr Gewicht auf das linke Bein verlagert ist. Dies ist Ihre Startposition.",
+    "Heben Sie Ihre linke Hand an, sodass sie parallel zum Boden ist und nach hinten zeigt, und starten Sie explosiv, wenn Sie bereit sind."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Plyometrie"
+}

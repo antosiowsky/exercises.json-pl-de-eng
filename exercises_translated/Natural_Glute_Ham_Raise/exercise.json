@@ -1,0 +1,56 @@
+{
+  "name": "Natural Glute Ham Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Using the leg pad of a lat pulldown machine or a preacher bench, position yourself so that your ankles are under the pads, knees on the seat, and you are facing away from the machine. You should be upright and maintaining good posture.",
+    "This will be your starting position. Lower yourself under control until your knees are almost completely straight.",
+    "Remaining in control, raise yourself back up to the starting position.",
+    "If you are unable to complete a rep, use a band, a partner, or push off of a box to aid in completing a repetition."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Naturalne wznosy tułowia na mięśnie kulszowo-goleniowe i pośladkowe",
+  "instructions_pl": [
+    "Wykorzystując wałek maszyny do ściągania drążka wyciągu górnego lub ławkę Scotta, ustaw się tak, aby Twoje kostki znajdowały się pod wałkami, kolana na siedzisku, a Ty byłeś odwrócony tyłem do maszyny. Powinieneś być w pozycji wyprostowanej i utrzymywać prawidłową postawę.",
+    "Będzie to Twoja pozycja początkowa. Opuść się w sposób kontrolowany, aż Twoje kolana będą prawie całkowicie wyprostowane.",
+    "Utrzymując kontrolę, unieś się z powrotem do pozycji początkowej.",
+    "Jeśli nie jesteś w stanie wykonać powtórzenia, użyj gumy oporowej, pomocy partnera lub odbij się od skrzyni, aby wspomóc wykonanie powtórzenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydki",
+    "mięśnie pośladkowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "siła",
+  "name_de": "Natürliches Glute Ham Raise",
+  "instructions_de": [
+    "Verwenden Sie das Beinpolster einer Latzugmaschine oder einer Preacher-Bank und positionieren Sie sich so, dass Ihre Knöchel unter den Polstern, die Knie auf der Sitzfläche sind und Sie von der Maschine wegschauen. Sie sollten aufrecht stehen und eine gute Körperhaltung bewahren.",
+    "Dies ist Ihre Ausgangsposition. Senken Sie sich kontrolliert ab, bis Ihre Knie fast vollständig gestreckt sind.",
+    "Bleiben Sie kontrolliert und heben Sie sich zurück in die Ausgangsposition.",
+    "Wenn Sie eine Wiederholung nicht vollständig ausführen können, verwenden Sie ein Widerstandsband, einen Partner oder stoßen Sie sich von einer Box ab, um die Wiederholung zu erleichtern."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "untere Rückenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

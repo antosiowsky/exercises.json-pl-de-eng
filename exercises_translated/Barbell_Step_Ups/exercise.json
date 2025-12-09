@@ -1,0 +1,59 @@
+{
+  "name": "Barbell Step Ups",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
+    "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+    "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+    "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wchodzenie na podwyższenie ze sztangą",
+  "instructions_pl": [
+    "Stań prosto, trzymając sztangę umieszczoną na plecach, na barkach (nieco poniżej karku), i stań wyprostowany za podwyższoną platformą (taką jak ta używana do asekuracji za ławką płaską). To jest Twoja pozycja wyjściowa.",
+    "Umieść prawą stopę na podwyższonej platformie. Wejdź na platformę, prostując staw biodrowy i kolanowy prawej nogi. Użyj głównie pięty, aby unieść resztę ciała i również umieścić stopę lewej nogi na platformie. Wykonaj wydech, wykonując siłę potrzebną do uniesienia się.",
+    "Zejdź lewą nogą, zginając staw biodrowy i kolanowy prawej nogi, jednocześnie wykonując wdech. Wróć do pierwotnej pozycji stojącej, stawiając prawą stopę obok lewej stopy w pozycji wyjściowej.",
+    "Powtórz ćwiczenie prawą nogą przez zalecaną liczbę powtórzeń, a następnie wykonaj je lewą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięsień czworogłowy uda"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Langhantel-Step-ups",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie eine Langhantel auf dem oberen Rücken (leicht unterhalb des Nackens) halten, und stehen Sie aufrecht hinter einer erhöhten Plattform (wie z.B. der zum Sichern hinter einer Flachbank verwendeten). Dies ist Ihre Ausgangsposition.",
+    "Stellen Sie den rechten Fuß auf die erhöhte Plattform. Steigen Sie auf die Plattform, indem Sie Hüfte und Knie Ihres rechten Beins strecken. Nutzen Sie hauptsächlich die Ferse, um den restlichen Körper nach oben zu heben und stellen Sie den linken Fuß ebenfalls auf die Plattform. Atmen Sie aus, während Sie die zum Aufsteigen erforderliche Kraft aufwenden.",
+    "Steigen Sie mit dem linken Bein wieder ab, indem Sie Hüfte und Knie des rechten Beins beugen, während Sie einatmen. Kehren Sie zur ursprünglichen stehenden Position zurück, indem Sie den rechten Fuß neben den linken Fuß in die Ausgangsposition stellen.",
+    "Wiederholen Sie dies mit dem rechten Bein für die empfohlene Anzahl an Wiederholungen und führen Sie die Übung anschließend mit dem linken Bein aus."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Kraft"
+}

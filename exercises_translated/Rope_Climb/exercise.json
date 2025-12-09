@@ -1,0 +1,62 @@
+{
+  "name": "Rope Climb",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
+    "Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.",
+    "Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.",
+    "Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.",
+    "To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wspinaczka po linie",
+  "instructions_pl": [
+    "Chwyć linę obiema rękami nad głową. Pociągnij linę w dół, wykonując niewielki skok.",
+    "Owiń linę wokół jednej nogi, używając stóp do jej unieruchomienia. Wyciągnij ręce jak najwyżej, mocno chwytając linę.",
+    "Zwolnij uchwyt stóp na linie, jednocześnie podciągając się rękami i przyciągając kolana do klatki piersiowej.",
+    "Ponownie zabezpiecz stopy na linie, a następnie wstań, aby wykonać kolejny wysoki chwyt na linie. Kontynuuj, aż dotrzesz do szczytu liny.",
+    "Aby opuścić się w dół, rozluźnij uchwyt stóp na linie, zjeżdżając w dół ruchem ręka za ręką."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie przedramion",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Seilklettern",
+  "instructions_de": [
+    "Greifen Sie das Seil mit beiden Händen über Ihrem Kopf. Ziehen Sie am Seil nach unten, während Sie einen kleinen Sprung machen.",
+    "Wickeln Sie das Seil um ein Bein und klemmen Sie es mit den Füßen ein. Strecken Sie die Arme so hoch wie möglich und greifen Sie das Seil fest.",
+    "Lösen Sie das Seil von Ihren Füßen, während Sie sich mit den Armen hochziehen und die Knie zur Brust führen.",
+    "Fixieren Sie Ihre Füße erneut am Seil und stellen Sie sich dann auf, um einen weiteren hohen Griff am Seil zu fassen. Fahren Sie fort, bis Sie das obere Ende des Seils erreichen.",
+    "Um sich herabzulassen, lockern Sie den Griff Ihrer Füße am Seil, während Sie im Hand-über-Hand-Prinzip abgleiten."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Unterarmmuskulatur",
+    "Muskulatur des mittleren Rückens",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

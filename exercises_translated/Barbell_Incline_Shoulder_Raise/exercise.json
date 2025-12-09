@@ -1,0 +1,50 @@
+{
+  "name": "Barbell Incline Shoulder Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Lie back on an Incline Bench. Using a medium width grip (a grip that is slightly wider than shoulder width), lift the bar from the rack and hold it straight over you with your arms straight. This will be your starting position.",
+    "While keeping the arms straight, lift the bar by protracting your shoulder blades, raising the shoulders from the bench as you breathe out.",
+    "Bring back the bar to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wznosy barków sztangą na ławce skośnej",
+  "instructions_pl": [
+    "Połóż się na ławce skośnej. Chwytając sztangę średnim chwytem (nieco szerszym niż szerokość barków), zdejmij ją ze stojaka i trzymaj prosto nad sobą z wyprostowanymi ramionami. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona proste, unieś sztangę poprzez protrakcję łopatek, odrywając barki od ławki, wykonując wydech.",
+    "Opuść sztangę do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień piersiowy"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Langhantel-Schrägbank-Schulterheben",
+  "instructions_de": [
+    "Lege dich auf eine Schrägbank. Greife die Langhantel etwas breiter als schulterbreit (mittlere Griffbreite). Hebe die Langhantel aus der Ablage und halte sie mit gestreckten Armen gerade über dir. Dies ist deine Ausgangsposition.",
+    "Halte die Arme gestreckt und hebe die Langhantel, indem du deine Schulterblätter protrahierst und die Schultern von der Bank anhebst, während du ausatmest.",
+    "Bringe die Langhantel während des Einatmens zurück in die Ausgangsposition.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

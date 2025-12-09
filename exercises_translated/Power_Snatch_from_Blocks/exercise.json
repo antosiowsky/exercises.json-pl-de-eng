@@ -1,0 +1,74 @@
+{
+  "name": "Power Snatch from Blocks",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.",
+    "Begin the first pull by driving through the front of the heels, raising the bar from the boxes.",
+    "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar above a full squat and with the arms fully extended overhead.",
+    "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie siłowe z bloków",
+  "instructions_pl": [
+    "Rozpocznij z załadowaną sztangą umieszczoną na blokach lub podstawkach o pożądanej wysokości. Chwyt na sztandze powinien być szeroki. Stopy powinny znajdować się bezpośrednio pod biodrami, z palcami skierowanymi na zewnątrz w razie potrzeby. Opuść biodra, utrzymując klatkę piersiową uniesioną i głowę skierowaną do przodu. Barki powinny znajdować się tuż przed sztangą, z łokciami skierowanymi na zewnątrz. Będzie to pozycja startowa.",
+    "Rozpocznij pierwsze podciągnięcie, odpychając się przednią częścią pięt i unosząc sztangę z bloków.",
+    "Przejdź do drugiego podciągnięcia poprzez dynamiczny wyprost w stawach biodrowych, kolanowych i skokowych, unosząc sztangę w górę tak szybko, jak to możliwe. Sztanga powinna znajdować się blisko ciała. W szczytowym momencie wyprostu, wzrusz barkami i pozwól łokciom ugiąć się na boki.",
+    "Przenosząc stopy do pozycji przyjęcia, energicznie wciągnij się pod sztangę, jednocześnie unosząc ją nad głowę. Stopy powinny przemieścić się tuż poza szerokość bioder, z palcami skierowanymi na zewnątrz w razie potrzeby. Przyjmij sztangę powyżej pełnego przysiadu, z ramionami w pełni wyprostowanymi nad głową.",
+    "Utrzymując sztangę w linii nad przednią częścią pięt, z głową i klatką piersiową uniesionymi, odpychaj się piętami, aby przejść do pozycji stojącej. Ostrożnie odłóż ciężar na bloki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "przedramiona",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (odcinek lędźwiowy)",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne",
+    "mięśnie trójgłowe ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Power Snatch aus Blöcken",
+  "instructions_de": [
+    "Beginnen Sie mit einer beladenen Langhantel auf Blöcken oder Ständern der gewünschten Höhe. Wählen Sie einen weiten Griff an der Stange. Die Füße sollten direkt unter den Hüften platziert sein, bei Bedarf leicht nach außen gedreht. Senken Sie die Hüften, halten Sie die Brust oben und den Kopf nach vorne gerichtet. Die Schultern sollten sich leicht vor der Stange befinden, die Ellbogen nach außen zeigend. Dies ist die Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich über den vorderen Teil der Fersen abdrücken und die Stange von den Blöcken heben.",
+    "Gehen Sie in den zweiten Zug über, indem Sie Hüften, Knie und Sprunggelenke strecken und die Stange so schnell wie möglich nach oben treiben. Die Stange sollte nah am Körper geführt werden. Am höchsten Punkt der Streckung ziehen Sie die Schultern hoch (shrug) und lassen die Ellbogen seitlich beugen.",
+    "Während Sie Ihre Füße in die Fangposition bewegen, ziehen Sie sich kraftvoll unter die Stange, während Sie diese über Kopf heben. Die Füße sollten sich knapp außerhalb der Hüften positionieren, bei Bedarf nach außen gedreht. Fangen Sie die Stange oberhalb einer vollen Kniebeuge und mit vollständig über Kopf gestreckten Armen ab.",
+    "Halten Sie die Stange über dem vorderen Teil der Fersen ausgerichtet, Kopf und Brust oben, drücken Sie sich über die Fersen der Füße in eine stehende Position. Legen Sie das Gewicht vorsichtig auf die Blöcke zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Rückenstrecker",
+    "Schultermuskulatur",
+    "Trapezmuskel",
+    "Trizeps"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

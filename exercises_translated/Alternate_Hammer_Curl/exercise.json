@@ -1,0 +1,56 @@
+{
+  "name": "Alternate Hammer Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
+    "The palms of the hands should be facing your torso. This will be your starting position.",
+    "While holding the upper arm stationary, curl the right weight forward while contracting the biceps as you breathe out. Continue the movement until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat the movement with the left hand. This equals one repetition.",
+    "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Naprzemienne uginanie ramion chwytem młotkowym",
+  "instructions_pl": [
+    "Stań prosto z wyprostowanym tułowiem, trzymając hantel w każdej dłoni na długość ramion. Łokcie powinny znajdować się blisko tułowia.",
+    "Dłonie powinny być skierowane w stronę tułowia. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramię nieruchomo, ugnij prawy hantel do przodu, jednocześnie napinając mięsień dwugłowy ramienia podczas wydechu. Kontynuuj ruch, aż mięsień dwugłowy ramienia będzie w pełni napięty, a hantle znajdą się na wysokości barków. Przytrzymaj pozycję maksymalnego napięcia przez sekundę, mocno ściskając mięsień dwugłowy ramienia. Wskazówka: Poruszać powinny się tylko przedramiona.",
+    "Powoli zacznij opuszczać hantle do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ruch lewą ręką. To stanowi jedno powtórzenie.",
+    "Kontynuuj naprzemienne wykonywanie ćwiczenia w ten sposób przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Alternierende Hammercurls",
+  "instructions_de": [
+    "Stellen Sie sich mit aufrechtem Oberkörper hin und halten Sie in jeder Hand eine Kurzhantel, die Arme ausgestreckt. Die Ellenbogen sollten nah am Oberkörper anliegen.",
+    "Die Handflächen sollten zum Oberkörper zeigen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den Oberarm ruhig und führen Sie die rechte Kurzhantel nach oben, während Sie den Musculus biceps brachii anspannen und ausatmen. Setzen Sie die Bewegung fort, bis Ihr Musculus biceps brachii vollständig kontrahiert ist und die Kurzhantel sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Musculus biceps brachii fest anspannen. Tipp: Nur die Unterarme sollten sich bewegen.",
+    "Beginnen Sie langsam, die Kurzhantel in die Ausgangsposition zurückzuführen, während Sie einatmen.",
+    "Wiederholen Sie die Bewegung mit der linken Hand. Dies entspricht einer Wiederholung.",
+    "Fahren Sie in dieser Weise abwechselnd für die empfohlene Anzahl an Wiederholungen fort."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

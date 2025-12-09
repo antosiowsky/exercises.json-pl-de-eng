@@ -1,0 +1,68 @@
+{
+  "name": "Power Stairs",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",
+    "Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.",
+    "As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.",
+    "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Schody Siłowe",
+  "instructions_pl": [
+    "W ćwiczeniu Schody Siłowe, ciężary są wnoszone po schodach. Do celów treningowych można je wykonywać z oponą lub skrzynią.",
+    "Rozpocznij, chwytając ciężar obiema rękami. Ustaw stopy szeroko, z głową i klatką piersiową uniesionymi. Odepchnij się od podłoża piętami, prostując stawy kolanowe i biodrowe, aby unieść ciężar z ziemi.",
+    "Odchylając się do tyłu, spróbuj zarzucić ciężar na schody, które zazwyczaj mają około 16-18 cali (ok. 40-45 cm) wysokości. Możesz użyć nóg, aby pomóc wepchnąć ciężar na stopień.",
+    "Powtórz 3-5 razy, a następnie kontynuuj z cięższym obciążeniem, poruszając się tak szybko, jak to możliwe."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie odcinka lędźwiowego kręgosłupa",
+    "Mięśnie czworogłowe uda",
+    "Mięśnie naramienne",
+    "Mięśnie czworoboczne"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Power Stairs",
+  "instructions_de": [
+    "Beim Power Stairs werden Geräte eine Treppe hinaufbewegt. Zu Trainingszwecken können diese mit einem Reifen oder einer Kiste durchgeführt werden.",
+    "Beginnen Sie, indem Sie das Gerät mit beiden Händen fassen. Stellen Sie Ihre Füße breit auf, mit erhobenem Kopf und Brustkorb. Drücken Sie sich mit den Fersen vom Boden ab, strecken Sie Knie und Hüften, um das Gewicht vom Boden zu heben.",
+    "Während Sie sich zurücklehnen, versuchen Sie, das Gewicht auf die Treppe zu schwingen, die normalerweise etwa 16-18 Zoll hoch ist. Sie können Ihre Beine nutzen, um das Gewicht auf die Stufe zu schieben.",
+    "Wiederholen Sie dies für 3-5 Wiederholungen und fahren Sie mit einem schwereren Gewicht fort, wobei Sie sich so schnell wie möglich bewegen."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "Strongman"
+}

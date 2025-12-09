@@ -1,0 +1,59 @@
+{
+  "name": "Kettlebell Dead Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean the kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Lower the kettlebell, keeping the hamstrings loaded by keeping your back straight and your butt out."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Martwy zarzut odważnika kulowego",
+  "instructions_pl": [
+    "Ustaw odważnik kulowy między stopami. Aby przyjąć pozycję wyjściową, wypchnij biodra do tyłu i patrz prosto przed siebie.",
+    "Wykonaj zarzut odważnika kulowego na bark. Ruch ten wykonaj, dynamicznie prostując nogi i biodra, jednocześnie unosząc odważnik kulowy w kierunku barku. Nadgarstek powinien rotować w trakcie ruchu.",
+    "Opuść odważnik kulowy, utrzymując napięcie w mięśniach kulszowo-goleniowych poprzez utrzymanie prostych pleców i wypchniętych bioder."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie trójgłowe łydki",
+    "mięśnie pośladkowe",
+    "prostowniki grzbietu",
+    "mięśnie czworogłowe uda",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell Umsetzen aus dem Kreuzheben",
+  "instructions_de": [
+    "Platziere die Kettlebell zwischen deinen Füßen. Um die Ausgangsposition einzunehmen, schiebe dein Gesäß nach hinten und blicke geradeaus.",
+    "Setze die Kettlebell zur Schulter um, indem du Beine und Hüfte streckst, während du die Kettlebell zur Schulter führst. Dabei sollte das Handgelenk rotieren.",
+    "Senke die Kettlebell ab, wobei du die ischiocrurale Muskulatur unter Spannung hältst, indem du deinen Rücken gerade und dein Gesäß nach hinten schiebst."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Musculus erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

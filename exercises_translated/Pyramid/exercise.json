@@ -1,0 +1,44 @@
+{
+  "name": "Pyramid",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Start off by rolling your torso forward onto the ball so your hips rest on top of the ball and become the highest point of your body.",
+    "Rest your hands and feet on the floor. Your arms and legs can be slightly bent or straight, depending on the size of the ball, your flexibility, and the length of your limbs. This also helps develop stabilizing strength in your torso and shoulders."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Piramida",
+  "instructions_pl": [
+    "Rozpocznij od przetoczenia tułowia do przodu na piłkę tak, aby biodra spoczywały na szczycie piłki i stały się najwyższym punktem ciała.",
+    "Oprzyj dłonie i stopy na podłodze. Ramiona i nogi mogą być lekko ugięte lub proste, w zależności od rozmiaru piłki, Twojej elastyczności i długości kończyn. Pomaga to również rozwijać siłę stabilizującą w tułowiu i obręczy barkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Pyramide",
+  "instructions_de": [
+    "Rollen Sie Ihren Rumpf zunächst nach vorne auf den Ball, sodass Ihre Hüften auf dem Ball aufliegen und zum höchsten Punkt Ihres Körpers werden.",
+    "Platzieren Sie Ihre Hände und Füße auf dem Boden. Ihre Arme und Beine können leicht gebeugt oder gestreckt sein, je nach Größe des Balls, Ihrer Flexibilität und der Länge Ihrer Gliedmaßen. Dies hilft auch, die stabilisierende Kraft in Ihrem Rumpf und Ihren Schultern zu entwickeln."
+  ],
+  "secondaryMuscles_de": [
+    "Schultern"
+  ],
+  "category_de": "Dehnen"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Rickshaw Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Load the frame with the desired weight. Center yourself between the handles. You feet should be about hip width apart. Bend at the hips to grip the handles, allowing your shoulder blades to protract.",
+    "With your feet and your grip set, take a big breath and then lower your hips and flex the knees. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
+    "Lower the weight by bending at the hips and guiding it to the ground."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Martwy ciąg z ramą",
+  "instructions_pl": [
+    "Załaduj ramę pożądanym ciężarem. Ustaw się centralnie między uchwytami. Stopy powinny być rozstawione na szerokość bioder. Ugnij się w stawach biodrowych, aby chwycić uchwyty, pozwalając łopatkom na protrakcję.",
+    "Po ustawieniu stóp i chwytu, weź głęboki wdech, a następnie obniż biodra i ugnij kolana. Patrz przed siebie, utrzymuj klatkę piersiową uniesioną i plecy wygięte w łuk, i zacznij pchać piętami, aby podnieść ciężar w górę. Gdy ciężar unosi się, ściągnij łopatki, jednocześnie wypychając biodra do przodu.",
+    "Opuść ciężar, uginając się w stawach biodrowych i prowadząc go do ziemi."
+  ],
+  "secondaryMuscles_pl": [
+    "Przedramiona",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie grzbietu (odcinek lędźwiowy)",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Strongman",
+  "name_de": "Rickshaw-Kreuzheben",
+  "instructions_de": [
+    "Beladen Sie den Rahmen mit dem gewünschten Gewicht. Zentrieren Sie sich zwischen den Griffen. Ihre Füße sollten etwa hüftbreit auseinander stehen. Beugen Sie sich in den Hüften, um die Griffe zu fassen, und lassen Sie dabei Ihre Schulterblätter protrahieren.",
+    "Nachdem Ihre Füße und Ihr Griff positioniert sind, atmen Sie tief ein, senken Sie dann Ihre Hüften und beugen Sie die Knie. Blicken Sie mit dem Kopf nach vorne, halten Sie die Brust oben und den Rücken leicht gewölbt, und beginnen Sie, sich durch die Fersen nach oben zu drücken, um das Gewicht anzuheben. Während das Gewicht nach oben kommt, ziehen Sie Ihre Schulterblätter zusammen, während Sie Ihre Hüften nach vorne schieben.",
+    "Senken Sie das Gewicht, indem Sie sich in den Hüften beugen und es kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Musculus trapezius"
+  ],
+  "category_de": "Strongman"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Deadlift with Chains",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",
+    "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.",
+    "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg z łańcuchami",
+  "instructions_pl": [
+    "Łańcuchy można przymocować do tulei sztangi lub po prostu przewiesić ich środek przez sztangę, aby uzyskać większy wzrost obciążenia w miarę podnoszenia.",
+    "Podejdź do sztangi tak, aby znajdowała się na środku stóp. Stopy powinny być rozstawione na szerokość bioder. Wykonaj zgięcie w stawach biodrowych, aby chwycić sztangę na szerokość barków, pozwalając na protrakcję łopatek. Zazwyczaj stosuje się chwyt nachwytem lub chwyt mieszany w cięższych seriach. Po ustawieniu stóp i chwytu, weź głęboki wdech, a następnie opuść biodra i zegnij kolana, aż piszczele dotkną sztangi.",
+    "Patrz przed siebie, utrzymuj klatkę piersiową uniesioną i plecy wygięte w łuk, a następnie zacznij pchać piętami w podłoże, aby unieść ciężar do góry. Gdy sztanga minie kolana, agresywnie pociągnij ją do tyłu, ściągając łopatki, jednocześnie wypychając biodra do przodu w kierunku sztangi.",
+    "Opuść sztangę, zginając się w stawach biodrowych i prowadząc ją do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (część środkowa)",
+    "mięsień czworogłowy uda",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kreuzheben mit Ketten",
+  "instructions_de": [
+    "Sie können die Ketten an den Hantelstangenaufnahmen befestigen oder einfach die Mitte über die Stange legen, sodass das Gewicht beim Anheben stärker zunimmt.",
+    "Stellen Sie sich so an die Stange, dass diese mittig über Ihren Füßen positioniert ist. Ihre Füße sollten etwa hüftbreit auseinander stehen. Beugen Sie sich in der Hüfte, um die Stange schulterbreit zu greifen, wobei Sie Ihre Schulterblätter protrahieren (nach vorne schieben). Typischerweise verwenden Sie bei schwereren Sätzen einen Obergriff oder einen Kreuzgriff (gemischter Griff). Wenn Ihre Füße und Ihr Griff positioniert sind, atmen Sie tief ein und senken Sie dann Ihre Hüften und beugen Sie die Knie, bis Ihre Schienbeine die Stange berühren.",
+    "Blicken Sie mit dem Kopf nach vorne, halten Sie die Brust oben und den Rücken gewölbt, und beginnen Sie, sich durch die Fersen nach oben zu drücken, um das Gewicht anzuheben. Nachdem die Stange die Knie passiert hat, ziehen Sie die Stange aggressiv nach hinten, wobei Sie Ihre Schulterblätter zusammenziehen, während Sie Ihre Hüften nach vorne in die Stange drücken.",
+    "Senken Sie die Stange, indem Sie sich in den Hüften beugen und sie kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Mittlere Rückenmuskulatur",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraftdreikampf"
+}

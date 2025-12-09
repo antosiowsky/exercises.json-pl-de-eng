@@ -1,0 +1,41 @@
+{
+  "name": "Hamstring Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back with one leg extended above you, with the hip at ninety degrees. Keep the other leg flat on the floor.",
+    "Loop a belt, band, or rope over the ball of your foot. This will be your starting position.",
+    "Pull on the belt to create tension in the calves and hamstrings. Hold this stretch for 10-30 seconds, and repeat with the other leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni kulszowo-goleniowych",
+  "instructions_pl": [
+    "Połóż się na plecach z jedną nogą wyprostowaną w górze, z biodrem zgiętym pod kątem dziewięćdziesięciu stopni. Drugą nogę trzymaj płasko na podłodze.",
+    "Załóż pasek, taśmę lub linę na śródstopie. Będzie to Twoja pozycja wyjściowa.",
+    "Pociągnij za pasek, aby wytworzyć napięcie w mięśniach łydek i mięśniach kulszowo-goleniowych. Utrzymaj to rozciąganie przez 10-30 sekund i powtórz z drugą nogą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung der ischiocruralen Muskulatur",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken, ein Bein senkrecht nach oben gestreckt, sodass im Hüftgelenk ein 90-Grad-Winkel entsteht. Das andere Bein bleibt flach auf dem Boden liegen.",
+    "Schlingen Sie einen Gürtel, ein Band oder ein Seil um den Fußballen. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie am Gürtel, um Spannung in der Wadenmuskulatur und der ischiocruralen Muskulatur zu erzeugen. Halten Sie diese Dehnung für 10-30 Sekunden und wiederholen Sie die Übung mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

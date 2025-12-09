@@ -1,0 +1,62 @@
+{
+  "name": "Snatch Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
+    "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
+    "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg do rwania",
+  "instructions_pl": [
+    "Martwy ciąg do rwania wzmacnia pierwsze podciągnięcie rwania. Rozpocznij w szerokim chwycie rwaniowym ze sztangą umieszczoną na pomoście. Stopy powinny znajdować się bezpośrednio pod biodrami, skierowane na zewnątrz. Przysiądź do sztangi, utrzymując plecy w pełnym wyproście, z głową skierowaną do przodu.",
+    "Rozpocznij ruch, napierając piętami na podłoże i unosząc biodra. Kąt tułowia powinien pozostać niezmieniony, dopóki sztanga nie minie kolan.",
+    "W tym momencie wypchnij biodra do przodu, jednocześnie odchylając się do tyłu. Opuść sztangę na pomost, wykonując ruch w odwrotnej kolejności."
+  ],
+  "secondaryMuscles_pl": [
+    "Przedramiona",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięsień czworogłowy uda",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Podnoszenie ciężarów",
+  "name_de": "Reißen-Kreuzheben",
+  "instructions_de": [
+    "Das Reißen-Kreuzheben stärkt den ersten Zug des Reißens. Beginnen Sie mit einem weiten Reißen-Griff, wobei die Langhantel auf der Plattform liegt. Die Füße sollten direkt unter den Hüften platziert sein, mit den Fußspitzen leicht nach außen gedreht. Gehen Sie in die Hocke zur Hantel, halten Sie den Rücken in absoluter Streckung und den Kopf nach vorne gerichtet.",
+    "Leiten Sie die Bewegung ein, indem Sie sich durch die Fersen abdrücken und die Hüften anheben. Der Rückenwinkel sollte unverändert bleiben, bis die Hantel die Knie passiert.",
+    "An diesem Punkt stoßen Sie die Hüften durch die Hantel, während Sie sich zurücklehnen. Führen Sie die Hantel durch Umkehrung der Bewegung zurück zur Plattform."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Glutäen",
+    "Ischiocrurale Muskulatur",
+    "Erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Elbows Back",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Łokcie do tyłu",
+  "instructions_pl": [
+    "Stań prosto.",
+    "Połóż obie dłonie na odcinku lędźwiowym kręgosłupa, palce skierowane w dół, a łokcie na zewnątrz.",
+    "Następnie delikatnie ściągnij łokcie do tyłu, dążąc do ich złączenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Ellbogen zurück",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin.",
+    "Legen Sie beide Hände auf Ihren unteren Rücken, wobei die Finger nach unten zeigen und die Ellbogen nach außen gerichtet sind.",
+    "Ziehen Sie dann sanft Ihre Ellbogen nach hinten, mit dem Ziel, sie zusammenzuführen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi deltoidei"
+  ],
+  "category_de": "Dehnung"
+}

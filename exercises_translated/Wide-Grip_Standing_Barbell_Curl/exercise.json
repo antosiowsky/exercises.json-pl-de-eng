@@ -1,0 +1,47 @@
+{
+  "name": "Wide-Grip Standing Barbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
+    "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie ramion ze sztangą stojąc szerokim chwytem",
+  "instructions_pl": [
+    "Stań prosto z wyprostowanym tułowiem, trzymając sztangę szerokim chwytem. Dłonie powinny być skierowane do przodu. Łokcie powinny znajdować się blisko tułowia. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, uginaj sztangę do przodu, jednocześnie napinając mięsień dwugłowy ramienia podczas wydechu. Wskazówka: Poruszaj tylko przedramionami.",
+    "Kontynuuj ruch, aż mięśnie dwugłowe ramion będą w pełni napięte, a sztanga znajdzie się na wysokości barków. Przytrzymaj napiętą pozycję przez sekundę i mocno ściśnij mięśnie dwugłowe ramion.",
+    "Powoli opuszczaj sztangę do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Stehende Langhantelcurls mit breitem Griff",
+  "instructions_de": [
+    "Stellen Sie sich mit aufrechtem Oberkörper hin und fassen Sie eine Langhantel mit breitem Griff. Die Handflächen zeigen nach vorne. Die Ellbogen sind nah am Oberkörper. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme fixiert und beugen Sie die Hantel nach oben, während Sie den Musculus biceps brachii anspannen und ausatmen. Tipp: Nur die Unterarme sollten sich bewegen.",
+    "Führen Sie die Bewegung fort, bis Ihr Bizeps vollständig kontrahiert und die Stange auf Schulterhöhe ist. Halten Sie die kontrahierte Position für eine Sekunde und spannen Sie den Bizeps fest an.",
+    "Beginnen Sie langsam, die Stange während des Einatmens in die Ausgangsposition zurückzuführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

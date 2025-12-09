@@ -1,0 +1,56 @@
+{
+  "name": "One-Arm Kettlebell Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Place a kettlebell between your feet. As you bend down to grab the kettlebell, push your butt back and keep your eyes looking forward.",
+    "Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Return the weight to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Zarzut Kettlebell Jednorącz",
+  "instructions_pl": [
+    "Ustaw kettlebell między stopami. Schylając się, aby chwycić kettlebell, wypchnij pośladki w tył i utrzymuj wzrok skierowany do przodu.",
+    "Wykonaj zarzut kettlebell do wysokości barków, wykonując wyprost nóg i bioder podczas unoszenia kettlebell w kierunku barku. Nadgarstek powinien rotować podczas tego ruchu.",
+    "Opuść ciężar do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Kettlebell-Umsetzen",
+  "instructions_de": [
+    "Stellen Sie eine Kettlebell zwischen Ihre Füße. Während Sie sich bücken, um die Kettlebell zu greifen, schieben Sie Ihr Gesäß nach hinten und halten Sie den Blick nach vorne gerichtet.",
+    "Setzen Sie die Kettlebell zu Ihren Schultern um, indem Sie Beine und Hüfte strecken, während Sie die Kettlebell in Richtung Ihrer Schulter heben. Dabei sollte das Handgelenk rotieren.",
+    "Führen Sie das Gewicht in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

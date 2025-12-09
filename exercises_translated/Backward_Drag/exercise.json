@@ -1,0 +1,56 @@
+{
+  "name": "Backward Drag",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
+    "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wleczenie sanek do tyłu",
+  "instructions_pl": [
+    "Obciąż sanki wybranym ciężarem, mocując do nich linę lub pasy, które możesz chwycić.",
+    "Rozpocznij ćwiczenie, poruszając się do tyłu na określony dystans. Odchylając się do tyłu, wykonuj wyprost nóg krótkimi krokami, aby poruszać się jak najszybciej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie dolnego odcinka pleców"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Rückwärtsziehen",
+  "instructions_de": [
+    "Beladen Sie einen Schlitten mit dem gewünschten Gewicht und befestigen Sie ein Seil oder Gurte am Schlitten, die Sie festhalten können.",
+    "Beginnen Sie die Übung, indem Sie sich über eine vorgegebene Distanz rückwärts bewegen. Lehnen Sie sich zurück und drücken Sie sich mit den Beinen in kurzen Schritten ab, um sich so schnell wie möglich fortzubewegen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur"
+  ],
+  "category_de": "Strongman"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Depth Jump Leap",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",
+    "Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.",
+    "Begin by dropping off the initial box, landing and simultaneously taking off with both feet.",
+    "Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok głębokościowy z wyskokiem",
+  "instructions_pl": [
+    "Do tego ćwiczenia potrzebne będą dwie skrzynie lub ławki, jedna o wysokości od 12 do 16 cali, a druga o wysokości od 22 do 26 cali.",
+    "Stań na jednej z dwóch skrzyń, trzymając ramiona wzdłuż tułowia; stopy powinny być złączone i lekko wysunięte poza krawędź, podobnie jak w skoku głębokościowym. Drugą skrzynię umieść około dwóch lub trzech stóp przed tobą i skierowaną w twoją stronę.",
+    "Rozpocznij, zeskakując z początkowej skrzyni, lądując i jednocześnie odbijając się obiema stopami.",
+    "Odbij się, dynamicznie kierując się w górę i na zewnątrz tak intensywnie, jak to możliwe, używając ramion i pełnego wyprostu ciała, aby wskoczyć na wyższą skrzynię. Ponownie, pozwól nogom zaabsorbować uderzenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Tiefensprung mit Kastensprung",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie zwei Kästen oder Bänke, einen mit einer Höhe von 12 bis 16 Zoll und den anderen mit einer Höhe von 22 bis 26 Zoll.",
+    "Stellen Sie sich auf einen der beiden Kästen, die Arme seitlich am Körper; die Füße sollten zusammenstehen und leicht über die Kante hinausragen, wie beim Tiefensprung. Platzieren Sie den anderen Kasten etwa zwei bis drei Fuß vor dem Ausführenden und diesem zugewandt.",
+    "Beginnen Sie, indem Sie vom ersten Kasten herunterfallen, landen und gleichzeitig mit beiden Füßen abspringen.",
+    "Stoßen Sie sich so intensiv wie möglich nach oben und außen ab, unter Einsatz der Arme und der vollständigen Streckung des Körpers, um auf den höheren Kasten zu springen. Lassen Sie die Beine erneut den Aufprall abfedern."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

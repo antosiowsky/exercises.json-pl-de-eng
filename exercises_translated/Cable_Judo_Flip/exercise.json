@@ -1,0 +1,47 @@
+{
+  "name": "Cable Judo Flip",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
+    "Twist your body away from the pulley as you bring the rope over your shoulder like you're performing a judo flip.",
+    "Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.",
+    "Return to the starting position and repeat until failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Przerzut Judo na wyciągu",
+  "instructions_pl": [
+    "Przymocuj uchwyt linowy do wieży wyciągu i ustaw linkę w najniższej pozycji bloczka. Stań bokiem do wyciągu w szerokim rozkroku i chwyć linę obiema rękami.",
+    "Skręć tułów od wyciągu, przenosząc linę nad barkiem, jakbyś wykonywał przerzut judo.",
+    "Przenoś ciężar ciała między stopami, jednocześnie skręcając się i wykonując spięcie w przód, ciągnąc linkę wyciągu w dół.",
+    "Wróć do pozycji początkowej i powtarzaj do upadku mięśniowego.",
+    "Następnie zmień ustawienie i powtórz tę samą serię ruchów po przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabelzug-Judo-Flip",
+  "instructions_de": [
+    "Befestigen Sie einen Seilgriff an einem Kabelzugturm und stellen Sie das Kabel auf die unterste Rollenposition ein. Stellen Sie sich seitlich zum Kabelzug mit einem breiten Stand hin und fassen Sie das Seil mit beiden Händen.",
+    "Drehen Sie Ihren Oberkörper von der Umlenkrolle weg, während Sie das Seil über Ihre Schulter führen, als würden Sie einen Judo-Wurf ausführen.",
+    "Verlagern Sie Ihr Gewicht zwischen den Füßen, während Sie sich drehen und den Oberkörper nach vorne beugen, indem Sie das Kabel nach unten ziehen.",
+    "Kehren Sie in die Ausgangsposition zurück und wiederholen Sie die Bewegung bis zum Muskelversagen.",
+    "Wechseln Sie anschließend die Position und wiederholen Sie dieselbe Bewegungsabfolge auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

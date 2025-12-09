@@ -1,0 +1,59 @@
+{
+  "name": "Barbell Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. li>",
+    "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
+    "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wypad ze sztangą",
+  "instructions_pl": [
+    "Dla bezpieczeństwa, to ćwiczenie najlepiej wykonywać w klatce do przysiadów (squat rack). Aby rozpocząć, umieść sztangę na stojaku nieco poniżej poziomu barków. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, wejdź pod nią i umieść ją na tylnej części barków (nieco poniżej karku).",
+    "Chwyć sztangę oburącz po obu stronach i zdejmij ją ze stojaka, najpierw pchając nogami i jednocześnie prostując tułów.",
+    "Odejdź od stojaka i zrób krok w przód prawą nogą, a następnie obniż biodra, utrzymując tułów w pozycji pionowej i zachowując równowagę. Wykonaj wdech podczas opuszczania. Uwaga: Nie pozwól, aby kolano wyszło poza linię palców stóp podczas opuszczania, ponieważ może to nadmiernie obciążyć staw kolanowy.",
+    "Używając głównie pięty stopy, wypchnij się w górę i wróć do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz ruch zalecaną liczbę powtórzeń, a następnie wykonaj ćwiczenie lewą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Ausfallschritt",
+  "instructions_de": [
+    "Diese Übung wird aus Sicherheitsgründen am besten in einem Kniebeugenständer ausgeführt. Stellen Sie zu Beginn die Langhantel auf einem Ständer knapp unterhalb der Schulterhöhe ein. Sobald die korrekte Höhe gewählt und die Hantel beladen ist, treten Sie unter die Stange und legen Sie den hinteren Teil Ihrer Schultern (leicht unterhalb des Nackens) darauf ab.",
+    "Fassen Sie die Langhantel mit beiden Händen seitlich an und heben Sie sie vom Ständer, indem Sie zuerst mit den Beinen drücken und gleichzeitig Ihren Oberkörper aufrichten.",
+    "Treten Sie vom Ständer zurück und machen Sie einen Schritt nach vorne mit dem rechten Bein. Senken Sie sich über die Hüften ab, während Sie den Oberkörper aufrecht halten und das Gleichgewicht bewahren. Atmen Sie beim Absenken ein. Hinweis: Lassen Sie Ihr Knie beim Absenken nicht über die Zehenspitzen hinausragen, da dies zu unnötigem Stress auf das Kniegelenk führen würde.",
+    "Drücken Sie sich hauptsächlich über die Ferse Ihres Fußes nach oben und kehren Sie beim Ausatmen in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen und führen Sie sie anschließend mit dem linken Bein aus."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

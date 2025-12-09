@@ -1,0 +1,50 @@
+{
+  "name": "Wide Stance Stiff Legs",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin with a barbell loaded on the floor. Adopt a wide stance, and then bend at the hips to grab the bar. Your hips should be as far back as possible, and your legs nearly straight. Keep your back straight, and your head and chest up. This will be your starting position.",
+    "Begin the movement be engaging the hips, driving them forward as you allow the arms to hang straight. Continue until you are standing straight up, and then slowly return the weight to the starting position. For successive reps, the weight need not touch the floor."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg na prostych nogach z szerokim rozstawem stóp",
+  "instructions_pl": [
+    "Rozpocznij z obciążoną sztangą leżącą na podłodze. Przyjmij szeroki rozstaw stóp, a następnie zegnij się w biodrach, aby chwycić sztangę. Biodra powinny być cofnięte jak najdalej, a nogi niemal proste. Utrzymuj proste plecy, głowę i klatkę piersiową uniesione. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, angażując biodra i wypychając je do przodu, jednocześnie pozwalając ramionom swobodnie zwisać. Kontynuuj, aż staniesz prosto, a następnie powoli wróć z ciężarem do pozycji początkowej. W kolejnych powtórzeniach ciężar nie musi dotykać podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przywodziciele",
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "Podnoszenie ciężarów",
+  "name_de": "Kreuzheben mit gestreckten Beinen im breiten Stand",
+  "instructions_de": [
+    "Beginnen Sie mit einer auf dem Boden abgelegten Langhantel. Nehmen Sie einen breiten Stand ein und beugen Sie sich dann in den Hüften, um die Hantel zu greifen. Ihre Hüften sollten so weit wie möglich nach hinten geschoben sein, und Ihre Beine sollten nahezu gestreckt sein. Halten Sie Ihren Rücken gerade und Ihren Kopf und Ihre Brust aufrecht. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie die Hüften anspannen und sie nach vorne schieben, während die Arme gerade herabhängen. Fahren Sie fort, bis Sie aufrecht stehen, und führen Sie das Gewicht dann langsam in die Ausgangsposition zurück. Bei aufeinanderfolgenden Wiederholungen muss das Gewicht den Boden nicht berühren."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Gesäßmuskulatur",
+    "Unterer Rücken"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

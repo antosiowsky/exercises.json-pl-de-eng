@@ -1,0 +1,59 @@
+{
+  "name": "Speed Box Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Attach bands to the bar that are securely anchored near the ground. You may need to choke the bands to get adequate tension.",
+    "Use a box of an appropriate height for this exercise. Load the bar to a weight that still requires effort, but isn't so heavy that speed is compromised. Typically, that will be between 50-70% of your one rep max.",
+    "Position the bar on your upper back, shoulder blades retracted, back arched and everything tight head to toe. This will be the starting position.",
+    "Unrack the bar and position yourself in front of the box. Sit back with your hips until you are seated on the box, ensuring that you descend under control and don't crash onto the surface.",
+    "Pause briefly, and explode off of the box, extending through the hips and knees."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Dynamiczny Przysiad na Skrzynię",
+  "instructions_pl": [
+    "Przymocuj gumy oporowe do sztangi, które są bezpiecznie zakotwiczone blisko podłoża. Może być konieczne skrócenie gum, aby uzyskać odpowiednie napięcie.",
+    "Użyj skrzyni o odpowiedniej wysokości do tego ćwiczenia. Obciąż sztangę ciężarem, który nadal wymaga wysiłku, ale nie jest na tyle duży, aby ograniczał prędkość. Zazwyczaj będzie to między 50-70% twojego maksymalnego ciężaru na jedno powtórzenie (1RM).",
+    "Ułóż sztangę na górnej części pleców, łopatki ściągnięte, plecy wygięte w łuk, a całe ciało napięte od stóp do głowy. Będzie to pozycja wyjściowa.",
+    "Zdejmij sztangę ze stojaków i ustaw się przed skrzynią. Cofnij biodra, aż usiądziesz na skrzyni, upewniając się, że opuszczasz się w sposób kontrolowany i nie opadasz gwałtownie na powierzchnię.",
+    "Zrób krótką pauzę, a następnie dynamicznie odbij się od skrzyni, prostując biodra i kolana."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Schnelle Box Kniebeuge",
+  "instructions_de": [
+    "Befestigen Sie Bänder an der Stange, die sicher nahe dem Boden verankert sind. Möglicherweise müssen Sie die Bänder umwickeln, um eine ausreichende Spannung zu erzielen.",
+    "Verwenden Sie für diese Übung eine Box mit geeigneter Höhe. Beladen Sie die Stange mit einem Gewicht, das noch Anstrengung erfordert, aber nicht so schwer ist, dass die Geschwindigkeit beeinträchtigt wird. Typischerweise liegt dies zwischen 50-70% Ihres Ein-Wiederholungs-Maximums (1RM).",
+    "Positionieren Sie die Stange auf Ihrem oberen Rücken, die Schulterblätter zurückgezogen, den Rücken gewölbt und alles von Kopf bis Fuß angespannt. Dies ist die Ausgangsposition.",
+    "Heben Sie die Stange aus der Halterung und positionieren Sie sich vor der Box. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen, wobei Sie darauf achten, dass Sie kontrolliert absteigen und nicht auf die Oberfläche fallen.",
+    "Pausieren Sie kurz und stoßen Sie sich explosiv von der Box ab, indem Sie Hüften und Knie strecken."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

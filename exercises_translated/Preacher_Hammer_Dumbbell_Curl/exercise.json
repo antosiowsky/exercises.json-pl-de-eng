@@ -1,0 +1,50 @@
+{
+  "name": "Preacher Hammer Dumbbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
+    "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
+    "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbells are at shoulder height.",
+    "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie młotkowe hantlami na ławce skośnej",
+  "instructions_pl": [
+    "Oprzyj górną część obu ramion na ławce skośnej, trzymając hantlę w każdej dłoni z dłońmi skierowanymi do siebie (chwyt młotkowy).",
+    "Podczas wdechu powoli opuszczaj hantle, aż ramię będzie wyprostowane, a mięsień dwugłowy ramienia w pełni rozciągnięty.",
+    "Podczas wydechu użyj mięśnia dwugłowego ramienia, aby unieść ciężar, aż mięsień dwugłowy ramienia będzie w pełni skurczony, a hantle znajdą się na wysokości barków.",
+    "Mocno napnij mięsień dwugłowy ramienia na sekundę w pozycji maksymalnego skurczu i powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Scottbank-Hammer-Kurzhantelcurls",
+  "instructions_de": [
+    "Legen Sie die Oberarme auf die Scottbank, während Sie in jeder Hand eine Kurzhantel im Hammergriff halten (Handflächen zeigen zueinander).",
+    "Beim Einatmen senken Sie die Kurzhanteln langsam ab, bis Ihr Oberarm gestreckt und der Bizeps vollständig gedehnt ist.",
+    "Beim Ausatmen beugen Sie das Gewicht mithilfe des Bizeps nach oben, bis Ihr Bizeps vollständig kontrahiert ist und die Kurzhanteln auf Schulterhöhe sind.",
+    "Spannen Sie den Bizeps in der kontrahierten Position für eine Sekunde fest an und wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

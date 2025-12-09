@@ -1,0 +1,50 @@
+{
+  "name": "Dumbbell Prone Incline Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Grab a dumbbell on each hand and lie face down on an incline bench with your shoulders near top of the incline. Your knees can rest on the seat or your legs can be straddled to the sides (my preferred way).",
+    "Let your arms extend and hang naturally in front of you so that they are perpendicular to the floor.",
+    "Now keep your elbows in by your side and face the palms forward. This will be your starting position.",
+    "Raise the dumbbells by contracting the biceps until your arms are fully flexed. Exhale as you perform this portion of the movement and ensure that only the forearms move. The upper arms should remain stationary at all times.",
+    "Lower the dumbbells until your arms are fully extended.",
+    "Repeat for the recommended amount of times."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramion z hantlami w leżeniu przodem na ławce skośnej",
+  "instructions_pl": [
+    "Chwyć hantlę w każdą dłoń i połóż się przodem na ławce skośnej, tak aby Twoje barki znajdowały się blisko górnej części nachylenia. Kolana mogą spoczywać na siedzisku lub nogi mogą być rozstawione na boki (mój preferowany sposób).",
+    "Pozwól ramionom wyprostować się i swobodnie zwisać przed Tobą, tak aby były prostopadłe do podłogi.",
+    "Teraz trzymaj łokcie blisko tułowia i skieruj dłonie do przodu. Będzie to Twoja pozycja wyjściowa.",
+    "Unieś hantle, kurcząc mięśnie dwugłowe ramion, aż ramiona będą w pełni zgięte. Wykonaj wydech podczas tej fazy ruchu i upewnij się, że poruszają się tylko przedramiona. Ramiona (górne części) powinny pozostać nieruchome przez cały czas.",
+    "Opuść hantle, aż ramiona będą w pełni wyprostowane.",
+    "Powtórz zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kurzhantel-Bizepscurl in Bauchlage auf der Schrägbank",
+  "instructions_de": [
+    "Nehmen Sie in jede Hand eine Kurzhantel und legen Sie sich in Bauchlage auf eine Schrägbank, wobei sich Ihre Schultern nahe am oberen Ende der Schrägbank befinden. Ihre Knie können auf der Sitzfläche ruhen oder Ihre Beine können seitlich gespreizt werden (meine bevorzugte Methode).",
+    "Lassen Sie Ihre Arme ausgestreckt natürlich vor sich herabhängen, sodass sie senkrecht zum Boden stehen.",
+    "Halten Sie nun Ihre Ellbogen eng am Körper und drehen Sie die Handflächen nach vorne. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Kurzhanteln an, indem Sie den Bizeps kontrahieren, bis Ihre Arme vollständig gebeugt sind. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und stellen Sie sicher, dass sich nur die Unterarme bewegen. Die Oberarme sollten jederzeit stationär bleiben.",
+    "Senken Sie die Kurzhanteln, bis Ihre Arme vollständig gestreckt sind.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

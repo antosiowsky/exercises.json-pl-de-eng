@@ -1,0 +1,47 @@
+{
+  "name": "Hug Knees To Chest",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie down on your back and pull both knees up to your chest.",
+    "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
+    "Slowly pull the knees toward your shoulders. This also stretches your buttocks muscles."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Przyciąganie kolan do klatki piersiowej",
+  "instructions_pl": [
+    "Połóż się na plecach i przyciągnij oba kolana do klatki piersiowej.",
+    "Trzymaj ręce pod kolanami, nie nad nimi (to wywołałoby zbyt duży nacisk na stawy kolanowe).",
+    "Powoli przyciągaj kolana w kierunku barków. To rozciąga również mięśnie pośladkowe."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Knie zur Brust ziehen",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken und ziehen Sie beide Knie zur Brust.",
+    "Führen Sie Ihre Arme unter die Knie, nicht darüber (da dies zu viel Druck auf Ihre Kniegelenke ausüben würde).",
+    "Ziehen Sie die Knie langsam in Richtung Ihrer Schultern. Dies dehnt auch Ihre Gesäßmuskulatur."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur"
+  ],
+  "category_de": "Dehnen"
+}

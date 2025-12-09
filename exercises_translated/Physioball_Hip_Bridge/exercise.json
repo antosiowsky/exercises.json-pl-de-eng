@@ -1,0 +1,47 @@
+{
+  "name": "Physioball Hip Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lay on a ball so that your upper back is on the ball with your hips unsupported. Both feet should be flat on the floor, hip width apart or wider. This will be your starting position.",
+    "Begin by extending the hips using your glutes and hamstrings, raising your hips upward as you bridge.",
+    "Pause at the top of the motion and return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Most biodrowy z piłką gimnastyczną",
+  "instructions_pl": [
+    "Połóż się na piłce tak, aby górna część pleców spoczywała na piłce, a biodra były bez podparcia. Obie stopy powinny płasko spoczywać na podłodze, rozstawione na szerokość bioder lub szerzej. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij od wyprostu bioder, angażując mięśnie pośladkowe i mięśnie kulszowo-goleniowe, unosząc biodra w górę, wykonując most.",
+    "Zatrzymaj ruch w najwyższym punkcie i wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Hüftbrücke auf dem Physioball",
+  "instructions_de": [
+    "Lege dich auf einen Physioball, sodass dein oberer Rücken auf dem Ball liegt und deine Hüften frei schweben. Beide Füße sollten flach auf dem Boden stehen, hüftbreit auseinander oder weiter. Dies ist deine Ausgangsposition.",
+    "Beginne, die Hüften zu strecken, indem du deine Glutealmuskulatur und die Musculi ischiocrurales aktivierst und dabei deine Hüften nach oben hebst, um eine Brücke zu bilden.",
+    "Halte am höchsten Punkt der Bewegung inne und kehre in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Kraft"
+}

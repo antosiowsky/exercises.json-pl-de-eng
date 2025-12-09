@@ -1,0 +1,53 @@
+{
+  "name": "Thigh Adductor",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, sit down on the adductor machine and select a weight you are comfortable with. When your legs are positioned properly on the leg pads of the machine, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
+    "Slowly press against the machine with your legs to move them towards each other while exhaling.",
+    "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary and avoid fast jerking motions in order to prevent any injuries from occurring.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Przywodzenie ud",
+  "instructions_pl": [
+    "Na początek usiądź na maszynie do przywodzenia ud i wybierz obciążenie, z którym czujesz się komfortowo. Gdy Twoje nogi są prawidłowo ułożone na poduszkach maszyny, chwyć uchwyty po obu stronach. Cała Twoja górna część ciała (od pasa w górę) powinna pozostać nieruchoma. Jest to pozycja wyjściowa.",
+    "Powoli naciskaj nogami na maszynę, zbliżając je do siebie, jednocześnie wykonując wydech.",
+    "Poczuj skurcz przez sekundę, a następnie zacznij powoli wracać nogami do pozycji wyjściowej, wykonując wdech. Uwaga: Pamiętaj, aby utrzymać górną część ciała nieruchomo i unikać szybkich, szarpanych ruchów, aby zapobiec kontuzjom.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Adduktoren (Oberschenkel)",
+  "instructions_de": [
+    "Setzen Sie sich zunächst auf die Adduktorenmaschine und wählen Sie ein Gewicht, mit dem Sie sich wohlfühlen. Sobald Ihre Beine korrekt auf den Beinpolstern der Maschine positioniert sind, fassen Sie die Griffe auf jeder Seite. Ihr gesamter Oberkörper (ab der Taille aufwärts) sollte stabil bleiben. Dies ist die Ausgangsposition.",
+    "Drücken Sie langsam mit den Beinen gegen die Maschine, um sie unter Ausatmung zueinander zu bewegen.",
+    "Spüren Sie die Kontraktion für eine Sekunde und führen Sie Ihre Beine unter Einatmung langsam in die Ausgangsposition zurück. Hinweis: Achten Sie darauf, den Oberkörper stabil zu halten und schnelle, ruckartige Bewegungen zu vermeiden, um Verletzungen vorzubeugen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Knee Across The Body",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "lower back"
+  ],
+  "instructions": [
+    "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
+    "Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Kolano w Poprzek Ciała",
+  "instructions_pl": [
+    "Połóż się na podłodze z prawą nogą wyprostowaną. Zegnij lewą nogę i opuść ją w poprzek ciała, przytrzymując kolano prawą ręką w kierunku podłogi. (Kolano nie musi dotykać podłogi, jeśli masz ograniczoną elastyczność.)",
+    "Połóż lewe ramię wygodnie obok siebie i odwróć głowę w lewo. Wyobraź sobie, że masz ciężarek przywiązany do kości ogonowej. Pozwól kości ogonowej opadać w kierunku podłogi, podczas gdy klatka piersiowa rozciąga się w przeciwnym kierunku, aby rozciągnąć dolną część pleców. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "dolna część pleców"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Knie quer über den Körper",
+  "instructions_de": [
+    "Legen Sie sich mit ausgestrecktem rechten Bein auf den Boden. Beugen Sie Ihr linkes Bein und führen Sie es quer über Ihren Körper, während Sie das Knie mit Ihrer rechten Hand sanft in Richtung Boden drücken. (Das Knie muss den Boden nicht berühren, wenn Ihre Beweglichkeit eingeschränkt ist.)",
+    "Legen Sie Ihren linken Arm bequem neben sich ab und drehen Sie Ihren Kopf nach links. Stellen Sie sich vor, Sie hätten ein Gewicht an Ihrem Steißbein befestigt. Lassen Sie Ihr Steißbein zum Boden zurücksinken, während Ihr Brustkorb in die entgegengesetzte Richtung strebt, um Ihre Lendenwirbelsäulenmuskulatur zu dehnen. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Lendenwirbelsäulenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

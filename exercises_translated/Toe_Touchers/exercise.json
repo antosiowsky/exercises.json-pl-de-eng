@@ -1,0 +1,50 @@
+{
+  "name": "Toe Touchers",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
+    "Your legs should be touching each other. Slowly elevate your legs up in the air until they are almost perpendicular to the floor with a slight bend at the knees. Your feet should be parallel to the floor.",
+    "Move your arms so that they are fully extended at a 45 degree angle from the floor. This is the starting position.",
+    "While keeping your lower back pressed against the floor, slowly lift your torso and use your hands to try and touch your toes. Remember to exhale while perform this part of the exercise.",
+    "Slowly begin to lower your torso and arms back down to the starting position while inhaling. Remember to keep your arms straight out pointing towards your toes.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Dotykanie palców stóp",
+  "instructions_pl": [
+    "Na początek, połóż się na podłodze lub macie do ćwiczeń, tak aby plecy były dociśnięte do podłoża. Ramiona powinny leżeć wzdłuż tułowia, z dłońmi skierowanymi w dół.",
+    "Nogi powinny być złączone. Powoli unieś nogi w górę, aż znajdą się niemal prostopadle do podłogi, z lekkim zgięciem w kolanach. Stopy powinny być równoległe do podłogi.",
+    "Przenieś ramiona tak, aby były w pełni wyprostowane pod kątem 45 stopni od podłogi. Jest to pozycja wyjściowa.",
+    "Utrzymując dolny odcinek pleców dociśnięty do podłogi, powoli unieś tułów i użyj rąk, aby spróbować dotknąć palców stóp. Pamiętaj, aby wykonać wydech podczas wykonywania tej części ćwiczenia.",
+    "Powoli zacznij opuszczać tułów i ramiona z powrotem do pozycji wyjściowej, wykonując wdech. Pamiętaj, aby ramiona były wyprostowane i skierowane w stronę palców stóp.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Zehenspitzenberührung",
+  "instructions_de": [
+    "Legen Sie sich zunächst auf den Boden oder eine Trainingsmatte, wobei Ihr Rücken fest auf den Boden gedrückt ist. Ihre Arme sollten seitlich am Körper liegen, mit den Handflächen nach unten.",
+    "Ihre Beine sollten sich berühren. Heben Sie Ihre Beine langsam in die Luft, bis sie nahezu senkrecht zum Boden stehen, mit einer leichten Beugung in den Knien. Ihre Füße sollten parallel zum Boden sein.",
+    "Bewegen Sie Ihre Arme, sodass sie vollständig ausgestreckt in einem 45-Grad-Winkel zum Boden sind. Dies ist die Ausgangsposition.",
+    "Während Sie Ihren unteren Rücken fest auf den Boden gedrückt halten, heben Sie langsam Ihren Oberkörper an und versuchen Sie, mit den Händen Ihre Zehen zu berühren. Denken Sie daran, während dieses Teils der Übung auszuatmen.",
+    "Beginnen Sie langsam, Ihren Oberkörper und Ihre Arme wieder in die Ausgangsposition abzusenken, während Sie einatmen. Denken Sie daran, Ihre Arme gerade ausgestreckt in Richtung Ihrer Zehen zu halten.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

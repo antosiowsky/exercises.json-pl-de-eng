@@ -1,0 +1,62 @@
+{
+  "name": "Heaving Snatch Balance",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.",
+    "Begin by dipping with the knees slightly, and popping back up to briefly unload the bar. Drive yourself underneath the bar, elevating it overhead as you descend into a full squat.",
+    "Return to a standing position."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Balans rwaniowy z wybiciem",
+  "instructions_pl": [
+    "To ćwiczenie pomaga w nauce rwania. Rozpocznij, trzymając lekką sztangę na karku. Stopy powinny być rozstawione nieco szerzej niż szerokość bioder, z palcami skierowanymi na zewnątrz, w tej samej pozycji, w której wykonujesz przysiad.",
+    "Rozpocznij od lekkiego ugięcia kolan (dipu), a następnie dynamicznie wybij się w górę, aby na krótko odciążyć sztangę. Wbij się pod sztangę, unosząc ją nad głowę, jednocześnie schodząc do pełnego przysiadu.",
+    "Wróć do pozycji stojącej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Dwubój olimpijski",
+  "name_de": "Dynamische Reißen-Balance",
+  "instructions_de": [
+    "Diese Übung hilft Ihnen, das Reißen zu erlernen. Beginnen Sie, indem Sie ein leichtes Gewicht auf dem oberen Rücken ablegen. Ihre Füße sollten etwas weiter als hüftbreit auseinander stehen, wobei die Fußspitzen leicht nach außen zeigen, dieselbe Position, die Sie auch bei einer Kniebeuge einnehmen würden.",
+    "Beginnen Sie, indem Sie die Knie leicht beugen und dann explosionsartig wieder aufrichten, um die Stange kurz zu entlasten. Tauchen Sie unter die Stange, während Sie diese über Kopf heben und gleichzeitig in eine volle Kniebeuge abtauchen.",
+    "Kehren Sie in eine stehende Position zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi antebrachii",
+    "Musculi glutei",
+    "Musculi ischiocrurales",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

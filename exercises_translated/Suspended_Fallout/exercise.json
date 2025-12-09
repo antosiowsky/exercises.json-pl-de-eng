@@ -1,0 +1,59 @@
+{
+  "name": "Suspended Fallout",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Adjust the straps so the handles are at an appropriate height, below waist level.",
+    "Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.",
+    "Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.",
+    "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
+    "Pause during the peak contraction, and then return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wypad w zawieszeniu",
+  "instructions_pl": [
+    "Dostosuj długość taśm tak, aby uchwyty znajdowały się na odpowiedniej wysokości, poniżej poziomu talii.",
+    "Rozpocznij w pozycji stojącej, chwytając uchwyty. Oprzyj się na taśmach, przechodząc do pozycji pompki w skosie. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując proste ramiona, pochyl się dalej w taśmy do ćwiczeń w zawieszeniu, zbliżając ciało do podłoża, pozwalając barkom na wyprost (ekstensję), unosząc ramiona w górę i nad głowę.",
+    "Zachowaj neutralną pozycję kręgosłupa i utrzymuj resztę ciała prosto, przy czym stawy barkowe są jedynymi stawami, które mogą się poruszać.",
+    "Zatrzymaj się w szczytowym momencie skurczu, a następnie wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie klatki piersiowej",
+    "Mięśnie grzbietu (odcinek lędźwiowy)",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Schlingentrainer-Ausrollen über Kopf",
+  "instructions_de": [
+    "Stellen Sie die Gurte so ein, dass sich die Griffe auf einer geeigneten Höhe unterhalb der Taille befinden.",
+    "Beginnen Sie im Stehen und fassen Sie die Griffe. Lehnen Sie sich in die Gurte, um eine geneigte Liegestützposition einzunehmen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Arme gestreckt und lehnen Sie sich weiter in die Schlingentrainer-Gurte, wobei Sie Ihren Körper näher zum Boden bringen, eine Extension Ihrer Schultern ermöglichen und Ihre Arme nach oben und über den Kopf heben.",
+    "Halten Sie die Wirbelsäule neutral und den Rest Ihres Körpers gerade, wobei die Schultern die einzigen Gelenke sind, die sich bewegen dürfen.",
+    "Halten Sie kurz in der maximalen Kontraktion inne und kehren Sie dann in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculi erector spinae",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Deficit Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Begin by having a platform or weight plates that you can stand on, usually 1-3 inches in height. Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.",
+    "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg z deficytem",
+  "instructions_pl": [
+    "Rozpocznij od ustawienia platformy lub talerzy obciążeniowych, na których możesz stanąć, zazwyczaj o wysokości 2,5-7,5 cm (1-3 cali). Podejdź do sztangi tak, aby była wyśrodkowana nad stopami. Stopy powinny być rozstawione na szerokość bioder. Pochyl się w biodrach, aby chwycić sztangę na szerokość barków, pozwalając na protrakcję łopatek. Zazwyczaj stosuje się chwyt nachwytem lub chwytem mieszanym (nachwyt/podchwyt) przy cięższych seriach.",
+    "Gdy stopy i chwyt są ustawione, weź głęboki wdech, a następnie obniż biodra i zegnij kolana, aż piszczele dotkną sztangi. Patrz przed siebie, trzymaj klatkę piersiową uniesioną, a plecy wygięte w łuk, i zacznij napierać piętami, aby unieść ciężar. Gdy sztanga minie kolana, agresywnie pociągnij ją do tyłu, ściągając łopatki razem, jednocześnie wypychając biodra do przodu w kierunku sztangi.",
+    "Opuść sztangę, zginając się w biodrach i prowadząc ją do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (środkowa część)",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny grzbietu"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Defizit-Kreuzheben",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie auf einer Plattform oder Hantelscheiben stehen, die in der Regel 2,5 bis 7,5 cm hoch sind. Stellen Sie sich so an die Hantel, dass diese mittig über Ihren Füßen positioniert ist. Ihre Füße sollten etwa hüftbreit auseinander stehen. Beugen Sie sich in der Hüfte, um die Hantel schulterbreit zu greifen, und lassen Sie dabei Ihre Schulterblätter protrahieren. Typischerweise verwenden Sie einen Obergriff oder einen Kreuzgriff (Ober-/Untergriff) bei schwereren Sätzen.",
+    "Nachdem Füße und Griff positioniert sind, atmen Sie tief ein, senken Sie dann Ihre Hüften und beugen Sie die Knie, bis Ihre Schienbeine die Hantel berühren. Blicken Sie mit dem Kopf nach vorne, halten Sie die Brust oben und den Rücken gewölbt, und beginnen Sie, durch die Fersen nach oben zu drücken, um das Gewicht anzuheben. Sobald die Hantel die Knie passiert hat, ziehen Sie die Hantel aggressiv nach hinten, indem Sie Ihre Schulterblätter zusammenziehen, während Sie Ihre Hüften nach vorne in die Hantel drücken.",
+    "Senken Sie die Hantel, indem Sie sich in den Hüften beugen und sie kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Glutäen",
+    "Ischiocrurale Muskulatur",
+    "Muskulatur des mittleren Rückens",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraftdreikampf"
+}

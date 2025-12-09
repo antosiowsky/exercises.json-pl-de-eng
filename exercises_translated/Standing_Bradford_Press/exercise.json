@@ -1,0 +1,56 @@
+{
+  "name": "Standing Bradford Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Place a loaded bar at shoulder level in a rack. With a pronated grip at shoulder width, begin with the bar racked across the front of your shoulders. This is your starting position.",
+    "Initiate the lift by extending the elbows to press the bar overhead. Avoid locking out the elbow as you move the weight behind your head.",
+    "Lower the bar down to the back of the head until your elbow forms a right angle.",
+    "Lift the bar back over your head by extending the elbows",
+    "Lower the bar down to the starting position.",
+    "Alternate in this manner until you complete the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie Bradforda w pozycji stojącej",
+  "instructions_pl": [
+    "Umieść obciążoną sztangę na wysokości barków w stojaku. Chwytem pronowanym na szerokość barków, rozpocznij z sztangą opartą na przedniej części barków. To jest pozycja wyjściowa.",
+    "Rozpocznij podnoszenie poprzez wyprostowanie łokci, aby wycisnąć sztangę nad głowę. Unikaj blokowania łokci podczas przenoszenia ciężaru za głowę.",
+    "Opuść sztangę do tyłu głowy, aż łokieć utworzy kąt prosty.",
+    "Podnieś sztangę z powrotem nad głowę, prostując łokcie.",
+    "Opuść sztangę do pozycji wyjściowej.",
+    "Powtarzaj w ten sposób, aż wykonasz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehendes Bradford-Drücken",
+  "instructions_de": [
+    "Platzieren Sie eine beladene Langhantel auf Schulterhöhe in einem Rack. Fassen Sie die Langhantel mit einem Pronationsgriff in Schulterbreite und legen Sie sie auf der Vorderseite Ihrer Schultern ab. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Hebebewegung ein, indem Sie die Ellbogen strecken, um die Langhantel über den Kopf zu drücken. Vermeiden Sie es, die Ellbogen vollständig durchzustrecken, während Sie das Gewicht hinter Ihren Kopf bewegen.",
+    "Senken Sie die Langhantel bis zum Hinterkopf ab, bis Ihr Ellbogen einen rechten Winkel bildet.",
+    "Heben Sie die Langhantel wieder über Ihren Kopf, indem Sie die Ellbogen strecken.",
+    "Senken Sie die Langhantel in die Ausgangsposition ab.",
+    "Führen Sie die Bewegung auf diese Weise abwechselnd aus, bis Sie die empfohlene Anzahl an Wiederholungen abgeschlossen haben."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

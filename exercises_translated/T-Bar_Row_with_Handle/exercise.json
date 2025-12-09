@@ -1,0 +1,56 @@
+{
+  "name": "T-Bar Row with Handle",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
+    "Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.",
+    "Assume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position.",
+    "Pull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement.",
+    "After a brief pause, return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą T-Bar z uchwytem",
+  "instructions_pl": [
+    "Umieść sztangę w uchwycie typu landmine lub w narożniku, aby zapobiec jej przesuwaniu się. Załaduj odpowiedni ciężar na swój koniec sztangi.",
+    "Stań nad sztangą i umieść uchwyt podwójny D do wiosłowania wokół sztangi, obok kołnierza. Używając bioder i nóg, podnieś się do pozycji stojącej.",
+    "Przyjmij szeroki rozstaw stóp, z biodrami cofniętymi i klatką piersiową uniesioną. Twoje ramiona powinny być wyprostowane. Będzie to Twoja pozycja początkowa.",
+    "Przyciągnij ciężar do górnej części brzucha, wykonując retrakcję łopatek i zgięcie stawów łokciowych. Nie szarp ciężaru ani nie oszukuj podczas ruchu.",
+    "Po krótkiej pauzie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "T-Bar-Rudern mit Griff",
+  "instructions_de": [
+    "Platziere eine Langhantel in einer Landmine oder in einer Ecke, um sie zu fixieren. Belade das freie Ende mit einem passenden Gewicht.",
+    "Stelle dich über die Hantelstange und platziere einen Doppel-D-Rudergriff um die Stange, direkt neben der Manschette. Nutze deine Hüften und Beine, um dich in eine stehende Position aufzurichten.",
+    "Nimm einen breiten Stand ein, mit zurückgeschobenen Hüften und erhobener Brust. Deine Arme sollten gestreckt sein. Dies ist deine Ausgangsposition.",
+    "Ziehe das Gewicht zum oberen Bauchbereich durch Retraktion der Scapulae und Flexion der Ellbogen. Vermeide ruckartige Bewegungen oder die Bewegung zu verfälschen.",
+    "Nach einer kurzen Pause kehrst du in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Clean Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+    "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a clean, avoid overloading to the point that the execution slows down."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Szrugsy do zarzutu",
+  "instructions_pl": [
+    "Rozpocznij z chwytem na szerokość barków, oburącz nachwytem lub chwytem zamkowym (hakowym), ze sztangą zwisającą na wysokości środka uda. Plecy powinny być proste i lekko pochylone do przodu.",
+    "Wzruszaj barkami w kierunku uszu. Chociaż to ćwiczenie zazwyczaj można wykonywać z większym obciążeniem niż zarzut, unikaj przeciążania do tego stopnia, aby spowolnić wykonanie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Umsetz-Schulterheben",
+  "instructions_de": [
+    "Beginnen Sie mit einem schulterbreiten, doppelten Obergriff oder Haken-/Klemmgriff, wobei die Stange auf mittlerer Oberschenkelhöhe hängt. Ihr Rücken sollte gerade und leicht nach vorne geneigt sein.",
+    "Ziehen Sie Ihre Schultern zu den Ohren. Obwohl diese Übung in der Regel mit mehr Gewicht als ein Umsetzen ausgeführt werden kann, vermeiden Sie eine Überladung, die die Ausführungsgeschwindigkeit verlangsamt."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Schultern"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

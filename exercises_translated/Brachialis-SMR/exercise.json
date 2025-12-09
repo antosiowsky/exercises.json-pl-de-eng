@@ -1,0 +1,38 @@
+{
+  "name": "Brachialis-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
+    "Raise your hips off of the floor, supporting your weight on your arm and on your feet. Hold for 10-30 seconds, and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Rozluźnianie mięśniowo-powięziowe mięśnia ramiennego",
+  "instructions_pl": [
+    "Połóż się na boku, opierając ramię o wałek piankowy. Ramię powinno być mniej więcej w jednej linii z ciałem, z zewnętrzną stroną mięśnia dwugłowego ramienia dociśniętą do wałka piankowego.",
+    "Unieś biodra z podłogi, opierając ciężar ciała na ramieniu i stopach. Utrzymaj pozycję przez 10-30 sekund, a następnie zmień stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Brachialis-SMR",
+  "instructions_de": [
+    "Legen Sie sich auf die Seite, mit dem Oberarm auf der Faszienrolle. Der Oberarm sollte in etwa mit Ihrem Körper eine Linie bilden, wobei die Außenseite des Musculus biceps brachii gegen die Faszienrolle gedrückt wird.",
+    "Heben Sie das Becken vom Boden ab und stützen Sie Ihr Gewicht auf dem Arm und den Füßen ab. Halten Sie diese Position für 10-30 Sekunden und wechseln Sie dann die Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

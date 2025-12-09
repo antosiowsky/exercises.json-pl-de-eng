@@ -1,0 +1,59 @@
+{
+  "name": "Squat Jerk",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
+    "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should move forcefully to just outside the hips, turned out as necessary. Receive the bar with your body in a full squat and the arms fully extended overhead.",
+    "Keeping the bar aligned over the front of the heels, your head and chest up, drive throught heels of the feet to move to a standing position. Carefully return the weight to floor."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Podrzut w przysiadzie",
+  "instructions_pl": [
+    "Stojąc ze sztangą spoczywającą na przedniej części barków, rozpocznij od ugięcia nóg. Ze stopami ustawionymi bezpośrednio pod biodrami, ugnij kolana, nie cofając bioder. Zejdź tylko nieznacznie w dół i zmień kierunek ruchu tak dynamicznie, jak to możliwe. Wypchnij się przez pięty, generując jak największą prędkość i siłę, i pamiętaj, aby odsunąć głowę, gdy sztanga opuszcza barki.",
+    "W tym momencie, gdy stopy odrywają się od podłoża, stopy muszą zostać ustawione w pozycji odbioru tak szybko, jak to możliwe. W krótkiej chwili, gdy stopy nie naciskają aktywnie na platformę, wysiłek sportowca, aby wypchnąć sztangę w górę, spowoduje jego obniżenie. Stopy powinny dynamicznie przemieścić się tuż poza linię bioder, skierowane na zewnątrz w razie potrzeby. Odbierz sztangę w pełnym przysiadzie, z ramionami w pełni wyprostowanymi nad głową.",
+    "Utrzymując sztangę w linii z przednią częścią pięt, z głową i klatką piersiową uniesionymi do góry, wypchnij się przez pięty, aby przejść do pozycji stojącej. Ostrożnie odłóż ciężar na podłoże."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Hockstoß",
+  "instructions_de": [
+    "Stehen Sie mit der Langhantel auf den vorderen Schultern abgelegt und beginnen Sie mit dem Dip. Mit den Füßen direkt unter den Hüften beugen Sie die Knie, ohne die Hüften nach hinten zu bewegen. Gehen Sie nur leicht nach unten und kehren Sie die Bewegung so kraftvoll wie möglich um. Drücken Sie sich durch die Fersen ab, um so viel Geschwindigkeit und Kraft wie möglich zu erzeugen, und achten Sie darauf, den Kopf aus dem Weg zu bewegen, wenn die Langhantel die Schultern verlässt.",
+    "In dem Moment, in dem die Füße den Boden verlassen, müssen die Füße so schnell wie möglich in die Empfangsposition gebracht werden. In dem kurzen Moment, in dem die Füße nicht aktiv gegen die Plattform drücken, wird die Anstrengung des Athleten, die Langhantel nach oben zu drücken, ihn nach unten treiben. Die Füße sollten kraftvoll bis knapp außerhalb der Hüften bewegt werden, bei Bedarf nach außen gedreht. Empfangen Sie die Langhantel mit dem Körper in einer tiefen Kniebeuge und den Armen vollständig über Kopf gestreckt.",
+    "Halten Sie die Langhantel über dem vorderen Teil der Fersen ausgerichtet, Kopf und Brust oben, und drücken Sie sich durch die Fersen der Füße, um in eine stehende Position zu gelangen. Führen Sie das Gewicht vorsichtig zum Boden zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

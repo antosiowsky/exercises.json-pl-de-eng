@@ -1,0 +1,41 @@
+{
+  "name": "Standing Hamstring and Calf Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Being by looping a belt, band, or rope around one foot. While standing, place that foot forward.",
+    "Bend your back leg, while keeping the front one straight. Now raise the toes of your front foot off of the ground and lean forward.",
+    "Using the belt, pull on the top of the foot to increase the stretch in the calf. Hold for 10-20 seconds and repeat with the other foot."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśni kulszowo-goleniowych i łydki w pozycji stojącej",
+  "instructions_pl": [
+    "Rozpocznij od zaczepienia paska, taśmy lub liny wokół jednej stopy. Stojąc, wysuń tę stopę do przodu.",
+    "Ugnij tylną nogę, utrzymując przednią prostą. Następnie unieś palce stopy przedniej nogi od podłoża i pochyl się do przodu.",
+    "Używając paska, pociągnij za górną część stopy, aby zwiększyć rozciągnięcie w łydce. Utrzymaj pozycję przez 10-20 sekund i powtórz z drugą stopą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehende Dehnung der ischiocruralen Muskulatur und der Wadenmuskulatur",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie einen Gurt, ein Band oder ein Seil um einen Fuß legen. Stellen Sie im Stehen diesen Fuß nach vorne.",
+    "Beugen Sie Ihr hinteres Bein, während Sie das vordere gestreckt halten. Heben Sie nun die Zehen Ihres vorderen Fußes vom Boden ab und lehnen Sie sich nach vorne.",
+    "Ziehen Sie mit Hilfe des Gurtes am Fußrücken, um die Dehnung in der Wadenmuskulatur zu verstärken. Halten Sie die Position für 10-20 Sekunden und wiederholen Sie die Übung mit dem anderen Fuß."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

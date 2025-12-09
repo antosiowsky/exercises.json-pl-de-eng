@@ -1,0 +1,59 @@
+{
+  "name": "Cable Preacher Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Place a preacher bench about 2 feet in front of a pulley machine.",
+    "Attach a straight bar to the low pulley.",
+    "Sit at the preacher bench with your elbow and upper arms firmly on top of the bench pad and have someone hand you the bar from the low pulley.",
+    "Grab the bar and fully extend your arms on top of the preacher bench pad. This will be your starting position.",
+    "Now start pilling the weight up towards your shoulders and squeeze the biceps hard at the top of the movement. Exhale as you perform this motion. Also, hold for a second at the top.",
+    "Now slowly lower the weight to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie ramion na modlitewniku z wyciągiem",
+  "instructions_pl": [
+    "Ustaw modlitewnik około 60 cm przed maszyną wyciągową.",
+    "Przymocuj drążek prosty do dolnego wyciągu.",
+    "Usiądź na modlitewniku, opierając stabilnie łokcie i ramiona na poduszce ławki, i poproś kogoś, aby podał ci drążek z dolnego wyciągu.",
+    "Chwyć drążek i w pełni wyprostuj ramiona, opierając je na poduszce modlitewnika. Będzie to twoja pozycja początkowa.",
+    "Teraz zacznij podciągać ciężar w kierunku barków i mocno napnij mięśnie dwugłowe ramion w szczytowej fazie ruchu. Wykonując ten ruch, zrób wydech. Dodatkowo, przytrzymaj przez sekundę w górnej pozycji.",
+    "Teraz powoli opuść ciężar do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kabel-Scott-Curl",
+  "instructions_de": [
+    "Stellen Sie eine Scottbank etwa 60 cm vor einem Kabelzugturm auf.",
+    "Befestigen Sie eine gerade Stange am unteren Kabelzug.",
+    "Setzen Sie sich auf die Scottbank, wobei Ihre Ellbogen und Oberarme fest auf dem Polster der Bank aufliegen, und lassen Sie sich die Stange vom unteren Kabelzug reichen.",
+    "Greifen Sie die Stange und strecken Sie Ihre Arme vollständig auf dem Polster der Scottbank aus. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie nun das Gewicht in Richtung Ihrer Schultern nach oben und spannen Sie den Musculus biceps brachii am oberen Punkt der Bewegung fest an. Atmen Sie während dieser Bewegung aus. Halten Sie außerdem am oberen Punkt eine Sekunde lang inne.",
+    "Senken Sie das Gewicht nun langsam in die Ausgangsposition ab.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi antebrachii"
+  ],
+  "category_de": "Kraft"
+}

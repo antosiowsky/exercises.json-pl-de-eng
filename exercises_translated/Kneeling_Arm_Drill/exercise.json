@@ -1,0 +1,50 @@
+{
+  "name": "Kneeling Arm Drill",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "This drill helps increase arm efficiency during the run. Begin kneeling, left foot in front, right knee down. Apply pressure through the front heel to keep your glutes and hamstrings activated.",
+    "Begin by blocking the arms in long, pendulum like swings. Close the arm angle, blocking with the arms as you would when jogging, progressing to a run and finally a sprint.",
+    "As soon as your hands pass the hip, accelerate them forward during the sprinting motion to move them as quickly as possible.",
+    "Switch knees and repeat."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Ćwiczenie ramion w klęku",
+  "instructions_pl": [
+    "To ćwiczenie pomaga zwiększyć efektywność pracy ramion podczas biegu. Rozpocznij w pozycji klęczącej, lewa stopa z przodu, prawe kolano na ziemi. Wywieraj nacisk przez przednią piętę, aby utrzymać aktywację mięśni pośladkowych i kulszowo-goleniowych.",
+    "Rozpocznij od wykonywania długich, wahadłowych ruchów ramionami. Zmniejsz kąt zgięcia w stawach łokciowych, wykonując ruchy ramionami tak, jak podczas truchtu, następnie biegu i wreszcie sprintu.",
+    "Gdy tylko dłonie miną biodra, przyspiesz je do przodu, wykonując ruch sprinterski, aby poruszać nimi tak szybko, jak to możliwe.",
+    "Zmień kolana i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Kniende Armschwungübung",
+  "instructions_de": [
+    "Diese Übung hilft, die Effizienz der Armbewegung während des Laufs zu steigern. Beginnen Sie kniend, mit dem linken Fuß vorne und dem rechten Knie am Boden. Üben Sie Druck durch die vordere Ferse aus, um Ihre Glutealmuskulatur und ischiocrurale Muskulatur aktiviert zu halten.",
+    "Führen Sie die Arme zunächst in langen, pendelartigen Schwüngen. Verringern Sie den Armwinkel und bewegen Sie die Arme so, wie Sie es beim Joggen tun würden, dann beim Laufen und schließlich beim Sprinten.",
+    "Sobald Ihre Hände die Hüfte passieren, beschleunigen Sie sie während der Sprintbewegung nach vorne, um sie so schnell wie möglich zu bewegen.",
+    "Wechseln Sie die Knieposition und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

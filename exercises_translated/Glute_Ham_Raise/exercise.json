@@ -1,0 +1,50 @@
+{
+  "name": "Glute Ham Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Begin by adjusting the equipment to fit your body. Place your feet against the footplate in between the rollers as you lie facedown. Your knees should be just behind the pad.",
+    "Start from the bottom of the movement. Keep your back arched as you begin the movement by flexing the knees. Drive your toes into the foot plate as you do so. Keep your upper body straight, and continue until your body is upright.",
+    "Return to the starting position, keeping your descent under control."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wznosy pośladkowo-udowe",
+  "instructions_pl": [
+    "Rozpocznij od dopasowania sprzętu do swojego ciała. Ułóż stopy na platformie podparcia, pomiędzy wałkami, leżąc przodem. Kolana powinny znajdować się tuż za podparciem.",
+    "Rozpocznij od dolnej fazy ruchu. Utrzymuj plecy wygięte w łuk, rozpoczynając ruch poprzez zgięcie kolan. Wbijaj palce stóp w platformę podparcia. Utrzymuj prosty tułów i kontynuuj ruch, aż twoje ciało znajdzie się w pozycji pionowej.",
+    "Wróć do pozycji początkowej, kontrolując fazę opuszczania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Glute-Ham-Raise",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie das Gerät an Ihren Körper anpassen. Legen Sie sich bäuchlings hin und platzieren Sie Ihre Füße zwischen den Rollen an der Fußplatte. Ihre Knie sollten sich knapp hinter dem Polster befinden.",
+    "Beginnen Sie am unteren Punkt der Bewegung. Halten Sie Ihren Rücken gewölbt, während Sie die Bewegung durch Beugen der Knie einleiten. Drücken Sie dabei Ihre Zehen in die Fußplatte. Halten Sie Ihren Oberkörper gerade und fahren Sie fort, bis Ihr Körper aufrecht ist.",
+    "Kehren Sie in die Ausgangsposition zurück, wobei Sie die Abwärtsbewegung kontrolliert ausführen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus"
+  ],
+  "category_de": "Kraftdreikampf"
+}

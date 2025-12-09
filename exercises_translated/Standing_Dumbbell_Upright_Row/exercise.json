@@ -1,0 +1,53 @@
+{
+  "name": "Standing Dumbbell Upright Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grasp a dumbbell in each hand with a pronated (palms forward) grip that is slightly less than shoulder width. The dumbbells should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
+    "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be close to the body as you move it up and the elbows should drive the motion. Continue to lift them until they nearly touch your chin. Tip: Your elbows should drive the motion. As you lift the dumbbells, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wiosłowanie pionowe hantlami stojąc",
+  "instructions_pl": [
+    "Chwyć hantlę w każdą dłoń chwytem pronowanym (dłonie skierowane do przodu), nieco węższym niż szerokość barków. Hantle powinny spoczywać na udach. Ramiona powinny być wyprostowane z lekkim zgięciem w łokciach, a plecy proste. To będzie Twoja pozycja wyjściowa.",
+    "Użyj bocznych aktonów mięśni naramiennych, aby unieść hantle, wykonując wydech. Hantle powinny znajdować się blisko ciała podczas unoszenia, a łokcie powinny prowadzić ruch. Kontynuuj unoszenie, aż hantle znajdą się blisko podbródka. Wskazówka: Łokcie powinny prowadzić ruch. Podczas unoszenia hantli, łokcie powinny zawsze znajdować się wyżej niż przedramiona. Ponadto, utrzymuj tułów nieruchomo i zatrzymaj się na sekundę w szczytowej fazie ruchu.",
+    "Powoli opuść hantle z powrotem do pozycji wyjściowej. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kurzhantel-Aufrechtes Rudern im Stehen",
+  "instructions_de": [
+    "Nehmen Sie in jede Hand eine Kurzhantel mit einem Pronationsgriff (Handflächen nach vorne gerichtet), der etwas enger als schulterbreit ist. Die Kurzhanteln sollten auf Ihren Oberschenkeln aufliegen. Ihre Arme sollten gestreckt sein, mit einer leichten Beugung in den Ellbogen, und Ihr Rücken sollte gerade sein. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Kurzhanteln beim Ausatmen mithilfe Ihrer seitlichen Schultermuskulatur an. Die Kurzhanteln sollten beim Anheben nah am Körper geführt werden, wobei die Ellbogen die Bewegung anführen. Heben Sie sie weiter an, bis sie fast Ihr Kinn berühren. Tipp: Ihre Ellbogen sollten die Bewegung anführen. Beim Anheben der Kurzhanteln sollten Ihre Ellbogen immer höher als Ihre Unterarme sein. Halten Sie außerdem Ihren Oberkörper stabil und pausieren Sie eine Sekunde am oberen Punkt der Bewegung.",
+    "Senken Sie die Kurzhanteln langsam und kontrolliert in die Ausgangsposition zurück. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

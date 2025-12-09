@@ -1,0 +1,41 @@
+{
+  "name": "Calf Stretch Elbows Against Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand facing a wall from a couple feet away.",
+    "Lean against the wall, placing your weight on your forearms.",
+    "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni łydki z łokciami opartymi o ścianę",
+  "instructions_pl": [
+    "Stań przodem do ściany w odległości około metra.",
+    "Oprzyj się o ścianę, przenosząc ciężar ciała na przedramiona.",
+    "Staraj się utrzymać pięty na podłożu. Utrzymaj pozycję przez 10-20 sekund. Możesz oddalić się lub zbliżyć do ściany, odpowiednio zwiększając lub zmniejszając trudność."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Waden-Dehnung mit Ellenbogen an der Wand",
+  "instructions_de": [
+    "Stellen Sie sich mit Blick zur Wand in einigen Schritten Abstand auf.",
+    "Lehnen Sie sich an die Wand und verlagern Sie Ihr Gewicht auf Ihre Unterarme.",
+    "Versuchen Sie, Ihre Fersen auf dem Boden zu halten. Halten Sie die Position für 10-20 Sekunden. Sie können sich weiter von der Wand entfernen oder näher an sie herangehen, um die Schwierigkeit entsprechend zu erhöhen oder zu verringern."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

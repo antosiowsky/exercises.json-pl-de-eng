@@ -1,0 +1,53 @@
+{
+  "name": "Stairmaster",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, step onto the stairmaster and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise.",
+    "Pump your legs up and down in an established rhythm, driving the pedals down but not all the way to the floor. It is recommended that you maintain your grip on the handles so that you don't fall. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+    "Stairmasters offer convenience, cardiovascular benefits, and usually have less impact than running outside. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Symulator schodów",
+  "instructions_pl": [
+    "Aby rozpocząć, wejdź na symulator schodów i wybierz żądaną opcję z menu. Możesz wybrać ustawienie manualne lub uruchomić program. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować liczbę spalonych kalorii podczas ćwiczeń.",
+    "Pompuj nogami w górę i w dół w ustalonym rytmie, naciskając pedały w dół, ale nie do samego końca. Zaleca się utrzymywanie uchwytu na poręczach, aby nie stracić równowagi. Uchwyty mogą być używane do monitorowania tętna, co pomaga utrzymać odpowiednią intensywność.",
+    "Symulatory schodów oferują wygodę, korzyści sercowo-naczyniowe i zazwyczaj mniej obciążają stawy niż bieganie na zewnątrz. Są zazwyczaj znacznie trudniejsze niż inne urządzenia kardio. Osoba ważąca 150 funtów spali zazwyczaj ponad 300 kalorii w 30 minut, w porównaniu do około 175 kalorii podczas spaceru."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Kardio",
+  "name_de": "Stairmaster",
+  "instructions_de": [
+    "Um zu beginnen, steigen Sie auf den Stairmaster und wählen Sie die gewünschte Option aus dem Menü. Sie können eine manuelle Einstellung wählen oder ein voreingestelltes Programm starten. Typischerweise können Sie Ihr Alter und Gewicht eingeben, um die während des Trainings verbrannten Kalorien zu schätzen.",
+    "Bewegen Sie Ihre Beine in einem gleichmäßigen Rhythmus auf und ab, indem Sie die Pedale nach unten treten, aber nicht bis zum Anschlag. Es wird empfohlen, sich an den Griffen festzuhalten, um nicht zu stürzen. Die Griffe können zur Überwachung Ihrer Herzfrequenz verwendet werden, um Ihnen zu helfen, eine angemessene Intensität beizubehalten.",
+    "Stairmaster bieten Komfort, kardiovaskuläre Vorteile und haben in der Regel eine geringere Stoßbelastung als Laufen im Freien. Sie sind typischerweise viel anstrengender als andere Cardiogeräte. Eine Person mit 150 lb verbrennt typischerweise über 300 Kalorien in 30 Minuten, verglichen mit etwa 175 Kalorien beim Gehen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Cardio"
+}

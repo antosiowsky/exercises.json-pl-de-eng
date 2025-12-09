@@ -1,0 +1,38 @@
+{
+  "name": "IT Band and Glute Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Loop a belt, rope, or band around one of your feet, and swing that leg across your body to the opposite side, keeping the leg extended as you lay on the ground. This will be your starting position.",
+    "Keeping your foot off of the floor, pull on the belt, using the tension to pull the toes up. Hold for 10-20 seconds, and repeat on the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Odwodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Abduktoren"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie pasma biodrowo-piszczelowego i mięśni pośladkowych",
+  "instructions_pl": [
+    "Zaczep pasek, linę lub taśmę wokół jednej ze stóp i przenieś tę nogę w poprzek ciała na przeciwną stronę, utrzymując ją wyprostowaną, leżąc na podłodze. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując stopę uniesioną nad podłogą, pociągnij za pasek, wykorzystując napięcie do podciągnięcia palców stopy w górę. Utrzymaj przez 10-20 sekund i powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung des Iliotibialbandes und der Gesäßmuskulatur",
+  "instructions_de": [
+    "Schlingen Sie einen Gürtel, ein Seil oder ein Band um einen Ihrer Füße und schwingen Sie dieses Bein über Ihren Körper zur gegenüberliegenden Seite, wobei Sie das Bein gestreckt halten, während Sie auf dem Boden liegen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den Fuß vom Boden abgehoben, ziehen Sie am Gürtel und nutzen Sie die Spannung, um die Zehen nach oben zu ziehen. Halten Sie die Position für 10-20 Sekunden und wiederholen Sie die Übung auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

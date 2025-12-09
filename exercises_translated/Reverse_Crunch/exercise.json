@@ -1,0 +1,47 @@
+{
+  "name": "Reverse Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.",
+    "Move your legs up so that your thighs are perpendicular to the floor and feet are together and parallel to the floor. This is the starting position.",
+    "While inhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the floor. At the end of this movement your knees will be touching your chest.",
+    "Hold the contraction for a second and move your legs back to the starting position while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia odwrotne",
+  "instructions_pl": [
+    "Połóż się na podłodze z nogami w pełni wyprostowanymi i ramionami wzdłuż tułowia, dłońmi opartymi o podłogę. Ramiona powinny pozostać nieruchome przez cały czas trwania ćwiczenia.",
+    "Unieś nogi tak, aby uda były prostopadłe do podłogi, a stopy złączone i równoległe do podłogi. Jest to pozycja wyjściowa.",
+    "Podczas wdechu przesuń nogi w kierunku tułowia, jednocześnie rolując miednicę do tyłu i unosząc biodra z podłogi. W końcowej fazie tego ruchu kolana dotkną klatki piersiowej.",
+    "Przytrzymaj skurcz przez sekundę i wróć nogami do pozycji wyjściowej podczas wydechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Reverser Crunch",
+  "instructions_de": [
+    "Legen Sie sich mit vollständig ausgestreckten Beinen und den Armen seitlich am Rumpf, die Handflächen auf dem Boden, auf den Boden. Ihre Arme sollten während der gesamten Übung unbeweglich bleiben.",
+    "Heben Sie Ihre Beine an, sodass Ihre Oberschenkel senkrecht zum Boden stehen und die Füße zusammen und parallel zum Boden sind. Dies ist die Ausgangsposition.",
+    "Während Sie einatmen, ziehen Sie Ihre Beine in Richtung Rumpf, indem Sie Ihr Becken nach hinten kippen und Ihre Hüften vom Boden heben. Am Ende dieser Bewegung berühren Ihre Knie Ihre Brust.",
+    "Halten Sie die Kontraktion für eine Sekunde und führen Sie Ihre Beine beim Ausatmen in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

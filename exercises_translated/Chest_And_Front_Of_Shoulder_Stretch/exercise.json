@@ -1,0 +1,47 @@
+{
+  "name": "Chest And Front Of Shoulder Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Start off by standing with your legs together, holding a bodybar or a broomstick.",
+    "Take a slightly wider than shoulder width grip on the pole and hold it in front of you with your palms facing down.",
+    "Carefully lift the pole up and behind your head."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśni klatki piersiowej i przedniego aktonu mięśnia naramiennego",
+  "instructions_pl": [
+    "Rozpocznij, stojąc ze złączonymi nogami, trzymając bodybar lub kij od miotły.",
+    "Chwyć drążek nieco szerzej niż szerokość barków i trzymaj go przed sobą, z dłońmi skierowanymi w dół.",
+    "Ostrożnie unieś drążek w górę i za głowę."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Rozciąganie",
+  "name_de": "Brust- und vordere Schulterdehnung",
+  "instructions_de": [
+    "Beginnen Sie im Stehen mit geschlossenen Beinen und halten Sie eine Bodybar oder einen Besenstiel.",
+    "Fassen Sie die Stange etwas breiter als schulterbreit und halten Sie sie mit den Handflächen nach unten vor sich.",
+    "Heben Sie die Stange vorsichtig nach oben und hinter Ihren Kopf."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

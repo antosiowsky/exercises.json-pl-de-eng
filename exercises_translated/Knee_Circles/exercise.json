@@ -1,0 +1,50 @@
+{
+  "name": "Knee Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Krążenia kolan",
+  "instructions_pl": [
+    "Stań ze złączonymi nogami i rękami na biodrach.",
+    "Następnie wykonuj kolanami ruchy okrężne, oddychając normalnie.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Kniekreisen",
+  "instructions_de": [
+    "Stellen Sie sich mit geschlossenen Beinen hin und legen Sie die Hände an die Taille.",
+    "Bewegen Sie nun Ihre Knie in einer kreisenden Bewegung, während Sie normal atmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Dehnen"
+}

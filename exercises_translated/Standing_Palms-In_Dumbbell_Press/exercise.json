@@ -1,0 +1,50 @@
+{
+  "name": "Standing Palms-In Dumbbell Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Start by having a dumbbell in each hand with your arm fully extended to the side using a neutral grip. Your feet should be shoulder width apart from each other. Now slowly lift the dumbbells up until you create a 90 degree angle with your arms. Note: Your forearms should be perpendicular to the floor. This the starting position.",
+    "Continue to maintain a neutral grip throughout the entire exercise. Slowly lift the dumbbells up until your arms are fully extended.",
+    "While inhaling lower the weights down until your arm is at a 90 degree angle again.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli stojąc chwytem neutralnym",
+  "instructions_pl": [
+    "Rozpocznij, trzymając hantlę w każdej dłoni, z ramionami w pełni wyprostowanymi wzdłuż tułowia i chwytem neutralnym. Stopy rozstaw na szerokość barków. Powoli unieś hantle, aż ramiona utworzą kąt 90 stopni. Uwaga: Przedramiona powinny być prostopadłe do podłogi. Jest to pozycja wyjściowa.",
+    "Utrzymuj chwyt neutralny przez cały czas trwania ćwiczenia. Powoli unieś hantle w górę, aż ramiona będą w pełni wyprostowane.",
+    "Podczas wdechu opuść ciężary w dół, aż ramiona ponownie znajdą się pod kątem 90 stopni.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehendes Kurzhanteldrücken mit neutralem Griff",
+  "instructions_de": [
+    "Beginnen Sie mit einer Kurzhantel in jeder Hand, die Arme seitlich vollständig ausgestreckt und im neutralen Griff. Ihre Füße sollten schulterbreit auseinander stehen. Heben Sie nun die Kurzhanteln langsam an, bis Ihre Arme einen 90-Grad-Winkel bilden. Hinweis: Ihre Unterarme sollten senkrecht zum Boden stehen. Dies ist die Ausgangsposition.",
+    "Halten Sie den neutralen Griff während der gesamten Übung bei. Heben Sie die Kurzhanteln langsam an, bis Ihre Arme vollständig ausgestreckt sind.",
+    "Beim Einatmen senken Sie die Gewichte ab, bis Ihr Arm wieder einen 90-Grad-Winkel bildet.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Krafttraining"
+}

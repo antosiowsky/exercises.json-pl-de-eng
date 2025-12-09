@@ -1,0 +1,47 @@
+{
+  "name": "One-Arm Kettlebell Military Press To The Side",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces inward. This will be your starting position.",
+    "Look at the kettlebell and press it up and out until it is locked out overhead.",
+    "Lower the kettlebell back to your shoulder under control and repeat. Make sure to contract your lat, butt, and stomach forcefully for added stability and strength."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie żołnierskie kettlebell jednorącz z bocznym ruchem",
+  "instructions_pl": [
+    "Zarzuć kettlebell na bark. Wykonaj zarzut kettlebell na bark, prostując nogi i biodra, jednocześnie przyciągając kettlebell do barku. W trakcie ruchu obróć nadgarstek tak, aby dłoń była skierowana do wewnątrz. Będzie to Twoja pozycja wyjściowa.",
+    "Spójrz na kettlebell i wyciśnij go w górę i na zewnątrz, aż do pełnego wyprostu ramienia nad głową.",
+    "Opuść kettlebell z powrotem na bark w kontrolowany sposób i powtórz. Pamiętaj, aby mocno napiąć mięsień najszerszy grzbietu, mięśnie pośladkowe i mięśnie brzucha dla zwiększenia stabilności i siły."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Kettlebell Military Press zur Seite",
+  "instructions_de": [
+    "Setzen Sie eine Kettlebell zur Schulter um, indem Sie Beine und Hüfte strecken und die Kettlebell dabei zur Schulter ziehen. Drehen Sie Ihr Handgelenk so, dass die Handfläche nach innen zeigt. Dies ist Ihre Ausgangsposition.",
+    "Blicken Sie auf die Kettlebell und drücken Sie sie nach oben und außen, bis der Arm über dem Kopf vollständig gestreckt ist.",
+    "Senken Sie die Kettlebell kontrolliert zurück zur Schulter und wiederholen Sie die Bewegung. Achten Sie darauf, Ihren Musculus latissimus dorsi, Ihre Gesäßmuskulatur und Ihre Bauchmuskulatur kraftvoll anzuspannen, um zusätzliche Stabilität und Kraft zu gewährleisten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

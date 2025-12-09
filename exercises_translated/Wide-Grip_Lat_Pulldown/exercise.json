@@ -1,0 +1,62 @@
+{
+  "name": "Wide-Grip Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.",
+    "After a second at the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie drążka wyciągu górnego szerokim chwytem",
+  "instructions_pl": [
+    "Usiądź na maszynie do ściągania drążka wyciągu górnego z szerokim drążkiem przymocowanym do górnego bloczka. Upewnij się, że wyregulujesz podkładki pod kolana maszyny, aby dopasować je do swojego wzrostu. Podkładki te zapobiegną unoszeniu się ciała przez opór przymocowany do drążka.",
+    "Chwyć drążek nachwytem (dłońmi skierowanymi do przodu) używając wskazanego chwytu. Uwaga dotycząca chwytów: Dla szerokiego chwytu, dłonie powinny być rozstawione na odległość większą niż szerokość barków. Dla średniego chwytu, dłonie powinny być rozstawione na odległość równą szerokości barków, a dla wąskiego chwytu na odległość mniejszą niż szerokość barków.",
+    "Gdy masz obie ręce wyprostowane przed sobą, trzymając drążek na wybranej szerokości chwytu, odchyl tułów do tyłu o około 30 stopni, jednocześnie tworząc naturalną krzywiznę w odcinku lędźwiowym kręgosłupa i wypinając klatkę piersiową. To jest twoja pozycja wyjściowa.",
+    "Podczas wydechu, ściągnij drążek w dół, aż dotknie górnej części klatki piersiowej, ściągając jednocześnie łopatki i ramiona w dół i do tyłu. Wskazówka: Skoncentruj się na maksymalnym napięciu mięśni grzbietu po osiągnięciu pełnej fazy skurczu. Górna część tułowia powinna pozostać nieruchoma, a poruszać się powinny tylko ramiona. Przedramiona nie powinny wykonywać żadnej innej pracy poza trzymaniem drążka; dlatego nie próbuj ściągać drążka używając przedramion.",
+    "Po sekundzie w pozycji skurczu, ściskając łopatki razem, powoli podnieś drążek z powrotem do pozycji wyjściowej, gdy ramiona są w pełni wyprostowane, a mięśnie najszersze grzbietu są w pełni rozciągnięte. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz ten ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Weitgriff-Latzug",
+  "instructions_de": [
+    "Setzen Sie sich an eine Latzugmaschine, an deren oberer Umlenkrolle eine breite Stange befestigt ist. Stellen Sie sicher, dass Sie das Kniepolster der Maschine an Ihre Körpergröße anpassen. Diese Polster verhindern, dass Ihr Körper durch den an der Stange befestigten Widerstand angehoben wird.",
+    "Greifen Sie die Stange mit nach vorne zeigenden Handflächen (Obergriff) im vorgegebenen Griff. Hinweis zu Griffarten: Für einen weiten Griff müssen Ihre Hände weiter als schulterbreit auseinanderliegen. Für einen mittleren Griff müssen Ihre Hände schulterbreit auseinanderliegen und für einen engen Griff weniger als schulterbreit.",
+    "Während beide Arme vor Ihnen ausgestreckt sind und Sie die Stange in der gewählten Griffbreite halten, lehnen Sie Ihren Oberkörper um etwa 30 Grad zurück, bilden dabei ein leichtes Hohlkreuz im unteren Rücken und strecken die Brust heraus. Dies ist Ihre Ausgangsposition.",
+    "Während Sie ausatmen, ziehen Sie die Stange nach unten, bis sie Ihre obere Brust berührt, indem Sie die Schultern und die Oberarme nach unten und hinten ziehen. Tipp: Konzentrieren Sie sich darauf, die Rückenmuskulatur anzuspannen, sobald Sie die vollständig kontrahierte Position erreicht haben. Der Oberkörper sollte dabei ruhig bleiben und nur die Arme sich bewegen. Die Unterarme sollten keine andere Arbeit verrichten, außer die Stange zu halten; versuchen Sie daher nicht, die Stange mit den Unterarmen herunterzuziehen.",
+    "Nach einer Sekunde in der kontrahierten Position, in der Sie Ihre Schulterblätter zusammenziehen, heben Sie die Stange langsam zurück in die Ausgangsposition, bis Ihre Arme vollständig gestreckt und der Musculus latissimus dorsi vollständig gedehnt ist. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Wiederholen Sie diese Bewegung für die vorgegebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Muskulatur des mittleren Rückens",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

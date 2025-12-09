@@ -1,0 +1,57 @@
+{
+  "name": "Kneeling Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
+    "With your head looking forward, sit back with your butt until you touch your calves.",
+    "Reverse the motion, returning the torso to an upright position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad klęczny",
+  "instructions_pl": [
+    "Ustaw sztangę na odpowiedniej wysokości w klatce treningowej. Uklęknij za sztangą; dla amortyzacji kolan może być korzystne położenie maty. Wsuń się pod sztangę, opierając ją na górnym odcinku pleców. Łopatki powinny być ściągnięte, a sztanga mocno przylegać do pleców. Zdejmij ciężar ze stojaków.",
+    "Z głową skierowaną do przodu, cofnij biodra, aż dotkniesz łydek.",
+    "Odwróć ruch, wracając tułowiem do pozycji pionowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Kniende Kniebeuge",
+  "instructions_de": [
+    "Stelle die Langhantel in einem Power Rack auf die passende Höhe ein.",
+    "Knie dich hinter die Langhantel; es kann vorteilhaft sein, eine Matte unterzulegen, um deine Knie zu polstern.",
+    "Schiebe dich unter die Langhantel und platziere sie auf dem oberen Rücken quer über die Schultern.",
+    "Deine Schulterblätter sollten retrahiert sein und die Langhantel fest auf deinem Rücken liegen.",
+    "Nimm das Gewicht aus der Ablage.",
+    "Mit dem Blick nach vorne gerichtet, setze dich mit dem Gesäß nach hinten ab, bis es deine Waden berührt.",
+    "Kehre die Bewegung um, indem du den Oberkörper wieder in eine aufrechte Position bringst."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraftdreikampf"
+}

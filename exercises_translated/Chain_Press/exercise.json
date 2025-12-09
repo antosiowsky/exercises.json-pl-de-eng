@@ -1,0 +1,50 @@
+{
+  "name": "Chain Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin by connecting the chains to the cable handle attachments. Position yourself on the flat bench in the same position as for a dumbbell press. Your wrists should be pronated and arms perpendicular to the floor. This will be your starting position.",
+    "Lower the chains by flexing the elbows, unloading some of the chain onto the floor.",
+    "Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wyciskanie łańcuchowe",
+  "instructions_pl": [
+    "Przymocuj łańcuchy do uchwytów wyciągu. Ułóż się na ławce płaskiej w pozycji analogicznej do wyciskania hantli. Nadgarstki powinny być w pronacji, a ramiona prostopadle do podłogi. Jest to pozycja wyjściowa.",
+    "Opuść łańcuchy, zginając łokcie i pozwalając części łańcucha spocząć na podłodze.",
+    "Kontynuuj, aż łokieć utworzy kąt 90 stopni, a następnie odwróć ruch, wykonując wyprost w stawie łokciowym do pełnego zablokowania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kettendrücken",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie die Ketten an den Kabelzuggriffen befestigen. Positionieren Sie sich auf der Flachbank in der gleichen Haltung wie beim Kurzhanteldrücken. Ihre Handgelenke sollten proniert sein und die Arme senkrecht zum Boden stehen. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Ketten durch Beugung der Ellbogen ab, wobei ein Teil der Kette auf dem Boden entlastet wird.",
+    "Fahren Sie fort, bis Ihr Ellbogen einen 90-Grad-Winkel bildet, und kehren Sie dann die Bewegung um, indem Sie den Ellbogen bis zur vollständigen Streckung (Lockout) durchstrecken."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraftdreikampf"
+}

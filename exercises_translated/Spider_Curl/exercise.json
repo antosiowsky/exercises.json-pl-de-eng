@@ -1,0 +1,53 @@
+{
+  "name": "Spider Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
+    "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",
+    "Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench.",
+    "Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other.",
+    "Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the barbell back to the starting position as your breathe in. .",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Uginanie ramion ze sztangą na ławce skośnej (Spider Curl)",
+  "instructions_pl": [
+    "Rozpocznij od umieszczenia sztangi na części ławki modlitewnika, na której zazwyczaj się siedzi. Upewnij się, że sztanga jest prawidłowo ustawiona, aby była zrównoważona i nie spadła.",
+    "Przejdź na przednią stronę modlitewnika (część, na której zazwyczaj opierają się ramiona) i ułóż się pod kątem 45 stopni, tak aby tułów i brzuch były dociśnięte do przedniej części modlitewnika.",
+    "Upewnij się, że stopy (szczególnie palce) są stabilnie oparte o podłogę, a ramiona (część od barku do łokcia) ułóż na podkładce znajdującej się na wewnętrznej części modlitewnika.",
+    "Chwyć sztangę podchwytem (dłonie skierowane do góry) na szerokość barków lub nieco węziej.",
+    "Powoli zacznij unosić sztangę w górę, wykonując wydech. Przytrzymaj pozycję maksymalnego skurczu przez sekundę, mocno napinając mięsień dwugłowy ramienia.",
+    "Powoli opuść sztangę do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Spinnen-Curl",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie die Langhantel auf der Sitzfläche der Scottbank ablegen. Stellen Sie sicher, dass die Langhantel korrekt ausgerichtet und ausbalanciert ist, damit sie nicht herunterfällt.",
+    "Begeben Sie sich zur Vorderseite der Scottbank (der Armauflage) und positionieren Sie sich so, dass Sie in einem 45-Grad-Winkel liegen, wobei Ihr Oberkörper und Bauch gegen die Vorderseite der Scottbank gepresst sind.",
+    "Stellen Sie sicher, dass Ihre Füße (insbesondere die Zehen) gut auf dem Boden positioniert sind, und legen Sie Ihre Oberarme auf die Polsterung des inneren Teils der Scottbank.",
+    "Greifen Sie die Langhantel mit einem supinierten Griff (Handflächen zeigen nach oben) etwa schulterbreit oder etwas enger.",
+    "Beginnen Sie langsam, die Langhantel nach oben zu heben und dabei auszuatmen. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Musculus biceps brachii anspannen.",
+    "Führen Sie die Langhantel langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

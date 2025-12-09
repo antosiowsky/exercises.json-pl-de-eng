@@ -1,0 +1,56 @@
+{
+  "name": "Push-Ups With Feet Elevated",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
+    "Place your toes on top of a flat bench. This will allow your body to be elevated. Note: The higher the elevation of the flat bench, the higher the resistance of the exercise is.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompki ze stopami na podwyższeniu",
+  "instructions_pl": [
+    "Połóż się na podłodze twarzą w dół i rozstaw dłonie na szerokość około 91 cm, podpierając tułów na wyprostowanych ramionach.",
+    "Umieść palce stóp na płaskiej ławce. Spowoduje to uniesienie ciała. Uwaga: Im wyższe podwyższenie ławki, tym większy opór ćwiczenia.",
+    "Opuść się, aż klatka piersiowa prawie dotknie podłogi, wykonując wdech.",
+    "Angażując mięśnie piersiowe, odepchnij górną część ciała z powrotem do pozycji początkowej i napnij klatkę piersiową. Wykonaj wydech podczas tego ruchu.",
+    "Po sekundowej pauzie w pozycji skurczu, powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Liegestütze mit erhöhten Füßen",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf den Boden und platzieren Sie Ihre Hände etwa 90 cm voneinander entfernt, während Sie Ihren Oberkörper mit ausgestreckten Armen abstützen.",
+    "Legen Sie Ihre Zehenspitzen auf eine flache Bank. Dadurch wird Ihr Körper erhöht. Hinweis: Je höher die Erhöhung der flachen Bank, desto höher ist der Widerstand der Übung.",
+    "Senken Sie sich ab, bis Ihre Brust fast den Boden berührt, während Sie einatmen.",
+    "Nutzen Sie Ihre Brustmuskulatur, um Ihren Oberkörper zurück in die Ausgangsposition zu drücken und Ihre Brust anzuspannen. Atmen Sie aus, während Sie diesen Schritt ausführen.",
+    "Nach einer einsekündigen Pause in der kontrahierten Position wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

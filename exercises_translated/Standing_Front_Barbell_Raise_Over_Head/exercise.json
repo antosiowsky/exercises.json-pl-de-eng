@@ -1,0 +1,47 @@
+{
+  "name": "Standing Front Barbell Raise Over Head",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
+    "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
+    "Lift the barbell up until it is directly over your head while exhaling. Make sure to keep your elbows slightly bent when performing each repetition.",
+    "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wznosy sztangi z przodu nad głowę w pozycji stojącej",
+  "instructions_pl": [
+    "Na początek stań prosto ze sztangą w dłoniach. Chwyć sztangę nachwytem (dłonie skierowane w dół) z rozstawem dłoni węższym niż szerokość barków.",
+    "Stopy powinny być rozstawione na szerokość barków. Łokcie powinny być lekko ugięte. Jest to pozycja wyjściowa.",
+    "Unieś sztangę, aż znajdzie się bezpośrednio nad głową, wykonując wydech. Upewnij się, że łokcie pozostają lekko ugięte podczas każdego powtórzenia.",
+    "Gdy poczujesz skurcz, zacznij opuszczać sztangę z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Stehendes Langhantel-Frontheben über Kopf",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin und halten Sie eine Langhantel in den Händen. Fassen Sie die Stange im Obergriff (Handflächen zeigen nach unten) mit einem enger als schulterbreiten Griff.",
+    "Ihre Füße sollten schulterbreit auseinander stehen. Ihre Ellenbogen sollten leicht gebeugt sein. Dies ist die Ausgangsposition.",
+    "Heben Sie die Langhantel während des Ausatmens nach oben, bis sie sich direkt über Ihrem Kopf befindet. Achten Sie darauf, Ihre Ellenbogen bei jeder Wiederholung leicht gebeugt zu halten.",
+    "Sobald Sie die Kontraktion spüren, senken Sie die Langhantel während des Einatmens langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

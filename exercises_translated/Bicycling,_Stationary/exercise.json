@@ -1,0 +1,50 @@
+{
+  "name": "Bicycling, Stationary",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height.",
+    "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Rower stacjonarny",
+  "instructions_pl": [
+    "Aby rozpocząć, usiądź na rowerze i wyreguluj siodełko do swojego wzrostu.",
+    "Wybierz żądaną opcję z menu. Możesz musieć zacząć pedałować, aby go włączyć. Możesz użyć ustawienia manualnego lub wybrać program do wykorzystania. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować liczbę spalonych kalorii podczas ćwiczeń. Poziom oporu można zmieniać w trakcie całego treningu. Uchwyty mogą być używane do monitorowania tętna, aby pomóc Ci utrzymać odpowiednią intensywność."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trening kardio",
+  "name_de": "Ergometerfahren",
+  "instructions_de": [
+    "Zunächst setzen Sie sich auf das Fahrrad und stellen den Sattel auf Ihre Körpergröße ein.",
+    "Wählen Sie die gewünschte Option aus dem Menü. Möglicherweise müssen Sie mit dem Treten beginnen, um es einzuschalten. Sie können die manuelle Einstellung verwenden oder ein Programm auswählen. Typischerweise können Sie Ihr Alter und Gewicht eingeben, um den Kalorienverbrauch während des Trainings zu schätzen. Der Widerstandsgrad kann während des gesamten Trainings geändert werden. Die Griffe können verwendet werden, um Ihre Herzfrequenz zu überwachen und Ihnen zu helfen, eine angemessene Intensität beizubehalten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Ausdauertraining"
+}

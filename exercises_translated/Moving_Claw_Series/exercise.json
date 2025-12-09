@@ -1,0 +1,50 @@
+{
+  "name": "Moving Claw Series",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "instructions": [
+    "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
+    "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
+    "Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Seria Ruchu Pazurkowego",
+  "instructions_pl": [
+    "To ćwiczenie pomaga przygotować Twoją technikę biegową, abyś mógł/mogła osiągnąć doskonałość w sprincie. Podczas biegu upewnij się, że zginasz staw kolanowy, dążąc do dotknięcia piętą pośladków w fazie wyprostu stawu biodrowego.",
+    "Ponownie obciąż mięsień czworogłowy uda, gdy noga wraca do przodu, dynamicznie atakując podłoże w kolejnym kroku.",
+    "Upewnij się, że podczas biegu aktywnie pracujesz ramionami, wykonując dynamiczne pchnięcia w szybkim rytmie 'jeden-dwa'."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy łydki",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Dynamische Greifbewegungsserie",
+  "instructions_de": [
+    "Diese Übung hilft, deine Lauftechnik vorzubereiten, um deine Sprintleistung zu optimieren. Achte beim Laufen darauf, das Knie aktiv zu beugen und die Ferse bei der Hüftextension in Richtung des Musculus gluteus maximus zu ziehen.",
+    "Belaste den Musculus quadriceps femoris erneut, während das Bein wieder nach vorne schwingt, und greife den Boden beim nächsten Schritt kraftvoll an.",
+    "Achte darauf, dass du beim Laufen die Arme blockierend einsetzt und sie in einer schnellen 1-2 Bewegung kraftvoll durchschlägst."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Plyometrie"
+}

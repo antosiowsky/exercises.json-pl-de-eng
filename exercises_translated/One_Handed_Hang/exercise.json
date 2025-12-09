@@ -1,0 +1,41 @@
+{
+  "name": "One Handed Hang",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Zwis jednorącz",
+  "instructions_pl": [
+    "Chwyć drążek do podciągania jedną ręką, używając nachwytu. Trzymaj stopy na podłodze lub na stopniu. Pozwól, aby większość ciężaru ciała spoczywała na tej dłoni, jednocześnie utrzymując stopy na ziemi. Utrzymaj pozycję przez 10-20 sekund i zmień stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Einarmiges Hängen",
+  "instructions_de": [
+    "Greife eine Klimmzugstange mit einer Hand im Obergriff. Halte deine Füße auf dem Boden oder einer Stufe. Lasse den Großteil deines Körpergewichts von dieser Hand tragen, während deine Füße auf dem Boden bleiben. Halte diese Position für 10-20 Sekunden und wechsle die Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii"
+  ],
+  "category_de": "Dehnung"
+}

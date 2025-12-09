@@ -1,0 +1,59 @@
+{
+  "name": "V-Bar Pullup",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start by placing the middle of the V-bar in the middle of the pull-up bar (assuming that the pull-up station you are using does not have neutral grip handles). The V-Bar handles will be facing down so that you can hang from the pull-up bar through the use of the handles.",
+    "Once you securely place the V-bar, take a hold of the bar from each side and hang from it. Stick your chest out and lean yourself back slightly in order to better engage the lats. This will be your starting position.",
+    "Using your lats, pull your torso up while leaning your head back slightly so that you do not hit yourself with the chin-up bar. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion.",
+    "After a second hold on the contracted position, slowly lower your body back to the starting position as you breathe in.",
+    "Repeat for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Podciąganie na drążku z uchwytem V",
+  "instructions_pl": [
+    "Rozpocznij od umieszczenia środka uchwytu V na środku drążka do podciągania (zakładając, że stacja do podciągania, której używasz, nie posiada uchwytów do chwytu neutralnego). Uchwyty V będą skierowane w dół, tak abyś mógł zawisnąć na drążku, korzystając z nich.",
+    "Po bezpiecznym umieszczeniu uchwytu V, chwyć drążek z każdej strony i zawieś się na nim. Wypnij klatkę piersiową i lekko odchyl się do tyłu, aby lepiej zaangażować mięśnie najszersze grzbietu. Będzie to Twoja pozycja wyjściowa.",
+    "Używając mięśni najszerszych grzbietu, podciągnij tułów w górę, jednocześnie lekko odchylając głowę do tyłu, aby nie uderzyć się o drążek. Kontynuuj, aż klatka piersiowa prawie dotknie uchwytu V. Wykonując ten ruch, zrób wydech.",
+    "Po sekundowym przytrzymaniu w pozycji skurczu, powoli opuść ciało z powrotem do pozycji wyjściowej, robiąc wdech.",
+    "Powtórz ćwiczenie z zadaną liczbą powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "V-Griff-Klimmzug",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie die Mitte der V-Stange mittig auf der Klimmzugstange platzieren (vorausgesetzt, die von Ihnen verwendete Klimmzugstation verfügt nicht über neutrale Griffe). Die Griffe der V-Stange zeigen dabei nach unten, sodass Sie sich mithilfe der Griffe an der Klimmzugstange festhalten können.",
+    "Sobald Sie die V-Stange sicher platziert haben, fassen Sie die Griffe beidseitig und hängen Sie sich daran. Strecken Sie Ihre Brust heraus und lehnen Sie sich leicht zurück, um den Musculus latissimus dorsi besser zu aktivieren. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie Ihren Oberkörper mithilfe des Musculus latissimus dorsi nach oben, während Sie den Kopf leicht zurücklehnen, um nicht mit der Klimmzugstange zu kollidieren. Fahren Sie fort, bis Ihre Brust fast die V-Stange berührt. Atmen Sie bei dieser Bewegung aus.",
+    "Halten Sie die kontrahierte Position für eine Sekunde und senken Sie Ihren Körper dann langsam und einatmend in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Mittlerer Rücken",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Krafttraining"
+}

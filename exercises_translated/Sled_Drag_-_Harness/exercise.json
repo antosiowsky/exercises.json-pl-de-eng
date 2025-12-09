@@ -1,0 +1,50 @@
+{
+  "name": "Sled Drag - Harness",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, load the sled with the desired weight and attach the pulling strap. You can pull with handles, use a harness, or attach the pulling strap to a weight belt.",
+    "Whether pulling forwards or backwards, lean in the direction of travel and progress by extending through the hips and knees."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Ciągnięcie sanek - Uprząż",
+  "instructions_pl": [
+    "Aby rozpocząć, załóż na sanki pożądany ciężar i przymocuj pas do ciągnięcia. Możesz ciągnąć za uchwyty, użyć uprzęży lub przymocować pas do ciągnięcia do pasa obciążeniowego.",
+    "Niezależnie od tego, czy ciągniesz do przodu, czy do tyłu, pochyl się w kierunku ruchu i wykonuj ruch, prostując biodra i kolana."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Schlittenzug mit Geschirr",
+  "instructions_de": [
+    "Zu Beginn beladen Sie den Schlitten mit dem gewünschten Gewicht und befestigen den Zuggurt. Sie können mit Griffen ziehen, ein Geschirr verwenden oder den Zuggurt an einem Gewichtsgürtel befestigen.",
+    "Ob Sie vorwärts oder rückwärts ziehen, lehnen Sie sich in die Bewegungsrichtung und bewegen Sie sich durch Streckung der Hüften und Knie vorwärts."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Strongman"
+}

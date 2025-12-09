@@ -1,0 +1,50 @@
+{
+  "name": "Kneeling High Pulley Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Select the appropriate weight using a pulley that is above your head. Attach a rope to the cable and kneel a couple of feet away, holding the rope out in front of you with both arms extended. This will be your starting position.",
+    "Initiate the movement by flexing the elbows and fully retracting your shoulders, pulling the rope toward your upper chest with your elbows out.",
+    "After pausing briefly, slowly return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie na wyciągu górnym w klęku",
+  "instructions_pl": [
+    "Wybierz odpowiednie obciążenie na wyciągu umieszczonym powyżej Twojej głowy. Przymocuj linkę do wyciągu i uklęknij kilka stóp dalej, trzymając linkę przed sobą z wyprostowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, zginając stawy łokciowe i w pełni cofając łopatki (retrakcja barków), przyciągając linkę w kierunku górnej części klatki piersiowej, utrzymując łokcie na zewnątrz.",
+    "Po krótkiej pauzie, powoli wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Kniendes Rudern am hohen Kabelzug",
+  "instructions_de": [
+    "Wählen Sie das passende Gewicht an einem über Kopf positionierten Kabelzug. Befestigen Sie ein Seil am Kabel und knien Sie einige Fuß entfernt, wobei Sie das Seil mit beiden ausgestreckten Armen vor sich halten. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie die Ellbogen beugen und die Schulterblätter vollständig retrahieren, während Sie das Seil mit den Ellbogen nach außen zu Ihrem oberen Brustbereich ziehen.",
+    "Nach einer kurzen Pause kehren Sie langsam in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Mittlerer Rücken"
+  ],
+  "category_de": "Krafttraining"
+}

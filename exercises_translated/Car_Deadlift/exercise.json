@@ -1,0 +1,62 @@
+{
+  "name": "Car Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "This event apparatus typically has neutral grip handles, however some have a straight bar that you can approach like a normal deadlift. The apparatus can be loaded with a vehicle or other heavy objects such as tractor tires or kegs.",
+    "Center yourself between the handles if you are a strong squatter, or back a couple inches if you are a strong deadlifter. You feet should be about hip width apart. Bend at the hip to grip the handles. With your feet and your grip set, take a big breath and then lower your hips and flex the knees.",
+    "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
+    "Lower the weight by bending at the hips and guiding it to the floor."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Martwy ciąg samochodem",
+  "instructions_pl": [
+    "Urządzenie do tego ćwiczenia zazwyczaj posiada uchwyty o chwycie neutralnym, jednak niektóre mają prosty drążek, do którego można podejść jak do zwykłego martwego ciągu. Aparatura może być obciążona pojazdem lub innymi ciężkimi przedmiotami, takimi jak opony traktorowe lub beczki.",
+    "Ustaw się centralnie między uchwytami, jeśli jesteś silny w przysiadach, lub cofnij się o kilka centymetrów, jeśli jesteś silny w martwym ciągu. Stopy powinny być rozstawione na szerokość bioder. Zegnij się w biodrach, aby chwycić uchwyty. Gdy stopy i chwyt są ustawione, weź głęboki wdech, a następnie obniż biodra i zegnij kolana.",
+    "Patrz przed siebie, utrzymuj klatkę piersiową uniesioną i plecy wygięte w łuk, i zacznij pchać przez pięty, aby unieść ciężar w górę. Gdy ciężar się unosi, ściągnij łopatki do siebie, jednocześnie wypychając biodra do przodu.",
+    "Opuść ciężar, zginając się w biodrach i prowadząc go do podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "Przedramiona",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięśnie czworoboczne"
+  ],
+  "category_pl": "Strongman",
+  "name_de": "Autokreuzheben",
+  "instructions_de": [
+    "Dieses Wettkampfgerät verfügt typischerweise über Griffe mit Neutralgriff; manche haben jedoch eine gerade Stange, die wie bei einem normalen Kreuzheben gegriffen werden kann. Das Gerät kann mit einem Fahrzeug oder anderen schweren Objekten wie Traktorreifen oder Fässern beladen werden.",
+    "Zentrieren Sie sich zwischen den Griffen, wenn Sie ein starker Kniebeuger sind, oder stellen Sie sich ein paar Zentimeter weiter hinten auf, wenn Sie ein starker Kreuzheber sind. Ihre Füße sollten etwa hüftbreit auseinander stehen. Beugen Sie sich in der Hüfte, um die Griffe zu fassen. Wenn Ihre Füße und Ihr Griff positioniert sind, atmen Sie tief ein, senken Sie dann Ihre Hüften und beugen Sie die Knie.",
+    "Blicken Sie mit dem Kopf nach vorne, halten Sie die Brust oben und den Rücken im Hohlkreuz, und beginnen Sie, durch die Fersen nach oben zu drücken, um das Gewicht anzuheben. Während das Gewicht nach oben kommt, ziehen Sie Ihre Schulterblätter zusammen, während Sie die Hüften nach vorne schieben.",
+    "Senken Sie das Gewicht, indem Sie sich in der Hüfte beugen und es kontrolliert zum Boden führen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Trapezmuskel"
+  ],
+  "category_de": "Strongman"
+}

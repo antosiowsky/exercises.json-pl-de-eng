@@ -1,0 +1,44 @@
+{
+  "name": "Triceps Overhead Extension with Rope",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope to a low pulley. After selecting an appropriate weight, grasp the rope with both hands and face away from the cable.",
+    "Position your hands behind your head with your elbows point straight up. Your elbows should start out flexed, and you can stagger your stance and lean gently away from the machine to create greater stability. This will be your starting position.",
+    "To perform the movement, extend through the elbow while keeping the upper arm in position, raising your hands above your head.",
+    "Squeeze your triceps at the top of the movement, and slowly lower the weight back to the start position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprost nad głową z linką na mięsień trójgłowy ramienia",
+  "instructions_pl": [
+    "Przymocuj linkę do dolnego bloczka. Po wybraniu odpowiedniego obciążenia, chwyć linkę oburącz i stań tyłem do wyciągu.",
+    "Ułóż dłonie za głową, z łokciami skierowanymi prosto w górę. Łokcie powinny być początkowo zgięte. Możesz przyjąć rozkrok i delikatnie odchylić się od maszyny, aby zwiększyć stabilność. Będzie to Twoja pozycja początkowa.",
+    "Aby wykonać ruch, wyprostuj łokcie, utrzymując ramię w stałej pozycji, unosząc dłonie nad głowę.",
+    "Mocno napnij mięsień trójgłowy ramienia w szczytowej fazie ruchu, a następnie powoli opuść ciężar do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Trizeps-Überkopfstrecken mit Seil",
+  "instructions_de": [
+    "Befestigen Sie ein Seil an einem tiefen Kabelzug. Nachdem Sie ein passendes Gewicht gewählt haben, fassen Sie das Seil mit beiden Händen und stellen Sie sich mit dem Rücken zum Kabelzug.",
+    "Positionieren Sie Ihre Hände hinter Ihrem Kopf, wobei Ihre Ellbogen direkt nach oben zeigen. Ihre Ellbogen sollten zunächst gebeugt sein, und Sie können einen versetzten Stand einnehmen und sich leicht vom Gerät weglehnen, um eine größere Stabilität zu schaffen. Dies ist Ihre Ausgangsposition.",
+    "Um die Bewegung auszuführen, strecken Sie die Ellbogen, während Sie den Oberarm in Position halten, indem Sie Ihre Hände über Ihren Kopf heben.",
+    "Spannen Sie Ihren Trizeps am oberen Punkt der Bewegung an und senken Sie das Gewicht langsam zurück in die Ausgangsposition."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

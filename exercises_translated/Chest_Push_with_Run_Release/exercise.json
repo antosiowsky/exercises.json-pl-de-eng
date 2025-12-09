@@ -1,0 +1,53 @@
+{
+  "name": "Chest Push with Run Release",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin in an athletic stance with the knees bent, hips back, and back flat. Hold the medicine ball near your legs. This will be your starting position.",
+    "While taking your first step draw the medicine ball into your chest.",
+    "As you take the second step, explosively push the ball forward, immediately sprinting for 10 yards after the release. If you are really fast, you can catch your own pass!"
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Wypchnięcie piłki lekarskiej z klatki piersiowej ze sprintem",
+  "instructions_pl": [
+    "Rozpocznij w pozycji atletycznej z ugiętymi kolanami, biodrami cofniętymi i prostymi plecami. Trzymaj piłkę lekarską blisko nóg. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonując pierwszy krok, przyciągnij piłkę lekarską do klatki piersiowej.",
+    "Wykonując drugi krok, eksplozywnie wypchnij piłkę do przodu, natychmiast sprintując na dystansie 10 jardów po jej wypuszczeniu. Jeśli jesteś naprawdę szybki, możesz złapać własne podanie!"
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Bruststoß mit Sprintfreigabe",
+  "instructions_de": [
+    "Beginnen Sie in einer athletischen Grundposition mit gebeugten Knien, nach hinten verlagerten Hüften und geradem Rücken. Halten Sie den Medizinball nahe an Ihren Beinen. Dies ist Ihre Ausgangsposition.",
+    "Während Sie den ersten Schritt machen, ziehen Sie den Medizinball an Ihre Brust.",
+    "Mit dem zweiten Schritt stoßen Sie den Ball explosiv nach vorne und sprinten unmittelbar nach der Freigabe 10 Yards weit. Wenn Sie sehr schnell sind, können Sie Ihren eigenen Wurf fangen!"
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

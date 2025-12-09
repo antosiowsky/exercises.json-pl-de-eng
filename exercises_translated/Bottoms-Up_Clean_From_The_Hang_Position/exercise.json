@@ -1,0 +1,47 @@
+{
+  "name": "Bottoms-Up Clean From The Hang Position",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Initiate the exercise by standing upright with a kettlebell in one hand.",
+    "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Zarzut kettlebell do góry dnem z pozycji zwisu",
+  "instructions_pl": [
+    "Rozpocznij ćwiczenie, stojąc prosto z kettlebell w jednej dłoni.",
+    "Dynamicznie odrzuć kettlebell do tyłu, a następnie z impetem odwróć ruch. Mocno zaciśnij dłoń na uchwycie kettlebell i unieś go do barku."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Bottoms-Up Umsetzen aus der Hangposition",
+  "instructions_de": [
+    "Beginnen Sie die Übung, indem Sie aufrecht stehen und eine Kettlebell in einer Hand halten.",
+    "Schwingen Sie die Kettlebell kraftvoll nach hinten und kehren Sie die Bewegung dann kraftvoll um. Greifen Sie den Kettlebell-Griff so fest wie möglich und heben Sie die Kettlebell zu Ihrer Schulter."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

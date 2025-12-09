@@ -1,0 +1,47 @@
+{
+  "name": "Overhead Lat",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Sit upright on the floor with your partner behind you. Raise one arm straight up, and flex the elbow, attempting to touch your hand to your back. Your parner should hold your tricep and wrist. This will be your starting position.",
+    "Attempt to pull your upper arm to your side as your partner prevents you from doing actually doing so.",
+    "After 10-20 seconds, relax the arm and allow your partner to further stretch the lat by applying gentle pressure to the tricep. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśnia najszerszego grzbietu nad głową",
+  "instructions_pl": [
+    "Usiądź prosto na podłodze, z partnerem za tobą. Unieś jedno ramię prosto w górę i zegnij łokieć, próbując dotknąć dłonią pleców. Twój partner powinien trzymać twój mięsień trójgłowy ramienia i nadgarstek. Będzie to twoja pozycja wyjściowa.",
+    "Spróbuj przyciągnąć ramię do boku, podczas gdy partner uniemożliwia ci to.",
+    "Po 10-20 sekundach rozluźnij ramię i pozwól partnerowi na dalsze rozciąganie mięśnia najszerszego grzbietu, delikatnie naciskając na mięsień trójgłowy ramienia. Przytrzymaj przez 10-20 sekund, a następnie zmień strony."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Überkopf-Latissimus-Dehnung",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf den Boden. Ihr Partner sitzt hinter Ihnen. Heben Sie einen Arm gerade nach oben und beugen Sie den Ellbogen, wobei Sie versuchen, Ihre Hand auf Ihren Rücken zu legen. Ihr Partner sollte Ihren Musculus triceps brachii und Ihr Handgelenk festhalten. Dies ist Ihre Ausgangsposition.",
+    "Versuchen Sie, Ihren Oberarm zur Seite zu ziehen, während Ihr Partner Sie daran hindert, dies tatsächlich zu tun.",
+    "Nach 10-20 Sekunden entspannen Sie den Arm und lassen Sie Ihren Partner den Musculus latissimus dorsi weiter dehnen, indem er sanften Druck auf den Musculus triceps brachii ausübt. Halten Sie diese Position für 10-20 Sekunden und wechseln Sie dann die Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Dehnung"
+}

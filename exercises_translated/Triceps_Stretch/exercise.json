@@ -1,0 +1,41 @@
+{
+  "name": "Triceps Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśnia trójgłowego ramienia",
+  "instructions_pl": [
+    "Sięgnij ręką za głowę, chwyć łokieć i delikatnie pociągnij. Utrzymaj pozycję przez 10 do 20 sekund, następnie zmień stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Trizeps-Dehnung",
+  "instructions_de": [
+    "Führen Sie Ihre Hand hinter Ihren Kopf, fassen Sie Ihren Ellbogen und ziehen Sie sanft. Halten Sie die Dehnung für 10 bis 20 Sekunden, wechseln Sie dann die Seiten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Dehnung"
+}

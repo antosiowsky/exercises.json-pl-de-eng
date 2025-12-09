@@ -1,0 +1,56 @@
+{
+  "name": "One Half Locust",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest"
+  ],
+  "instructions": [
+    "Lie facedown on the floor.",
+    "Put your left hand under your left hipbone to pad your hip and pubic bone.",
+    "Bend your right knee so you can hold the foot in your right hand.",
+    "Lift the foot in the air and simultaneously lift your shoulders off the floor. This also stretches the right hip flexor and the chest and shoulders. Switch sides. If it doesn't bother your back, you can try it with both arms and legs at the same time."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Pół Szarańczy",
+  "instructions_pl": [
+    "Połóż się na brzuchu na podłodze.",
+    "Umieść lewą dłoń pod lewą kością biodrową, aby amortyzować biodro i kość łonową.",
+    "Zegnij prawe kolano, aby móc chwycić stopę prawą dłonią.",
+    "Unieś stopę w powietrze i jednocześnie unieś barki z podłogi. Rozciąga to również prawy zginacz biodra oraz mięśnie klatki piersiowej i barków. Zmień strony. Jeśli nie obciąża to kręgosłupa, możesz spróbować wykonać ćwiczenie obiema rękami i nogami jednocześnie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięsień dwugłowy ramienia",
+    "mięśnie klatki piersiowej"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Halbe Heuschrecke",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf den Boden.",
+    "Legen Sie Ihre linke Hand unter Ihren linken Hüftknochen, um Ihre Hüfte und das Schambein zu polstern.",
+    "Beugen Sie Ihr rechtes Knie, sodass Sie den Fuß mit Ihrer rechten Hand halten können.",
+    "Heben Sie den Fuß in die Luft und heben Sie gleichzeitig Ihre Schultern vom Boden ab. Dies dehnt auch den rechten Hüftbeuger sowie die Brust und die Schultern. Wechseln Sie die Seiten. Wenn es Ihren Rücken nicht stört, können Sie es gleichzeitig mit beiden Armen und Beinen versuchen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Bizeps",
+    "Brustmuskeln"
+  ],
+  "category_de": "Dehnung"
+}

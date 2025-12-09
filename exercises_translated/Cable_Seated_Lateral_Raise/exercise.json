@@ -1,0 +1,62 @@
+{
+  "name": "Cable Seated Lateral Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.",
+    "Now sit at the edge of the flat bench behind you with your feet placed in front of your knees.",
+    "Bend forward while keeping your back flat and rest your torso on the thighs.",
+    "Have someone give you the single handles attached to the pulleys. Grasp the left pulley with the right hand and the right pulley with the left after you select your weight. The pulleys should run under your knees and your arms will be extended with palms facing each other and a slight bend at the elbows. This will be the starting position.",
+    "While keeping the arms stationary, raise the upper arms to the sides until they are parallel to the floor and at shoulder height. Exhale during the execution of this movement and hold the contraction for a second.",
+    "Slowly lower your arms to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wznosy boczne siedząc z wyciągiem",
+  "instructions_pl": [
+    "Stań pośrodku dwóch niskich wyciągów, które znajdują się naprzeciwko siebie i umieść płaską ławkę tuż za sobą (prostopadle do Ciebie; węższa krawędź ławki powinna znajdować się za Tobą). Wybierz obciążenie, które będzie używane na każdym wyciągu.",
+    "Teraz usiądź na krawędzi płaskiej ławki za sobą, ze stopami umieszczonymi przed kolanami.",
+    "Pochyl się do przodu, zachowując płaskie plecy i oprzyj tułów na udach.",
+    "Poproś kogoś, aby podał Ci pojedyncze uchwyty przymocowane do wyciągów. Chwyć lewy wyciąg prawą ręką, a prawy wyciąg lewą ręką po wybraniu obciążenia. Linka wyciągu powinna przebiegać pod kolanami, a Twoje ramiona będą wyprostowane, z dłońmi skierowanymi do siebie i lekkim zgięciem w łokciach. Będzie to pozycja początkowa.",
+    "Utrzymując ramiona nieruchomo, unieś ramiona na boki, aż znajdą się równolegle do podłogi i na wysokości barków. Wykonaj wydech podczas wykonywania tego ruchu i przytrzymaj skurcz przez sekundę.",
+    "Powoli opuść ramiona do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń. Wskazówka: Utrzymuj ramiona prostopadle do tułowia i stałą pozycję łokci (kąt od 10 do 30 stopni) przez cały czas trwania ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie środkowej części pleców",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Sitzendes Seitheben am Kabelzug",
+  "instructions_de": [
+    "Stellen Sie sich mittig zwischen zwei gegenüberliegende, tiefe Kabelzüge und platzieren Sie eine Flachbank direkt hinter sich (senkrecht zu Ihnen; die schmale Kante der Bank sollte sich hinter Ihnen befinden). Wählen Sie das gewünschte Gewicht an jedem Kabelzug.",
+    "Setzen Sie sich nun an den Rand der Flachbank hinter sich, mit den Füßen vor den Knien platziert.",
+    "Beugen Sie sich nach vorne, während Sie Ihren Rücken flach halten, und legen Sie Ihren Oberkörper auf den Oberschenkeln ab.",
+    "Lassen Sie sich die einzelnen Griffe der Kabelzüge reichen. Greifen Sie den Griff des linken Kabelzugs mit der rechten Hand und den Griff des rechten Kabelzugs mit der linken Hand, nachdem Sie Ihr Gewicht gewählt haben. Die Kabel sollten unter Ihren Knien verlaufen und Ihre Arme sind gestreckt, die Handflächen zeigen zueinander und die Ellbogen sind leicht gebeugt. Dies ist die Ausgangsposition.",
+    "Halten Sie den Winkel in den Ellbogen fixiert und heben Sie die Oberarme seitlich an, bis sie parallel zum Boden und auf Schulterhöhe sind. Atmen Sie während der Ausführung dieser Bewegung aus und halten Sie die Kontraktion für eine Sekunde.",
+    "Senken Sie Ihre Arme langsam in die Ausgangsposition ab, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen. Tipp: Halten Sie die Oberarme senkrecht zum Rumpf und eine feste Ellbogenposition (Winkel von 10 bis 30 Grad) während der gesamten Übung bei."
+  ],
+  "secondaryMuscles_de": [
+    "Mittlerer Rücken",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

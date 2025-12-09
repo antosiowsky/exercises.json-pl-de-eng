@@ -1,0 +1,47 @@
+{
+  "name": "Isometric Neck Exercise - Sides",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "With your head and neck in a neutral position (normal position with head erect facing forward), place your left hand on the left side of your head.",
+    "Now gently push towards the left as you contract the left neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+    "Hold for the recommended number of seconds.",
+    "Now release the tension slowly.",
+    "Rest for the recommended amount of time and repeat with your right hand placed on the right side of your head."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Szyja"
+  ],
+  "primaryMuscles_de": [
+    "Nacken"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Izometryczne ćwiczenie mięśni szyi – Boki",
+  "instructions_pl": [
+    "Ustaw głowę i szyję w pozycji neutralnej (normalna pozycja z głową wyprostowaną skierowaną do przodu), a następnie umieść lewą dłoń na lewej stronie głowy.",
+    "Delikatnie napieraj w lewo, jednocześnie napinając lewe mięśnie szyi, ale opierając się wszelkiemu ruchowi głowy. Rozpocznij od delikatnego napięcia i stopniowo je zwiększaj. Oddychaj normalnie podczas wykonywania tego skurczu.",
+    "Utrzymaj pozycję przez zalecaną liczbę sekund.",
+    "Następnie powoli rozluźnij napięcie.",
+    "Odpocznij przez zalecany czas i powtórz ćwiczenie, umieszczając prawą dłoń na prawej stronie głowy."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Isometrische Nackenübung – Seitliche Ausführung",
+  "instructions_de": [
+    "Halten Sie Kopf und Nacken in einer neutralen Position (normale Position mit aufrechtem Kopf, nach vorne blickend). Legen Sie Ihre linke Hand auf die linke Seite Ihres Kopfes.",
+    "Drücken Sie nun sanft nach links, während Sie die linke Halsmuskulatur anspannen und jeglicher Kopfbewegung widerstehen. Beginnen Sie mit geringer Spannung und steigern Sie diese langsam. Atmen Sie während dieser Kontraktion normal weiter.",
+    "Halten Sie die Spannung für die empfohlene Anzahl von Sekunden.",
+    "Lösen Sie die Spannung nun langsam.",
+    "Ruhen Sie für die empfohlene Zeit und wiederholen Sie die Übung mit Ihrer rechten Hand auf der rechten Seite Ihres Kopfes."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

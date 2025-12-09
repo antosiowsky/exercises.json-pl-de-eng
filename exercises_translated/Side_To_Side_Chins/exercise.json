@@ -1,0 +1,68 @@
+{
+  "name": "Side To Side Chins",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grab the pull-up bar with the palms facing forward using a wide grip.",
+    "As you have both arms extended in front of you holding the bar at a wide grip, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "Pull your torso up while leaning to the left hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space (no swinging) and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of contraction, inhale as you go back to the starting position.",
+    "Now, pull your torso up while leaning to the right hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of contraction, inhale as you go back to the starting position.",
+    "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Podciąganie boczne",
+  "instructions_pl": [
+    "Chwyć drążek do podciągania szerokim chwytem pronowanym (dłońmi skierowanymi do przodu).",
+    "Mając ramiona w pełni wyprostowane, trzymając drążek szerokim chwytem, odchyl tułów do tyłu o około 30 stopni, tworząc naturalną krzywiznę w odcinku lędźwiowym kręgosłupa i wypinając klatkę piersiową. To jest pozycja wyjściowa.",
+    "Podciągnij tułów w górę, pochylając się w lewą stronę, aż drążek niemal dotknie górnej części klatki piersiowej, poprzez ściągnięcie łopatek i ramion w dół i do tyłu. Wykonując tę fazę ruchu, zrób wydech. Wskazówka: Skoncentruj się na maksymalnym napięciu mięśni pleców po osiągnięciu pełnego skurczu. Górna część tułowia powinna pozostać stabilna (bez kołysania), a ruch powinny wykonywać jedynie ramiona. Przedramiona powinny jedynie utrzymywać chwyt na drążku.",
+    "Po sekundzie napięcia, zrób wdech, wracając do pozycji wyjściowej.",
+    "Teraz podciągnij tułów w górę, pochylając się w prawą stronę, aż drążek niemal dotknie górnej części klatki piersiowej, poprzez ściągnięcie łopatek i ramion w dół i do tyłu. Wykonując tę fazę ruchu, zrób wydech. Wskazówka: Skoncentruj się na maksymalnym napięciu mięśni pleców po osiągnięciu pełnego skurczu. Górna część tułowia powinna pozostać stabilna, a ruch powinny wykonywać jedynie ramiona. Przedramiona powinny jedynie utrzymywać chwyt na drążku.",
+    "Po sekundzie napięcia, zrób wdech, wracając do pozycji wyjściowej.",
+    "Powtarzaj kroki 3-6, aż wykonasz zalecaną liczbę powtórzeń na każdą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "przedramiona",
+    "środkowa część pleców",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Seitliche Klimmzüge",
+  "instructions_de": [
+    "Fassen Sie die Klimmzugstange im Obergriff mit einem breiten Griff.",
+    "Während beide Arme gestreckt sind und Sie die Stange im breiten Griff halten, lehnen Sie Ihren Oberkörper um etwa 30 Grad nach hinten, bilden Sie ein leichtes Hohlkreuz im unteren Rücken und strecken Sie die Brust heraus. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie Ihren Oberkörper nach oben, während Sie sich zur linken Seite lehnen, bis die Stange fast Ihre obere Brust berührt, indem Sie die Schultern und Oberarme nach unten und hinten ziehen. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Tipp: Konzentrieren Sie sich darauf, die Rückenmuskulatur anzuspannen, sobald Sie die vollständig kontrahierte Position erreicht haben. Der obere Rumpf sollte stabil bleiben, während er sich durch den Raum bewegt (kein Schwingen), und nur die Arme sollten sich bewegen. Die Unterarme sollten keine andere Arbeit verrichten, als die Stange zu halten.",
+    "Nach einer Sekunde der Kontraktion atmen Sie ein, während Sie in die Ausgangsposition zurückkehren.",
+    "Ziehen Sie nun Ihren Oberkörper nach oben, während Sie sich zur rechten Seite lehnen, bis die Stange fast Ihre obere Brust berührt, indem Sie die Schultern und Oberarme nach unten und hinten ziehen. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Tipp: Konzentrieren Sie sich darauf, die Rückenmuskulatur anzuspannen, sobald Sie die vollständig kontrahierte Position erreicht haben. Der obere Rumpf sollte stabil bleiben, während er sich durch den Raum bewegt, und nur die Arme sollten sich bewegen. Die Unterarme sollten keine andere Arbeit verrichten, als die Stange zu halten.",
+    "Nach einer Sekunde der Kontraktion atmen Sie ein, während Sie in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie die Schritte 3-6, bis Sie die vorgeschriebene Anzahl von Wiederholungen für jede Seite ausgeführt haben."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Unterarme",
+    "Mittlerer Rücken",
+    "Schultern"
+  ],
+  "category_de": "Krafttraining"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Catch and Overhead Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin standing while facing a wall or a partner.",
+    "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",
+    "Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Chwyt i rzut nad głową",
+  "instructions_pl": [
+    "Rozpocznij w pozycji stojącej, przodem do ściany lub partnera.",
+    "Używając obu rąk, umieść piłkę za głową, rozciągając się maksymalnie, i energicznie rzuć piłkę do przodu.",
+    "Upewnij się, że kontynuujesz ruch rzutu, będąc przygotowanym/ą na przyjęcie odbicia piłki. Jeśli rzucasz o ścianę, upewnij się, że stoisz wystarczająco blisko ściany, aby odebrać odbicie, i celuj nieco wyżej niż w przypadku rzutu do partnera."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Fangen und Überkopfwurf",
+  "instructions_de": [
+    "Stellen Sie sich einer Wand oder einem Partner zugewandt hin.",
+    "Positionieren Sie den Ball mit beiden Händen hinter Ihrem Kopf, dehnen Sie sich dabei so weit wie möglich und werfen Sie den Ball kraftvoll nach vorne.",
+    "Stellen Sie sicher, dass Sie Ihren Wurf vollständig durchziehen und bereit sind, den Rückprall aufzufangen. Wenn Sie gegen die Wand werfen, achten Sie darauf, nah genug an der Wand zu stehen, um den Rückprall zu erhalten, und zielen Sie etwas höher, als Sie es bei einem Partner tun würden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi pectorales",
+    "Musculi deltoidei"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Drop Push",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Position low boxes or other platforms 2-3 feet apart.",
+    "Move to a pushup position between them, supporting yourself by placing your hands on the boxes.",
+    "With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pompka z zeskoku",
+  "instructions_pl": [
+    "Ustaw niskie skrzynie lub inne platformy w odległości 2-3 stóp od siebie.",
+    "Przyjmij pozycję do pompki między nimi, podpierając się dłońmi na skrzyniach.",
+    "Z zachowaniem prawidłowej postawy, opuść się z platform, odpychając się w górę i jednocześnie zbliżając dłonie na szerokość barków, amortyzując lądowanie poprzez absorpcję uderzenia ramionami."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Fall-Liegestütz",
+  "instructions_de": [
+    "Positionieren Sie niedrige Kästen oder andere Plattformen 2-3 Fuß auseinander.",
+    "Begeben Sie sich in eine Liegestützposition zwischen den Plattformen, indem Sie Ihre Hände auf die Kästen legen und sich abstützen.",
+    "Mit guter Körperhaltung stoßen Sie sich von den Plattformen ab, indem Sie sich hochdrücken und Ihre Hände auf Schulterbreite zusammenführen. Federn Sie die Landung ab, indem Sie den Aufprall durch die Arme absorbieren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

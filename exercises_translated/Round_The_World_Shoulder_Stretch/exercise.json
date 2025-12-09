@@ -1,0 +1,50 @@
+{
+  "name": "Round The World Shoulder Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "chest"
+  ],
+  "instructions": [
+    "Stand up straight with your legs together, holding a bodybar or broomstick.",
+    "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",
+    "Slowly lift your arms up behind your head. Don't force it if it gets hard to lift further."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie obręczy barkowej z ruchem okrężnym",
+  "instructions_pl": [
+    "Stań prosto ze złączonymi nogami, trzymając bodybar lub kij od miotły.",
+    "Trzymaj drążek za biodrami chwytem szerszym niż szerokość barków. Dłonie powinny być skierowane w dół, a kciuki na zewnątrz.",
+    "Powoli unieś ramiona w górę za głowę. Nie forsuj ruchu, jeśli dalsze unoszenie staje się trudne."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień piersiowy"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Weltumrundungs-Schulterdehnung",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht mit geschlossenen Beinen hin und halten Sie dabei eine Bodybar oder einen Besenstiel.",
+    "Halten Sie die Stange hinter Ihren Hüften mit einem mehr als schulterbreiten Griff. Ihre Handflächen sollten nach unten und Ihre Daumen nach außen zeigen.",
+    "Heben Sie Ihre Arme langsam hinter Ihren Kopf. Erzwingen Sie nichts, wenn es schwierig wird, die Arme weiter anzuheben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus pectoralis major"
+  ],
+  "category_de": "Dehnung"
+}

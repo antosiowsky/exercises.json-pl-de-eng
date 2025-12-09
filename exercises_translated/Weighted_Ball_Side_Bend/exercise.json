@@ -1,0 +1,53 @@
+{
+  "name": "Weighted Ball Side Bend",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
+    "Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.",
+    "Place your left arm across your torso so that your palm is on your obliques. There should be a right angle between your left forearm and upper arm. This is the starting position.",
+    "Raise the side of your torso up by laterally flexing at the waist while exhaling.",
+    "Hold the contraction for a second and slowly lower yourself back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch sides and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Skłon boczny na piłce z obciążeniem",
+  "instructions_pl": [
+    "Aby rozpocząć, połóż się na piłce gimnastycznej tak, aby lewa strona tułowia (talia, biodra i bark) przylegała do piłki.",
+    "Stopy powinny spoczywać na podłodze, a nogi być skrzyżowane i zwisać z piłki. Trzymaj talerz obciążeniowy prawą ręką bezpośrednio po prawej stronie głowy. Wskazówka: Upewnij się, że gładka strona talerza opiera się o głowę.",
+    "Połóż lewe ramię w poprzek tułowia tak, aby dłoń spoczywała na mięśniach skośnych brzucha. Pomiędzy lewym przedramieniem a ramieniem powinien tworzyć się kąt prosty. Jest to pozycja wyjściowa.",
+    "Unieś bok tułowia w górę, wykonując boczne zgięcie w talii, podczas wydechu.",
+    "Przytrzymaj skurcz przez sekundę i powoli opuść się z powrotem do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń.",
+    "Zmień strony i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Gewichtete Seitenbeuge am Ball",
+  "instructions_de": [
+    "Legen Sie sich zu Beginn auf einen Gymnastikball, wobei Ihre linke Rumpfseite (Taille, Hüfte und Schulter) an den Ball gedrückt ist.",
+    "Ihre Füße sollten auf dem Boden stehen, während Ihre Beine gekreuzt sind und vom Ball herabhängen. Halten Sie eine Gewichtsscheibe mit Ihrer rechten Hand direkt an der rechten Seite Ihres Kopfes. Tipp: Achten Sie darauf, dass die glatte Seite der Scheibe an Ihrem Kopf anliegt.",
+    "Legen Sie Ihren linken Arm über Ihren Rumpf, sodass Ihre Handfläche auf Ihren schrägen Bauchmuskeln liegt. Zwischen Ihrem linken Unterarm und Oberarm sollte ein rechter Winkel bestehen. Dies ist die Ausgangsposition.",
+    "Heben Sie die Seite Ihres Rumpfes an, indem Sie seitlich in der Taille flexieren, während Sie ausatmen.",
+    "Halten Sie die Kontraktion für eine Sekunde und senken Sie sich langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Seiten und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

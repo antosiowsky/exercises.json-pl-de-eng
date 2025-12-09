@@ -1,0 +1,56 @@
+{
+  "name": "Standing Low-Pulley Deltoid Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Start by standing to the right side of a low pulley row. Use your left hand to come across the body and grab a single handle attached to the low pulley with a pronated grip (palms facing down). Rest your arm in front of you. Your right hand should grab the machine for better support and balance.",
+    "Make sure that your back is erect and your feet are shoulder width apart from each other. This is the starting position.",
+    "Begin to use the left hand and come across your body out until it is elevated to shoulder height while exhaling.",
+    "Feel the contraction at the top for a second and begin to slowly lower the handle back down to the original starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Unoszenie mięśnia naramiennego na niskim wyciągu stojąc",
+  "instructions_pl": [
+    "Rozpocznij, stając po prawej stronie wyciągu dolnego. Lewą ręką sięgnij w poprzek ciała i chwyć pojedynczy uchwyt przymocowany do wyciągu dolnego chwytem pronowanym (dłonie skierowane w dół). Oprzyj ramię przed sobą. Prawa ręka powinna chwycić maszynę dla lepszego wsparcia i równowagi.",
+    "Upewnij się, że plecy są proste, a stopy rozstawione na szerokość barków. To jest pozycja wyjściowa.",
+    "Zacznij unosić lewą rękę w poprzek ciała, aż znajdzie się na wysokości barków, wykonując wydech.",
+    "Poczuj skurcz w górnej fazie ruchu przez sekundę i zacznij powoli opuszczać uchwyt z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Zmień ręce i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehendes Kabelzug-Seitheben für den Deltamuskel",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf die rechte Seite eines tiefen Kabelzugs stellen. Greifen Sie mit der linken Hand über den Körper hinweg einen Einzelgriff, der am Tiefzug befestigt ist, im Pronationsgriff (Handflächen zeigen nach unten). Lassen Sie Ihren Arm vor sich ruhen. Ihre rechte Hand sollte das Gerät für besseren Halt und Gleichgewicht festhalten.",
+    "Achten Sie darauf, dass Ihr Rücken aufrecht ist und Ihre Füße schulterbreit auseinander stehen. Dies ist die Ausgangsposition.",
+    "Beginnen Sie, den linken Arm über den Körper seitlich nach oben zu führen, bis er auf Schulterhöhe angehoben ist, während Sie ausatmen.",
+    "Spüren Sie die Kontraktion am höchsten Punkt für eine Sekunde und beginnen Sie, den Griff langsam wieder in die ursprüngliche Ausgangsposition abzusenken, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Arme und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

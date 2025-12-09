@@ -1,0 +1,56 @@
+{
+  "name": "Vertical Swing",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.",
+    "Swing the dumbbell between your legs, flexing at the hips and bending the knees slightly.",
+    "Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.",
+    "As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wymach Pionowy",
+  "instructions_pl": [
+    "Pozwól hantli swobodnie zwisać na wyprostowanych ramionach między nogami, trzymając ją obiema rękami. Utrzymuj proste plecy i uniesioną głowę.",
+    "Wymachnij hantlą między nogami, wykonując zgięcie w stawach biodrowych i lekko uginając kolana.",
+    "Dynamicznie odwróć ruch, wykonując wyprost w stawach biodrowych, kolanowych i skokowych, aby wyrzucić się w górę, wymachując hantlą nad głowę.",
+    "Podczas lądowania amortyzuj uderzenie nogami i przyciągnij hantlę do tułowia przed kolejnym powtórzeniem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Vertikaler Schwung",
+  "instructions_de": [
+    "Lassen Sie die Kurzhantel auf Armlänge zwischen Ihren Beinen hängen und halten Sie sie mit beiden Händen. Halten Sie Ihren Rücken gerade und den Kopf aufrecht.",
+    "Schwingen Sie die Kurzhantel zwischen Ihre Beine, indem Sie die Hüften beugen und die Knie leicht anwinkeln.",
+    "Kehren Sie die Bewegung kraftvoll um, indem Sie Hüften, Knie und Sprunggelenke strecken, um sich nach oben zu katapultieren und die Kurzhantel über Ihren Kopf zu schwingen.",
+    "Beim Landen federn Sie den Aufprall mit den Beinen ab und ziehen die Kurzhantel zum Oberkörper, bevor Sie die nächste Wiederholung beginnen."
+  ],
+  "secondaryMuscles_de": [
+    "Glutealmuskulatur",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Jefferson Squats",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Place a barbell on the floor.",
+    "Stand in the middle of the bar length wise.",
+    "Bend down by bending at the knees and keeping your back straight and grasp the front of the bar with your right hand. Your palm should be in (neutral grip) facing the left side.",
+    "Grasp the rear of the bar with your left hand. The palm of your hand should be in neutral grip alignment (palms facing the right side). Tip: Ensure that your grip is even on the bar. Your torso should be positioned right in the middle of the bar and the distance between your torso and your right hand (which should be at the front) should be the same as the distance between your torso and your left hand (which should be to your back).",
+    "Now stand straight up with the weight. Tip: Your feet should be shoulder width apart and your toes slightly pointed out.",
+    "Squat down by bending at the knees and keeping your back straight until your upper thighs are parallel with the floor. Tip: Keep your back as vertical as possible with the floor and your head up. Also remember to not let your knees go past your toes. Inhale during this portion of the movement.",
+    "Now drive yourself back up to the starting position by pushing with the feet . Tip: Keep the bar hanging at arm's length and your elbows locked with a slight bend. The arms only serve as hooks. Avoid doing any lifting with them. Do the lifting with your thighs; not your arms."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiady Jeffersona",
+  "instructions_pl": [
+    "Umieść sztangę na podłodze.",
+    "Stań na środku sztangi, wzdłuż jej osi.",
+    "Ugnij się, zginając kolana i utrzymując proste plecy, a następnie chwyć przednią część sztangi prawą ręką. Dłoń powinna być skierowana do wewnątrz (chwyt neutralny), w stronę lewej strony.",
+    "Chwyć tylną część sztangi lewą ręką. Dłoń powinna być ustawiona w chwycie neutralnym (dłonie skierowane w stronę prawej strony). Wskazówka: Upewnij się, że chwyt na sztandze jest równomierny. Twój tułów powinien być umieszczony dokładnie na środku sztangi, a odległość między tułowiem a prawą ręką (która powinna być z przodu) powinna być taka sama jak odległość między tułowiem a lewą ręką (która powinna być z tyłu).",
+    "Teraz wyprostuj się ze sztangą. Wskazówka: Stopy powinny być rozstawione na szerokość barków, a palce stóp lekko skierowane na zewnątrz.",
+    "Wykonaj przysiad, zginając kolana i utrzymując proste plecy, aż górna część ud znajdzie się równolegle do podłogi. Wskazówka: Utrzymuj plecy jak najbardziej pionowo w stosunku do podłogi, a głowę uniesioną. Pamiętaj również, aby kolana nie wychodziły poza linię palców stóp. Wykonaj wdech podczas tej fazy ruchu.",
+    "Teraz wypchnij się z powrotem do pozycji wyjściowej, odpychając się stopami. Wskazówka: Utrzymuj sztangę zwisającą na wyprostowanych ramionach, z lekko zgiętymi łokciami. Ramiona służą jedynie jako haki. Unikaj podnoszenia ciężaru ramionami. Wykonuj podnoszenie udami; nie ramionami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Jefferson Kniebeugen",
+  "instructions_de": [
+    "Legen Sie eine Langhantel auf den Boden.",
+    "Stellen Sie sich längs mittig über die Hantelstange.",
+    "Beugen Sie sich nach unten, indem Sie die Knie beugen und den Rücken gerade halten. Greifen Sie mit der rechten Hand den vorderen Teil der Hantelstange. Ihre Handfläche sollte nach innen (neutraler Griff) zur linken Seite zeigen.",
+    "Greifen Sie mit der linken Hand den hinteren Teil der Hantelstange. Ihre Handfläche sollte ebenfalls in neutraler Griffausrichtung sein (Handflächen zeigen zur rechten Seite). Tipp: Achten Sie darauf, dass Ihr Griff an der Hantelstange gleichmäßig ist. Ihr Oberkörper sollte sich genau in der Mitte der Hantelstange befinden, und der Abstand zwischen Ihrem Oberkörper und Ihrer rechten Hand (die vorne sein sollte) sollte dem Abstand zwischen Ihrem Oberkörper und Ihrer linken Hand (die hinten sein sollte) entsprechen.",
+    "Richten Sie sich nun mit dem Gewicht auf. Tipp: Ihre Füße sollten schulterbreit auseinander stehen und Ihre Zehen leicht nach außen zeigen.",
+    "Gehen Sie in die Kniebeuge, indem Sie die Knie beugen und den Rücken gerade halten, bis Ihre Oberschenkel parallel zum Boden sind. Tipp: Halten Sie Ihren Rücken so vertikal wie möglich zum Boden und den Kopf oben. Achten Sie auch darauf, dass Ihre Knie nicht über Ihre Zehen hinausragen. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Drücken Sie sich nun mit den Füßen zurück in die Ausgangsposition. Tipp: Halten Sie die Hantelstange auf Armlänge hängend und Ihre Ellbogen leicht gebeugt, aber fixiert. Die Arme dienen lediglich als Haken. Vermeiden Sie jegliches Heben mit den Armen. Führen Sie das Heben mit Ihren Oberschenkeln aus; nicht mit Ihren Armen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur",
+    "Musculus erector spinae",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

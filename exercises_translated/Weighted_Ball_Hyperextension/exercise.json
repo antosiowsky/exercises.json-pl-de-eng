@@ -1,0 +1,56 @@
+{
+  "name": "Weighted Ball Hyperextension",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "middle back"
+  ],
+  "instructions": [
+    "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
+    "Slowly raise your torso up by bending at the waist and lower back. Remember to exhale during this movement.",
+    "Hold the contraction on your lower back for a second and lower your torso back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Przeprost tułowia na piłce z obciążeniem",
+  "instructions_pl": [
+    "Na początek, połóż się na piłce gimnastycznej tak, aby tułów przylegał do piłki i był równoległy do podłogi. Przednia część stóp powinna być oparta o podłogę, aby pomóc w utrzymaniu równowagi. Umieść talerz obciążeniowy pod brodą lub za karkiem. To jest pozycja wyjściowa.",
+    "Powoli unieś tułów w górę, zginając się w pasie i w odcinku lędźwiowym kręgosłupa. Pamiętaj, aby wykonać wydech podczas tego ruchu.",
+    "Przytrzymaj skurcz mięśni w odcinku lędźwiowym kręgosłupa przez sekundę i opuść tułów z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń, określoną w Twoim programie."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie grzbietu (odcinek piersiowy)"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Gewichtete Hyperextension am Ball",
+  "instructions_de": [
+    "Legen Sie sich zunächst auf einen Übungsball, wobei Ihr Oberkörper gegen den Ball drückt und parallel zum Boden ist. Die Fußballen sollten fest auf den Boden gedrückt werden, um das Gleichgewicht zu halten. Platzieren Sie eine Gewichtsscheibe unter Ihrem Kinn oder hinter Ihrem Nacken. Dies ist die Ausgangsposition.",
+    "Heben Sie Ihren Oberkörper langsam an, indem Sie sich im unteren Rücken und in der Taille überstrecken. Denken Sie daran, während dieser Bewegung auszuatmen.",
+    "Halten Sie die Kontraktion im unteren Rücken für eine Sekunde und senken Sie Ihren Oberkörper langsam zurück in die Ausgangsposition, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen, die in Ihrem Trainingsprogramm vorgegeben ist."
+  ],
+  "secondaryMuscles_de": [
+    "Glutealmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Mittlerer Rücken"
+  ],
+  "category_de": "Kraft"
+}

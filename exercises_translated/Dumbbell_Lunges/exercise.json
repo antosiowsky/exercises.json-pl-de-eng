@@ -1,0 +1,56 @@
+{
+  "name": "Dumbbell Lunges",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.",
+    "Step forward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground.",
+    "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
+    "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wykroki z hantlami",
+  "instructions_pl": [
+    "Stań z wyprostowanym tułowiem, trzymając dwie hantle w dłoniach po bokach ciała. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonaj krok do przodu prawą nogą na odległość około 60 cm od stopy pozostawionej nieruchomo z tyłu i opuść górną część ciała w dół, utrzymując tułów w pozycji pionowej i zachowując równowagę. Wykonaj wdech podczas opuszczania. Uwaga: Podobnie jak w innych ćwiczeniach, nie pozwól, aby kolano wyszło poza linię palców stopy podczas schodzenia w dół, ponieważ spowoduje to nadmierne obciążenie stawu kolanowego. Upewnij się, że piszczel przedniej nogi jest prostopadły do podłoża.",
+    "Używając głównie pięty stopy, odbij się w górę i wróć do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń, a następnie wykonaj ćwiczenie lewą nogą."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Kurzhantel-Ausfallschritte",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin und halten Sie zwei Kurzhanteln an Ihren Seiten. Dies ist Ihre Ausgangsposition.",
+    "Machen Sie mit dem rechten Bein einen Schritt nach vorne, etwa 60 cm von dem stationär zurückbleibenden Fuß entfernt, und senken Sie Ihren Oberkörper ab, während Sie den Rumpf aufrecht halten und das Gleichgewicht bewahren. Atmen Sie beim Absenken ein. Hinweis: Wie bei anderen Übungen, lassen Sie Ihr Knie beim Absenken nicht über Ihre Zehenspitzen hinausragen, da dies zu einer übermäßigen Belastung des Kniegelenks führen würde. Achten Sie darauf, dass Ihr vorderes Schienbein senkrecht zum Boden steht.",
+    "Drücken Sie sich hauptsächlich mit der Ferse Ihres Fußes nach oben und kehren Sie beim Ausatmen in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl von Wiederholungen und führen Sie sie anschließend mit dem linken Bein aus."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Oberschenkelrückseite"
+  ],
+  "category_de": "Kraft"
+}

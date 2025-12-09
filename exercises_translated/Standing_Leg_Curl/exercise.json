@@ -1,0 +1,47 @@
+{
+  "name": "Standing Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.",
+    "Keeping the torso bent forward, ensure your leg is fully stretched and grab the side handles of the machine. Position your toes straight. This will be your starting position.",
+    "As you exhale, curl your right leg up as far as possible without lifting the upper leg from the pad. Once you hit the fully contracted position, hold it for a second.",
+    "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
+    "Perform the same exercise now for the left leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Uginanie nogi stojąc",
+  "instructions_pl": [
+    "Dostosuj dźwignię maszyny do swojego wzrostu i ułóż się z tułowiem pochylonym w pasie do przodu pod kątem około 30-45 stopni (ponieważ pozycja pod kątem jest bardziej korzystna dla aktywacji mięśni kulszowo-goleniowych), z podkładką dźwigni opartą o tylną część prawej nogi (kilka centymetrów poniżej mięśni łydek) i przednią częścią prawej nogi na górnej podkładce maszyny.",
+    "Utrzymując tułów pochylony do przodu, upewnij się, że noga jest w pełni wyprostowana i chwyć boczne uchwyty maszyny. Ustaw palce stóp prosto. Będzie to Twoja pozycja początkowa.",
+    "Podczas wydechu ugnij prawą nogę w górę tak daleko, jak to możliwe, bez odrywania uda od podkładki. Po osiągnięciu pozycji pełnego skurczu, przytrzymaj ją przez sekundę.",
+    "Podczas wdechu wróć nogą do pozycji początkowej. Powtórz zalecaną liczbę powtórzeń.",
+    "Wykonaj to samo ćwiczenie teraz na lewą nogę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Stehendes Beincurlen",
+  "instructions_de": [
+    "Stellen Sie den Hebel der Maschine auf Ihre Körpergröße ein und legen Sie sich mit dem Oberkörper in der Taille um etwa 30-45 Grad nach vorne gebeugt hin (da eine angewinkelte Position die Rekrutierung der ischiocruralen Muskulatur begünstigt), wobei das Polster des Hebels an der Rückseite Ihres rechten Beins (wenige Zentimeter unterhalb der Wadenmuskulatur) liegt und die Vorderseite des rechten Beins auf dem Maschinenpolster aufliegt.",
+    "Halten Sie den Oberkörper nach vorne gebeugt, stellen Sie sicher, dass Ihr Bein vollständig gestreckt ist, und greifen Sie die seitlichen Griffe der Maschine. Positionieren Sie Ihre Zehen gerade. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen beugen Sie Ihr rechtes Bein so weit wie möglich nach oben, ohne den Oberschenkel vom Polster abzuheben. Sobald Sie die vollständig kontrahierte Position erreicht haben, halten Sie diese für eine Sekunde.",
+    "Beim Einatmen führen Sie das Bein zurück in die Ausgangsposition. Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Führen Sie die gleiche Übung nun für das linke Bein durch."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

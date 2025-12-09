@@ -1,0 +1,47 @@
+{
+  "name": "Cable Incline Pushdown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
+    "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) shoulder width grip and extend your arms in front of you. The bar should be around 2 inches away from your upper thighs. This will be your starting position.",
+    "Keeping the upper arms stationary, lift your arms back in a semi circle until the bar is straight over your head. Breathe in during this portion of the movement.",
+    "Slowly go back to the starting position using your lats and hold the contraction once you reach the starting position. Breathe out during the execution of this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie drążka wyciągu górnego leżąc na ławce skośnej",
+  "instructions_pl": [
+    "Połóż się na ławce skośnej, odwrócony plecami do maszyny z wyciągiem górnym, do której zamocowany jest prosty drążek.",
+    "Chwyć prosty drążek nad głową nachwytem (dłonie skierowane w dół) na szerokość barków i wyprostuj ramiona przed sobą. Drążek powinien znajdować się około 5 cm od górnej części ud. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, unieś je w tył po półkolu, aż drążek znajdzie się prosto nad Twoją głową. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powoli wróć do pozycji wyjściowej, angażując mięśnie najszersze grzbietu, i przytrzymaj skurcz po osiągnięciu pozycji wyjściowej. Wykonaj wydech podczas wykonywania tego ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Kabelzug-Schrägbank-Herabdrücken",
+  "instructions_de": [
+    "Lege dich auf eine Schrägbank, mit dem Rücken zu einer Kabelzugmaschine mit hohem Seilzug, die mit einer geraden Stange ausgestattet ist.",
+    "Greife die gerade Stange über deinem Kopf mit einem Pronationsgriff (Obergriff; Handflächen nach unten) in Schulterbreite und strecke deine Arme vor dir aus. Die Stange sollte etwa 2 Zoll (ca. 5 cm) von deinen oberen Oberschenkeln entfernt sein. Dies ist deine Ausgangsposition.",
+    "Halte die Oberarme fixiert und führe deine Arme in einem Halbkreis nach hinten, bis die Stange direkt über deinem Kopf ist. Atme während dieses Teils der Bewegung ein.",
+    "Kehre langsam zur Ausgangsposition zurück, indem du deinen Latissimus dorsi einsetzt, und halte die Kontraktion, sobald du die Ausgangsposition erreichst. Atme während der Ausführung dieser Bewegung aus.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

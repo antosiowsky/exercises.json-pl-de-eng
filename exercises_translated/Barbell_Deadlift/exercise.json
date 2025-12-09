@@ -1,0 +1,74 @@
+{
+  "name": "Barbell Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lats",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Stand in front of a loaded barbell.",
+    "While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",
+    "While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
+    "Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
+    "Perform the amount of repetitions prescribed in the program."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg ze sztangą",
+  "instructions_pl": [
+    "Stań przed załadowaną sztangą.",
+    "Zachowując plecy tak proste, jak to możliwe, ugnij kolana, pochyl się do przodu i chwyć sztangę średnim (na szerokość barków) nachwytem. Będzie to pozycja początkowa ćwiczenia. Wskazówka: Jeśli utrzymanie sztangi tym chwytem jest trudne, zastosuj chwyt mieszany lub użyj pasków na nadgarstki.",
+    "Trzymając sztangę, rozpocznij podnoszenie, odpychając się nogami, jednocześnie prostując tułów do pozycji pionowej, wydychając powietrze. W pozycji pionowej wypnij klatkę piersiową i napnij mięśnie grzbietu, ściągając łopatki do tyłu. Pomyśl o postawie żołnierzy w wojsku, gdy stoją na baczność.",
+    "Wróć do pozycji początkowej, uginając kolana i jednocześnie pochylając tułów do przodu w pasie, utrzymując plecy proste. Gdy ciężary na sztandze dotkną podłogi, wracasz do pozycji początkowej i jesteś gotowy do wykonania kolejnego powtórzenia.",
+    "Wykonaj liczbę powtórzeń zaleconą w programie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień najszerszy grzbietu",
+    "mięśnie środkowej części grzbietu",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Kreuzheben",
+  "instructions_de": [
+    "Stellen Sie sich vor eine beladene Langhantel.",
+    "Halten Sie den Rücken so gerade wie möglich, beugen Sie die Knie, beugen Sie sich nach vorne und fassen Sie die Stange mit einem mittleren (schulterbreiten) Obergriff. Dies ist die Ausgangsposition der Übung. Tipp: Wenn es schwierig ist, die Stange mit diesem Griff zu halten, wechseln Sie den Griff (Kreuzgriff) oder verwenden Sie Zughilfen.",
+    "Halten Sie die Stange fest und beginnen Sie den Hebevorgang, indem Sie sich mit den Beinen abdrücken und gleichzeitig den Oberkörper beim Ausatmen in die aufrechte Position bringen. In der aufrechten Position strecken Sie die Brust heraus und kontrahieren den Rücken, indem Sie die Schulterblätter zurückziehen. Stellen Sie sich vor, wie Soldaten im Militär in Achtung stehen.",
+    "Kehren Sie in die Ausgangsposition zurück, indem Sie die Knie beugen und gleichzeitig den Oberkörper an der Taille nach vorne lehnen, während Sie den Rücken gerade halten. Sobald die Gewichte der Stange den Boden berühren, befinden Sie sich wieder in der Ausgangsposition und sind bereit für eine weitere Wiederholung.",
+    "Führen Sie die im Programm vorgegebene Anzahl an Wiederholungen aus."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus latissimus dorsi",
+    "Mittlere Rückenmuskulatur",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

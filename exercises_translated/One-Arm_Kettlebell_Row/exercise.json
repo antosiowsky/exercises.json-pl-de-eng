@@ -1,0 +1,50 @@
+{
+  "name": "One-Arm Kettlebell Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wiosłowanie jednorącz z kettlebell",
+  "instructions_pl": [
+    "Ustaw kettlebell przed stopami. Lekko ugnij kolana, a następnie wypchnij biodra maksymalnie do tyłu, pochylając się, aby przyjąć pozycję startową.",
+    "Chwyć kettlebell i przyciągnij go do brzucha, cofając łopatkę i zginając staw łokciowy. Utrzymuj proste plecy.",
+    "Opuść i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiges Kettlebell-Rudern",
+  "instructions_de": [
+    "Stellen Sie eine Kettlebell vor Ihre Füße.",
+    "Beugen Sie Ihre Knie leicht und schieben Sie dann Ihr Gesäß so weit wie möglich nach hinten heraus, während Sie sich vorbeugen, um die Ausgangsposition einzunehmen.",
+    "Greifen Sie die Kettlebell und ziehen Sie sie zum Bauch, wobei Sie Ihr Schulterblatt zurückziehen und den Ellenbogen beugen.",
+    "Halten Sie Ihren Rücken gerade.",
+    "Senken Sie die Kettlebell ab und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

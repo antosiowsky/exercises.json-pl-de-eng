@@ -1,0 +1,53 @@
+{
+  "name": "Dead Bug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin lying on your back with your hands extended above you toward the ceiling.",
+    "Bring your feet, knees, and hips up to 90 degrees.",
+    "Exhale hard to bring your ribcage down and flatten your back onto the floor, rotating your pelvis up and squeezing your glutes. Hold this position throughout the movement. This will be your starting position.",
+    "Initiate the exercise by extending one leg, straightening the knee and hip to bring the leg just above the ground.",
+    "Maintain the position of your lumbar and pelvis as you perform the movement, as your back is going to want to arch.",
+    "Stay tight and return the working leg to the starting position.",
+    "Repeat on the opposite side, alternating until the set is complete."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Martwy Chrząszcz",
+  "instructions_pl": [
+    "Połóż się na plecach z rękami wyciągniętymi nad głową w kierunku sufitu.",
+    "Unieś stopy, kolana i biodra do kąta 90 stopni.",
+    "Wykonaj mocny wydech, aby obniżyć klatkę piersiową i spłaszczyć plecy do podłogi, jednocześnie rotując miednicę w górę i napinając mięśnie pośladkowe. Utrzymaj tę pozycję przez cały czas trwania ruchu. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ćwiczenie, prostując jedną nogę w stawie kolanowym i biodrowym, opuszczając ją tuż nad podłogę.",
+    "Utrzymuj stabilną pozycję odcinka lędźwiowego kręgosłupa i miednicy podczas wykonywania ruchu, ponieważ plecy będą miały tendencję do wyginania się w łuk.",
+    "Utrzymuj napięcie mięśniowe i wróć nogą pracującą do pozycji początkowej.",
+    "Powtórz na przeciwnej stronie, naprzemiennie, aż do zakończenia serii."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Dead Bug",
+  "instructions_de": [
+    "Beginnen Sie in Rückenlage mit den Händen nach oben zur Decke gestreckt.",
+    "Bringen Sie Ihre Füße, Knie und Hüften in einen 90-Grad-Winkel.",
+    "Atmen Sie kräftig aus, um den Brustkorb zu senken und den Rücken auf den Boden zu drücken, das Becken nach oben zu kippen und die Gesäßmuskulatur anzuspannen. Halten Sie diese Position während der gesamten Bewegung bei. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Übung ein, indem Sie ein Bein strecken und Knie und Hüfte so weit strecken, dass das Bein knapp über dem Boden schwebt.",
+    "Halten Sie die Position Ihrer Lendenwirbelsäule und Ihres Beckens während der Bewegung bei, da Ihr Rücken dazu neigen wird, ins Hohlkreuz zu gehen.",
+    "Halten Sie die Spannung und führen Sie das Arbeitsbein in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung auf der gegenüberliegenden Seite, abwechselnd, bis der Satz abgeschlossen ist."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

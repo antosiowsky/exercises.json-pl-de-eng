@@ -1,0 +1,50 @@
+{
+  "name": "Suspended Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.",
+    "Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.",
+    "At the completion of the motion pause, and then return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wiosłowanie w zawieszeniu",
+  "instructions_pl": [
+    "Zawieś taśmy na wysokości klatki piersiowej. Chwyć po jednej rączce w każdą dłoń i odchyl się do tyłu. Utrzymuj ciało wyprostowane, a głowę i klatkę piersiową uniesione. Ramiona powinny być całkowicie wyprostowane. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, zginając stawy łokciowe. Jednocześnie wysuń łopatki do przodu.",
+    "Po zakończeniu ruchu zatrzymaj się na chwilę, a następnie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Inverses Rudern",
+  "instructions_de": [
+    "Befestigen Sie die Schlingen auf Brusthöhe. Fassen Sie jeweils einen Griff in jede Hand und lehnen Sie sich zurück. Halten Sie Ihren Körper aufrecht und den Kopf sowie die Brust erhoben. Ihre Arme sollten vollständig gestreckt sein. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie die Ellbogen beugen. Protrahieren Sie dabei Ihre Schulterblätter.",
+    "Halten Sie am Ende der Bewegung kurz inne und kehren Sie dann in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

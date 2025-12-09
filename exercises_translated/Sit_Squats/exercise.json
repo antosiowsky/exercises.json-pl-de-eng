@@ -1,0 +1,53 @@
+{
+  "name": "Sit Squats",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Przysiady częściowe",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, zginając kolana i biodra, cofając biodra w tył.",
+    "Kontynuuj, aż wykonasz przysiad do pewnego stopnia, ale pozostając powyżej linii równoległej, a następnie szybko odwróć ruch, wracając do pozycji wyjściowej. Powtórz 5-10 razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Sitz-Kniebeugen",
+  "instructions_de": [
+    "Stellen Sie sich mit schulterbreit auseinanderstehenden Füßen hin. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie Knie und Hüften beugen und die Hüften nach hinten schieben.",
+    "Fahren Sie fort, bis Sie einen Teil des Weges nach unten gehockt sind, aber oberhalb der Parallele bleiben, und kehren Sie die Bewegung schnell um, bis Sie in die Ausgangsposition zurückkehren. Wiederholen Sie dies für 5-10 Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Glutäen",
+    "Ischiokrurale Muskulatur"
+  ],
+  "category_de": "Dehnung"
+}

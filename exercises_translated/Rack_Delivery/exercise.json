@@ -1,0 +1,50 @@
+{
+  "name": "Rack Delivery",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "This drill teaches the delivery of the barbell to the rack position on the shoulders. Begin holding a bar in the scarecrow position, with the upper arms parallel to the floor, and the forearms hanging down. Use a hook grip, with your fingers wrapped over your thumbs.",
+    "Begin by rotating the elbows around the bar, delivering the bar to the shoulders. As your elbows come forward, relax your grip. The shoulders should be protracted, providing a shelf for the bar, which should lightly contact the throat.",
+    "It is important that the bar stay close to the body at all times, as with a heavier load any distance will result in an unwanted collision. As the movement becomes smoother, speed and load can be increased before progressing further."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Dostarczenie do pozycji rack",
+  "instructions_pl": [
+    "To ćwiczenie uczy dostarczania sztangi do pozycji rack na barkach. Rozpocznij, trzymając sztangę w pozycji 'stracha na wróble', z ramionami równoległymi do podłogi i przedramionami zwisającymi w dół. Użyj chwytu zamkowego, z palcami owiniętymi wokół kciuków.",
+    "Rozpocznij od obracania łokci wokół sztangi, dostarczając ją do barków. Gdy łokcie przesuwają się do przodu, rozluźnij chwyt. Barki powinny być protrakowane, tworząc półkę dla sztangi, która powinna lekko dotykać gardła.",
+    "Ważne jest, aby sztanga przez cały czas pozostawała blisko ciała, ponieważ przy większym obciążeniu jakakolwiek odległość doprowadzi do niepożądanego zderzenia. W miarę jak ruch staje się płynniejszy, można zwiększyć prędkość i obciążenie przed dalszym postępem."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Rack-Positionierung",
+  "instructions_de": [
+    "Diese Übung lehrt die Zuführung der Langhantel in die Rack-Position auf den Schultern. Beginnen Sie, eine Langhantel in der Vogelscheuchenposition zu halten, wobei die Oberarme parallel zum Boden und die Unterarme nach unten hängen. Verwenden Sie einen Haken-Griff (Hook Grip), wobei Ihre Finger über Ihre Daumen gewickelt sind.",
+    "Beginnen Sie, die Ellbogen um die Langhantel zu rotieren, wobei Sie die Langhantel zu den Schultern führen. Wenn Ihre Ellbogen nach vorne kommen, lockern Sie Ihren Griff. Die Schultern sollten proktrahiert sein (nach vorne geschoben), um eine Ablagefläche für die Langhantel zu bilden, die leicht den Hals berühren sollte.",
+    "Es ist wichtig, dass die Langhantel jederzeit nah am Körper bleibt, da bei einer schwereren Last jede Distanz zu einer unerwünschten Kollision führen wird. Wenn die Bewegung flüssiger wird, können Geschwindigkeit und Last erhöht werden, bevor Sie weiter fortschreiten."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Musculus trapezius"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

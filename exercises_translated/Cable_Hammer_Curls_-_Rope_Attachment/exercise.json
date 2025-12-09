@@ -1,0 +1,50 @@
+{
+  "name": "Cable Hammer Curls - Rope Attachment",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
+    "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",
+    "Put your elbows in by your side and keep them there stationary during the entire movement. Tip: Only the forearms should move; not your upper arms. This will be your starting position.",
+    "Using your biceps, pull your arms up as you exhale until your biceps touch your forearms. Tip: Remember to keep the elbows in and your upper arms stationary.",
+    "After a 1 second contraction where you squeeze your biceps, slowly start to bring the weight back to the original position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie ramion chwytem młotkowym na wyciągu – z uchwytem linowym",
+  "instructions_pl": [
+    "Przymocuj uchwyt linowy do dolnego bloczka wyciągu i stań przodem do maszyny, w odległości około 30 centymetrów od niej.",
+    "Chwyć linę chwytem młotkowym (dłonie skierowane do siebie) i wyprostuj się, zachowując naturalną krzywiznę kręgosłupa oraz utrzymując tułów nieruchomo.",
+    "Ułóż łokcie blisko tułowia i utrzymuj je nieruchomo przez cały ruch. Wskazówka: Poruszaj tylko przedramionami; ramiona pozostają nieruchome. Będzie to Twoja pozycja wyjściowa.",
+    "Używając mięśni dwugłowych ramienia, ugnij przedramiona w górę, wykonując wydech, aż mięśnie dwugłowe ramienia dotkną przedramion. Wskazówka: Pamiętaj, aby utrzymywać łokcie blisko tułowia i ramiona nieruchomo.",
+    "Po 1-sekundowym skurczu, podczas którego mocno napinasz mięśnie dwugłowe ramienia, powoli zacznij opuszczać ciężar do pozycji wyjściowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabel-Hammercurls mit Seilgriff",
+  "instructions_de": [
+    "Befestigen Sie einen Seilgriff an einem tiefen Kabelzug und stellen Sie sich mit dem Gesicht zum Gerät, etwa 30 cm davon entfernt, auf.",
+    "Fassen Sie das Seil mit einem neutralen Griff (Handflächen zeigen zueinander) und stellen Sie sich aufrecht hin, wobei Sie die natürliche Krümmung des Rückens beibehalten und Ihren Oberkörper stabil halten.",
+    "Legen Sie Ihre Ellbogen seitlich an Ihren Körper an und halten Sie sie während der gesamten Bewegung dort stabil. Tipp: Nur die Unterarme sollten sich bewegen; nicht die Oberarme. Dies ist Ihre Ausgangsposition.",
+    "Mit Hilfe Ihrer Musculi biceps brachii ziehen Sie Ihre Arme beim Ausatmen nach oben, bis Ihre Musculi biceps brachii Ihre Unterarme berühren. Tipp: Denken Sie daran, die Ellbogen eng am Körper und die Oberarme stabil zu halten.",
+    "Nach einer 1-sekündigen Kontraktion, bei der Sie Ihre Musculi biceps brachii anspannen, beginnen Sie langsam, das Gewicht in die Ausgangsposition zurückzuführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

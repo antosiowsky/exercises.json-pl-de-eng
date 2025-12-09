@@ -1,0 +1,62 @@
+{
+  "name": "Clean from Blocks",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "With a barbell on boxes or stands of the desired height, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+    "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight with the elbows pointed out.",
+    "As full extension is achieved, transition into the receiving position by aggressively shrugging and flexing the arms with the elbows up and out. Aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position. Return the weight to the boxes for the next rep."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut z bloków",
+  "instructions_pl": [
+    "Ze sztangą umieszczoną na skrzyniach lub podstawkach o pożądanej wysokości, chwyć sztangę nachwytem lub chwytem zamkowym (hakowym) tuż poza linią nóg. Opuść biodra, koncentrując ciężar na piętach, plecy proste, głowa skierowana do przodu, klatka piersiowa uniesiona, barki lekko przed sztangą. To będzie Twoja pozycja wyjściowa.",
+    "Rozpocznij pierwsze podciągnięcie, napierając na pięty i prostując kolana. Kąt nachylenia tułowia powinien pozostać niezmieniony, a ramiona powinny pozostać proste, z łokciami skierowanymi na zewnątrz.",
+    "Po osiągnięciu pełnego wyprostu, przejdź do pozycji przyjęcia sztangi poprzez dynamiczne wzruszenie ramionami i ugięcie ramion, z łokciami uniesionymi i skierowanymi na zewnątrz. Dynamicznie wciągnij się pod sztangę, obracając łokcie pod sztangę. Przyjmij sztangę w pozycji przysiadu przedniego, którego głębokość zależy od wysokości sztangi na końcu trzeciego podciągnięcia. Sztanga powinna spocząć na wysuniętych (protrakcja) barkach, lekko dotykając gardła, z rozluźnionymi dłońmi. Kontynuuj zejście do pełnego przysiadu, co pomoże w fazie wstawania.",
+    "Natychmiast wstań, napierając na pięty, utrzymując tułów w pozycji pionowej i łokcie uniesione. Kontynuuj, aż osiągniesz pozycję stojącą. Odłóż sztangę na skrzynie przed kolejnym powtórzeniem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "Dwubój olimpijski",
+  "name_de": "Umsetzen vom Block",
+  "instructions_de": [
+    "Mit einer Langhantel auf Blöcken oder Ständern der gewünschten Höhe fassen Sie die Stange im Obergriff oder Haken-/Klemmgriff etwas außerhalb der Beine. Senken Sie Ihre Hüften, wobei das Gewicht auf den Fersen liegt, der Rücken gerade ist, der Kopf nach vorne blickt, die Brust erhoben ist und die Schultern sich leicht vor der Stange befinden. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und die Knie strecken. Ihr Rückenwinkel sollte gleich bleiben, und Ihre Arme sollten gestreckt bleiben, wobei die Ellbogen nach außen zeigen.",
+    "Sobald die volle Streckung erreicht ist, wechseln Sie in die Fangposition, indem Sie aggressiv die Schultern hochziehen und die Arme beugen, wobei die Ellbogen hoch und nach außen zeigen. Ziehen Sie sich aggressiv nach unten, während Sie dabei Ihre Ellbogen unter die Stange rotieren. Fangen Sie die Stange in einer Frontkniebeugeposition, deren Tiefe von der Höhe der Stange am Ende des dritten Zugs abhängt. Die Stange sollte auf den prolohierten Schultern abgelegt werden, wobei sie leicht den Hals berührt und die Hände entspannt sind. Fahren Sie fort, in die unterste Kniebeugeposition abzusteigen, was bei der Erholung helfen wird.",
+    "Erholen Sie sich sofort, indem Sie sich durch die Fersen abdrücken, den Oberkörper aufrecht und die Ellbogen oben halten. Fahren Sie fort, bis Sie eine stehende Position erreicht haben. Legen Sie das Gewicht für die nächste Wiederholung auf die Blöcke zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Deltamuskel",
+    "Trapezmuskel"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

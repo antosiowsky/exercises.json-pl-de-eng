@@ -1,0 +1,77 @@
+{
+  "name": "Atlas Stones",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors",
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.",
+    "Pulling the stone into your torso, drive through the back half of your feet to pull the stone from the ground.",
+    "As the stone passes the knees, lap it by sitting backward, pulling the stone on top of your thighs.",
+    "Sit low, getting the stone high onto your chest as you change your grip to reach over the stone. Stand, driving through with your hips. Close distance to the loading platform, and lean back, extending the hips to get the stone as high as possible."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Kamienie Atlasa",
+  "instructions_pl": [
+    "Rozpocznij z kamieniem Atlasa między stopami. Ugnij się w biodrach, aby pionowo objąć kamień Atlasa ramionami, starając się wsunąć palce pod kamień. Wiele kamieni ma małą płaską część na spodzie, co ułatwi chwyt.",
+    "Przyciągając kamień do tułowia, wypchnij się z tylnej części stóp, aby oderwać kamień od ziemi.",
+    "Gdy kamień minie kolana, załóż go na uda, cofając biodra i przyciągając kamień na wierzch ud.",
+    "Usiądź nisko, umieszczając kamień wysoko na klatce piersiowej, zmieniając chwyt, aby objąć kamień od góry. Wstań, napędzając ruch biodrami. Zmniejsz odległość do platformy załadowczej i odchyl się do tyłu, prostując biodra, aby umieścić kamień jak najwyżej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie przywodziciele",
+    "mięsień dwugłowy ramienia",
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie środkowej części pleców",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Atlassteine",
+  "instructions_de": [
+    "Beginnen Sie mit dem Atlasstein zwischen Ihren Füßen. Beugen Sie sich in den Hüften, um Ihre Arme vertikal um den Atlasstein zu legen und versuchen Sie, Ihre Finger unter den Stein zu bekommen. Viele Steine haben eine kleine abgeflachte Stelle an der Unterseite, was das Halten des Steins erleichtert.",
+    "Ziehen Sie den Stein an Ihren Rumpf und drücken Sie sich mit dem hinteren Teil Ihrer Füße ab, um den Stein vom Boden zu heben.",
+    "Sobald der Stein die Knie passiert hat, legen Sie ihn in den Schoß, indem Sie sich nach hinten setzen und den Stein auf Ihre Oberschenkel ziehen.",
+    "Setzen Sie sich tief, bringen Sie den Stein hoch auf Ihre Brust, während Sie Ihren Griff ändern, um über den Stein zu greifen. Stehen Sie auf und drücken Sie sich dabei mit den Hüften durch. Verringern Sie den Abstand zur Ladeplattform und lehnen Sie sich zurück, strecken Sie die Hüften, um den Stein so hoch wie möglich zu bekommen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Adduktoren",
+    "Bizeps",
+    "Wadenmuskeln",
+    "Unterarme",
+    "Gesäßmuskeln",
+    "Beinbeuger",
+    "Mittlerer Rücken",
+    "Quadrizeps",
+    "Trapezmuskel"
+  ],
+  "category_de": "Strongman"
+}

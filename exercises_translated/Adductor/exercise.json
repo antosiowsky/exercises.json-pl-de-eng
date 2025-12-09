@@ -1,0 +1,41 @@
+{
+  "name": "Adductor",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face down with one leg on a foam roll.",
+    "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
+    "While trying to relax the muscles if the inner thigh, roll over the foam between your hip and knee, holding points of tension for 10-30 seconds. Repeat with the other leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Przywodziciel",
+  "instructions_pl": [
+    "Połóż się twarzą w dół, umieszczając jedną nogę na wałku piankowym.",
+    "Obróć nogę tak, aby wałek piankowy stykał się z wewnętrzną stroną uda. Przenieś na wałek piankowy tyle ciężaru, ile jesteś w stanie tolerować.",
+    "Starając się rozluźnić mięśnie wewnętrznej strony uda, przetaczaj się po wałku piankowym między stawem biodrowym a stawem kolanowym, zatrzymując się w punktach napięcia na 10-30 sekund. Powtórz z drugą nogą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Adduktoren",
+  "instructions_de": [
+    "Lege dich bäuchlings hin und platziere ein Bein auf einer Faszienrolle.",
+    "Rotiere das Bein, sodass die Faszienrolle Kontakt mit deiner Oberschenkelinnenseite hat. Verlagere so viel Gewicht auf die Faszienrolle, wie du tolerieren kannst.",
+    "Versuche, die Muskeln der Oberschenkelinnenseite zu entspannen, während du die Faszienrolle zwischen Hüfte und Knie bewegst. Halte an Spannungspunkten für 10-30 Sekunden. Wiederhole die Übung mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

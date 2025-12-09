@@ -1,0 +1,53 @@
+{
+  "name": "Kneeling Single-Arm High Pulley Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Attach a single handle to a high pulley and make your weight selection.",
+    "Kneel in front of the cable tower, taking the cable with one hand with your arm extended. This will be your starting position.",
+    "Starting with your palm facing forward, pull the weight down to your torso by flexing the elbow and retract the shoulder blade. As you do so, rotate the wrist so that at the completion of the movement, your palm is now facing you.",
+    "After a brief pause, return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie jednoramienne klęcząc z wyciągu górnego",
+  "instructions_pl": [
+    "Zamocuj pojedynczy uchwyt do wyciągu górnego i wybierz odpowiednie obciążenie.",
+    "Uklęknij przed wieżą wyciągu, chwytając linkę jedną ręką z wyprostowanym ramieniem. Będzie to Twoja pozycja początkowa.",
+    "Rozpoczynając z dłonią skierowaną do przodu, przyciągnij obciążenie do tułowia, zginając staw łokciowy i wykonując retrakcję łopatki. W trakcie ruchu obróć nadgarstek tak, aby po jego zakończeniu dłoń była skierowana do Ciebie.",
+    "Po krótkiej pauzie wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kniendes einarmiges Rudern am hohen Kabelzug",
+  "instructions_de": [
+    "Befestigen Sie einen Einzelgriff an einem hohen Kabelzug und wählen Sie Ihr Gewicht.",
+    "Knien Sie sich vor den Kabelturm, fassen Sie das Kabel mit einer Hand bei ausgestrecktem Arm. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie mit der Handfläche nach vorne gerichtet. Ziehen Sie das Gewicht zum Oberkörper, indem Sie den Ellbogen beugen und das Schulterblatt retrahieren. Drehen Sie dabei das Handgelenk, sodass am Ende der Bewegung Ihre Handfläche zu Ihnen zeigt.",
+    "Nach einer kurzen Pause kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Krafttraining"
+}

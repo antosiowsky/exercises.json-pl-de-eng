@@ -1,0 +1,62 @@
+{
+  "name": "Plie Dumbbell Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
+    "Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.",
+    "Slowly bend the knees and lower your legs until your thighs are parallel to the floor. Make sure to inhale as this is the eccentric part of the exercise.",
+    "Press mainly with the heel of the foot to bring the body back to the starting position while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Przysiad Pliè z Hantlą",
+  "instructions_pl": [
+    "Chwyć hantlę oburącz za jeden z końców i stań prosto. Rozstaw nogi szerzej niż szerokość barków, z lekko ugiętymi kolanami.",
+    "Palce stóp powinny być skierowane na zewnątrz. Uwaga: Ramiona powinny pozostać nieruchome podczas wykonywania ćwiczenia. To jest pozycja początkowa.",
+    "Powoli ugnij kolana i obniż ciało, aż uda znajdą się równolegle do podłogi. Pamiętaj o wdechu, ponieważ jest to faza ekscentryczna ćwiczenia.",
+    "Odepchnij się głównie z pięt, aby wrócić do pozycji początkowej, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Plié-Kurzhantelkniebeuge",
+  "instructions_de": [
+    "Halten Sie eine Kurzhantel mit beiden Händen am unteren Ende und stellen Sie sich aufrecht hin. Stellen Sie Ihre Beine weiter als schulterbreit auseinander, mit leicht gebeugten Knien.",
+    "Ihre Zehenspitzen sollten nach außen zeigen. Hinweis: Ihre Arme sollten während der Übungsausführung stationär bleiben. Dies ist die Ausgangsposition.",
+    "Beugen Sie langsam die Knie und senken Sie Ihren Körper ab, bis Ihre Oberschenkel parallel zum Boden sind. Achten Sie darauf, einzuatmen, da dies der exzentrische Teil der Übung ist.",
+    "Drücken Sie sich hauptsächlich über die Fersen ab, um den Körper in die Ausgangsposition zurückzubringen, während Sie ausatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Wadenmuskeln",
+    "Gesäßmuskeln",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

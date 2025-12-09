@@ -1,0 +1,44 @@
+{
+  "name": "Kneeling Hip Flexor",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
+    "Shift your weight forward until you feel a stretch in your hip. Hold for 15 seconds, then repeat for your other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie zginacza biodra w klęku",
+  "instructions_pl": [
+    "Uklęknij na macie i unieś prawe kolano tak, aby podeszwa prawej stopy spoczywała na podłodze, a lewą nogę wyciągnij do tyłu, tak aby grzbiet lewej stopy spoczywał na podłodze.",
+    "Przenieś ciężar ciała do przodu, aż poczujesz rozciąganie w biodrze. Przytrzymaj przez 15 sekund, następnie powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Kniender Hüftbeuger",
+  "instructions_de": [
+    "Knien Sie auf einer Matte. Stellen Sie Ihr rechtes Knie so auf, dass die Fußsohle auf dem Boden steht, und strecken Sie Ihr linkes Bein nach hinten aus, sodass der Fußrücken auf dem Boden aufliegt.",
+    "Verlagern Sie Ihr Gewicht nach vorne, bis Sie eine Dehnung in Ihrer Hüfte spüren. Halten Sie diese Position für 15 Sekunden und wiederholen Sie die Übung anschließend auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Dehnung"
+}

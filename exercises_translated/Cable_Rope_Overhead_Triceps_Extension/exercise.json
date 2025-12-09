@@ -1,0 +1,47 @@
+{
+  "name": "Cable Rope Overhead Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope to the bottom pulley of the pulley machine.",
+    "Grasping the rope with both hands, extend your arms with your hands directly above your head using a neutral grip (palms facing each other). Your elbows should be in close to your head and the arms should be perpendicular to the floor with the knuckles aimed at the ceiling. This will be your starting position.",
+    "Slowly lower the rope behind your head as you hold the upper arms stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.",
+    "Return to the starting position by flexing your triceps as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprost mięśnia trójgłowego ramienia nad głową z linką wyciągu",
+  "instructions_pl": [
+    "Przymocuj linkę do dolnego bloczka wyciągu.",
+    "Chwytając linkę obiema rękami, wyprostuj ramiona, trzymając dłonie bezpośrednio nad głową, używając chwytu neutralnego (dłonie skierowane do siebie). Łokcie powinny być blisko głowy, a ramiona prostopadłe do podłogi, z kostkami palców skierowanymi w stronę sufitu. Będzie to Twoja pozycja wyjściowa.",
+    "Powoli opuść linkę za głowę, utrzymując ramiona nieruchomo. Wykonując ten ruch, zrób wdech i zatrzymaj się, gdy mięsień trójgłowy ramienia jest w pełni rozciągnięty.",
+    "Wróć do pozycji wyjściowej, napinając mięsień trójgłowy ramienia podczas wydechu.",
+    "Powtórz ćwiczenie przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Kabelzug-Überkopf-Trizepsstrecken mit Seil",
+  "instructions_de": [
+    "Befestigen Sie ein Seil am unteren Flaschenzug der Kabelzugmaschine.",
+    "Fassen Sie das Seil mit beiden Händen und strecken Sie Ihre Arme mit den Händen direkt über Ihrem Kopf aus, wobei Sie einen neutralen Griff verwenden (Handflächen zeigen zueinander). Ihre Ellbogen sollten eng am Kopf anliegen und die Arme sollten senkrecht zum Boden stehen, wobei die Knöchel zur Decke zeigen. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie das Seil langsam hinter Ihren Kopf ab, während Sie die Oberarme stationär halten. Atmen Sie während dieser Bewegung ein und pausieren Sie, wenn Ihr Musculus triceps brachii vollständig gedehnt ist.",
+    "Kehren Sie in die Ausgangsposition zurück, indem Sie Ihren Musculus triceps brachii anspannen, während Sie ausatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Mountain Climbers",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin in a pushup position, with your weight supported by your hands and toes. Flexing the knee and hip, bring one leg until the knee is approximately under the hip. This will be your starting position.",
+    "Explosively reverse the positions of your legs, extending the bent leg until the leg is straight and supported by the toe, and bringing the other foot up with the hip and knee flexed. Repeat in an alternating fashion for 20-30 seconds."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Wspinaczka górska",
+  "instructions_pl": [
+    "Rozpocznij w pozycji pompki, z ciężarem ciała podpartym na dłoniach i palcach stóp. Zginając staw kolanowy i staw biodrowy, przyciągnij jedną nogę tak, aby kolano znajdowało się w przybliżeniu pod biodrem. Będzie to Twoja pozycja wyjściowa.",
+    "Dynamicznie zamień pozycje nóg, prostując zgiętą nogę, aż będzie prosta i podparta na palcach stopy, jednocześnie przyciągając drugą stopę ze zgiętym stawem biodrowym i kolanowym. Powtarzaj naprzemiennie przez 20-30 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Bergsteiger",
+  "instructions_de": [
+    "Beginnen Sie in einer Liegestützposition, wobei Ihr Gewicht von Ihren Händen und Zehen getragen wird. Beugen Sie Knie und Hüfte und ziehen Sie ein Bein heran, bis das Knie ungefähr unter der Hüfte ist. Dies ist Ihre Ausgangsposition.",
+    "Tauschen Sie die Positionen Ihrer Beine explosiv aus, strecken Sie dabei das gebeugte Bein, bis es gerade ist und von der Fußspitze getragen wird, und ziehen Sie den anderen Fuß mit gebeugter Hüfte und Knie heran. Wiederholen Sie dies abwechselnd für 20-30 Sekunden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Ischiocrurale Muskulatur",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Plyometrie"
+}

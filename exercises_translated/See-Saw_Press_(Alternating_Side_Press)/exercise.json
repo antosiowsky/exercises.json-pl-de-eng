@@ -1,0 +1,56 @@
+{
+  "name": "See-Saw Press (Alternating Side Press)",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Grab a dumbbell with each hand and stand up erect.",
+    "Clean (lift) the dumbbells to the chest/shoulder level and then rotate your wrists so that your palms are facing towards you as if you were getting ready to perform an Arnold Press. This will be your starting position.",
+    "Now start extending your left arm overhead as you rotate the wrist so that the palm of your hand faces forward as you go up. Your elbows should come out also as you lift the weight. Simultaneously, you will also be bending from your hip to your opposite side. Tip: If you perform the exercise correctly, is should look as if you are trying to reach for something overhead on the right hand side of your body, but with your left arm. Breathe out as you perform this movement.",
+    "Once you reach the top position breathe in. Then, with the weight fully extended overhead and you bent over to your right hand side, begin the movement to the left side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie wahadłowe (Naprzemienne wyciskanie boczne)",
+  "instructions_pl": [
+    "Chwyć po jednej hantli w każdą rękę i stań prosto.",
+    "Zarzuć (unieś) hantle do poziomu klatki piersiowej/barków, a następnie obróć nadgarstki tak, aby dłonie były skierowane w Twoją stronę, jakbyś przygotowywał się do wykonania wyciskania Arnolda. Będzie to Twoja pozycja początkowa.",
+    "Teraz zacznij wyciskać lewe ramię nad głowę, jednocześnie obracając nadgarstek tak, aby dłoń była skierowana do przodu, gdy unosisz ciężar. Łokcie powinny również odchylać się na zewnątrz podczas unoszenia ciężaru. Jednocześnie będziesz zginać się w biodrze w stronę przeciwną. Wskazówka: Jeśli wykonujesz ćwiczenie prawidłowo, powinno to wyglądać, jakbyś próbował sięgnąć po coś nad głową po prawej stronie ciała, ale lewym ramieniem. Wykonując ten ruch, wydychaj powietrze.",
+    "Po osiągnięciu górnej pozycji, wciągnij powietrze. Następnie, z ciężarem w pełni wyprostowanym nad głową i ciałem pochylonym na prawą stronę, rozpocznij ruch na lewą stronę.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Wipp-Drücken (Alternierendes Seitliches Drücken)",
+  "instructions_de": [
+    "Nimm eine Kurzhantel in jede Hand und stelle dich aufrecht hin.",
+    "Führe die Kurzhanteln auf Brust-/Schulterhöhe (Umsetzen) und drehe dann deine Handgelenke, sodass deine Handflächen zu dir zeigen, als würdest du dich auf eine Arnold-Presse vorbereiten. Dies ist deine Ausgangsposition.",
+    "Beginne nun, deinen linken Arm über Kopf auszustrecken, während du das Handgelenk drehst, sodass die Handfläche beim Hochgehen nach vorne zeigt. Deine Ellbogen sollten sich beim Heben des Gewichts ebenfalls nach außen bewegen. Gleichzeitig beugst du dich aus der Hüfte zur gegenüberliegenden Seite. Tipp: Wenn du die Übung korrekt ausführst, sollte es so aussehen, als würdest du versuchen, mit deinem linken Arm nach etwas über Kopf auf der rechten Körperseite zu greifen. Atme aus, während du diese Bewegung ausführst.",
+    "Sobald du die oberste Position erreicht hast, atme ein. Dann, mit dem Gewicht vollständig über Kopf ausgestreckt und zur rechten Seite gebeugt, beginne die Bewegung zur linken Seite.",
+    "Wiederhole die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

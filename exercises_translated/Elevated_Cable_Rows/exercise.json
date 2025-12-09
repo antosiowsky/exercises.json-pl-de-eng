@@ -1,0 +1,62 @@
+{
+  "name": "Elevated Cable Rows",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Get a platform of some sort (it can be an aerobics or calf raise platform) that is around 4-6 inches in height.",
+    "Place it on the seat of the cable row machine.",
+    "Sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+    "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
+    "With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
+    "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie na wyciągu siedzącym z podwyższeniem",
+  "instructions_pl": [
+    "Przygotuj platformę lub podwyższenie (może to być step do aerobiku lub platforma do wspięć na łydki) o wysokości około 10-15 cm.",
+    "Umieść ją na siedzisku maszyny do wiosłowania na wyciągu.",
+    "Usiądź na maszynie i oprzyj stopy na przedniej platformie lub poprzeczce, upewniając się, że kolana są lekko ugięte i nie zablokowane.",
+    "Pochyl się do przodu, zachowując naturalną krzywiznę kręgosłupa, i chwyć uchwyt V.",
+    "Z wyprostowanymi ramionami odchyl się do tyłu, aż tułów znajdzie się pod kątem 90 stopni względem nóg. Plecy powinny być lekko wygięte w łuk, a klatka piersiowa wypchnięta do przodu. Powinieneś/powinnaś czuć przyjemne rozciągnięcie mięśni najszerszych grzbietu, trzymając drążek przed sobą. Jest to pozycja początkowa ćwiczenia.",
+    "Utrzymując tułów nieruchomo, przyciągnij uchwyty do tułowia, trzymając ramiona blisko niego, aż dotkniesz brzucha. Wykonując ten ruch, zrób wydech. W tym momencie powinieneś/powinnaś mocno ściskać mięśnie pleców. Utrzymaj to napięcie przez sekundę i powoli wróć do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie środkowej części grzbietu",
+    "mięśnie czworoboczne grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Erhöhtes Kabelrudern",
+  "instructions_de": [
+    "Besorgen Sie sich eine Plattform (z.B. eine Aerobic- oder Wadenhebe-Plattform) mit einer Höhe von etwa 10-15 cm.",
+    "Platzieren Sie diese auf dem Sitz der Kabelzug-Ruderbank.",
+    "Setzen Sie sich auf das Gerät und stellen Sie Ihre Füße auf die vordere Plattform oder die dafür vorgesehene Querstrebe, wobei Sie darauf achten, dass Ihre Knie leicht gebeugt und nicht durchgestreckt sind.",
+    "Lehnen Sie sich nach vorne, während Sie die natürliche Krümmung Ihres Rückens beibehalten, und greifen Sie die V-Griffstange.",
+    "Ziehen Sie mit ausgestreckten Armen zurück, bis Ihr Oberkörper einen 90-Grad-Winkel zu Ihren Beinen bildet. Ihr Rücken sollte leicht gewölbt sein und Ihre Brust herausgestreckt. Sie sollten eine angenehme Dehnung in Ihrem breiten Rückenmuskel (Musculus latissimus dorsi) spüren, während Sie die Stange vor sich halten. Dies ist die Ausgangsposition der Übung.",
+    "Halten Sie den Rumpf stabil und ziehen Sie die Griffe nach hinten zu Ihrem Rumpf, wobei Sie die Arme eng am Körper halten, bis die Griffe Ihre Bauchregion berühren. Atmen Sie aus, während Sie diese Bewegung ausführen. An diesem Punkt sollten Sie Ihre Rückenmuskulatur fest anspannen. Halten Sie diese Kontraktion für eine Sekunde und kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "mittlerer Rücken",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

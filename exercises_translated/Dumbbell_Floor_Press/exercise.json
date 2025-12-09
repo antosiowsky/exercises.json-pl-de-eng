@@ -1,0 +1,50 @@
+{
+  "name": "Dumbbell Floor Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.",
+    "Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side.",
+    "Pause at the bottom, and then bring the weight together at the top by extending through the elbows."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli leżąc na podłodze",
+  "instructions_pl": [
+    "Połóż się na podłodze, trzymając hantle w dłoniach. Kolana mogą być ugięte. Rozpocznij z ciężarami w pełni wyprostowanymi nad sobą.",
+    "Opuść ciężary, aż ramię dotknie podłogi. Możesz przyciągnąć łokcie do tułowia, aby podkreślić rozwój i siłę mięśnia trójgłowego ramienia, lub, aby skupić się na mięśniach klatki piersiowej, rozchyl ramiona na boki.",
+    "Zatrzymaj ruch w dolnej fazie, a następnie połącz ciężary na górze, prostując ramiona w stawach łokciowych."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Kurzhantel-Bodenbankdrücken",
+  "instructions_de": [
+    "Legen Sie sich mit Kurzhanteln in den Händen auf den Boden. Die Knie können angewinkelt sein. Beginnen Sie mit den Gewichten vollständig über sich ausgestreckt.",
+    "Senken Sie die Gewichte ab, bis Ihr Oberarm den Boden berührt. Sie können die Ellbogen eng am Körper halten, um die Größe und Kraft des Trizeps zu betonen, oder um den Musculus pectoralis major zu fokussieren, winkeln Sie Ihre Arme seitlich an.",
+    "Pausieren Sie am untersten Punkt und führen Sie dann die Gewichte am obersten Punkt zusammen, indem Sie die Ellbogen strecken."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraftdreikampf"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Wide-Grip Decline Barbell Bench Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie back on a decline bench with the feet securely locked at the front of the bench. Using a wide, pronated (palms forward) grip that is around 3 inches away from shoulder width (for each hand), lift the bar from the rack and hold it straight over you with your arms locked. The bar will be perpendicular to the torso and the floor. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your lower chest.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi na ławce ze skosem ujemnym szerokim chwytem",
+  "instructions_pl": [
+    "Połóż się na ławce ze skosem ujemnym, pewnie blokując stopy z przodu ławki. Używając szerokiego, pronowanego (dłonie skierowane do przodu) chwytu, który jest około 3 cale szerszy niż szerokość barków (dla każdej ręki), zdejmij sztangę ze stojaka i trzymaj ją prosto nad sobą z wyprostowanymi ramionami. Sztanga będzie prostopadła do tułowia i podłogi. To będzie Twoja pozycja wyjściowa.",
+    "Podczas wdechu, powoli opuść sztangę, aż poczujesz ją na dolnej części klatki piersiowej.",
+    "Po sekundowej pauzie, wróć ze sztangą do pozycji wyjściowej podczas wydechu, wypychając ją mięśniami klatki piersiowej. Wyprostuj ramiona i ściśnij klatkę piersiową w pozycji skurczonej, przytrzymaj przez sekundę, a następnie zacznij ponownie powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Langhantel-Negativbankdrücken im Weitgriff",
+  "instructions_de": [
+    "Legen Sie sich auf eine Negativbank, wobei Ihre Füße sicher an der vorderen Arretierung der Bank fixiert sind. Fassen Sie die Langhantel im weiten Obergriff (Handflächen zeigen nach vorne), wobei jede Hand etwa 7-8 cm außerhalb der Schulterbreite positioniert ist. Heben Sie die Hantel aus der Ablage und halten Sie sie mit gestreckten Armen senkrecht über Ihrer Brust. Die Hantel sollte senkrecht zum Oberkörper und zum Boden stehen. Dies ist Ihre Ausgangsposition.",
+    "Während Sie einatmen, senken Sie die Hantel langsam ab, bis Sie sie auf Ihrem unteren Brustbereich spüren.",
+    "Nach einer kurzen Pause führen Sie die Hantel in die Ausgangsposition zurück, während Sie ausatmen und die Hantel dabei mit Ihrer Brustmuskulatur nach oben drücken. Strecken Sie die Arme vollständig durch und spannen Sie die Brustmuskulatur in der kontrahierten Position an. Halten Sie diese Position für eine Sekunde und beginnen Sie dann erneut, die Hantel langsam abzusenken. Tipp: Die Abwärtsbewegung sollte mindestens doppelt so lange dauern wie die Aufwärtsbewegung.",
+    "Wiederholen Sie die Bewegung für die vorgegebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Seated Good Mornings",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Set up a box in a power rack. The pins should be set at an appropriate height. Begin by stepping under the bar and placing it across the back of the shoulders, not on top of your traps. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders.",
+    "Remove the bar from the rack, creating a tight arch in your lower back. Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. This will be your starting position.",
+    "Keeping the bar tight, bend forward at the hips as much as possible. If you set the pins to what would be parallel, you not only have a safety if you fail, but know when to stop.",
+    "Pause just above the pins and reverse the motion until your torso it upright."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Dzień dobry w pozycji siedzącej",
+  "instructions_pl": [
+    "Ustaw skrzynię w klatce mocy (power rack). Bolce asekuracyjne powinny być ustawione na odpowiedniej wysokości. Rozpocznij, wchodząc pod sztangę i umieszczając ją na tylnej części barków, a nie na mięśniach czworobocznych. Ściągnij łopatki razem i obróć łokcie do przodu, próbując 'złamać' sztangę na barkach.",
+    "Zdejmij sztangę ze stojaków, utrzymując mocne wygięcie (lordozę) w dolnej części pleców. Trzymaj głowę skierowaną do przodu. Mając napięte plecy, barki i mięśnie głębokie (core), wypchnij kolana i pośladki na zewnątrz, rozpoczynając opuszczanie. Cofnij biodra, aż usiądziesz na skrzyni. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując napięcie na sztandze, pochyl się do przodu w stawach biodrowych tak bardzo, jak to możliwe. Jeśli ustawisz bolce na wysokości odpowiadającej pozycji równoległej, masz nie tylko zabezpieczenie w razie niepowodzenia, ale także wiesz, kiedy się zatrzymać.",
+    "Zatrzymaj się tuż nad bolcami i odwróć ruch, aż tułów znajdzie się w pozycji pionowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Sitzende Good Mornings",
+  "instructions_de": [
+    "Stellen Sie eine Box in einem Power Rack auf. Die Sicherheitsstangen sollten auf einer geeigneten Höhe eingestellt werden. Beginnen Sie, indem Sie unter die Langhantel treten und diese über den hinteren Teil Ihrer Schultern legen, nicht auf Ihre Trapezmuskeln. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Langhantel über Ihre Schultern zu biegen.",
+    "Nehmen Sie die Langhantel aus dem Rack und bilden Sie dabei einen festen Bogen im unteren Rücken. Halten Sie Ihren Kopf nach vorne gerichtet. Mit angespanntem Rücken, Schultern und Rumpf drücken Sie Ihre Knie und Ihr Gesäß nach außen, während Sie Ihren Abstieg beginnen. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Langhantel fest und beugen Sie sich so weit wie möglich aus den Hüften nach vorne. Wenn Sie die Sicherheitsstangen auf eine Höhe einstellen, die parallel wäre, haben Sie nicht nur eine Sicherheit, falls Sie versagen, sondern wissen auch, wann Sie anhalten müssen.",
+    "Halten Sie kurz über den Sicherheitsstangen an und kehren Sie die Bewegung um, bis Ihr Oberkörper aufrecht ist."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "category_de": "Powerlifting"
+}

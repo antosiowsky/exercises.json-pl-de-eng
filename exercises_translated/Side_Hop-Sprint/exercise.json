@@ -1,0 +1,56 @@
+{
+  "name": "Side Hop-Sprint",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand to the side of a cone or hurdle.",
+    "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
+    "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok boczny ze sprintem",
+  "instructions_pl": [
+    "Stań z boku pachołka lub płotka.",
+    "Rozpocznij to ćwiczenie, przeskakując bokiem nad przeszkodą, a następnie odbijając się po wylądowaniu, aby przeskoczyć z powrotem do punktu startowego.",
+    "Wykonuj przeskoki przez zadaną liczbę powtórzeń tak szybko, jak to możliwe, a zakończ ćwiczenie, wykonując krótki sprint po wylądowaniu ostatniego przeskoku."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Seithüpf-Sprint",
+  "instructions_de": [
+    "Stellen Sie sich seitlich neben ein Hütchen oder eine Hürde.",
+    "Beginnen Sie diese Übung, indem Sie seitlich über das Hindernis hüpfen. Federn Sie direkt nach der Landung ab, um sofort wieder zum Ausgangspunkt zurückzuhüpfen.",
+    "Hüpfen Sie eine vorgegebene Anzahl von Wiederholungen so schnell wie möglich. Beenden Sie die Übung, indem Sie nach der Landung des letzten Hops eine kurze Strecke sprinten."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

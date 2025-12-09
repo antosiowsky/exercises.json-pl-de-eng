@@ -1,0 +1,56 @@
+{
+  "name": "Close-Grip Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a dumbbell standing up on a flat bench.",
+    "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",
+    "Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.",
+    "Initiate the movement by lowering the dumbbell to your chest.",
+    "Return to the starting position by extending the elbows."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli wąskim chwytem",
+  "instructions_pl": [
+    "Umieść hantlę pionowo na płaskiej ławce.",
+    "Upewniając się, że hantla jest stabilnie umieszczona na górnej części ławki, połóż się prostopadle do ławki, tak aby tylko barki spoczywały na jej powierzchni. Biodra powinny znajdować się poniżej poziomu ławki, a nogi ugięte ze stopami mocno opartymi o podłogę.",
+    "Chwyć hantlę obiema rękami i trzymaj ją prosto nad klatką piersiową na wyprostowanych ramionach. Obie dłonie powinny naciskać na dolną część boków hantli. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, opuszczając hantlę do klatki piersiowej.",
+    "Wróć do pozycji początkowej, prostując łokcie."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie piersiowe",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Eng gefasstes Kurzhanteldrücken",
+  "instructions_de": [
+    "Stelle eine Kurzhantel aufrecht auf eine Flachbank.",
+    "Stelle sicher, dass die Kurzhantel sicher am oberen Ende der Bank platziert ist. Lege dich anschließend quer zur Bank, sodass nur deine Schultern auf der Oberfläche aufliegen. Deine Hüften sollten sich unterhalb der Bank befinden und deine Beine angewinkelt sein, wobei deine Füße fest auf dem Boden stehen.",
+    "Fasse die Kurzhantel mit beiden Händen und halte sie auf Armeslänge direkt über deiner Brust. Beide Handflächen sollten von unten gegen die Innenseiten der Hantelköpfe der Kurzhantel drücken. Dies ist deine Ausgangsposition.",
+    "Beginne die Bewegung, indem du die Kurzhantel zu deiner Brust absenkst.",
+    "Kehre in die Ausgangsposition zurück, indem du die Ellbogen streckst."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Krafttraining"
+}

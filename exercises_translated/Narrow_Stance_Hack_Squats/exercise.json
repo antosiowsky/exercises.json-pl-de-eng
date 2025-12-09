@@ -1,0 +1,65 @@
+{
+  "name": "Narrow Stance Hack Squats",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place the back of your torso against the back pad of the machine and hook your shoulders under the shoulder pads provided.",
+    "Position your legs in the platform using a less than shoulder width narrow stance with the toes slightly pointed out. Your feet should be around 3 inches or less apart. Tip: Keep your head up at all times and also maintain the back on the pad at all times.",
+    "Place your arms on the side handles of the machine and disengage the safety bars (which on most designs is done by moving the side handles from a facing front position to a diagonal position).",
+    "Now straighten your legs without locking the knees. This will be your starting position.",
+    "Begin to slowly lower the unit by bending the knees as you maintain a straight posture with the head up (back on the pad at all times). Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement.",
+    "Begin to raise the unit as you exhale by pushing the floor with mainly with the heels of your feet as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Przysiady na suwnicy Hack z wąskim rozstawem stóp",
+  "instructions_pl": [
+    "Oprzyj plecy tułowia o oparcie maszyny i umieść barki pod dostępnymi poduszkami naramiennymi.",
+    "Ustaw nogi na platformie, stosując wąski rozstaw stóp, mniejszy niż szerokość barków, z palcami stóp lekko skierowanymi na zewnątrz. Stopy powinny być oddalone od siebie o około 7,5 cm lub mniej. Wskazówka: Utrzymuj głowę uniesioną przez cały czas, a plecy przylegające do oparcia.",
+    "Połóż ręce na bocznych uchwytach maszyny i zwolnij blokady bezpieczeństwa (co w większości konstrukcji odbywa się poprzez przesunięcie bocznych uchwytów z pozycji skierowanej do przodu do pozycji ukośnej).",
+    "Następnie wyprostuj nogi, nie blokując kolan. Będzie to Twoja pozycja początkowa.",
+    "Zacznij powoli opuszczać ciężar, uginając kolana, zachowując prostą postawę z uniesioną głową (plecy przylegają do oparcia przez cały czas). Kontynuuj ruch w dół, aż kąt między udem a łydką stanie się nieco mniejszy niż 90 stopni (co oznacza, że uda znajdą się poniżej równoległości do podłogi). Wykonując tę część ruchu, zrób wdech.",
+    "Zacznij podnosić ciężar, robiąc wydech, naciskając na platformę głównie piętami stóp, prostując ponownie nogi i wracając do pozycji początkowej.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Hackenschmidt-Kniebeugen im engen Stand",
+  "instructions_de": [
+    "Platzieren Sie Ihren Rücken am Rückenpolster der Maschine und haken Sie Ihre Schultern unter die dafür vorgesehenen Schulterpolster.",
+    "Positionieren Sie Ihre Beine auf der Plattform in einem engen Stand, der weniger als schulterbreit ist, wobei die Zehen leicht nach außen zeigen. Ihre Füße sollten etwa 3 Zoll oder weniger voneinander entfernt sein. Tipp: Halten Sie Ihren Kopf stets oben und Ihren Rücken jederzeit am Polster.",
+    "Legen Sie Ihre Arme auf die seitlichen Griffe der Maschine und lösen Sie die Sicherheitsriegel (was bei den meisten Ausführungen durch Bewegen der seitlichen Griffe von einer nach vorne gerichteten Position in eine diagonale Position erfolgt).",
+    "Strecken Sie nun Ihre Beine, ohne die Knie durchzustrecken. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, die Einheit langsam abzusenken, indem Sie die Knie beugen, während Sie eine aufrechte Haltung mit erhobenem Kopf beibehalten (der Rücken bleibt jederzeit am Polster). Fahren Sie fort, bis der Winkel zwischen Oberschenkel und Unterschenkel etwas weniger als 90 Grad beträgt (was der Punkt ist, an dem die Oberschenkel unterhalb der Parallelen zum Boden sind). Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Beginnen Sie, die Einheit beim Ausatmen anzuheben, indem Sie sich hauptsächlich mit den Fersen Ihrer Füße vom Boden abstoßen, während Sie die Beine wieder strecken und in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Krafttraining"
+}

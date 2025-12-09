@@ -1,0 +1,41 @@
+{
+  "name": "Chest Stretch on Stability Ball",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Get on your hands and knees next to an exercise ball.",
+    "Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.",
+    "Lower your torso towards the floor, keeping your elbow on top of the ball. Hold the stretch for 20-30 seconds, and repeat with the other arm."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Rozciąganie klatki piersiowej na piłce stabilizacyjnej",
+  "instructions_pl": [
+    "Uklęknij na czworakach obok piłki gimnastycznej.",
+    "Połóż łokcie na piłce, trzymając ramię wyciągnięte na bok. Będzie to Twoja pozycja wyjściowa.",
+    "Opuść tułów w kierunku podłogi, utrzymując łokieć na piłce. Utrzymaj rozciąganie przez 20-30 sekund i powtórz z drugim ramieniem."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Brustdehnung auf dem Gymnastikball",
+  "instructions_de": [
+    "Begeben Sie sich neben einem Gymnastikball in den Vierfüßlerstand.",
+    "Platzieren Sie Ihre Ellbogen auf dem Ball, wobei Ihr Arm seitlich ausgestreckt ist. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie Ihren Oberkörper in Richtung Boden ab, wobei der Ellbogen auf dem Ball bleibt. Halten Sie die Dehnung für 20-30 Sekunden und wiederholen Sie dies mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Tricep Side Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Boczne rozciąganie tricepsa",
+  "instructions_pl": [
+    "Przenieś prawe ramię w poprzek tułowia i nad lewym barkiem, chwytając prawy łokieć lewą dłonią, aż poczujesz rozciąganie w mięśniu trójgłowym ramienia. Następnie powtórz dla drugiego ramienia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Seitliche Trizepsdehnung",
+  "instructions_de": [
+    "Führen Sie den rechten Arm vor Ihrem Körper entlang und über Ihre linke Schulter. Halten Sie dabei Ihren rechten Ellbogen mit der linken Hand fest, bis Sie eine Dehnung im Trizeps spüren. Wiederholen Sie anschließend die Übung mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

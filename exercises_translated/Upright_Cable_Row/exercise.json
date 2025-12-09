@@ -1,0 +1,50 @@
+{
+  "name": "Upright Cable Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Grasp a straight bar cable attachment that is attached to a low pulley with a pronated (palms facing your thighs) grip that is slightly less than shoulder width. The bar should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
+    "Use your side shoulders to lift the cable bar as you exhale. The bar should be close to the body as you move it up. Continue to lift it until it nearly touches your chin. Tip: Your elbows should drive the motion. As you lift the bar, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Podciąganie drążka wyciągu wzdłuż tułowia",
+  "instructions_pl": [
+    "Chwyć prosty drążek wyciągu dolnego nachwytem (dłonie skierowane w stronę ud) na szerokość nieco mniejszą niż barki. Drążek powinien spoczywać na udach. Ramiona powinny być wyprostowane z lekkim zgięciem w łokciach, a plecy proste. To będzie Twoja pozycja początkowa.",
+    "Użyj bocznych aktonów mięśni naramiennych, aby podnieść drążek wyciągu, wykonując wydech. Drążek powinien znajdować się blisko ciała podczas ruchu w górę. Kontynuuj podnoszenie, aż prawie dotknie podbródka. Wskazówka: Ruch powinien być prowadzony przez łokcie. Podczas podnoszenia drążka, łokcie powinny zawsze znajdować się wyżej niż przedramiona. Ponadto, utrzymuj tułów nieruchomo i zatrzymaj się na sekundę w szczytowym punkcie ruchu.",
+    "Powoli opuść drążek z powrotem do pozycji początkowej. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Aufrechtes Rudern am Kabelzug",
+  "instructions_de": [
+    "Fassen Sie eine gerade Kabelzugstange, die an einem unteren Kabelzug befestigt ist, mit einem pronatierten Griff (Handflächen zeigen zu Ihren Oberschenkeln) an, der etwas enger als schulterbreit ist. Die Stange sollte auf Ihren Oberschenkeln aufliegen. Ihre Arme sollten gestreckt sein, mit einer leichten Beugung in den Ellbogen, und Ihr Rücken sollte gerade sein. Dies ist Ihre Ausgangsposition.",
+    "Setzen Sie Ihre seitlichen Deltamuskeln ein, um die Kabelzugstange beim Ausatmen anzuheben. Die Stange sollte beim Anheben nah am Körper geführt werden. Heben Sie sie weiter an, bis sie fast Ihr Kinn berührt. Tipp: Ihre Ellbogen sollten die Bewegung anführen. Beim Anheben der Stange sollten Ihre Ellbogen immer höher als Ihre Unterarme sein. Halten Sie außerdem Ihren Rumpf stabil und halten Sie am oberen Punkt der Bewegung eine Sekunde inne.",
+    "Senken Sie die Stange langsam zurück in die Ausgangsposition ab. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskeln"
+  ],
+  "category_de": "Kraft"
+}

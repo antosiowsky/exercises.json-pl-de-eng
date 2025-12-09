@@ -1,0 +1,56 @@
+{
+  "name": "Hyperextensions With No Hyperextension Bench",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "With someone holding down your legs, slide yourself down to the edge a flat bench until your hips hang off the end of the bench. Tip: Your entire upper body should be hanging down towards the floor. Also, you will be in the same position as if you were on a hyperextension bench but the range of motion will be shorter due to the height of the flat bench vs. that of the hyperextension bench.",
+    "With your body straight, cross your arms in front of you (my preference) or behind your head. This will be your starting position. Tip: You can also hold a weight plate for extra resistance in front of you under your crossed arms.",
+    "Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you almost touch the floor or you feel a nice stretch on the hamstrings (whichever comes first). Tip: Never round the back as you perform this exercise.",
+    "Slowly raise your torso back to the initial position as you exhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Przeprosty bez ławki do przeprostów",
+  "instructions_pl": [
+    "Poproś kogoś o przytrzymanie nóg, a następnie przesuń się do krawędzi płaskiej ławki, aż twoje biodra znajdą się poza jej końcem. Wskazówka: Cały twój tułów powinien swobodnie zwisać w kierunku podłogi. Będziesz w tej samej pozycji, jak na ławce do przeprostów, jednak zakres ruchu będzie krótszy ze względu na wysokość płaskiej ławki w porównaniu do ławki do przeprostów.",
+    "Z wyprostowanym tułowiem skrzyżuj ramiona przed sobą (moja preferencja) lub za głową. Będzie to twoja pozycja wyjściowa. Wskazówka: Możesz również trzymać talerz obciążeniowy dla dodatkowego oporu przed sobą, pod skrzyżowanymi ramionami.",
+    "Zacznij powoli pochylać się do przodu w pasie, tak daleko, jak potrafisz, zachowując płaski kręgosłup. Wykonując ten ruch, zrób wdech. Kontynuuj ruch w przód, aż prawie dotkniesz podłogi lub poczujesz przyjemne rozciąganie w mięśniach dwugłowych uda (co nastąpi pierwsze). Wskazówka: Nigdy nie zaokrąglaj pleców podczas wykonywania tego ćwiczenia.",
+    "Powoli unieś tułów z powrotem do pozycji wyjściowej, robiąc wydech. Wskazówka: Unikaj pokusy wyginania pleców poza linię prostą. Ponadto, nigdy nie kołysz tułowiem, aby chronić plecy przed kontuzją.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie dwugłowe uda"
+  ],
+  "category_pl": "siła",
+  "name_de": "Hyperextensionen ohne Hyperextensionsbank",
+  "instructions_de": [
+    "Lassen Sie Ihre Beine von jemandem festhalten und rutschen Sie auf einer Flachbank so weit nach vorne, bis Ihre Hüften über das Ende der Bank hinausragen. Tipp: Ihr gesamter Oberkörper sollte zum Boden hängen. Sie befinden sich in der gleichen Position wie auf einer Hyperextensionsbank, jedoch ist der Bewegungsumfang aufgrund der Höhe der Flachbank im Vergleich zu einer Hyperextensionsbank kürzer.",
+    "Halten Sie Ihren Körper gerade und verschränken Sie Ihre Arme vor sich (meine Präferenz) oder legen Sie sie hinter Ihren Kopf. Dies ist Ihre Ausgangsposition. Tipp: Für zusätzlichen Widerstand können Sie auch eine Hantelscheibe vor sich unter den verschränkten Armen halten.",
+    "Beginnen Sie, sich langsam aus der Taille so weit wie möglich nach vorne zu beugen, wobei Sie Ihren Rücken flach halten. Atmen Sie während dieser Bewegung ein. Beugen Sie sich weiter nach vorne, bis Sie fast den Boden berühren oder eine gute Dehnung in der Ischiocruralen Muskulatur spüren (je nachdem, was zuerst eintritt). Tipp: Runden Sie niemals den Rücken während dieser Übung.",
+    "Heben Sie Ihren Oberkörper langsam in die Ausgangsposition zurück, während Sie ausatmen. Tipp: Vermeiden Sie die Versuchung, den Rücken über eine gerade Linie hinaus zu überstrecken. Schwingen Sie den Oberkörper zu keinem Zeitpunkt, um den Rücken vor Verletzungen zu schützen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

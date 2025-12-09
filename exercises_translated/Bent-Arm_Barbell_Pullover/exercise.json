@@ -1,0 +1,62 @@
+{
+  "name": "Bent-Arm Barbell Pullover",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on a flat bench with a barbell using a shoulder grip width.",
+    "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",
+    "While keeping your arms in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
+    "At that point, bring the barbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
+    "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przenoszenie sztangi ze zgiętymi ramionami",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, trzymając sztangę chwytem na szerokość barków.",
+    "Trzymaj sztangę prosto nad klatką piersiową, utrzymując zgięcie w ramionach. Będzie to twoja pozycja wyjściowa.",
+    "Utrzymując ramiona w pozycji zgiętej, powoli opuszczaj ciężar po łuku za głowę, wykonując wdech, aż poczujesz rozciąganie w mięśniach klatki piersiowej.",
+    "W tym momencie, wróć ze sztangą do pozycji wyjściowej, poruszając się po tym samym łuku, po którym ciężar został opuszczony, i wykonaj wydech podczas wykonywania tego ruchu.",
+    "Przytrzymaj ciężar w pozycji początkowej przez sekundę i powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Überzug mit gebeugten Armen",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank und fassen Sie eine Langhantel im schulterbreiten Griff.",
+    "Halten Sie die Hantel mit gebeugten Armen gerade über Ihrer Brust. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Arme in der gebeugten Position und senken Sie das Gewicht langsam in einem Bogen hinter Ihren Kopf ab, während Sie einatmen, bis Sie eine Dehnung im Brustbereich spüren.",
+    "Führen Sie die Langhantel dann auf demselben Bogen, auf dem das Gewicht abgesenkt wurde, in die Ausgangsposition zurück und atmen Sie während dieser Bewegung aus.",
+    "Halten Sie das Gewicht eine Sekunde lang in der Ausgangsposition und wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

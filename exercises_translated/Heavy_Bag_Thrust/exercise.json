@@ -1,0 +1,53 @@
+{
+  "name": "Heavy Bag Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Utilize a heavy bag for this exercise. Assume an upright stance next to the bag, with your feet staggered, fairly wide apart. Place your hand on the bag at about chest height. This will be your starting position.",
+    "Begin by twisting at the waist, pushing the bag forward as hard as possible. Perform this move quickly, pushing the bag away from your body.",
+    "Receive the bag as it swings back by reversing these steps."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pchnięcie worka treningowego",
+  "instructions_pl": [
+    "Do tego ćwiczenia wykorzystaj worek treningowy. Przyjmij wyprostowaną postawę obok worka, ze stopami ustawionymi w pozycji wykrocznej, dość szeroko rozstawionymi. Połóż dłoń na worku na wysokości klatki piersiowej. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij, wykonując skręt w talii, pchając worek do przodu z maksymalną siłą. Wykonaj ten ruch szybko, odpychając worek od ciała.",
+    "Przyjmij worek, gdy wraca, odwracając te kroki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Sandsackstoß",
+  "instructions_de": [
+    "Verwenden Sie für diese Übung einen Sandsack. Stellen Sie sich aufrecht neben den Sandsack, wobei Ihre Füße versetzt und relativ weit auseinander stehen. Legen Sie Ihre Hand auf den Sandsack, etwa auf Brusthöhe. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie sich aus der Taille drehen und den Sandsack so kräftig wie möglich nach vorne stoßen. Führen Sie diese Bewegung schnell aus und stoßen Sie den Sandsack von Ihrem Körper weg.",
+    "Fangen Sie den zurückschwingenden Sandsack ab, indem Sie die Bewegung umkehren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

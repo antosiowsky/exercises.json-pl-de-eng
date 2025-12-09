@@ -1,0 +1,53 @@
+{
+  "name": "Seated Barbell Military Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Sit on a Military Press Bench with a bar behind your head and either have a spotter give you the bar (better on the rotator cuff this way) or pick it up yourself carefully with a pronated grip (palms facing forward). Tip: Your grip should be wider than shoulder width and it should create a 90-degree angle between the forearm and the upper arm as the barbell goes down.",
+    "Once you pick up the barbell with the correct grip length, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
+    "Lower the bar down to the collarbone slowly as you inhale.",
+    "Lift the bar back up to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi zza głowy siedząc",
+  "instructions_pl": [
+    "Usiądź na ławce do wyciskania żołnierskiego ze sztangą za głową i poproś osobę asekurującą o podanie sztangi (jest to korzystniejsze dla stożka rotatorów) lub ostrożnie podnieś ją samodzielnie chwytem pronowanym (dłonie skierowane do przodu). Wskazówka: Twój chwyt powinien być szerszy niż szerokość barków i powinien tworzyć kąt 90 stopni między przedramieniem a ramieniem, gdy sztanga jest opuszczana.",
+    "Gdy już podniesiesz sztangę z odpowiednią szerokością chwytu, unieś ją nad głowę, prostując ramiona. Utrzymaj ją na wysokości barków i nieznacznie przed głową. To jest Twoja pozycja początkowa.",
+    "Powoli opuść sztangę do obojczyków, wykonując wdech.",
+    "Unieś sztangę z powrotem do pozycji początkowej, wykonując wydech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Sitzende Langhantel-Military Press",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Military-Press-Bank mit einer Langhantel hinter Ihrem Kopf und lassen Sie sich entweder die Langhantel von einem Spotter reichen (dies ist schonender für die Rotatorenmanschette) oder nehmen Sie sie selbst vorsichtig mit einem Pronationsgriff auf (Handflächen zeigen nach vorne). Tipp: Ihr Griff sollte breiter als schulterbreit sein und beim Absenken der Langhantel einen 90-Grad-Winkel zwischen Unterarm und Oberarm bilden.",
+    "Sobald Sie die Langhantel mit der korrekten Griffbreite aufgenommen haben, heben Sie die Langhantel durch Strecken der Arme über Ihren Kopf. Halten Sie sie auf etwa Schulterhöhe und leicht vor Ihrem Kopf. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Langhantel langsam bis zum Schlüsselbein ab, während Sie einatmen.",
+    "Heben Sie die Langhantel beim Ausatmen zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

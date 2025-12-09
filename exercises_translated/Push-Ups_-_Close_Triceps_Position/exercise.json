@@ -1,0 +1,53 @@
+{
+  "name": "Push-Ups - Close Triceps Position",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompki - Wąska pozycja tricepsowa",
+  "instructions_pl": [
+    "Połóż się na podłodze twarzą w dół i ułóż dłonie bliżej niż szerokość barków, przyjmując wąskie ułożenie dłoni. Upewnij się, że utrzymujesz tułów uniesiony na wyprostowanych ramionach.",
+    "Opuść ciało, aż klatka piersiowa prawie dotknie podłogi, wykonując wdech.",
+    "Używając mięśni trójgłowych ramion i częściowo mięśni piersiowych, unieś górną część ciała z powrotem do pozycji początkowej i napnij mięśnie klatki piersiowej. Wykonaj wydech podczas wykonywania tego ruchu.",
+    "Po sekundowej pauzie w pozycji maksymalnego skurczu, powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Liegestütze – Enge Trizepsposition",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf den Boden und platzieren Sie Ihre Hände enger als schulterbreit für eine enge Griffposition. Achten Sie darauf, dass Sie Ihren Oberkörper mit ausgestreckten Armen hochhalten.",
+    "Senken Sie sich ab, bis Ihre Brust fast den Boden berührt, während Sie einatmen.",
+    "Unter Einsatz Ihrer Trizepsmuskulatur und eines Teils Ihrer Musculi pectorales drücken Sie Ihren Oberkörper zurück in die Ausgangsposition und spannen Ihre Brust an. Atmen Sie aus, während Sie diesen Schritt ausführen.",
+    "Nach einer einsekündigen Pause in der kontrahierten Position wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

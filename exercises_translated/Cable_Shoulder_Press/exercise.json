@@ -1,0 +1,50 @@
+{
+  "name": "Cable Shoulder Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Move the cables to the bottom of the towers and select an appropriate weight.",
+    "Stand directly in between the uprights. Grasp the cables and hold them at shoulder height, palms facing forward. This will be your starting position.",
+    "Keeping your head and chest up, extend through the elbow to press the handles directly over head.",
+    "After pausing at the top, return to the starting position and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyciskanie barków na wyciągu",
+  "instructions_pl": [
+    "Ustaw linki wyciągu w dolnej pozycji i wybierz odpowiednie obciążenie.",
+    "Stań dokładnie pomiędzy pionowymi słupkami. Chwyć linki wyciągu i trzymaj je na wysokości barków, dłońmi skierowanymi do przodu. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując głowę i klatkę piersiową uniesione, wyprostuj ramiona w łokciach, aby wycisnąć uchwyty bezpośrednio nad głowę.",
+    "Po krótkiej pauzie w górnej pozycji, wróć do pozycji początkowej i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kabel-Schulterdrücken",
+  "instructions_de": [
+    "Stellen Sie die Kabel an den unteren Anschlag der Türme ein und wählen Sie ein passendes Gewicht.",
+    "Stellen Sie sich direkt zwischen die Kabelzugtürme. Fassen Sie die Kabel und halten Sie sie auf Schulterhöhe, die Handflächen zeigen nach vorne. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Kopf und Brust aufrecht und strecken Sie die Arme in den Ellenbogen, um die Griffe direkt über den Kopf zu drücken.",
+    "Nach einer kurzen Pause am höchsten Punkt kehren Sie in die Ausgangsposition zurück und wiederholen die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

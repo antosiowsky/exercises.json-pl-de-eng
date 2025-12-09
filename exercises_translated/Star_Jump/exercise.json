@@ -1,0 +1,56 @@
+{
+  "name": "Star Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+    "To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body.",
+    "As you land, bring your limbs back in and absorb your impact through the legs."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok gwiazda",
+  "instructions_pl": [
+    "Rozpocznij w swobodnej postawie, ze stopami rozstawionymi na szerokość barków i ramionami trzymanymi blisko ciała.",
+    "Aby zainicjować ruch, przysiądź do połowy, a następnie wybij się dynamicznie w górę tak wysoko, jak to możliwe. Całkowicie wyprostuj całe ciało, rozszerzając nogi i ramiona od ciała.",
+    "Podczas lądowania, przyciągnij kończyny z powrotem i zamortyzuj uderzenie nogami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Sternsprung",
+  "instructions_de": [
+    "Nehmen Sie eine entspannte Ausgangsposition ein, die Füße schulterbreit auseinander und die Arme eng am Körper.",
+    "Zur Einleitung der Bewegung gehen Sie halb in die Hocke und springen Sie explosiv so hoch wie möglich nach oben. Strecken Sie Ihren gesamten Körper vollständig aus, indem Sie Beine und Arme vom Körper wegspreizen.",
+    "Beim Landen führen Sie Ihre Gliedmaßen wieder zusammen und federn Sie den Aufprall mit den Beinen ab."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

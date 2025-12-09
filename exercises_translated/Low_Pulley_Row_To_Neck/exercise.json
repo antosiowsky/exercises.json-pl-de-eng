@@ -1,0 +1,59 @@
+{
+  "name": "Low Pulley Row To Neck",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Sit on a low pulley row machine with a rope attachment.",
+    "Grab the ends of the rope using a palms-down grip and sit with your back straight and your knees slightly bent. Tip: Keep your back almost completely vertical and your arms fully extended in front of you. This will be your starting position.",
+    "While keeping your torso stationary, lift your elbows and start bending them as you pull the rope towards your neck while exhaling. Throughout the movement your upper arms should remain parallel to the floor. Tip: Continue this motion until your hands are almost next to your ears (the forearms will not be parallel to the floor at the end of the movement as they will be angled a bit upwards) and your elbows are out away from your sides.",
+    "After holding for a second or so at the contracted position, come back slowly to the starting position as you inhale. Tip: Again, during no part of the movement should the torso move.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie na wyciągu dolnym do szyi",
+  "instructions_pl": [
+    "Usiądź na maszynie do wiosłowania na wyciągu dolnym z uchwytem linowym.",
+    "Chwyć końce liny nachwytem (dłońmi skierowanymi w dół) i usiądź z prostymi plecami oraz lekko ugiętymi kolanami. Wskazówka: Utrzymuj plecy niemal całkowicie pionowo, a ramiona w pełni wyprostowane przed sobą. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując tułów nieruchomo, unieś łokcie i zacznij je zginać, jednocześnie przyciągając linę w kierunku szyi podczas wydechu. Przez cały ruch Twoje ramiona (kości ramienne) powinny pozostać równoległe do podłogi. Wskazówka: Kontynuuj ten ruch, aż Twoje dłonie znajdą się niemal obok uszu (przedramiona nie będą równoległe do podłogi na końcu ruchu, ponieważ będą lekko skierowane w górę), a łokcie będą skierowane na zewnątrz, z dala od boków ciała.",
+    "Po przytrzymaniu przez około sekundę w pozycji maksymalnego skurczu, powoli wróć do pozycji początkowej podczas wdechu. Wskazówka: Ponownie, tułów nie powinien poruszać się w żadnym momencie ruchu.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części pleców",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Rudern am tiefen Kabelzug zum Nacken",
+  "instructions_de": [
+    "Setzen Sie sich an eine Rudermaschine mit tiefem Kabelzug und befestigen Sie einen Seilgriff.",
+    "Fassen Sie die Enden des Seils im Obergriff und setzen Sie sich mit geradem Rücken und leicht gebeugten Knien hin. Tipp: Halten Sie Ihren Rücken nahezu vollständig aufrecht und Ihre Arme vollständig vor sich ausgestreckt. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihren Oberkörper stabil, heben Sie Ihre Ellbogen an und beginnen Sie, diese zu beugen, während Sie das Seil beim Ausatmen in Richtung Ihres Nackens ziehen. Während der gesamten Bewegung sollten Ihre Oberarme parallel zum Boden bleiben. Tipp: Führen Sie diese Bewegung fort, bis Ihre Hände fast neben Ihren Ohren sind (die Unterarme werden am Ende der Bewegung nicht parallel zum Boden sein, da sie leicht nach oben angewinkelt sein werden) und Ihre Ellbogen seitlich vom Körper abgespreizt sind.",
+    "Nachdem Sie die kontrahierte Position für etwa eine Sekunde gehalten haben, kehren Sie beim Einatmen langsam in die Ausgangsposition zurück. Tipp: Auch hier sollte sich der Oberkörper während keiner Phase der Bewegung bewegen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculi rhomboidei",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

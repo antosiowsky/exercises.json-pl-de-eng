@@ -1,0 +1,59 @@
+{
+  "name": "Alternating Renegade Row",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest",
+    "lats",
+    "triceps"
+  ],
+  "instructions": [
+    "Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.",
+    "Push one kettlebell into the floor and row the other kettlebell, retracting the shoulder blade of the working side as you flex the elbow, pulling it to your side.",
+    "Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Naprzemienne Wiosłowanie Renegata",
+  "instructions_pl": [
+    "Ułóż dwa kettlebelle na podłodze w odległości mniej więcej na szerokość barków. Przyjmij pozycję na palcach stóp i dłoniach, jak do pompki, z ciałem prostym i wyprostowanym. Użyj uchwytów kettlebelli do podparcia górnej części ciała. Może być konieczne szerokie rozstawienie stóp dla lepszej stabilizacji.",
+    "Wciśnij jeden kettlebell w podłogę i wykonaj wiosłowanie drugim kettlebellem, retraktując łopatkę po stronie pracującej, jednocześnie zginając łokieć i przyciągając go do boku tułowia.",
+    "Następnie opuść kettlebell na podłogę i rozpocznij ruch kettlebellem w przeciwnej dłoni. Powtórz przez kilka powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięsień dwugłowy ramienia",
+    "Mięśnie klatki piersiowej",
+    "Mięsień najszerszy grzbietu",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Alternierendes Renegade-Rudern",
+  "instructions_de": [
+    "Platziere zwei Kettlebells schulterbreit auf dem Boden. Begib dich in eine Liegestützposition auf Zehenspitzen und Händen, wobei der Körper gerade und gestreckt ist. Nutze die Griffe der Kettlebells, um deinen Oberkörper zu stützen. Möglicherweise musst du deine Füße für mehr Stabilität weiter auseinanderstellen.",
+    "Drücke eine Kettlebell fest in den Boden und rudere mit der anderen Kettlebell, indem du das Schulterblatt der arbeitenden Seite zurückziehst, während du den Ellbogen beugst und die Kettlebell zur Seite ziehst.",
+    "Senke anschließend die Kettlebell zum Boden ab und beginne die Bewegung mit der Kettlebell in der gegenüberliegenden Hand. Wiederhole dies für mehrere Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculus biceps brachii",
+    "Musculus pectoralis major",
+    "Musculus latissimus dorsi",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

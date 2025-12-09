@@ -1,0 +1,50 @@
+{
+  "name": "Elliptical Trainer",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, step onto the elliptical and select the desired option from the menu. Most ellipticals have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Trenażer eliptyczny",
+  "instructions_pl": [
+    "Aby rozpocząć, wejdź na trenażer eliptyczny i wybierz żądaną opcję z menu. Większość trenażerów eliptycznych posiada ustawienie manualne lub możesz wybrać program treningowy. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować liczbę spalonych kalorii podczas ćwiczeń. Nachylenie można regulować, aby zmienić intensywność treningu.",
+    "Uchwyty mogą być używane do monitorowania tętna, aby pomóc Ci utrzymać odpowiednią intensywność."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "cardio",
+  "name_de": "Ellipsentrainer",
+  "instructions_de": [
+    "Um zu beginnen, steigen Sie auf den Ellipsentrainer und wählen Sie die gewünschte Option aus dem Menü. Die meisten Ellipsentrainer verfügen über eine manuelle Einstellung, oder Sie können ein Programm auswählen. In der Regel können Sie Ihr Alter und Gewicht eingeben, um die während des Trainings verbrannten Kalorien zu schätzen. Der Widerstand kann angepasst werden, um die Intensität des Trainings zu variieren.",
+    "Die Griffe können verwendet werden, um Ihre Herzfrequenz zu überwachen, um Ihnen zu helfen, eine angemessene Intensität beizubehalten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Cardio"
+}

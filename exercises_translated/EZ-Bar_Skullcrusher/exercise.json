@@ -1,0 +1,50 @@
+{
+  "name": "EZ-Bar Skullcrusher",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Using a close grip, lift the EZ bar and hold it with your elbows in as you lie on the bench. Your arms should be perpendicular to the floor. This will be your starting position.",
+    "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
+    "Lift the bar back to the starting position by extending the elbow and exhaling.",
+    "Repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Wyciskanie francuskie sztangą łamaną EZ",
+  "instructions_pl": [
+    "Leżąc na ławce, chwytem wąskim unieś sztangę łamaną EZ i trzymaj ją, utrzymując łokcie blisko ciała. Twoje ramiona powinny być prostopadłe do podłogi. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, opuść sztangę, zginając łokcie. Wykonując tę fazę ruchu, zrób wdech. Zatrzymaj ruch, gdy sztanga znajdzie się bezpośrednio nad czołem.",
+    "Unieś sztangę z powrotem do pozycji wyjściowej, prostując łokcie i wykonując wydech.",
+    "Powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "EZ-Stange Skullcrusher",
+  "instructions_de": [
+    "Lege dich auf die Bank. Fasse die EZ-Stange im engen Griff, hebe sie an und halte sie mit eng anliegenden Ellbogen, sodass deine Oberarme senkrecht zum Boden stehen. Dies ist deine Ausgangsposition.",
+    "Halte die Oberarme fixiert und senke die Stange, indem du die Ellbogen beugst. Atme während dieses Teils der Bewegung ein. Mache eine kurze Pause, sobald sich die Stange direkt über deiner Stirn befindet.",
+    "Hebe die Stange durch Strecken der Ellbogen zurück in die Ausgangsposition, während du ausatmest.",
+    "Wiederhole die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Step Mill",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, step onto the stepmill and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Use caution so that you don't trip as you climb the stairs. It is recommended that you maintain your grip on the handles so that you don't fall.",
+    "Stepmills offer convenience, cardiovascular benefits, and usually have less impact than running outside while offering a similar rate of calories burned. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Symulator schodów",
+  "instructions_pl": [
+    "Aby rozpocząć, wejdź na symulator schodów i wybierz żądaną opcję z menu. Możesz wybrać ustawienie manualne lub program do wykonania. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować liczbę spalonych kalorii podczas ćwiczenia. Zachowaj ostrożność, aby nie potknąć się podczas wchodzenia po schodach. Zaleca się utrzymywanie uchwytu na poręczach, aby zapobiec upadkowi.",
+    "Symulatory schodów oferują wygodę, korzyści sercowo-naczyniowe i zazwyczaj charakteryzują się mniejszym obciążeniem stawów niż bieganie na zewnątrz, jednocześnie zapewniając podobną liczbę spalonych kalorii. Są zazwyczaj znacznie trudniejsze niż inne urządzenia kardio. Osoba ważąca 150 funtów spali zazwyczaj ponad 300 kalorii w ciągu 30 minut, w porównaniu do około 175 kalorii podczas spaceru."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzuchate łydki",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trening kardio",
+  "name_de": "Treppensteiger",
+  "instructions_de": [
+    "Um zu beginnen, steigen Sie auf den Treppensteiger und wählen Sie die gewünschte Option aus dem Menü. Sie können eine manuelle Einstellung wählen oder ein Programm starten. Typischerweise können Sie Ihr Alter und Gewicht eingeben, um die während des Trainings verbrannten Kalorien zu schätzen. Seien Sie vorsichtig, um nicht zu stolpern, während Sie die Treppe hinaufsteigen. Es wird empfohlen, sich an den Griffen festzuhalten, um nicht zu stürzen.",
+    "Treppensteiger bieten Komfort, kardiovaskuläre Vorteile und haben in der Regel eine geringere Belastung als Laufen im Freien, während sie einen ähnlichen Kalorienverbrauch ermöglichen. Sie sind typischerweise viel anstrengender als andere Kardiogeräte. Eine Person von 150 lb verbrennt typischerweise über 300 Kalorien in 30 Minuten, verglichen mit etwa 175 Kalorien beim Gehen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Ausdauertraining"
+}

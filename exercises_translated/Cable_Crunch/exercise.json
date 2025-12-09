@@ -1,0 +1,50 @@
+{
+  "name": "Cable Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Kneel below a high pulley that contains a rope attachment.",
+    "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
+    "Flex your hips slightly and allow the weight to hyperextend the lower back. This will be your starting position.",
+    "With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second.",
+    "Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Spięcie brzucha na wyciągu",
+  "instructions_pl": [
+    "Uklęknij pod wysokim wyciągiem, do którego przymocowany jest uchwyt linowy.",
+    "Chwyć uchwyt linowy wyciągu i opuść linkę, aż dłonie znajdą się obok twarzy.",
+    "Lekko ugnij biodra i pozwól, aby ciężar spowodował przeprost w odcinku lędźwiowym kręgosłupa. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując biodra nieruchomo, zegnij tułów w pasie, jednocześnie napinając mięśnie brzucha, tak aby łokcie przemieściły się w kierunku środka ud. Wykonaj wydech podczas tej fazy ruchu i przytrzymaj spięcie przez sekundę.",
+    "Powoli wróć do pozycji początkowej, wykonując wdech. Wskazówka: Upewnij się, że utrzymujesz stałe napięcie mięśni brzucha przez cały ruch. Ponadto, nie wybieraj zbyt dużego ciężaru, aby odcinek lędźwiowy kręgosłupa nie przejmował większości pracy.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabelzug-Crunches",
+  "instructions_de": [
+    "Knien Sie unter einem hohen Kabelzug mit Seilgriff.",
+    "Fassen Sie den Seilgriff des Kabelzugs und senken Sie das Seil ab, bis sich Ihre Hände neben Ihrem Gesicht befinden.",
+    "Beugen Sie Ihre Hüften leicht an und lassen Sie das Gewicht den unteren Rücken leicht überstrecken. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Hüften stabil und beugen Sie den Rumpf, während Sie die Bauchmuskeln anspannen, sodass die Ellbogen in Richtung der Mitte Ihrer Oberschenkel wandern. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen. Tipp: Achten Sie darauf, während der gesamten Bewegung eine konstante Spannung auf den Bauchmuskeln zu halten. Wählen Sie außerdem kein Gewicht, das so schwer ist, dass der untere Rücken die Hauptlast der Arbeit trägt.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Krafttraining"
+}

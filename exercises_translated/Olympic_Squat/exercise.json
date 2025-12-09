@@ -1,0 +1,53 @@
+{
+  "name": "Olympic Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin with a barbell supported on top of the traps. The chest should be up, and the head facing forward. Adopt a hip width stance with the feet turned out as needed.",
+    "Descend by flexing the knees, refraining from moving the hips back as much as possible. This requires that the knees travel forward; ensure that they stay aligned with the feet. The goal is to keep the torso as upright as possible. Continue all the way down, keeping the weight on the front of the heel.",
+    "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad Olimpijski",
+  "instructions_pl": [
+    "Rozpocznij z gryfem opartym na górnej części mięśni czworobocznych. Klatka piersiowa powinna być uniesiona, a głowa skierowana do przodu. Przyjmij rozstaw stóp na szerokość bioder, ze stopami skierowanymi na zewnątrz w zależności od potrzeb.",
+    "Zejdź w dół, uginając kolana i w miarę możliwości powstrzymując się od cofania bioder. Wymaga to wysunięcia kolan do przodu; upewnij się, że pozostają one w jednej linii ze stopami. Celem jest utrzymanie tułowia w pozycji jak najbardziej pionowej. Kontynuuj ruch w dół, utrzymując ciężar na przedniej części pięty.",
+    "W momencie, gdy uda stykają się z podudziami, odwróć ruch, wypychając ciężar w górę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Olympische Kniebeuge",
+  "instructions_de": [
+    "Beginnen Sie mit einer Langhantel, die auf dem oberen Teil des Musculus trapezius aufliegt. Die Brust sollte aufgerichtet und der Kopf nach vorne gerichtet sein. Nehmen Sie einen hüftbreiten Stand ein, wobei die Füße nach Bedarf leicht nach außen gedreht sind.",
+    "Gehen Sie in die Hocke, indem Sie die Knie beugen, wobei Sie versuchen, die Hüften so wenig wie möglich nach hinten zu bewegen. Dies erfordert, dass die Knie nach vorne wandern; stellen Sie sicher, dass sie mit den Füßen ausgerichtet bleiben. Ziel ist es, den Oberkörper so aufrecht wie möglich zu halten. Gehen Sie ganz nach unten, wobei das Gewicht auf dem vorderen Fersenbereich bleibt.",
+    "Sobald die Oberschenkel die Unterschenkel berühren, kehren Sie die Bewegung um und drücken Sie das Gewicht nach oben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Single-Arm Linear Jammer",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
+    "Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.",
+    "Perform the movement by extending the elbow, pressing the weight up. Move explosively, extending the hips and knees fully to produce maximal force.",
+    "Return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Jednoramienny Jammer Liniowy",
+  "instructions_pl": [
+    "Umieść sztangę w uchwycie typu landmine lub bezpiecznie zakotwicz ją w rogu. Załaduj sztangę odpowiednim ciężarem.",
+    "Podnieś sztangę z podłogi, przenosząc ją na wysokość barków jedną lub obiema rękami. Przyjmij szeroki rozkrok. Będzie to Twoja pozycja startowa.",
+    "Wykonaj ruch, prostując łokieć i wyciskając ciężar w górę. Poruszaj się eksplozywnie, w pełni prostując biodra i kolana, aby wytworzyć maksymalną siłę.",
+    "Wróć do pozycji startowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie piersiowe",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiger Linear Jammer",
+  "instructions_de": [
+    "Platziere eine Langhantel in einem Landmine-Aufsatz oder verankere sie sicher in einer Ecke. Lade die Hantel mit einem angemessenen Gewicht.",
+    "Hebe die Hantel vom Boden und bringe sie mit einer oder beiden Händen auf Schulterhöhe. Nimm einen breiten Stand ein. Dies ist deine Ausgangsposition.",
+    "Führe die Bewegung aus, indem du den Ellbogen streckst und das Gewicht nach oben drückst. Bewege dich explosiv, strecke die Hüften und Knie vollständig, um maximale Kraft zu erzeugen.",
+    "Kehre in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Smith Machine Reverse Calf Raises",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
+    "Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.",
+    "Now, place your shoulders under the barbell while maintaining the foot positioning described and push the barbell up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. This will be your starting position. Tip: The barbell on your back is only for balance purposes.",
+    "Raise the balls of your feet as you breathe out by extending your toes as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position for a second before you start to go back down.",
+    "Slowly go back down to the starting position as you breathe in by lowering the balls of your feet and toes.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Maszyna Smitha: Odwrotne wspięcia łydek",
+  "instructions_pl": [
+    "Dostosuj sztangę na maszynie Smitha do swojego wzrostu i ustaw podwyższoną platformę bezpośrednio pod sztangą.",
+    "Stań na platformie, tak aby pięty były stabilnie oparte na niej, a przednia część stóp (śródstopie) wystawała poza jej krawędź. Ustaw palce stóp skierowane do przodu, zachowując rozstaw na szerokość barków.",
+    "Następnie, umieść barki pod sztangą, zachowując opisaną pozycję stóp, i wypchnij sztangę w górę, prostując biodra i kolana, aż tułów znajdzie się w pozycji wyprostowanej. Kolana powinny być lekko ugięte; nigdy zablokowane. Będzie to Twoja pozycja wyjściowa. Wskazówka: Sztanga na plecach służy wyłącznie do utrzymania równowagi.",
+    "Unieś przednią część stóp (śródstopie) podczas wydechu, prostując palce stóp jak najwyżej i napinając mięsień piszczelowy przedni. Upewnij się, że kolano pozostaje nieruchome przez cały czas. Nie powinno być żadnego zginania. Przytrzymaj pozycję skurczu przez sekundę, zanim zaczniesz opuszczać ciężar.",
+    "Powoli wróć do pozycji wyjściowej podczas wdechu, opuszczając przednią część stóp (śródstopie) i palce.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Vordere Wadenheben an der Multipresse",
+  "instructions_de": [
+    "Stellen Sie die Langhantel an der Multipresse auf Ihre Körpergröße ein und platzieren Sie eine erhöhte Plattform direkt unter der Stange.",
+    "Stellen Sie sich auf die Plattform, wobei Ihre Fersen fest darauf stehen und die Fußballen über den Rand hinausragen. Richten Sie Ihre Zehen nach vorne aus in schulterbreitem Stand.",
+    "Legen Sie nun Ihre Schultern unter die Langhantel, wobei Sie die beschriebene Fußposition beibehalten, und drücken Sie die Langhantel nach oben, indem Sie Hüften und Knie strecken, bis Ihr Oberkörper aufrecht steht. Die Knie sollten leicht gebeugt bleiben; niemals durchgestreckt. Dies ist Ihre Ausgangsposition. Tipp: Die Langhantel auf Ihrem Rücken dient lediglich dem Gleichgewicht.",
+    "Heben Sie beim Ausatmen die Fußballen an, indem Sie Ihre Zehen so hoch wie möglich strecken und Ihre vordere Wadenmuskulatur kontrahieren. Achten Sie darauf, dass das Knie jederzeit stabil bleibt. Es sollte zu keiner Zeit eine Beugung erfolgen. Halten Sie die kontrahierte Position eine Sekunde lang, bevor Sie wieder nach unten gehen.",
+    "Gehen Sie beim Einatmen langsam in die Ausgangsposition zurück, indem Sie die Fußballen und Zehen senken.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

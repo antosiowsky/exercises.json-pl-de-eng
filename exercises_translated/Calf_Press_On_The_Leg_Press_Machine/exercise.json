@@ -1,0 +1,47 @@
+{
+  "name": "Calf Press On The Leg Press Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance.",
+    "Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you without locking your knees. (Note: In some leg press units you can leave the safety bars on for increased safety. If your leg press unit allows for this, then this is the preferred method of performing the exercise.) Your torso and the legs should make perfect 90-degree angle. Now carefully place your toes and balls of your feet on the lower portion of the platform with the heels extending off. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.",
+    "Press on the platform by raising your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+    "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie na łydki na suwnicy",
+  "instructions_pl": [
+    "Korzystając z suwnicy, usiądź na maszynie i umieść stopy na platformie bezpośrednio przed sobą w średnim rozstawie (na szerokość barków).",
+    "Opuść drążki zabezpieczające utrzymujące obciążoną platformę i wyciśnij platformę całkowicie w górę, aż nogi będą w pełni wyprostowane przed tobą, nie blokując kolan. (Uwaga: W niektórych suwnicach można pozostawić drążki zabezpieczające dla zwiększenia bezpieczeństwa. Jeśli twoja suwnica na to pozwala, jest to preferowana metoda wykonywania ćwiczenia.) Twój tułów i nogi powinny tworzyć idealny kąt 90 stopni. Teraz ostrożnie umieść palce stóp i śródstopie na dolnej części platformy, tak aby pięty wystawały poza nią. Palce stóp powinny być skierowane do przodu, na zewnątrz lub do wewnątrz, zgodnie z opisem na początku rozdziału. Będzie to twoja pozycja wyjściowa.",
+    "Naciśnij platformę, unosząc pięty podczas wydechu, poprzez maksymalne wyprostowanie stawów skokowych i napięcie mięśnia trójgłowego łydki. Upewnij się, że kolano pozostaje nieruchome przez cały czas. Nie powinno być żadnego zginania. Przytrzymaj pozycję skurczu przez sekundę, zanim zaczniesz opuszczać ciężar.",
+    "Powoli wróć do pozycji wyjściowej podczas wdechu, opuszczając pięty i zginając stawy skokowe, aż mięśnie łydki zostaną rozciągnięte.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Wadenpresse an der Beinpresse",
+  "instructions_de": [
+    "Nutzen Sie eine Beinpresse. Setzen Sie sich auf die Maschine und platzieren Sie Ihre Beine mit einem mittleren (schulterbreiten) Fußstand auf der Plattform direkt vor Ihnen.",
+    "Senken Sie die Sicherheitsriegel, die die beladene Plattform halten, und drücken Sie die Plattform ganz nach oben, bis Ihre Beine vollständig vor Ihnen gestreckt sind, ohne die Knie zu blockieren. (Hinweis: Bei einigen Beinpresseinheiten können die Sicherheitsriegel für erhöhte Sicherheit angebracht bleiben. Wenn Ihre Beinpresseinheit dies zulässt, ist dies die bevorzugte Ausführungsmethode der Übung.) Ihr Oberkörper und die Beine sollten einen perfekten 90-Grad-Winkel bilden. Platzieren Sie nun vorsichtig Ihre Zehen und Fußballen auf dem unteren Teil der Plattform, wobei die Fersen überstehen. Die Zehen sollten nach vorne, außen oder innen zeigen, wie zu Beginn des Kapitels beschrieben. Dies ist Ihre Ausgangsposition.",
+    "Drücken Sie auf die Plattform, indem Sie beim Ausatmen Ihre Fersen anheben, Ihre Sprunggelenke so hoch wie möglich strecken und Ihre Wadenmuskulatur anspannen. Achten Sie darauf, dass das Knie jederzeit stationär bleibt. Es sollte zu keiner Zeit eine Beugung erfolgen. Halten Sie die kontrahierte Position eine Sekunde lang, bevor Sie wieder nach unten gehen.",
+    "Kehren Sie beim Einatmen langsam in die Ausgangsposition zurück, indem Sie Ihre Fersen senken und dabei die Sprunggelenke beugen, bis die Wadenmuskulatur gedehnt ist.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

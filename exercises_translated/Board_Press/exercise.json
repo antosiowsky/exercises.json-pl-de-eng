@@ -1,0 +1,59 @@
+{
+  "name": "Board Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Begin by lying on the bench, getting your head beyond the bar if possible. One to five boards, made out of 2x6's, can be screwed together and held in place by a training partner, bands, or just tucked under your shirt.",
+    "Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
+    "You can take a standard bench grip, or shoulder width to focus on the triceps. Pull the bar out of the rack without protracting your shoulders. The bar, wrist, and elbow should stay in line at all times. Focus on squeezing the bar and trying to pull it apart.",
+    "Lower the bar to the boards, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie z deską",
+  "instructions_pl": [
+    "Rozpocznij, leżąc na ławce, umieszczając głowę za sztangą, jeśli to możliwe. Od jednej do pięciu desek, wykonanych z belek 2x6 cali, można skręcić razem i utrzymać na miejscu za pomocą partnera treningowego, gum oporowych lub po prostu wsunąć pod koszulkę.",
+    "Podwiń stopy pod siebie i wygnij plecy w łuk. Używając sztangi do podparcia ciężaru, unieś barki z ławki i cofnij je, ściskając łopatki razem. Użyj stóp, aby wcisnąć mięśnie czworoboczne w ławkę. Utrzymuj tę napiętą pozycję ciała przez cały ruch.",
+    "Możesz zastosować standardowy chwyt do wyciskania leżąc lub na szerokość barków, aby skupić się na mięśniach trójgłowych ramienia. Wyciągnij sztangę ze stojaków, nie wysuwając barków do przodu. Sztanga, nadgarstki i łokcie powinny pozostawać w jednej linii przez cały czas. Skup się na ściskaniu sztangi i próbie jej rozrywania.",
+    "Opuść sztangę do desek, a następnie wypchnij ją w górę z jak największą siłą. Łokcie powinny być schowane do ciała aż do pełnego wyprostu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie przedramion",
+    "mięśnie najszersze grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Brettdrücken",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf die Bank legen, wobei Ihr Kopf, wenn möglich, über die Stange hinausragt. Ein bis fünf Bretter, aus 2x6-Zoll-Holz gefertigt, können miteinander verschraubt und von einem Trainingspartner, Bändern oder einfach unter Ihrem Shirt gehalten werden.",
+    "Stellen Sie Ihre Füße unter sich und bilden Sie ein Hohlkreuz. Nutzen Sie die Stange, um Ihr Gewicht zu stützen, heben Sie Ihre Schultern von der Bank und ziehen Sie sie zurück, indem Sie die Schulterblätter zusammenziehen. Drücken Sie mit den Füßen Ihre Trapezmuskeln in die Bank. Behalten Sie diese feste Körperposition während der gesamten Bewegung bei.",
+    "Sie können einen Standard-Bankdrückgriff wählen oder schulterbreit greifen, um sich auf den Musculus triceps brachii zu konzentrieren. Heben Sie die Stange aus dem Rack, ohne Ihre Schultern zu protrahieren. Die Stange, das Handgelenk und der Ellbogen sollten jederzeit in einer Linie bleiben. Konzentrieren Sie sich darauf, die Stange fest zu umgreifen und zu versuchen, sie auseinanderzuziehen.",
+    "Senken Sie die Stange zu den Brettern und drücken Sie die Stange dann mit so viel Kraft wie möglich nach oben. Die Ellbogen sollten bis zur vollständigen Streckung eng am Körper bleiben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Unterarmmuskulatur",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraftdreikampf"
+}

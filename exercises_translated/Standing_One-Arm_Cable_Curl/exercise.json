@@ -1,0 +1,50 @@
+{
+  "name": "Standing One-Arm Cable Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
+    "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
+    "Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. Tip: Only the forearm should move.",
+    "Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms while performing this exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie przedramienia jednorącz z wyciągiem w pozycji stojącej",
+  "instructions_pl": [
+    "Rozpocznij od chwycenia pojedynczego uchwytu przy maszynie z niskim wyciągiem. Upewnij się, że stoisz wystarczająco daleko od maszyny, aby twoje ramię podtrzymywało ciężar.",
+    "Upewnij się, że twoje ramię jest nieruchome, prostopadle do podłogi, z łokciem przy ciele i dłonią skierowaną do przodu. Ramię, które nie wykonuje ćwiczenia, powinno chwytać się w pasie. Pozwoli to utrzymać równowagę.",
+    "Powoli zacznij uginać pojedynczy uchwyt w górę, utrzymując ramię nieruchomo, aż twoje przedramię dotknie mięśnia dwugłowego ramienia, wykonując wydech. Wskazówka: Poruszać powinno się tylko przedramię.",
+    "Przytrzymaj pozycję skurczu, ściskając mięsień dwugłowy ramienia, a następnie powoli opuść pojedynczy uchwyt z powrotem do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie dla zalecanej liczby powtórzeń.",
+    "Zmień ramiona podczas wykonywania tego ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Stehende einarmige Kabelcurls",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie einen Einzelgriff am unteren Kabelzuggerät fassen. Stellen Sie sicher, dass Sie weit genug vom Gerät entfernt stehen, sodass Ihr Arm das Gewicht trägt.",
+    "Stellen Sie sicher, dass Ihr Oberarm stationär und senkrecht zum Boden bleibt, die Ellenbogen eng am Körper und die Handfläche nach vorne zeigt. Ihr nicht arbeitender Arm sollte Ihre Taille umfassen, um das Gleichgewicht zu halten.",
+    "Beginnen Sie langsam, den Einzelgriff nach oben zu beugen, während der Oberarm stationär bleibt, bis Ihr Unterarm Ihren Bizeps berührt, während Sie ausatmen. Tipp: Nur der Unterarm sollte sich bewegen.",
+    "Halten Sie die Kontraktionsposition, während Sie den Bizeps anspannen, und senken Sie dann den Einzelgriff langsam zurück in die Ausgangsposition, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen.",
+    "Wechseln Sie die Arme während dieser Übung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

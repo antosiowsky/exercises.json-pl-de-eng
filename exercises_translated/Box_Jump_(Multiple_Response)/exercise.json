@@ -1,0 +1,59 @@
+{
+  "name": "Box Jump (Multiple Response)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",
+    "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
+    "Immediately drop or jump back down to the original starting place; then repeat the sequence."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok na skrzynię (Wielokrotne powtórzenie)",
+  "instructions_pl": [
+    "Przyjmij swobodną postawę przodem do skrzyni lub platformy, w odległości mniej więcej na wyciągnięcie ręki. Ramiona powinny być opuszczone wzdłuż tułowia, a nogi lekko ugięte.",
+    "Wykorzystując ramiona do wspomagania początkowego impulsu, wyskocz w górę i do przodu, lądując obiema stopami jednocześnie na skrzyni lub platformie.",
+    "Natychmiast zejdź lub zeskocz z powrotem do pierwotnej pozycji wyjściowej; następnie powtórz sekwencję."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięsień czworogłowy uda"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Box Jump (Mehrfachausführung)",
+  "instructions_de": [
+    "Nimm eine entspannte Grundposition mit Blick zur Box oder Plattform ein, etwa eine Armlänge entfernt. Die Arme sollten seitlich am Körper hängen und die Beine leicht gebeugt sein.",
+    "Nutze die Arme für den initialen Schwung, springe nach oben und vorne und lande mit beiden Füßen gleichzeitig auf der Box oder Plattform.",
+    "Springe oder steige sofort wieder in die ursprüngliche Ausgangsposition zurück; wiederhole dann die Abfolge."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Quadrizeps"
+  ],
+  "category_de": "Plyometrie"
+}

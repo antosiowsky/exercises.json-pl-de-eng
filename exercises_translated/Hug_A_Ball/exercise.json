@@ -1,0 +1,50 @@
+{
+  "name": "Hug A Ball",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Seat yourself on the floor.",
+    "Straddle an exercise ball between both legs and lower your hips down toward the floor.",
+    "Hug your arms around the ball to support your body. Adjust your legs so that your feet are flat on the floor and your knees line up over your ankles. Keep a good grip on the ball so it doesn't roll away from you and send you back onto your buttocks."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Przytulanie piłki",
+  "instructions_pl": [
+    "Usiądź na podłodze.",
+    "Rozkrocz się nad piłką gimnastyczną, umieszczając ją między nogami, i opuść biodra w kierunku podłogi.",
+    "Obejmij piłkę ramionami, aby podeprzeć ciało. Ustaw nogi tak, aby stopy płasko spoczywały na podłodze, a kolana znajdowały się w linii z kostkami. Utrzymuj pewny chwyt piłki, aby nie odtoczyła się i nie spowodowała upadku na pośladki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Ball umarmen",
+  "instructions_de": [
+    "Setzen Sie sich auf den Boden.",
+    "Spreizen Sie die Beine über einen Gymnastikball und senken Sie Ihre Hüften in Richtung Boden ab.",
+    "Umfassen Sie den Ball mit den Armen, um Ihren Körper zu stützen. Passen Sie Ihre Beine so an, dass Ihre Füße flach auf dem Boden stehen und Ihre Knie über Ihren Knöcheln ausgerichtet sind. Halten Sie den Ball gut fest, damit er nicht wegrollt und Sie auf Ihr Gesäß zurückfallen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

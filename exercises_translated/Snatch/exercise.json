@@ -1,0 +1,77 @@
+{
+  "name": "Snatch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",
+    "With a palms facing down grip, bend at the knees and keeping the back flat grab the bar using a wider than shoulder width grip. Bring the hips down and make sure that your body drops as if you were going to sit on a chair. This will be your starting position.",
+    "Start pushing the floor as if it were a moving platform with your feet and simultaneously start lifting the barbell keeping it close to your legs.",
+    "As the bar reaches the middle of your thighs, push the floor with your legs and lift your body to a complete extension in an explosive motion.",
+    "Lift your shoulders back in a shrugging movement as you bring the bar up while lifting your elbows out to the side and keeping them above the bar for as long as possible.",
+    "Now in a very quick but powerful motion, you have to get your body under the barbell when it has reached a high enough point where it can be controlled and drop while locking your arms and holding the barbell overhead as you assume a squat position.",
+    "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie",
+  "instructions_pl": [
+    "Ustaw stopy na szerokość barków, ze sztangą spoczywającą tuż nad połączeniem palców stóp z resztą stopy.",
+    "Chwytem z dłońmi skierowanymi w dół, zegnij kolana, utrzymując proste plecy, i chwyć sztangę chwytem szerszym niż szerokość barków. Opuść biodra i upewnij się, że ciało obniża się, jakbyś miał usiąść na krześle. Będzie to Twoja pozycja startowa.",
+    "Zacznij odpychać podłogę stopami, jakby była ruchomą platformą, jednocześnie podnosząc sztangę i utrzymując ją blisko nóg.",
+    "Gdy sztanga osiągnie środek ud, odepchnij się od podłogi nogami i unieś ciało do pełnego wyprostu w eksplozywnym ruchu.",
+    "Unieś barki do tyłu w ruchu wzruszania, jednocześnie podnosząc sztangę, unosząc łokcie na boki i utrzymując je nad sztangą tak długo, jak to możliwe.",
+    "Teraz, bardzo szybkim, ale potężnym ruchem, musisz znaleźć się pod sztangą, gdy osiągnie ona wystarczająco wysoki punkt, w którym można ją kontrolować, i opaść, blokując ramiona i utrzymując sztangę nad głową, przyjmując pozycję przysiadu.",
+    "Zakończ ruch, wstając z pozycji przysiadu, aby zakończyć podniesienie. Na koniec podniesienia obie stopy powinny być w jednej linii, a ramiona w pełni wyprostowane, utrzymując sztangę nad głową."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne grzbietu",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Reißen",
+  "instructions_de": [
+    "Stellen Sie Ihre Füße schulterbreit auf, wobei die Langhantel direkt über dem Ansatz der Zehen am Fuß ruht.",
+    "Fassen Sie die Stange im Obergriff (Handflächen zeigen nach unten), beugen Sie die Knie und halten Sie den Rücken flach. Greifen Sie die Stange mit einem breiteren als schulterbreiten Griff. Senken Sie die Hüfte und achten Sie darauf, dass Ihr Körper absinkt, als würden Sie sich auf einen Stuhl setzen. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, den Boden mit den Füßen wegzudrücken, als wäre er eine bewegliche Plattform, und heben Sie gleichzeitig die Langhantel an, wobei Sie sie nah an den Beinen halten.",
+    "Sobald die Stange die Mitte Ihrer Oberschenkel erreicht, drücken Sie den Boden mit den Beinen weg und strecken Sie Ihren Körper in einer explosiven Bewegung vollständig aus.",
+    "Ziehen Sie die Schultern in einer zuckenden Bewegung nach hinten, während Sie die Stange nach oben bringen, wobei Sie die Ellbogen seitlich nach außen heben und sie so lange wie möglich über der Stange halten.",
+    "Nun müssen Sie in einer sehr schnellen, aber kraftvollen Bewegung Ihren Körper unter die Langhantel bringen, sobald diese einen ausreichend hohen Punkt erreicht hat, an dem sie kontrolliert werden kann, und dabei absinken, während Sie die Arme strecken und die Langhantel über Kopf halten, während Sie eine Kniebeugeposition einnehmen.",
+    "Beenden Sie die Bewegung, indem Sie sich aus der Kniebeugeposition aufrichten, um den Hebevorgang abzuschließen. Am Ende des Lifts sollten beide Füße auf einer Linie stehen und die Arme vollständig gestreckt die Langhantel über Kopf halten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae",
+    "Musculus deltoideus",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

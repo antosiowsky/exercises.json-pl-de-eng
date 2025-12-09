@@ -1,0 +1,56 @@
+{
+  "name": "Medicine Ball Chest Pass",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.",
+    "Begin facing your partner holding the medicine ball at your torso with both hands.",
+    "Pull the ball to your chest, and reverse the motion by extending through the elbows. For sports applications, you can take a step as you throw.",
+    "Your partner should catch the ball, and throw it back to you.",
+    "Receive the throw with both hands at chest height."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Podanie piłki lekarskiej z klatki piersiowej",
+  "instructions_pl": [
+    "Do tego ćwiczenia potrzebny będzie partner. W przypadku jego braku, ruch ten można wykonać o ścianę.",
+    "Rozpocznij, stojąc przodem do partnera, trzymając piłkę lekarską na wysokości tułowia obiema rękami.",
+    "Przyciągnij piłkę do klatki piersiowej, a następnie odwróć ruch, prostując ramiona w stawach łokciowych. W zastosowaniach sportowych możesz wykonać krok podczas rzutu.",
+    "Twój partner powinien złapać piłkę i odrzucić ją z powrotem do ciebie.",
+    "Odbierz rzut obiema rękami na wysokości klatki piersiowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Medizinball-Brustpass",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie einen Partner. Falls kein Partner verfügbar ist, kann diese Bewegung auch gegen eine Wand ausgeführt werden.",
+    "Stellen Sie sich Ihrem Partner gegenüber und halten Sie den Medizinball mit beiden Händen auf Höhe Ihres Rumpfes.",
+    "Ziehen Sie den Ball zur Brust und kehren Sie die Bewegung um, indem Sie die Ellbogen strecken. Für sportliche Anwendungen können Sie beim Wurf einen Schritt nach vorne machen.",
+    "Ihr Partner sollte den Ball fangen und ihn Ihnen zurückwerfen.",
+    "Fangen Sie den Wurf mit beiden Händen auf Brusthöhe."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

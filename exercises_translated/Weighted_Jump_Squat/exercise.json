@@ -1,0 +1,59 @@
+{
+  "name": "Weighted Jump Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Position a lightly loaded barbell across the back of your shoulders. You could also use a weighted vest, sandbag, or other type of resistance for this exercise.",
+    "The weight should be light enough that it doesn't slow you down significantly. Your feet should be just outside of shoulder width with your head and chest up. This will be your starting position.",
+    "Using a countermovement, squat partially down and immediately reverse your direction to explode off of the ground, extending through your hips, knees, and ankles. Maintain good posture throughout the jump.",
+    "As you return to the ground, absorb the impact through your legs."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad wyskokowy z obciążeniem",
+  "instructions_pl": [
+    "Umieść lekko obciążoną sztangę na plecach, na wysokości barków. Do tego ćwiczenia możesz również użyć kamizelki obciążeniowej, worka z piaskiem lub innego rodzaju oporu.",
+    "Obciążenie powinno być na tyle lekkie, aby nie spowalniało Cię znacząco. Stopy powinny być rozstawione nieco szerzej niż szerokość barków, głowa i klatka piersiowa uniesione. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonując ruch kontrujący, częściowo obniż się do przysiadu i natychmiast odwróć kierunek ruchu, aby dynamicznie wybić się z ziemi, prostując biodra, kolana i stawy skokowe. Zachowaj prawidłową postawę przez cały czas trwania skoku.",
+    "Wracając na ziemię, amortyzuj uderzenie nogami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "siła",
+  "name_de": "Gewichtete Sprungkniebeuge",
+  "instructions_de": [
+    "Positionieren Sie eine leicht beladene Langhantel auf dem oberen Rücken. Alternativ können Sie für diese Übung auch eine Gewichtsweste, einen Sandsack oder eine andere Art von Widerstand verwenden.",
+    "Das Gewicht sollte leicht genug sein, damit es Sie nicht wesentlich verlangsamt. Ihre Füße sollten etwas breiter als schulterbreit stehen, mit erhobenem Kopf und Brust. Dies ist Ihre Ausgangsposition.",
+    "Nutzen Sie eine Gegenbewegung, gehen Sie teilweise in die Kniebeuge und kehren Sie die Bewegung sofort um, um sich explosiv vom Boden abzustoßen, indem Sie Hüften, Knie und Sprunggelenke strecken. Bewahren Sie während des gesamten Sprungs eine gute Körperhaltung.",
+    "Bei der Landung federn Sie den Aufprall durch Ihre Beine ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales",
+    "Musculus erector spinae"
+  ],
+  "category_de": "Kraft"
+}

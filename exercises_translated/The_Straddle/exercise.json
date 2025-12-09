@@ -1,0 +1,47 @@
+{
+  "name": "The Straddle",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves"
+  ],
+  "instructions": [
+    "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
+    "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozkrok siedząc",
+  "instructions_pl": [
+    "Rozpocznij w pozycji siedzącej, z wyprostowanym tułowiem. Wyciągnij nogi przed siebie, tworząc kształt litery V.",
+    "Opierając dłonie na podłodze, pochyl się do przodu tak daleko, jak to możliwe. Utrzymaj pozycję przez 10 do 20 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przywodziciele",
+    "Mięśnie łydki"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Die Grätsche",
+  "instructions_de": [
+    "Beginnen Sie in einer aufrechten Sitzposition. Strecken Sie Ihre Beine vor sich in einer V-Form aus.",
+    "Platzieren Sie Ihre Hände auf dem Boden und lehnen Sie sich so weit wie möglich nach vorne. Halten Sie diese Position für 10 bis 20 Sekunden."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Wadenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

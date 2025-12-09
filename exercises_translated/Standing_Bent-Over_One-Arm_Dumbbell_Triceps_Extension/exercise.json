@@ -1,0 +1,56 @@
+{
+  "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "With a dumbbell in one hand and the palm facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
+    "The upper arm should be close to the torso and parallel to the floor while the forearm is pointing towards the floor as the hand holds the weight. Tip: There should be a 90-degree angle between the forearm and the upper arm. This is your starting position.",
+    "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves.",
+    "After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyprost przedramienia jednorącz z hantlem w opadzie tułowia, w pozycji stojącej",
+  "instructions_pl": [
+    "Trzymając hantel w jednej ręce, z dłonią skierowaną w stronę tułowia, lekko ugnij kolana i pochyl tułów do przodu, zginając się w pasie, jednocześnie utrzymując proste plecy, aż tułów znajdzie się niemal równolegle do podłogi. Upewnij się, że głowa jest uniesiona.",
+    "Ramię powinno znajdować się blisko tułowia i być równoległe do podłogi, podczas gdy przedramię jest skierowane w dół, a dłoń trzyma ciężar. Wskazówka: Między przedramieniem a ramieniem powinien tworzyć się kąt 90 stopni. To jest Twoja pozycja wyjściowa.",
+    "Utrzymując ramię nieruchomo, użyj mięśnia trójgłowego ramienia (tricepsa) do uniesienia ciężaru podczas wydechu, aż przedramię znajdzie się równolegle do podłogi, a całe ramię będzie wyprostowane. Podobnie jak w wielu innych ćwiczeniach na ramiona, porusza się tylko przedramię.",
+    "Po sekundowej fazie skurczu w górnej pozycji, powoli opuść hantel z powrotem do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń.",
+    "Zmień rękę i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Stehend vorgebeugte einarmige Kurzhantel-Trizepsextension",
+  "instructions_de": [
+    "Halten Sie eine Kurzhantel in einer Hand, die Handfläche zeigt dabei zum Oberkörper. Beugen Sie die Knie leicht und bringen Sie den Oberkörper aus der Hüfte nach vorne, während Sie den Rücken gerade halten, bis er fast parallel zum Boden ist. Achten Sie darauf, den Kopf oben zu halten.",
+    "Der Oberarm sollte eng am Oberkörper anliegen und parallel zum Boden sein, während der Unterarm mit der das Gewicht haltenden Hand zum Boden zeigt. Tipp: Zwischen Unterarm und Oberarm sollte ein 90-Grad-Winkel bestehen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme fixiert und nutzen Sie den Musculus triceps brachii (Trizeps), um das Gewicht beim Ausatmen anzuheben, bis die Unterarme parallel zum Boden sind und der gesamte Arm gestreckt ist. Wie bei vielen anderen Armübungen bewegt sich nur der Unterarm.",
+    "Nach einer kurzen Kontraktion am höchsten Punkt senken Sie die Kurzhantel beim Einatmen langsam zurück in die Ausgangsposition.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Arme und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Krafttraining"
+}

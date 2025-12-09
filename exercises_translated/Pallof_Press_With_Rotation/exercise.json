@@ -1,0 +1,71 @@
+{
+  "name": "Pallof Press With Rotation",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Connect a standard handle to a tower, and position the cable to shoulder height.",
+    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Align outstretched arm with cable.",
+    "With your feet positioned hip-width apart, pull the cable into your chest and grab the handle with your other hand. Both hands should be on the handle at this time.",
+    "Facing forward, press the cable away from your chest. You core should be tight and engaged.",
+    "Keeping your hips straight, twist your torso away from the pulley until you get a full quarter rotation.",
+    "Maintain your rigid stance and straight arms. Return to the neutral position in a slow and controlled manner. Your arms should be extended in front of you.",
+    "With the side tension still engaging your core, bring your hands to your chest and immediately press outward to a fully extended position. This constitutes one rep.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyciskanie Pallofa z rotacją",
+  "instructions_pl": [
+    "Podłącz standardowy uchwyt do wieży i ustaw linkę na wysokości barków.",
+    "Ustaw się bokiem do wyciągu, chwyć uchwyt jedną ręką i odejdź od wieży. Powinieneś znajdować się w odległości około wyciągniętej ręki od bloczka, czując napięcie ciężaru na lince. Wyprostowaną rękę ustaw w linii z linką.",
+    "Ustaw stopy na szerokość bioder, przyciągnij linkę do klatki piersiowej i chwyć uchwyt drugą ręką. Obie ręce powinny znajdować się na uchwycie w tym momencie.",
+    "Patrząc przed siebie, wypchnij linkę od klatki piersiowej. Mięśnie głębokie tułowia powinny być napięte i aktywne.",
+    "Utrzymując biodra prosto, obróć tułów od wyciągu o ćwierć obrotu.",
+    "Utrzymuj stabilną postawę i proste ramiona. Wróć do pozycji neutralnej w sposób powolny i kontrolowany. Twoje ramiona powinny być wyciągnięte przed tobą.",
+    "Utrzymując boczne napięcie aktywujące mięśnie głębokie tułowia, przyciągnij ręce do klatki piersiowej i natychmiast wypchnij je na zewnątrz do pozycji pełnego wyprostu. To stanowi jedno powtórzenie.",
+    "Powtarzaj do upadku mięśniowego.",
+    "Następnie zmień pozycję i powtórz tę samą serię ruchów po przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Pallof-Presse mit Rotation",
+  "instructions_de": [
+    "Befestigen Sie einen Standardgriff an einem Kabelzugturm und positionieren Sie das Kabel auf Schulterhöhe.",
+    "Stellen Sie sich seitlich zum Kabelzug, greifen Sie den Griff mit einer Hand und treten Sie vom Turm weg. Sie sollten sich etwa eine Armlänge von der Umlenkrolle entfernt befinden, wobei die Spannung des Gewichts auf dem Kabel liegt. Richten Sie den ausgestreckten Arm am Kabel aus.",
+    "Stellen Sie Ihre Füße hüftbreit auseinander, ziehen Sie das Kabel zur Brust und greifen Sie den Griff mit Ihrer anderen Hand. Zu diesem Zeitpunkt sollten beide Hände am Griff sein.",
+    "Blicken Sie nach vorne und drücken Sie das Kabel von Ihrer Brust weg. Ihr Rumpf sollte angespannt und aktiviert sein.",
+    "Halten Sie Ihre Hüften gerade und drehen Sie Ihren Rumpf von der Umlenkrolle weg, bis Sie eine volle Vierteldrehung erreicht haben.",
+    "Behalten Sie Ihre stabile Haltung und gestreckten Arme bei. Kehren Sie langsam und kontrolliert in die neutrale Position zurück. Ihre Arme sollten dabei vor Ihnen ausgestreckt sein.",
+    "Während die seitliche Spannung weiterhin Ihren Rumpf beansprucht, führen Sie Ihre Hände zur Brust und drücken Sie sie sofort wieder nach außen in eine vollständig gestreckte Position. Dies ist eine Wiederholung.",
+    "Wiederholen Sie bis zum Muskelversagen.",
+    "Positionieren Sie sich anschließend neu und wiederholen Sie die gleiche Bewegungsabfolge auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

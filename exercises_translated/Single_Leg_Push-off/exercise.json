@@ -1,0 +1,50 @@
+{
+  "name": "Single Leg Push-off",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand on the ground with one foot resting on the box, heel close to the edge.",
+    "Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.",
+    "Land with the same foot on top of the box, returning your other foot back to the start position."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wybicie Jednonożne",
+  "instructions_pl": [
+    "Stań na ziemi, opierając jedną stopę na skrzyni, z piętą blisko krawędzi.",
+    "Wybij się stopą znajdującą się na skrzyni, starając się uzyskać jak największą wysokość poprzez wyprost w stawie biodrowym i kolanowym.",
+    "Wyląduj tą samą stopą na skrzyni, wracając drugą stopą do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydki",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Einbeiniger Abstoß",
+  "instructions_de": [
+    "Stellen Sie sich auf den Boden, wobei ein Fuß auf dem Kasten ruht, die Ferse nah am Rand.",
+    "Stoßen Sie sich mit dem Fuß auf dem Kasten ab und versuchen Sie, durch Streckung in Hüfte und Knie so viel Höhe wie möglich zu gewinnen.",
+    "Landen Sie mit demselben Fuß auf dem Kasten und führen Sie den anderen Fuß zurück in die Ausgangsposition."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

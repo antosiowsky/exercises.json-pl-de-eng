@@ -1,0 +1,59 @@
+{
+  "name": "Muscle Snatch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+    "Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.",
+    "Continue raising the bar to the overhead position, without rebending the knees."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie Siłowe",
+  "instructions_pl": [
+    "Rozpocznij z obciążoną sztangą trzymaną na wysokości środka uda, szerokim chwytem. Stopy powinny znajdować się bezpośrednio pod biodrami, z palcami skierowanymi na zewnątrz w razie potrzeby. Opuść biodra, utrzymując klatkę piersiową uniesioną, a głowę skierowaną do przodu. Barki powinny znajdować się tuż przed sztangą. Będzie to pozycja wyjściowa.",
+    "Rozpocznij podciągnięcie, naciskając przez przód pięt, unosząc sztangę. Przejdź do drugiego podciągnięcia, prostując biodra, kolana i stawy skokowe, unosząc sztangę tak szybko, jak to możliwe. Sztanga powinna znajdować się blisko ciała.",
+    "Kontynuuj unoszenie sztangi do pozycji nad głową, bez ponownego zginania kolan."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa",
+    "mięsień czworogłowy uda",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Muskelreißen",
+  "instructions_de": [
+    "Beginnen Sie mit einer beladenen Langhantel, die mit einem breiten Griff auf mittlerer Oberschenkelhöhe gehalten wird. Die Füße sollten direkt unter den Hüften stehen, wobei die Fußspitzen nach Bedarf leicht nach außen zeigen. Senken Sie die Hüften, halten Sie die Brust oben und den Kopf nach vorne gerichtet. Die Schultern sollten sich knapp vor der Stange befinden. Dies ist die Ausgangsposition.",
+    "Beginnen Sie den Zug, indem Sie sich über die Fersen abdrücken und die Stange anheben. Gehen Sie in den zweiten Zug über, indem Sie Hüften, Knie und Sprunggelenke strecken und die Stange so schnell wie möglich nach oben treiben. Die Stange sollte nah am Körper geführt werden.",
+    "Heben Sie die Stange weiter in die Überkopfposition, ohne die Knie erneut zu beugen."
+  ],
+  "secondaryMuscles_de": [
+    "Glutäen",
+    "Rückenstrecker",
+    "Quadrizeps",
+    "Deltamuskel",
+    "Trizeps"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

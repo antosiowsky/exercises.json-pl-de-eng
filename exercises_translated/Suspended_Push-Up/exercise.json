@@ -1,0 +1,53 @@
+{
+  "name": "Suspended Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Anchor your suspension straps securely to the top of a rack or other object.",
+    "Leaning into the straps, take a handle in each hand and move into a push-up plank position. You should be as close to parallel to the ground as you can manage with your arms fully extended, maintaining good posture.",
+    "Maintaining a straight, rigid torso, descend slowly by allowing the elbows to flex.",
+    "Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pompka w zawieszeniu",
+  "instructions_pl": [
+    "Bezpiecznie zamocuj taśmy do ćwiczeń w zawieszeniu do górnej części stojaka lub innego obiektu.",
+    "Opierając się na taśmach, chwyć po jednym uchwycie w każdą dłoń i przyjmij pozycję deski do pompki. Powinieneś znajdować się jak najbliżej pozycji równoległej do podłoża, z ramionami w pełni wyprostowanymi, zachowując prawidłową postawę.",
+    "Utrzymując prosty, sztywny tułów, powoli opuść się, pozwalając na zgięcie stawów łokciowych.",
+    "Kontynuuj ruch w dół, aż stawy łokciowe przekroczą kąt 90 stopni, zatrzymując się na chwilę przed wyprostem, aby powrócić do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Suspension Liegestütz",
+  "instructions_de": [
+    "Befestigen Sie Ihre Schlingentrainer sicher an der Oberseite eines Racks oder eines anderen geeigneten Objekts.",
+    "Lehnen Sie sich in die Schlingen, fassen Sie je einen Griff in jede Hand und begeben Sie sich in eine Liegestütz-Plank-Position. Ihr Körper sollte mit vollständig gestreckten Armen so nah wie möglich parallel zum Boden ausgerichtet sein, wobei Sie eine gute Körperhaltung beibehalten.",
+    "Halten Sie den Rumpf gerade und stabil und senken Sie sich langsam ab, indem Sie die Ellbogen beugen.",
+    "Fahren Sie fort, bis Ihre Ellbogen einen Winkel von über 90 Grad bilden. Machen Sie eine kurze Pause, bevor Sie sich strecken, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

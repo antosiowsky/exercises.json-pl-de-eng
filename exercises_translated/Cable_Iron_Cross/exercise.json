@@ -1,0 +1,47 @@
+{
+  "name": "Cable Iron Cross",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
+    "Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a \"T\". This will be your starting position.",
+    "Keeping the elbows extended, pull your arms straight to your sides.",
+    "Return your arms back to the starting position after a pause at the peak contraction.",
+    "Continue the movement for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Żelazny Krzyż na wyciągu",
+  "instructions_pl": [
+    "Rozpocznij od ustawienia bloczków w wysokiej pozycji, wybierz odpowiednie obciążenie i chwyć po jednej rączce w każdą dłoń.",
+    "Stań bezpośrednio między oboma bloczkami, z ramionami wyciągniętymi na boki. Głowa i klatka piersiowa powinny być uniesione, podczas gdy ramiona tworzą literę „T”. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując łokcie wyprostowane, przyciągnij ramiona prosto do boków.",
+    "Wróć ramionami do pozycji początkowej po krótkiej pauzie w szczytowym momencie skurczu.",
+    "Kontynuuj ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabelzug Iron Cross",
+  "instructions_de": [
+    "Stellen Sie die Kabelrollen in die hohe Position ein, wählen Sie den gewünschten Widerstand und nehmen Sie je einen Griff in jede Hand.",
+    "Stellen Sie sich direkt zwischen beide Kabelrollen, die Arme seitlich ausgestreckt. Halten Sie Kopf und Brust aufrecht, sodass Ihre Arme ein „T“ bilden. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Ellenbogen gestreckt und führen Sie die Arme gerade vor dem Körper zusammen.",
+    "Führen Sie die Arme nach einer kurzen Pause in der maximalen Kontraktion in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

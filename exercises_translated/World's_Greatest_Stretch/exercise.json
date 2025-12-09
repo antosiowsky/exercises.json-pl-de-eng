@@ -1,0 +1,53 @@
+{
+  "name": "World's Greatest Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.",
+    "Now, place the arm on the same side as your front leg on the ground, with the elbow next to the foot. Your other hand should be placed on the ground, parallel to your lead leg, to help support you during this portion of the stretch.",
+    "After 10-20 seconds, place your hands on either side of your front foot. Raise the toes of the front foot off of the ground, and straighten your leg. You may need to reposition your rear leg to do so. Hold for 10-20 seconds, and then repeat the entire sequence for the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Najlepsze Rozciąganie na Świecie",
+  "instructions_pl": [
+    "Jest to trójfazowe rozciąganie. Rozpocznij od wykroku w przód, z przednią stopą płasko na ziemi i na palcach tylnej stopy. Z ugiętymi kolanami, obniż się, aż kolano prawie dotknie ziemi. Utrzymuj tułów wyprostowany i utrzymaj tę pozycję przez 10-20 sekund.",
+    "Następnie, połóż ramię po tej samej stronie co noga wykroczna na ziemi, z łokciem obok stopy. Druga ręka powinna być położona na ziemi, równolegle do nogi wykrocznej, aby pomóc w utrzymaniu wsparcia podczas tej części rozciągania.",
+    "Po 10-20 sekundach, połóż dłonie po obu stronach przedniej stopy. Unieś palce przedniej stopy z ziemi i wyprostuj nogę. Może być konieczne przestawienie tylnej nogi, aby to wykonać. Utrzymaj przez 10-20 sekund, a następnie powtórz całą sekwencję na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie czworogłowe uda"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Die ultimative Dehnübung",
+  "instructions_de": [
+    "Dies ist eine dreiteilige Dehnübung. Beginnen Sie mit einem Ausfallschritt nach vorne, wobei Ihr vorderer Fuß flach auf dem Boden steht und Sie auf den Zehenspitzen Ihres hinteren Fußes stehen. Beugen Sie die Knie und senken Sie sich ab, bis Ihr hinteres Knie fast den Boden berührt. Halten Sie Ihren Oberkörper aufrecht und verweilen Sie 10-20 Sekunden in dieser Position.",
+    "Legen Sie nun den Arm, der sich auf der gleichen Seite wie Ihr vorderes Bein befindet, auf den Boden, wobei der Ellbogen neben dem Fuß liegt. Ihre andere Hand sollte parallel zu Ihrem vorderen Bein auf dem Boden platziert werden, um Sie während dieses Teils der Dehnung zu stützen.",
+    "Nach 10-20 Sekunden platzieren Sie Ihre Hände auf beiden Seiten Ihres vorderen Fußes. Heben Sie die Zehen des vorderen Fußes vom Boden ab und strecken Sie Ihr Bein. Möglicherweise müssen Sie Ihr hinteres Bein neu positionieren, um dies zu tun. Halten Sie die Position für 10-20 Sekunden und wiederholen Sie dann die gesamte Abfolge für die andere Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Oberschenkelmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "One-Arm Incline Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down sideways on an incline bench press with a dumbbell in the hand. Make sure the shoulder is pressing against the incline bench and the arm is lying across your body with the palm around your navel.",
+    "Hold a dumbbell in your uppermost arm while keeping it extended in front of you parallel to the floor. This is your starting position.",
+    "While keeping the dumbbell parallel to the floor at all times, perform a lateral raise. Your arm should travel straight up until it is pointing at the ceiling. Tip: Exhale as you perform this movement. Hold the dumbbell in the position and feel the contraction in the shoulders for a second.",
+    "While inhaling lower the weight across your body back into the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Unilateralne Wznosy Boczne na Ławce Skośnej",
+  "instructions_pl": [
+    "Połóż się bokiem na ławce skośnej z hantlem w dłoni. Upewnij się, że bark przylega do ławki skośnej, a ramię spoczywa w poprzek tułowia, z dłonią w okolicy pępka.",
+    "Trzymaj hantel w górnym ramieniu, utrzymując je wyprostowane przed sobą, równolegle do podłogi. To jest pozycja wyjściowa.",
+    "Utrzymując hantel przez cały czas równolegle do podłogi, wykonaj wznos boczny. Ramię powinno poruszać się prosto w górę, aż będzie skierowane w stronę sufitu. Wskazówka: Wykonując ten ruch, wykonaj wydech. Przytrzymaj hantel w tej pozycji i poczuj skurcz w mięśniach naramiennych przez sekundę.",
+    "Wykonując wdech, opuść ciężar w poprzek tułowia z powrotem do pozycji wyjściowej.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Zmień ramiona i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Schrägbank-Seitheben",
+  "instructions_de": [
+    "Lege dich seitlich auf eine Schrägbank, mit einer Kurzhantel in der Hand. Achte darauf, dass die Schulter fest gegen die Schrägbank drückt und der untere Arm quer über deinen Körper liegt, wobei die Handfläche sich etwa auf Höhe deines Bauchnabels befindet.",
+    "Halte eine Kurzhantel in deinem oberen Arm, wobei dieser ausgestreckt und parallel zum Boden vor dir positioniert ist. Dies ist deine Ausgangsposition.",
+    "Halte die Kurzhantel stets parallel zum Boden und führe ein Seitheben aus. Dein Arm sollte dabei gerade nach oben geführt werden, bis er zur Decke zeigt. Tipp: Atme während dieser Bewegung aus. Halte die Kurzhantel kurz in dieser Position und spüre die Kontraktion in der Schultermuskulatur für eine Sekunde.",
+    "Während du einatmest, senke das Gewicht kontrolliert über deinen Körper zurück in die Ausgangsposition.",
+    "Wiederhole die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wechsle die Arme und wiederhole die Bewegung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

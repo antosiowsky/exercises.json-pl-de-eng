@@ -1,0 +1,53 @@
+{
+  "name": "Single Leg Butt Kick",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin by standing on one leg, with the bent knee raised. This will be your start position.",
+    "Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.",
+    "Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg.",
+    "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Jednonożny wykop piętą do pośladka",
+  "instructions_pl": [
+    "Rozpocznij, stojąc na jednej nodze, z uniesionym zgiętym kolanem. Będzie to Twoja pozycja wyjściowa.",
+    "Wykorzystując skok z kontrruchem, wybij się w górę, prostując staw biodrowy, kolanowy i skokowy nogi opartej o podłoże.",
+    "Natychmiast zegnij kolano i spróbuj dotknąć pośladka piętą nogi wyskakującej.",
+    "Wróć nogą do pozycji częściowo zgiętej pod biodrami i wyląduj. Twoja przeciwna noga powinna pozostać w względnie tej samej pozycji przez cały czas trwania ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Einbeiniger Fersenschlag",
+  "instructions_de": [
+    "Beginnen Sie im Einbeinstand, wobei das Knie des freien Beins gebeugt und angehoben ist. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie einen Gegenbewegungssprung aus und stoßen Sie sich durch Streckung von Hüfte, Knie und Sprunggelenk des Standbeins nach oben ab.",
+    "Beugen Sie sofort das Knie und versuchen Sie, mit der Ferse Ihres Sprungbeins Ihr Gesäß zu berühren.",
+    "Führen Sie das Bein in eine teilweise gebeugte Position unterhalb der Hüften zurück und landen Sie. Ihr freies Bein sollte während der gesamten Übung in relativ derselben Position bleiben."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

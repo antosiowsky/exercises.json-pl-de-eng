@@ -1,0 +1,56 @@
+{
+  "name": "Lying Cambered Barbell Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "traps"
+  ],
+  "instructions": [
+    "Place a cambered bar underneath an exercise bench.",
+    "Lie face down on the exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.",
+    "As you exhale row the bar up as you keep the elbows close to your body to either your chest, in order to target the upper mid back, or to your stomach if targeting the lats is your goal.",
+    "After a second hold at the top, lower back down to the starting position slowly as you inhale."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą wygiętą w leżeniu",
+  "instructions_pl": [
+    "Umieść sztangę wygiętą pod ławką treningową.",
+    "Połóż się na ławce treningowej przodem do dołu i chwyć sztangę nachwytem (chwyt pronowany) szerzej niż szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Podczas wydechu przyciągnij sztangę w górę, utrzymując łokcie blisko tułowia, do klatki piersiowej, aby zaangażować górną i środkową część grzbietu, lub do brzucha, jeśli Twoim celem jest zaangażowanie mięśni najszerszych grzbietu.",
+    "Po sekundowej pauzie w górnej fazie ruchu, powoli opuść sztangę do pozycji wyjściowej, wykonując wdech."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie najszersze grzbietu",
+    "mięsień czworoboczny grzbietu"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Liegendes Rudern mit gebogener Langhantel",
+  "instructions_de": [
+    "Legen Sie eine gebogene Langhantel unter eine Trainingsbank.",
+    "Legen Sie sich bäuchlings auf die Trainingsbank und greifen Sie die Stange mit einem Obergriff (pronierter Griff), der breiter als schulterbreit ist. Dies ist Ihre Ausgangsposition.",
+    "Während Sie ausatmen, ziehen Sie die Stange nach oben, wobei Sie die Ellbogen eng am Körper halten, entweder zur Brust, um den oberen mittleren Rücken zu trainieren, oder zum Bauch, wenn Sie den Musculus latissimus dorsi ansprechen möchten.",
+    "Halten Sie die Position für eine Sekunde oben und senken Sie die Stange dann langsam in die Ausgangsposition zurück, während Sie einatmen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

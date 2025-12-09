@@ -1,0 +1,62 @@
+{
+  "name": "One-Arm Open Palm Kettlebell Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place one kettlebell between your feet.",
+    "Grab the handle with one hand and raise the kettlebell rapidly, let it flip so that the ball of the kettlebell lands in the palm of your hand.",
+    "Throw the kettlebell out in front of you and catch the handle with one hand.",
+    "Take the kettlebell to the floor and repeat. Make sure to work both arms."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Zarzut kettlebell jednorącz z otwartą dłonią",
+  "instructions_pl": [
+    "Ustaw jeden kettlebell między stopami.",
+    "Chwyć uchwyt jedną ręką i unieś kettlebell dynamicznie, pozwalając mu się obrócić tak, aby kula kettlebell spoczęła na dłoni.",
+    "Wyrzuć kettlebell przed siebie i złap uchwyt jedną ręką.",
+    "Opuść kettlebell na podłogę i powtórz. Pamiętaj, aby pracować obiema rękami."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięsień czworogłowy uda",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmiges Kettlebell-Umsetzen mit offener Handfläche",
+  "instructions_de": [
+    "Stelle eine Kettlebell zwischen deine Füße.",
+    "Fasse den Griff mit einer Hand und hebe die Kettlebell zügig an. Lass sie umkippen, sodass die Kugel der Kettlebell in deiner Handfläche landet.",
+    "Wirf die Kettlebell nach vorne und fange den Griff mit einer Hand.",
+    "Bringe die Kettlebell zum Boden zurück und wiederhole die Übung. Achte darauf, beide Arme zu trainieren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi antebrachii",
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculi deltoidei"
+  ],
+  "category_de": "Kraft"
+}

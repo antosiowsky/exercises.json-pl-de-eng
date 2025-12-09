@@ -1,0 +1,47 @@
+{
+  "name": "Chair Lower Back Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Sit upright on a chair.",
+    "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
+    "Hold for 10 seconds, and repeat for your other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie odcinka lędźwiowego na krześle",
+  "instructions_pl": [
+    "Usiądź w pozycji wyprostowanej na krześle.",
+    "Wykonaj skłon boczny, unosząc ramię nad głowę. Wolną ręką możesz przytrzymać się krzesła.",
+    "Przytrzymaj pozycję przez 10 sekund, a następnie powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odcinka lędźwiowego"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung des unteren Rückens im Sitzen",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf einen Stuhl.",
+    "Beugen Sie sich zu einer Seite, wobei Sie einen Arm über den Kopf führen. Mit der freien Hand können Sie sich am Stuhl festhalten.",
+    "Halten Sie die Position für 10 Sekunden und wiederholen Sie die Übung auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Lendenbereich"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Plate Pinch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
+    "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
+    "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
+    "Repeat for the recommended amount of sets prescribed in your program.",
+    "Switch arms and repeat the movements."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Ściskanie talerzy",
+  "instructions_pl": [
+    "Chwyć dwa talerze o szerokim rancie i złóż je gładkimi stronami na zewnątrz.",
+    "Użyj palców, aby chwycić zewnętrzną część talerza, a kciuka do przeciwnej strony, w ten sposób trzymając oba talerze razem. Jest to pozycja wyjściowa.",
+    "Ściśnij talerz palcami i kciukiem. Utrzymaj tę pozycję tak długo, jak potrafisz.",
+    "Powtórz przez zalecaną liczbę serii, przepisaną w Twoim programie.",
+    "Zmień ręce i powtórz ruchy."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Scheibengriff",
+  "instructions_de": [
+    "Nimm zwei Hantelscheiben mit breitem Rand und lege sie so zusammen, dass die glatten Seiten nach außen zeigen.",
+    "Greife mit deinen Fingern den äußeren Teil der Scheibe und mit deinem Daumen die andere Seite, um so beide Scheiben zusammenzuhalten. Dies ist die Ausgangsposition.",
+    "Drücke die Scheibe mit deinen Fingern und deinem Daumen zusammen. Halte diese Position so lange du kannst.",
+    "Wiederhole dies für die empfohlene Anzahl an Sätzen, die in deinem Trainingsprogramm vorgegeben ist.",
+    "Wechsle die Arme und wiederhole die Bewegungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

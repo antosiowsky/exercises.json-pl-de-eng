@@ -1,0 +1,56 @@
+{
+  "name": "Stiff-Legged Barbell Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.",
+    "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+    "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement.",
+    "Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg na prostych nogach ze sztangą",
+  "instructions_pl": [
+    "Chwyć sztangę nachwytem (dłonie skierowane w dół). W przypadku użycia znacznego ciężaru, możesz potrzebować pasków na nadgarstki.",
+    "Stań z prostym tułowiem i nogami rozstawionymi na szerokość barków lub węziej. Kolana powinny być lekko ugięte. To jest Twoja pozycja wyjściowa.",
+    "Utrzymując kolana w stałej pozycji, opuść sztangę do wysokości stóp, pochylając się w stawach biodrowych, jednocześnie utrzymując proste plecy. Kontynuuj ruch w przód, jakbyś miał podnieść coś z podłogi, aż poczujesz rozciąganie w mięśniach dwugłowych uda. Wykonując ten ruch, zrób wdech.",
+    "Zacznij ponownie prostować tułów, prostując biodra, aż wrócisz do pozycji wyjściowej. Wykonując ten ruch, zrób wydech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kreuzheben mit gestreckten Beinen",
+  "instructions_de": [
+    "Fassen Sie eine Langhantel im Obergriff (Handflächen zeigen nach unten). Gegebenenfalls benötigen Sie Zughilfen, wenn Sie ein erhebliches Gewicht verwenden.",
+    "Stellen Sie sich mit geradem Oberkörper hin und die Beine schulterbreit oder enger auseinander. Die Knie sollten leicht gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Knie stationär und senken Sie die Langhantel bis über Ihre Füße, indem Sie sich aus der Hüfte beugen, während Sie Ihren Rücken gerade halten. Bewegen Sie sich weiter nach vorne, als ob Sie etwas vom Boden aufheben wollten, bis Sie eine Dehnung in der hinteren Oberschenkelmuskulatur spüren. Atmen Sie während dieser Bewegung ein.",
+    "Beginnen Sie, Ihren Oberkörper wieder aufzurichten, indem Sie die Hüfte strecken, bis Sie wieder in der Ausgangsposition sind. Atmen Sie während dieser Bewegung aus.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Rückenstrecker"
+  ],
+  "category_de": "Kraft"
+}

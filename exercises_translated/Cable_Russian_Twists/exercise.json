@@ -1,0 +1,53 @@
+{
+  "name": "Cable Russian Twists",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Connect a standard handle attachment, and position the cable to a middle pulley position.",
+    "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
+    "Grab the handle with both hands and fully extend your arms above your chest. You hands should be directly in-line with the pulley. If not, adjust the pulley up or down until they are.",
+    "Keep your hips elevated and abs engaged. Rotate your torso away from the pulley for a full-quarter rotation. Your body should be flat from head to knees.",
+    "Pause for a moment and in a slow and controlled manner reset to the starting position. You should still have side tension on the cable in the resting position.",
+    "Repeat the same movement to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Rosyjskie skręty tułowia z wyciągiem",
+  "instructions_pl": [
+    "Podłącz standardowy uchwyt i ustaw linkę wyciągu na wysokości środkowego bloczka.",
+    "Połóż się na piłce gimnastycznej prostopadle do wyciągu i chwyć uchwyt jedną ręką. Powinieneś znajdować się w odległości około wyciągniętej ręki od bloczka, czując napięcie ciężaru na lince.",
+    "Chwyć uchwyt obiema rękami i w pełni wyprostuj ramiona nad klatką piersiową. Twoje dłonie powinny znajdować się dokładnie w linii z bloczkiem. Jeśli nie, wyreguluj bloczek w górę lub w dół, aż znajdą się w tej pozycji.",
+    "Utrzymuj biodra uniesione i mięśnie brzucha napięte. Obróć tułów od wyciągu, wykonując pełny obrót o ćwierć koła. Twoje ciało powinno tworzyć prostą linię od głowy do kolan.",
+    "Zatrzymaj się na chwilę i w powolny, kontrolowany sposób wróć do pozycji wyjściowej. W pozycji spoczynkowej powinieneś nadal czuć boczne napięcie na lince wyciągu.",
+    "Powtarzaj ten sam ruch do momentu wyczerpania mięśni.",
+    "Następnie zmień pozycję i powtórz tę samą serię ruchów po przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Kabelzug-Russian Twists",
+  "instructions_de": [
+    "Befestigen Sie einen Standardgriff und positionieren Sie das Kabel auf eine mittlere Rollenposition.",
+    "Legen Sie sich auf einen Stabilitätsball senkrecht zum Kabelzug und greifen Sie den Griff mit einer Hand. Sie sollten sich etwa eine Armlänge von der Rolle entfernt befinden, sodass das Gewicht bereits Spannung auf dem Kabel erzeugt.",
+    "Greifen Sie den Griff mit beiden Händen und strecken Sie Ihre Arme vollständig über Ihrer Brust aus. Ihre Hände sollten sich direkt auf einer Linie mit der Rolle befinden. Falls nicht, stellen Sie die Rolle nach oben oder unten ein, bis dies der Fall ist.",
+    "Halten Sie Ihre Hüften angehoben und Ihre Bauchmuskulatur angespannt. Rotieren Sie Ihren Oberkörper um eine volle Vierteldrehung von der Rolle weg. Ihr Körper sollte von Kopf bis Knie eine gerade Linie bilden.",
+    "Halten Sie einen Moment inne und kehren Sie langsam und kontrolliert in die Ausgangsposition zurück. Auch in der Ruheposition sollte seitliche Spannung auf dem Kabelzug verbleiben.",
+    "Wiederholen Sie die gleiche Bewegung bis zum Muskelversagen.",
+    "Positionieren Sie sich anschließend neu und wiederholen Sie die gleiche Bewegungsabfolge auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

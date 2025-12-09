@@ -1,0 +1,62 @@
+{
+  "name": "Front Box Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Begin with a box of an appropriate height 1-2 feet in front of you. Stand with your feet should width apart. This will be your starting position.",
+    "Perform a short squat in preparation for jumping, swinging your arms behind you.",
+    "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
+    "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wskok na skrzynię z przodu",
+  "instructions_pl": [
+    "Rozpocznij z ustawioną skrzynią o odpowiedniej wysokości 1-2 stopy przed tobą. Stań ze stopami rozstawionymi na szerokość barków. Będzie to twoja pozycja początkowa.",
+    "Wykonaj płytki przysiad, przygotowując się do skoku, zarzucając ramiona za siebie.",
+    "Wykonaj dynamiczne wybicie z tej pozycji, prostując biodra, kolana i stawy skokowe, aby wyskoczyć jak najwyżej. Zarzuć ramiona do przodu i w górę.",
+    "Wyląduj na skrzyni z ugiętymi kolanami, amortyzując uderzenie nogami. Możesz zeskoczyć ze skrzyni z powrotem na ziemię, lub, co jest preferowane, zejść ze skrzyni, stawiając jedną nogę po drugiej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie czworogłowe uda"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Frontaler Box Jump",
+  "instructions_de": [
+    "Stellen Sie eine Box von angemessener Höhe 1-2 Fuß vor sich auf. Stellen Sie sich mit schulterbreit auseinanderstehenden Füßen hin. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie eine kurze Kniebeuge zur Vorbereitung auf den Sprung aus, wobei Sie die Arme nach hinten schwingen.",
+    "Stoßen Sie sich aus dieser Position ab, indem Sie Hüften, Knie und Sprunggelenke strecken, um so hoch wie möglich zu springen. Schwingen Sie die Arme nach vorne und oben.",
+    "Landen Sie mit gebeugten Knien auf der Box, wobei Sie den Aufprall durch die Beine abfedern. Sie können von der Box zurück auf den Boden springen oder vorzugsweise ein Bein nach dem anderen absteigen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Quadrizeps"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Standing Biceps Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
+    "Raise your arms up and hold until you feel a stretch in your biceps."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśnia dwugłowego ramienia w pozycji stojącej",
+  "instructions_pl": [
+    "Spleć dłonie za plecami, złączając dłonie, wyprostuj ramiona, a następnie obróć je tak, aby dłonie były skierowane w dół.",
+    "Unieś ramiona w górę i utrzymuj pozycję, aż poczujesz rozciąganie w mięśniu dwugłowym ramienia."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie klatki piersiowej",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Rozciąganie",
+  "name_de": "Stehende Bizepsdehnung",
+  "instructions_de": [
+    "Verschränken Sie Ihre Hände hinter Ihrem Rücken, die Handflächen aneinander. Strecken Sie die Arme und drehen Sie sie dann so, dass Ihre Handflächen nach unten zeigen.",
+    "Heben Sie die Arme an und halten Sie die Position, bis Sie eine Dehnung im Bizeps spüren."
+  ],
+  "secondaryMuscles_de": [
+    "Brust",
+    "Schultern"
+  ],
+  "category_de": "Dehnung"
+}

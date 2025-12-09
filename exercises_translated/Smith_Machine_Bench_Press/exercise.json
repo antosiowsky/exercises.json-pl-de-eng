@@ -1,0 +1,56 @@
+{
+  "name": "Smith Machine Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Place a flat bench underneath the smith machine. Now place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the flat bench. Using a pronated grip that is wider than shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your middle chest.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, lock the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie sztangi na maszynie Smitha",
+  "instructions_pl": [
+    "Ustaw płaską ławkę pod maszyną Smitha. Następnie umieść sztangę na takiej wysokości, abyś mógł ją dosięgnąć leżąc, z ramionami niemal całkowicie wyprostowanymi. Po wybraniu odpowiedniego obciążenia, połóż się na płaskiej ławce. Używając nachwytu szerszego niż szerokość barków, odblokuj sztangę z zabezpieczeń i trzymaj ją prosto nad sobą, z zablokowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Podczas wdechu, opuszczaj sztangę powoli, aż poczujesz ją na środkowej części klatki piersiowej.",
+    "Po sekundowej pauzie, unieś sztangę z powrotem do pozycji początkowej, wykonując wydech i wypychając sztangę mięśniami klatki piersiowej. Zablokuj ramiona w pozycji wyprostowanej, przytrzymaj przez sekundę, a następnie ponownie zacznij powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Po zakończeniu ćwiczenia, zabezpiecz sztangę z powrotem w stojaku."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Multipresse Bankdrücken",
+  "instructions_de": [
+    "Stellen Sie eine Flachbank unter die Multipresse. Positionieren Sie nun die Langhantel in einer Höhe, die Sie im Liegen erreichen können, wobei Ihre Arme nahezu vollständig gestreckt sind. Nachdem das gewünschte Gewicht ausgewählt wurde, legen Sie sich auf die Flachbank. Fassen Sie die Stange im Obergriff (pronierter Griff) etwas breiter als schulterbreit, entriegeln Sie sie aus der Halterung und halten Sie sie mit gestreckten Armen gerade über sich. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie ein und senken Sie die Stange langsam ab, bis Sie sie auf Ihrer mittleren Brust spüren.",
+    "Nach einer kurzen Pause von einer Sekunde drücken Sie die Stange beim Ausatmen mithilfe Ihrer Brustmuskulatur zurück in die Ausgangsposition. Strecken Sie die Arme in der kontrahierten Position vollständig durch, halten Sie diese Position für eine Sekunde und beginnen Sie dann erneut, die Stange langsam abzusenken. Tipp: Die Abwärtsbewegung sollte mindestens doppelt so lange dauern wie die Aufwärtsbewegung.",
+    "Wiederholen Sie die Bewegung für die vorgegebene Anzahl an Wiederholungen.",
+    "Nach Beendigung des Satzes verriegeln Sie die Stange wieder in der Halterung."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskeln",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

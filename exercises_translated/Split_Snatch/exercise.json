@@ -1,0 +1,80 @@
+{
+  "name": "Split Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+    "Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.",
+    "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move forcefully to a split position, one foot forward one foot back. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+    "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position, bringing your feet together.",
+    "Carefully return the weight to floor."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie w wykroku",
+  "instructions_pl": [
+    "Rozpocznij z obciążoną sztangą na podłodze. Sztanga powinna znajdować się blisko piszczeli lub dotykać ich. Przyjmij szeroki chwyt na sztandze. Stopy powinny być ustawione bezpośrednio pod biodrami, skierowane na zewnątrz w razie potrzeby. Opuść biodra, utrzymując klatkę piersiową uniesioną i głowę skierowaną do przodu. Barki powinny znajdować się tuż przed sztangą. Będzie to pozycja wyjściowa.",
+    "Rozpocznij pierwsze podciągnięcie, odpychając się przez pięty i unosząc sztangę z ziemi. Kąt pleców powinien pozostać niezmieniony, dopóki sztanga nie minie kolan.",
+    "Przejdź do drugiego podciągnięcia, wykonując wyprost w biodrach, kolanach i stawach skokowych, unosząc sztangę w górę tak szybko, jak to możliwe. Sztanga powinna znajdować się blisko ciała. W szczytowym momencie wyprostu wzrusz barkami i pozwól łokciom ugiąć się na boki.",
+    "Przenosząc stopy do pozycji przyjęcia, dynamicznie wciągnij się pod sztangę, jednocześnie unosząc ją nad głowę. Stopy powinny dynamicznie przejść do pozycji wykrocznej (jedna stopa z przodu, jedna stopa z tyłu). Przyjmij sztangę z ciałem jak najniżej i ramionami w pełni wyprostowanymi nad głową.",
+    "Utrzymując sztangę wyrównaną nad piętami, głowę i klatkę piersiową uniesione, odepchnij się przez pięty, aby przejść do pozycji stojącej, łącząc stopy.",
+    "Ostrożnie odłóż ciężar na podłogę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "prostowniki grzbietu (część lędźwiowa)",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne",
+    "mięsień czworoboczny",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "dwubój olimpijski",
+  "name_de": "Reißen im Ausfallschritt",
+  "instructions_de": [
+    "Beginnen Sie mit einer beladenen Langhantel auf dem Boden. Die Hantel sollte sich nahe an den Schienbeinen befinden oder diese berühren, und ein breiter Griff sollte an der Hantel eingenommen werden. Die Füße sollten sich direkt unter den Hüften befinden, wobei die Füße nach Bedarf nach außen gedreht sind. Senken Sie die Hüften, halten Sie die Brust oben und den Kopf nach vorne gerichtet. Die Schultern sollten sich knapp vor der Hantel befinden. Dies ist die Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und die Hantel vom Boden heben. Der Rückenwinkel sollte gleich bleiben, bis die Hantel die Knie passiert.",
+    "Gehen Sie in den zweiten Zug über, indem Sie die Hüften, Knie und Sprunggelenke strecken und die Hantel so schnell wie möglich nach oben treiben. Die Hantel sollte nah am Körper geführt werden. Am höchsten Punkt der Streckung ziehen Sie die Schultern hoch und lassen die Ellbogen seitlich beugen.",
+    "Während Sie Ihre Füße in die Fangposition bewegen, ziehen Sie sich kraftvoll unter die Hantel, während Sie diese über Kopf heben. Die Füße sollten sich kraftvoll in eine Ausfallschrittposition bewegen, ein Fuß nach vorne, ein Fuß nach hinten. Fangen Sie die Hantel mit dem Körper so tief wie möglich und den Armen vollständig über Kopf gestreckt ab.",
+    "Halten Sie die Hantel über dem vorderen Teil der Fersen ausgerichtet, Kopf und Brust oben, und drücken Sie sich durch die Fersen der Füße ab, um in eine stehende Position zu gelangen, indem Sie die Füße zusammenführen.",
+    "Führen Sie das Gewicht vorsichtig auf den Boden zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Quadrizeps",
+    "Schultermuskulatur",
+    "Trapezmuskel",
+    "Trizeps"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

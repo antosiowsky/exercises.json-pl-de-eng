@@ -1,0 +1,56 @@
+{
+  "name": "Mixed Grip Chin",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of one hand facing forward and the palms of the other hand facing towards you. This will be your starting position.",
+    "Now start to pull yourself up as you exhale. Tip: With the arm that has the palms facing up concentrate on using the back muscles in order to perform the movement. The elbow of that arm should remain close to the torso. With the other arm that has the palms facing forward, the elbows will be away but in line with the torso. You will concentrate on using the lats to pull your body up.",
+    "After a second contraction at the top, start to slowly come down as you inhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "On the following set, switch grips; so if you had the right hand with the palms facing you and the left one with the palms facing forward, on the next set you will have the palms facing forward for the right hand and facing you for the left."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Podciąganie chwytem mieszanym",
+  "instructions_pl": [
+    "Używając rozstawu rąk o około 1 cal szerszego niż szerokość barków, chwyć drążek do podciągania jedną dłonią skierowaną do przodu (chwyt pronowany), a drugą dłonią skierowaną do siebie (chwyt supinowany). Będzie to Twoja pozycja początkowa.",
+    "Teraz rozpocznij podciąganie, wykonując wydech. Wskazówka: Ramieniem, którego dłoń jest skierowana do siebie (chwyt supinowany), skoncentruj się na użyciu mięśni grzbietu do wykonania ruchu. Łokieć tej ręki powinien pozostać blisko tułowia. W przypadku drugiej ręki, której dłoń jest skierowana do przodu (chwyt pronowany), łokcie będą oddalone, ale w linii z tułowiem. Skoncentruj się na użyciu mięśni najszerszych grzbietu do podciągnięcia ciała.",
+    "Po sekundowej fazie skurczu w górnej pozycji, zacznij powoli opuszczać ciało, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń.",
+    "W kolejnej serii zmień chwyt; czyli jeśli w poprzedniej serii prawa dłoń była skierowana do siebie, a lewa do przodu, w następnej serii prawa dłoń będzie skierowana do przodu, a lewa do siebie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Klimmzug im Kreuzgriff",
+  "instructions_de": [
+    "Fassen Sie eine Klimmzugstange mit einer Griffbreite, die etwa 2,5 cm (ca. 1 Zoll) breiter als schulterbreit ist, wobei eine Hand im Obergriff (Handfläche nach vorne) und die andere Hand im Untergriff (Handfläche zu Ihnen) greift. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie sich nun beim Ausatmen nach oben. Tipp: Konzentrieren Sie sich bei dem Arm, dessen Handfläche zu Ihnen zeigt (Untergriff), darauf, die Rückenmuskulatur für die Ausführung der Bewegung einzusetzen. Der Ellbogen dieses Arms sollte nah am Rumpf bleiben. Beim anderen Arm, dessen Handfläche nach vorne zeigt (Obergriff), sind die Ellbogen zwar vom Körper entfernt, aber in einer Linie mit dem Rumpf. Konzentrieren Sie sich darauf, den Musculus latissimus dorsi zu nutzen, um Ihren Körper nach oben zu ziehen.",
+    "Nach einer kurzen Kontraktion am höchsten Punkt beginnen Sie, sich beim Einatmen langsam wieder herabzulassen.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie im nächsten Satz den Griff; wenn Sie also die rechte Hand im Untergriff (Handfläche zu Ihnen) und die linke Hand im Obergriff (Handfläche nach vorne) hatten, greifen Sie im nächsten Satz mit der rechten Hand im Obergriff und mit der linken Hand im Untergriff."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

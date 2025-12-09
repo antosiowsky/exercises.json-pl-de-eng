@@ -1,0 +1,41 @@
+{
+  "name": "Chain Handle Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.",
+    "Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.",
+    "Pause at the lockout, and reverse the motion to return to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wyprosty ramion z uchwytami łańcuchowymi",
+  "instructions_pl": [
+    "Do wykonania tego ćwiczenia będziesz potrzebować dwóch uchwytów do wyciągu linkowego, płaskiej ławki oraz łańcuchów. Przypnij środek łańcuchów do uchwytów i ułóż się na płaskiej ławce. Twoje łokcie powinny być skierowane prosto w górę.",
+    "Rozpocznij od wyprostu w stawie łokciowym, utrzymując ramię nieruchomo, z nadgarstkami w pronacji.",
+    "Zatrzymaj ruch w fazie pełnego wyprostu (lockout) i odwróć ruch, aby wrócić do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Ketten-Griff-Streckung",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie zwei Kabelzuggriffe, eine Flachbank sowie Ketten. Befestigen Sie die Ketten mittig an den Griffen und positionieren Sie sich auf der Flachbank. Ihre Ellbogen sollten gerade nach oben zeigen.",
+    "Beginnen Sie, indem Sie den Ellbogen strecken, den Oberarm ruhig halten und die Handgelenke proniert sind.",
+    "Pausieren Sie in der Endposition (Lockout) und kehren Sie die Bewegung um, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Powerlifting"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "V-Bar Pulldown",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
+    "Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the V-bar with the palms facing each other (a neutral grip). Stick your chest out and lean yourself back slightly (around 30-degrees) in order to better engage the lats. This will be your starting position.",
+    "Using your lats, pull the bar down as you squeeze your shoulder blades. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion. Tip: Keep the torso stationary throughout the movement.",
+    "After a second hold on the contracted position, slowly bring the bar back to the starting position as you breathe in.",
+    "Repeat for the prescribed number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie drążka V-bar (wyciąg górny)",
+  "instructions_pl": [
+    "Usiądź na maszynie do wyciągu górnego z drążkiem V-bar przymocowanym do górnego bloczka.",
+    "Dopasuj podkładki pod kolana maszyny do swojego wzrostu. Podkładki te zapobiegną unoszeniu się ciała pod wpływem oporu przymocowanego do drążka.",
+    "Chwyć drążek V-bar dłońmi skierowanymi do siebie (chwyt neutralny). Wypnij klatkę piersiową i lekko odchyl się do tyłu (około 30 stopni), aby lepiej zaangażować mięśnie najszersze grzbietu. Będzie to Twoja pozycja początkowa.",
+    "Używając mięśni najszerszych grzbietu, ściągnij drążek w dół, jednocześnie ściągając łopatki. Kontynuuj, aż klatka piersiowa niemal dotknie drążka V-bar. Wykonując ten ruch, zrób wydech. Wskazówka: Utrzymuj tułów nieruchomo przez cały ruch.",
+    "Po sekundowym przytrzymaniu w pozycji maksymalnego skurczu, powoli wróć z drążkiem do pozycji początkowej, robiąc wdech.",
+    "Powtórz dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "V-Griff Latzug",
+  "instructions_de": [
+    "Setzen Sie sich an eine Latzugmaschine, an deren oberem Kabelzug ein V-Griff befestigt ist.",
+    "Stellen Sie das Kniepolster der Maschine auf Ihre Körpergröße ein. Diese Polster verhindern, dass Ihr Körper durch den an der Stange befestigten Widerstand angehoben wird.",
+    "Greifen Sie den V-Griff mit den Handflächen zueinander (neutraler Griff). Strecken Sie die Brust heraus und lehnen Sie sich leicht (etwa 30 Grad) zurück, um den Latissimus besser zu aktivieren. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie den Griff mit Hilfe Ihres Latissimus nach unten, während Sie die Schulterblätter zusammenziehen. Fahren Sie fort, bis Ihre Brust fast den V-Griff berührt. Atmen Sie bei dieser Bewegung aus. Tipp: Halten Sie den Rumpf während der gesamten Bewegung stabil.",
+    "Halten Sie die kontrahierte Position für eine Sekunde und führen Sie den Griff dann langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps",
+    "Mittlerer Rücken",
+    "Schultern"
+  ],
+  "category_de": "Krafttraining"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Standing Gastrocnemius Calf Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
+    "Support your weight on your left leg and place your left hand on your left thigh.",
+    "Pull your right toes toward your knee until you feel a stretch in your calf."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśnia brzuchatego łydki w pozycji stojącej",
+  "instructions_pl": [
+    "Umieść prawą piętę na stopniu z wyprostowanym kolanem i pochyl się do przodu, aby chwycić prawą dłonią prawy palec u stopy. Lewe kolano powinno być lekko ugięte, a plecy proste.",
+    "Oprzyj ciężar ciała na lewej nodze i połóż lewą dłoń na lewym udzie.",
+    "Przyciągnij prawe palce u stopy w kierunku kolana, aż poczujesz rozciąganie w łydce."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung des Musculus gastrocnemius im Stehen",
+  "instructions_de": [
+    "Stellen Sie Ihre rechte Ferse auf eine Stufe, das Knie gestreckt, und lehnen Sie sich nach vorne, um Ihre rechten Zehen mit der rechten Hand zu greifen. Ihr linkes Knie sollte leicht gebeugt und Ihr Rücken gerade sein.",
+    "Verlagern Sie Ihr Gewicht auf Ihr linkes Bein und legen Sie Ihre linke Hand auf Ihren linken Oberschenkel.",
+    "Ziehen Sie Ihre rechten Zehen in Richtung Ihres Knies, bis Sie eine Dehnung in Ihrer Wadenmuskulatur spüren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Dehnung"
+}

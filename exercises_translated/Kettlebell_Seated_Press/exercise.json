@@ -1,0 +1,47 @@
+{
+  "name": "Kettlebell Seated Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Sit on the floor and spread your legs out comfortably.",
+    "Clean one kettlebell to your shoulder.",
+    "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie Kettlebell Siedząc",
+  "instructions_pl": [
+    "Usiądź na podłodze i wygodnie rozłóż nogi.",
+    "Zarzuć jeden kettlebell na bark.",
+    "Wyciśnij kettlebell w górę, aż do pełnego wyprostu ramienia nad głową. Wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Kettlebell-Drücken",
+  "instructions_de": [
+    "Setzen Sie sich auf den Boden und spreizen Sie Ihre Beine bequem auseinander.",
+    "Setzen Sie eine Kettlebell auf Ihre Schulter um.",
+    "Drücken Sie die Kettlebell nach oben und außen, bis sie über Kopf vollständig gestreckt ist. Kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

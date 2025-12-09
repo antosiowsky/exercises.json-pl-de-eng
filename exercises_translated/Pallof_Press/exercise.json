@@ -1,0 +1,62 @@
+{
+  "name": "Pallof Press",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Connect a standard handle to a tower, and—if possible—position the cable to shoulder height. If not, a low pulley will suffice.",
+    "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
+    "With your feet positioned hip-width apart and knees slightly bent, hold the cable to the middle of your chest. This will be your starting position.",
+    "Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.",
+    "Hold the repetition for several seconds before returning to the starting position.",
+    "At the conclusion of the set, repeat facing the other direction."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyciskanie Pallofa",
+  "instructions_pl": [
+    "Podłącz standardowy uchwyt do wyciągu bramowego i – jeśli to możliwe – ustaw linkę na wysokości barków. W przeciwnym razie wystarczy niski bloczek.",
+    "Ustawiając się bokiem do wyciągu, chwyć uchwyt obiema rękami i odejdź od wyciągu bramowego. Powinieneś znajdować się w odległości mniej więcej długości ramienia od bloczka, czując napięcie ciężaru na lince.",
+    "Stopy rozstaw na szerokość bioder, kolana lekko ugięte, trzymaj linkę na środku klatki piersiowej. Będzie to Twoja pozycja wyjściowa.",
+    "Wypchnij linkę od klatki piersiowej, całkowicie prostując oba ramiona. Twój korpus powinien być napięty i zaangażowany.",
+    "Przytrzymaj powtórzenie przez kilka sekund przed powrotem do pozycji wyjściowej.",
+    "Po zakończeniu serii, powtórz ćwiczenie, obracając się w drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy większy",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Pallof Press",
+  "instructions_de": [
+    "Befestigen Sie einen Standardgriff an einem Kabelzugturm und positionieren Sie das Kabel – wenn möglich – auf Schulterhöhe. Andernfalls ist eine tiefe Umlenkrolle ausreichend.",
+    "Stellen Sie sich seitlich zum Kabelzug, fassen Sie den Griff mit beiden Händen und treten Sie vom Turm weg. Sie sollten sich etwa eine Armlänge von der Umlenkrolle entfernt befinden, sodass Spannung auf dem Kabel lastet.",
+    "Stellen Sie Ihre Füße hüftbreit auseinander und beugen Sie die Knie leicht. Halten Sie das Kabel mittig vor Ihrer Brust. Dies ist Ihre Ausgangsposition.",
+    "Drücken Sie das Kabel von Ihrer Brust weg, indem Sie beide Arme vollständig strecken. Ihre Rumpfmuskulatur sollte angespannt und aktiviert sein.",
+    "Halten Sie die Wiederholung für mehrere Sekunden, bevor Sie in die Ausgangsposition zurückkehren.",
+    "Nach Beendigung des Satzes wiederholen Sie die Übung in die andere Richtung."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

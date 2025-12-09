@@ -1,0 +1,44 @@
+{
+  "name": "Lying Face Down Plate Neck Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face down with your whole body straight on a flat bench while holding a weight plate behind your head. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the upper chest, neck and face to be off the bench. This will be your starting position.",
+    "While keeping the plate secure on the back of your head slowly lower your head (as in saying \"yes\") as you breathe in.",
+    "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Szyja"
+  ],
+  "primaryMuscles_de": [
+    "Nacken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Opór szyi z talerzem w leżeniu przodem",
+  "instructions_pl": [
+    "Połóż się przodem na płaskiej ławce, utrzymując ciało prosto, jednocześnie trzymając talerz obciążeniowy za głową. Wskazówka: Ustaw się tak, aby twoje barki znajdowały się nieco powyżej końca ławki, co pozwoli na swobodne zwisanie górnej części klatki piersiowej, szyi i twarzy poza ławką. Jest to twoja pozycja początkowa.",
+    "Utrzymując talerz stabilnie na tyle głowy, powoli opuść głowę (jak przy potakiwaniu „tak”), wykonując wdech.",
+    "Podnieś głowę z powrotem do pozycji początkowej półkolistym ruchem, wykonując wydech. Przytrzymaj skurcz przez sekundę.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Nackenwiderstandstraining in Bauchlage mit Hantelscheibe",
+  "instructions_de": [
+    "Legen Sie sich in Bauchlage mit geradem Körper auf eine Flachbank, während Sie eine Hantelscheibe hinter Ihrem Kopf halten. Tipp: Positionieren Sie sich so, dass Ihre Schultern leicht über das Ende der Flachbank hinausragen, damit der obere Brustbereich, der Nacken und das Gesicht frei von der Bank sind. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Hantelscheibe sicher am Hinterkopf und senken Sie Ihren Kopf langsam ab (wie beim Nicken, wenn Sie „Ja“ sagen), während Sie einatmen.",
+    "Heben Sie Ihren Kopf in einer halbkreisförmigen Bewegung zurück in die Ausgangsposition, während Sie ausatmen. Halten Sie die Kontraktion für eine Sekunde.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

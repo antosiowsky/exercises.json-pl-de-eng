@@ -1,0 +1,44 @@
+{
+  "name": "Weighted Sit-Ups - With Bands",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by strapping the bands around the base of the decline bench. Place the handles towards the inside of the decline bench so that when lying down, you can reach for both of them.",
+    "Position your legs through the decline machine until they are secured. Now reach for the exercise bands with both hands. Use a pronated (palms forward) grip to grasp the handles. Position them near your collar bone and rotate your wrist to a neutral grip (palms facing the torso). Note: Your arms should remain stationary throughout the exercise. This is the starting position.",
+    "Move your torso upward until your upper body is perpendicular to the floor while exhaling. Hold the contraction for a second and lower your upper body back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Brzuszki z obciążeniem – z taśmami oporowymi",
+  "instructions_pl": [
+    "Rozpocznij, mocując taśmy oporowe wokół podstawy ławki skośnej. Ułóż uchwyty w kierunku wewnętrznej części ławki, tak aby leżąc, móc dosięgnąć obu.",
+    "Ułóż nogi na ławce skośnej, aż zostaną zabezpieczone. Teraz sięgnij obiema rękami po taśmy oporowe. Chwyć uchwyty nachwytem (dłonie skierowane do przodu). Ułóż je blisko obojczyków i obróć nadgarstki do chwytu neutralnego (dłonie skierowane do tułowia). Uwaga: Ramiona powinny pozostać nieruchome przez cały czas trwania ćwiczenia. Jest to pozycja początkowa.",
+    "Unieś tułów w górę, aż górna część ciała znajdzie się prostopadle do podłogi, wykonując wydech. Przytrzymaj skurcz przez sekundę i opuść górną część ciała z powrotem do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Gewichtete Sit-Ups - mit Bändern",
+  "instructions_de": [
+    "Beginnen Sie damit, die Bänder um die Basis der Negativbank zu befestigen. Platzieren Sie die Griffe zur Innenseite der Negativbank, sodass Sie beide erreichen können, wenn Sie sich hinlegen.",
+    "Positionieren Sie Ihre Beine in der Negativbank, bis sie gesichert sind. Greifen Sie nun mit beiden Händen nach den Übungsbändern. Verwenden Sie einen Pronationsgriff (Handflächen nach vorne), um die Griffe zu fassen. Positionieren Sie sie nahe Ihrem Schlüsselbein und drehen Sie Ihr Handgelenk in einen neutralen Griff (Handflächen zeigen zum Rumpf). Hinweis: Ihre Arme sollten während der gesamten Übung stationär bleiben. Dies ist die Ausgangsposition.",
+    "Bewegen Sie Ihren Rumpf nach oben, bis Ihr Oberkörper senkrecht zum Boden steht, während Sie ausatmen. Halten Sie die Kontraktion für eine Sekunde und senken Sie Ihren Oberkörper beim Einatmen zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

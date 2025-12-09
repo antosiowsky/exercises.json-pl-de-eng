@@ -1,0 +1,50 @@
+{
+  "name": "Leverage High Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Load an appropriate weight onto the pins and adjust the seat height so that you can just reach the handles above you. Adjust the knee pad to help keep you down. Grasp the handles with a pronated grip. This will be your starting position.",
+    "Pull the handles towards your torso, retracting your shoulder blades as you flex the elbow.",
+    "Pause at the bottom of the motion, and then slowly return the handles to the starting position.",
+    "For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wiosłowanie górne na maszynie typu Leverage",
+  "instructions_pl": [
+    "Załaduj odpowiedni ciężar na trzpienie i dostosuj wysokość siedziska tak, abyś ledwo dosięgał/a uchwytów znajdujących się nad Tobą. Dostosuj podkładkę pod kolana, aby pomogła utrzymać Cię w stabilnej pozycji. Chwyć uchwyty nachwytem. Będzie to Twoja pozycja początkowa.",
+    "Przyciągnij uchwyty w kierunku tułowia, wykonując retrakcję łopatek i jednocześnie zginając stawy łokciowe.",
+    "Zatrzymaj ruch w dolnej fazie, a następnie powoli wróć uchwytami do pozycji początkowej.",
+    "W przypadku wykonywania wielu powtórzeń, unikaj całkowitego opuszczania ciężaru do ograniczników, aby utrzymać stałe napięcie w mięśniach zaangażowanych w ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Hebel-Hochrudern",
+  "instructions_de": [
+    "Legen Sie ein passendes Gewicht auf die Gewichtsstifte und stellen Sie die Sitzhöhe so ein, dass Sie die Griffe über sich gerade noch erreichen können. Stellen Sie das Kniepolster ein, um Ihren Körper unten zu fixieren. Fassen Sie die Griffe mit einem pronatierten Griff. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie die Griffe in Richtung Ihres Rumpfes, indem Sie die Scapulae retrahieren und den Ellbogen beugen.",
+    "Pausieren Sie am tiefsten Punkt der Bewegung und führen Sie die Griffe dann langsam in die Ausgangsposition zurück.",
+    "Für mehrere Wiederholungen vermeiden Sie es, das Gewicht vollständig zu den Anschlägen zurückzuführen, um die Spannung auf den arbeitenden Muskeln aufrechtzuerhalten."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Sled Overhead Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.",
+    "Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.",
+    "Extend through the elbow to straighten the arm. Ensure that your upper arm stays in position to isolate the triceps.",
+    "Upon full extension, step forward to take the slack out of the line. You may keep your feet staggered for more stability."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wyprost ramion nad głową z użyciem sanek",
+  "instructions_pl": [
+    "Przymocuj podwójne uchwyty do sanek za pomocą łańcucha lub liny. Obciąż sanki odpowiednim ciężarem.",
+    "Stojąc tyłem do sanek, cofnij się, aż poczujesz napięcie w linie. Unieś ręce nad głowę, trzymając je razem, dłońmi skierowanymi do siebie. Łokcie powinny być skierowane w górę i zgięte w stawach łokciowych. Będzie to twoja pozycja wyjściowa.",
+    "Wyprostuj ramiona w stawach łokciowych. Upewnij się, że górna część ramienia pozostaje w stałej pozycji, aby izolować mięsień trójgłowy ramienia.",
+    "Po pełnym wyproście, zrób krok do przodu, aby zlikwidować luz w linie. Możesz ustawić stopy jedna przed drugą dla większej stabilności."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Schlitten-Überkopf-Trizepsextension",
+  "instructions_de": [
+    "Befestigen Sie zwei Griffe mittels einer Kette oder eines Seils an einem Schlitten. Beladen Sie den Schlitten mit einem angemessenen Gewicht.",
+    "Mit dem Rücken zum Schlitten treten Sie zurück, bis Spannung auf der Leine ist. Heben Sie Ihre Hände über Ihren Kopf, halten Sie sie zusammen, wobei die Handflächen zueinander zeigen. Ihre Ellbogen sollten nach oben zeigen und gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Strecken Sie den Arm im Ellbogengelenk. Achten Sie darauf, dass Ihr Oberarm in Position bleibt, um den Musculus triceps brachii zu isolieren.",
+    "Nach vollständiger Streckung treten Sie vor, um die Leine zu straffen. Sie können Ihre Füße versetzt halten, um mehr Stabilität zu gewährleisten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

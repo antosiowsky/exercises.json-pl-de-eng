@@ -1,0 +1,47 @@
+{
+  "name": "Cable Incline Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
+    "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) narrow grip (less than shoulder width) and keep your elbows tucked in to your sides. Your upper arms should create around a 25 degree angle when measured from the floor.",
+    "Keeping the upper arms stationary, extend the arms as you flex the triceps. Breathe out during this portion of the movement and hold the contraction for a second.",
+    "Slowly go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprosty ramion na wyciągu górnym leżąc na ławce skośnej (na mięsień trójgłowy ramienia)",
+  "instructions_pl": [
+    "Połóż się na ławce skośnej, tyłem do maszyny z wyciągiem górnym, do której zamocowany jest prosty drążek.",
+    "Chwyć prosty drążek nad głową nachwytem (dłonie skierowane w dół) wąskim chwytem (węższym niż szerokość barków) i trzymaj łokcie blisko tułowia. Twoje ramiona powinny tworzyć kąt około 25 stopni względem podłogi.",
+    "Utrzymując ramiona nieruchomo, wyprostuj przedramiona, jednocześnie napinając mięsień trójgłowy ramienia. Wykonaj wydech podczas tej fazy ruchu i przytrzymaj skurcz przez sekundę.",
+    "Powoli wróć do pozycji początkowej.",
+    "Wykonaj zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabelzug-Trizepsextension auf der Schrägbank",
+  "instructions_de": [
+    "Legen Sie sich auf eine Schrägbank, mit dem Rücken zu einem oberen Kabelzugturm, der mit einer geraden Stange ausgestattet ist.",
+    "Greifen Sie die gerade Stange über Ihrem Kopf im Pronationsgriff (Obergriff; Handflächen zeigen nach unten) mit engem Griff (weniger als Schulterbreite) und halten Sie Ihre Ellbogen eng am Körper. Ihre Oberarme sollten, vom Boden aus gemessen, einen Winkel von etwa 25 Grad bilden.",
+    "Halten Sie die Oberarme unbewegt und strecken Sie die Arme, während Sie den Musculus triceps brachii anspannen. Atmen Sie während dieses Teils der Bewegung aus und halten Sie die Kontraktion für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

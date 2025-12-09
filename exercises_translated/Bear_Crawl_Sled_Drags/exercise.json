@@ -1,0 +1,50 @@
+{
+  "name": "Bear Crawl Sled Drags",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.",
+    "Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Czołganie niedźwiedzie z ciągnięciem sanek",
+  "instructions_pl": [
+    "Nosząc uprząż lub luźny pas obciążeniowy, przymocuj łańcuch z tyłu tak, abyś był odwrócony plecami do sanek. Pochyl się, opierając dłonie na ziemi. Plecy powinny być proste, a kolana ugięte. To jest twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, odpychając się naprzemiennie lewą i prawą nogą. Używaj rąk do utrzymania równowagi i wspomagania ciągnięcia. Staraj się utrzymywać proste plecy podczas przemieszczania się na określonym dystansie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Schlittenziehen im Bärenkrabbeln",
+  "instructions_de": [
+    "Legen Sie entweder ein Zuggeschirr oder einen lockeren Gewichtsgürtel an und befestigen Sie die Kette am Rücken, sodass Sie dem Schlitten den Rücken zukehren. Beugen Sie sich nach unten, bis Ihre Hände den Boden berühren. Ihr Rücken sollte gerade und die Knie gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, sich durch abwechselndes Drücken mit den Beinen (links und rechts) vorwärtszubewegen. Nutzen Sie Ihre Hände, um das Gleichgewicht zu halten und beim Ziehen zu unterstützen. Versuchen Sie, Ihren Rücken gerade zu halten, während Sie sich über eine vorgegebene Distanz bewegen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Strongman"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Close-Grip Barbell Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie back on a flat bench. Using a close grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that - as opposed to a regular bench press - you keep the elbows close to the torso at all times in order to maximize triceps involvement.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi leżąc wąskim chwytem",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce. Używając wąskiego chwytu (mniej więcej na szerokość barków), zdejmij sztangę ze stojaka i trzymaj ją prosto nad sobą z wyprostowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Wraz z wdechem, opuszczaj sztangę powoli, aż poczujesz ją na środkowej części klatki piersiowej. Wskazówka: Upewnij się, że – w przeciwieństwie do standardowego wyciskania leżąc – łokcie są przez cały czas blisko tułowia, aby zmaksymalizować zaangażowanie mięśni trójgłowych ramienia.",
+    "Po sekundowej pauzie, wraz z wydechem, wróć ze sztangą do pozycji początkowej, wypychając ją mięśniami trójgłowymi ramienia. Zablokuj ramiona w pozycji skurczonej, przytrzymaj przez sekundę, a następnie ponownie zacznij powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch dla przepisanej liczby powtórzeń.",
+    "Po zakończeniu odłóż sztangę z powrotem na stojak."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Enges Langhantelbankdrücken",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank. Verwenden Sie einen engen Griff (etwa schulterbreit), heben Sie die Langhantel aus der Ablage und halten Sie sie mit gestreckten Armen direkt über sich. Dies ist Ihre Ausgangsposition.",
+    "Während Sie einatmen, senken Sie die Hantel langsam ab, bis Sie sie auf Ihrer mittleren Brust spüren. Tipp: Achten Sie darauf, dass Sie – im Gegensatz zum regulären Bankdrücken – die Ellbogen stets eng am Rumpf halten, um die Beteiligung des Musculus triceps brachii zu maximieren.",
+    "Nach einer einsekündigen Pause bringen Sie die Hantel beim Ausatmen zurück in die Ausgangsposition und drücken Sie die Hantel unter Einsatz Ihrer Musculi triceps brachii nach oben. Strecken Sie die Arme in der kontrahierten Position, halten Sie eine Sekunde lang und beginnen Sie dann erneut langsam abzusenken. Tipp: Das Absenken sollte mindestens doppelt so lange dauern wie das Hochdrücken.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Hantel zurück in die Ablage."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

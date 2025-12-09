@@ -1,0 +1,44 @@
+{
+  "name": "Backward Medicine Ball Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
+    "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
+    "Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.",
+    "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Rzut piłką lekarską w tył",
+  "instructions_pl": [
+    "To ćwiczenie najlepiej wykonywać z partnerem. Jeśli nie masz partnera, piłkę można rzucić i podnieść lub rzucić o ścianę.",
+    "Rozpocznij, stając kilka metrów przed partnerem, obaj zwróceni w tym samym kierunku. Rozpocznij, trzymając piłkę między nogami.",
+    "Wykonaj przysiad, a następnie dynamicznie wyprostuj się, przechodząc do pełnego wyprostu, i przerzuć piłkę nad głową do partnera.",
+    "Twój partner może następnie przetoczyć piłkę z powrotem do Ciebie. Powtórz ćwiczenie przez żądaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Plyometria",
+  "name_de": "Rückwärtiger Medizinballwurf",
+  "instructions_de": [
+    "Diese Übung wird am besten mit einem Partner durchgeführt. Falls kein Partner vorhanden ist, kann der Ball geworfen und wiedergeholt oder gegen eine Wand geworfen werden.",
+    "Stellen Sie sich einige Meter vor Ihren Partner, wobei beide in die gleiche Richtung blicken. Halten Sie den Ball zunächst zwischen Ihren Beinen.",
+    "Gehen Sie in die Hocke und stoßen Sie sich dann kraftvoll ab, wobei Sie in die volle Streckung kommen und den Ball über Ihren Kopf zu Ihrem Partner werfen.",
+    "Ihr Partner kann den Ball dann zu Ihnen zurückrollen. Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Plyometrie"
+}

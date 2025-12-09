@@ -1,0 +1,44 @@
+{
+  "name": "Seated Side Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pick a couple of dumbbells and sit at the end of a flat bench with your feet firmly on the floor. Hold the dumbbells with your palms facing in and your arms straight down at your sides at arms' length. This will be your starting position.",
+    "While maintaining the torso stationary (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.",
+    "Lower the dumbbells back down slowly to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wznosy boczne hantli w siadzie",
+  "instructions_pl": [
+    "Weź parę hantli i usiądź na końcu płaskiej ławki, ze stopami pewnie opartymi na podłodze. Trzymaj hantle dłońmi skierowanymi do wewnątrz, z ramionami wyprostowanymi wzdłuż tułowia na długość ramion. To będzie twoja pozycja początkowa.",
+    "Utrzymując tułów nieruchomo (bez kołysania), unieś hantle na boki z lekkim zgięciem w łokciach i dłońmi lekko pochylonymi do przodu, jakbyś wylewał wodę ze szklanki. Kontynuuj ruch w górę, aż ramiona znajdą się równolegle do podłogi. Wykonując ten ruch, zrób wydech i zatrzymaj się na sekundę w górnej fazie ruchu.",
+    "Powoli opuść hantle z powrotem do pozycji początkowej, robiąc wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Seitheben",
+  "instructions_de": [
+    "Nehmen Sie ein Paar Kurzhanteln und setzen Sie sich an das Ende einer Flachbank, die Füße fest auf dem Boden. Halten Sie die Kurzhanteln mit den Handflächen zueinander zeigend und die Arme ausgestreckt an den Seiten, in Armlänge. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den Rumpf stabil (ohne Schwung) und heben Sie die Kurzhanteln seitlich an, mit einer leichten Beugung im Ellbogengelenk und die Hände leicht nach vorne geneigt, als ob Sie Wasser in ein Glas gießen würden. Führen Sie die Bewegung fort, bis Ihre Arme parallel zum Boden sind. Atmen Sie aus, während Sie diese Bewegung ausführen, und halten Sie am höchsten Punkt eine Sekunde inne.",
+    "Senken Sie die Kurzhanteln langsam und kontrolliert in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

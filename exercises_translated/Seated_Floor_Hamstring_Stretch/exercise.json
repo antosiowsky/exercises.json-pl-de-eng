@@ -1,0 +1,44 @@
+{
+  "name": "Seated Floor Hamstring Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Sit on a mat with your right leg extended in front of you and your left leg bent with your foot against your right inner thigh.",
+    "Lean forward from your hips and reach for your ankle until you feel a stretch in your hamstring. Hold for 15 seconds, then repeat for your other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni kulszowo-goleniowych w siadzie prostym na podłodze",
+  "instructions_pl": [
+    "Usiądź na macie z prawą nogą wyprostowaną przed sobą i lewą nogą zgiętą, ze stopą opartą o wewnętrzną stronę prawego uda.",
+    "Pochyl się w przód z bioder i sięgnij do kostki, aż poczujesz rozciąganie w mięśniach kulszowo-goleniowych. Utrzymaj pozycję przez 15 sekund, a następnie powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydki"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Sitzende Dehnung der ischiocruralen Muskulatur am Boden",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Matte, das rechte Bein vor sich ausgestreckt und das linke Bein gebeugt, wobei der Fuß an der Innenseite Ihres rechten Oberschenkels anliegt.",
+    "Lehnen Sie sich aus den Hüften nach vorne und greifen Sie nach Ihrem Knöchel, bis Sie eine Dehnung in Ihrer ischiocruralen Muskulatur spüren. Halten Sie diese Position für 15 Sekunden und wiederholen Sie die Übung anschließend auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae"
+  ],
+  "category_de": "Dehnung"
+}

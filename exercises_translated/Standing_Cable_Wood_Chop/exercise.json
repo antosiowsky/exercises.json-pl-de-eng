@@ -1,0 +1,62 @@
+{
+  "name": "Standing Cable Wood Chop",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
+    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+    "With your feet positioned shoulder width apart, reach upward with your other hand and grab the handle with both hands. Your arms should still be fully extended.",
+    "In one motion, pull the handle down and across your body to your front knee while rotating your torso.",
+    "Keep your back and arms straight and core tight while you pivot your back foot and bend your knees to get a full range of motion.",
+    "Maintain your stance and straight arms. Return to the neutral position in a slow and controlled manner.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ścinanie drewna z wyciągiem stojąc",
+  "instructions_pl": [
+    "Podłącz standardowy uchwyt do wieży i ustaw linkę wyciągu w najwyższej pozycji bloczka.",
+    "Ustawiając się bokiem do wyciągu, chwyć uchwyt jedną ręką i odejdź od wieży. Powinieneś znajdować się w odległości około wyciągniętej ręki od bloczka, z napięciem obciążenia na lince. Twoja wyciągnięta ręka powinna być w linii z linką.",
+    "Ustawiając stopy na szerokość barków, sięgnij w górę drugą ręką i chwyć uchwyt obiema rękami. Twoje ramiona powinny być nadal w pełni wyprostowane.",
+    "Jednym płynnym ruchem pociągnij uchwyt w dół i w poprzek ciała do przedniego kolana, jednocześnie rotując tułów.",
+    "Utrzymuj proste plecy i ramiona oraz napięty korpus, jednocześnie obracając tylną stopę i uginając kolana, aby uzyskać pełny zakres ruchu.",
+    "Utrzymuj postawę i proste ramiona. Wróć do pozycji neutralnej w powolny i kontrolowany sposób.",
+    "Powtarzaj do upadku mięśniowego.",
+    "Następnie zmień pozycję i powtórz tę samą serię ruchów po przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Stehendes Kabelzug-Holzhacken",
+  "instructions_de": [
+    "Befestigen Sie einen Standardgriff an einem Kabelzugturm und stellen Sie das Kabel auf die höchste Rollenposition ein.",
+    "Stellen Sie sich seitlich zum Kabelzug, greifen Sie den Griff mit einer Hand und treten Sie vom Turm weg. Sie sollten etwa eine Armlänge von der Rolle entfernt sein, mit der Spannung des Gewichts auf dem Kabel. Ihr ausgestreckter Arm sollte mit dem Kabel ausgerichtet sein.",
+    "Stellen Sie Ihre Füße schulterbreit auseinander, strecken Sie den anderen Arm nach oben und greifen Sie den Griff mit beiden Händen. Ihre Arme sollten weiterhin vollständig gestreckt sein.",
+    "In einer fließenden Bewegung ziehen Sie den Griff nach unten und über Ihren Körper zu Ihrem vorderen Knie, während Sie Ihren Rumpf rotieren.",
+    "Halten Sie Ihren Rücken und Ihre Arme gerade und spannen Sie Ihren Rumpf an, während Sie Ihren hinteren Fuß drehen und Ihre Knie beugen, um einen vollen Bewegungsumfang zu erreichen.",
+    "Behalten Sie Ihre Haltung und Ihre gestreckten Arme bei. Kehren Sie langsam und kontrolliert in die neutrale Position zurück.",
+    "Wiederholen Sie bis zum Muskelversagen.",
+    "Wechseln Sie dann die Seite und wiederholen Sie die gleiche Bewegungsabfolge auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

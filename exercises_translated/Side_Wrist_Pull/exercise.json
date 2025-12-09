@@ -1,0 +1,47 @@
+{
+  "name": "Side Wrist Pull",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "lats"
+  ],
+  "instructions": [
+    "This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.",
+    "Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don't pull too hard on the shoulders joint. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Boczne Przyciąganie Nadgarstka",
+  "instructions_pl": [
+    "To rozciąganie najlepiej wykonywać w pozycji stojącej. Skrzyżuj lewe ramię przez linię środkową ciała i chwyć lewy nadgarstek prawą dłonią na wysokości bioder. Rozpocznij rozciąganie z ugiętym lewym ramieniem.",
+    "Powoli prostuj, przyciągaj i unoś je do wysokości barków, jak przedstawiono na ilustracji. Poczuj, jak to rozciąganie bierze początek w plecach, a nie w barkach, i nie ciągnij zbyt mocno za staw barkowy. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Seitlicher Handgelenkszug",
+  "instructions_de": [
+    "Diese Dehnung funktioniert am besten im Stehen. Führen Sie Ihren linken Arm über die Mittellinie Ihres Körpers und halten Sie das linke Handgelenk mit Ihrer rechten Hand auf Hüfthöhe. Beginnen Sie die Dehnung mit einem gebeugten linken Arm.",
+    "Strecken, ziehen und heben Sie ihn langsam bis auf Schulterhöhe an, wie abgebildet. Spüren Sie, wie diese Dehnung im Rücken entsteht, nicht in den Schultern, und ziehen Sie nicht zu stark am Schultergelenk. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Rack Pull with Bands",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Attach bands to the base of the rack, or secure them with dumbbells. Attach the other end to the bar. You may need to choke the bands to provide tension.",
+    "Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",
+    "With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement. Return the weight to the pins and repeat."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg z racka z gumami oporowymi",
+  "instructions_pl": [
+    "Ustaw się w klatce mocy (power rack) ze sztangą umieszczoną na bolcach. Bolce powinny być ustawione na pożądanej wysokości; tuż poniżej kolan, tuż powyżej lub na wysokości środka uda. Przymocuj gumy oporowe do podstawy klatki lub zabezpiecz je hantlami. Drugi koniec przymocuj do sztangi. Może być konieczne skrócenie gum w celu zapewnienia odpowiedniego napięcia.",
+    "Ustaw się przy sztandze w prawidłowej pozycji do martwego ciągu. Stopy powinny znajdować się pod biodrami, chwyt na szerokość barków, plecy wygięte w łuk i biodra cofnięte, aby zaangażować mięśnie kulszowo-goleniowe. Ponieważ ciężar jest zazwyczaj duży, możesz użyć chwytu mieszanego, chwytu zamkowego (hook grip) lub pasków w celu ułatwienia utrzymania ciężaru.",
+    "Z głową skierowaną do przodu, wyprostuj się w stawach biodrowych i kolanowych, ciągnąc ciężar w górę i do tyłu aż do pełnego wyprostu (lockout). Pamiętaj, aby cofnąć barki, kończąc ruch. Opuść ciężar na bolce i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Rack Pull mit Bändern",
+  "instructions_de": [
+    "Stellen Sie sich in einem Power Rack auf, wobei die Langhantel auf den Sicherheitsstiften liegt. Die Sicherheitsstifte sollten auf die gewünschte Höhe eingestellt werden: knapp unterhalb der Knie, knapp oberhalb oder auf mittlerer Oberschenkelhöhe. Befestigen Sie Widerstandsbänder an der Basis des Racks oder sichern Sie diese mit Kurzhanteln. Befestigen Sie das andere Ende an der Langhantel. Möglicherweise müssen Sie die Bänder umwickeln, um die gewünschte Spannung zu erzeugen.",
+    "Positionieren Sie sich in der korrekten Kreuzhebe-Position vor der Langhantel. Ihre Füße sollten unter Ihren Hüften stehen, Ihr Griff schulterbreit sein, der Rücken gewölbt und die Hüften nach hinten geschoben, um die ischiocrurale Muskulatur zu aktivieren. Da das Gewicht typischerweise schwer ist, können Sie einen Kreuzgriff, einen Haken-Griff oder Zughilfen verwenden, um das Halten des Gewichts zu erleichtern.",
+    "Mit nach vorne gerichtetem Blick strecken Sie sich durch Hüften und Knie, ziehen das Gewicht nach oben und hinten, bis Sie die Endposition erreichen (Lockout). Achten Sie darauf, die Schultern am Ende der Bewegung nach hinten zu ziehen. Legen Sie das Gewicht zurück auf die Sicherheitsstifte und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Musculus gluteus maximus",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraftdreikampf"
+}

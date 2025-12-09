@@ -1,0 +1,71 @@
+{
+  "name": "Power Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+    "Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.",
+    "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.",
+    "Return to a standing position with the weight over head."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie siłowe",
+  "instructions_pl": [
+    "Rozpocznij ze sztangą obciążoną spoczywającą na podłodze. Sztanga powinna znajdować się blisko piszczeli lub dotykać ich, a chwyt na sztandze powinien być szeroki. Stopy powinny być ustawione bezpośrednio pod biodrami, z palcami skierowanymi na zewnątrz w zależności od potrzeb. Opuść biodra, utrzymując klatkę piersiową uniesioną i wzrok skierowany do przodu. Barki powinny znajdować się tuż przed sztangą. Będzie to pozycja początkowa.",
+    "Rozpocznij pierwsze podciągnięcie, odpychając się przez pięty, unosząc sztangę z podłoża. Kąt nachylenia pleców powinien pozostać niezmieniony, dopóki sztanga nie minie kolan.",
+    "Przejdź do drugiego podciągnięcia, wykonując dynamiczny wyprost w stawach biodrowych, kolanowych i skokowych, unosząc sztangę w górę tak szybko, jak to możliwe. Sztanga powinna znajdować się blisko ciała. W szczytowym momencie wyprostu, wzrusz barkami i pozwól łokciom ugiąć się na boki.",
+    "Przenosząc stopy do pozycji odbioru, nieco szerszej niż początkowa, wciągnij się pod sztangę, jednocześnie unosząc ją nad głowę. Sztanga powinna zostać odebrana w częściowym przysiadzie. Kontynuuj unoszenie sztangi do pozycji nad głową, odbierając ją z zablokowanymi ramionami nad głową.",
+    "Wróć do pozycji stojącej z ciężarem nad głową."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Prostowniki grzbietu",
+    "Mięsień czworogłowy uda",
+    "Mięśnie naramienne",
+    "Mięsień czworoboczny",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Podnoszenie ciężarów",
+  "name_de": "Power Snatch",
+  "instructions_de": [
+    "Beginnen Sie mit einer beladenen Langhantel auf dem Boden. Die Stange sollte sich nah an den Schienbeinen befinden oder diese berühren, und ein breiter Griff sollte an der Stange gewählt werden. Die Füße sollten sich direkt unter den Hüften befinden, wobei die Füße nach Bedarf leicht nach außen gedreht sind. Senken Sie die Hüften, halten Sie die Brust aufgerichtet und den Kopf nach vorne gerichtet. Die Schultern sollten sich knapp vor der Stange befinden. Dies ist die Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie durch die Fersen drücken und die Stange vom Boden heben. Der Rückenwinkel sollte gleich bleiben, bis die Stange die Knie passiert.",
+    "Gehen Sie in den zweiten Zug über, indem Sie Hüften, Knie und Sprunggelenke explosiv strecken und die Stange so schnell wie möglich nach oben treiben. Die Stange sollte nah am Körper geführt werden. Am höchsten Punkt der Streckung zucken Sie die Schultern und lassen die Ellbogen zur Seite beugen.",
+    "Während Sie Ihre Füße in die Fangposition bewegen, eine leicht breitere Position, ziehen Sie sich unter die Stange, während Sie diese über Kopf heben. Die Stange sollte in einer Teilsquat-Position gefangen werden. Fahren Sie fort, die Stange in die Überkopfposition zu heben und fangen Sie die Stange mit gestreckten Armen über Kopf ab.",
+    "Kehren Sie in eine stehende Position zurück, wobei das Gewicht über Kopf gehalten wird."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Rückenstrecker",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Lying Face Up Plate Neck Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
+    "While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.",
+    "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Szyja"
+  ],
+  "primaryMuscles_de": [
+    "Nacken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Oporowanie mięśni szyi talerzem obciążeniowym w leżeniu na plecach",
+  "instructions_pl": [
+    "Połóż się na plecach, wyprostowany, na płaskiej ławce, trzymając talerz obciążeniowy na czole. Wskazówka: Ustaw się tak, aby Twoje barki znajdowały się nieco powyżej końca płaskiej ławki, aby mięśnie czworoboczne, szyja i głowa znajdowały się poza ławką. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując talerz stabilnie na czole, powoli opuść głowę do tyłu ruchem półkolistym, wykonując wdech.",
+    "Podnieś głowę z powrotem do pozycji początkowej ruchem półkolistym, wykonując wydech. Przytrzymaj skurcz przez sekundę.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Nackenwiderstand mit Gewichtsscheibe in Rückenlage",
+  "instructions_de": [
+    "Legen Sie sich mit dem gesamten Körper gerade auf eine Flachbank, während Sie eine Gewichtsscheibe auf Ihrer Stirn halten. Tipp: Positionieren Sie sich so, dass Ihre Schultern leicht über das Ende der Flachbank hinausragen, damit der Musculus trapezius, der Nacken und der Kopf frei in der Luft sind. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Gewichtsscheibe sicher auf Ihrer Stirn und senken Sie Ihren Kopf langsam in einer halbkreisförmigen Bewegung nach hinten ab, während Sie einatmen.",
+    "Heben Sie Ihren Kopf in einer halbkreisförmigen Bewegung zurück in die Ausgangsposition, während Sie ausatmen. Halten Sie die Kontraktion für eine Sekunde.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

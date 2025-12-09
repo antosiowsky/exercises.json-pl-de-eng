@@ -1,0 +1,47 @@
+{
+  "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
+    "Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.",
+    "As you inhale, lower the bar by bending at the elbows and while keeping the upper arm stationary. Keep lowering the bar until your forearms are perpendicular to the floor.",
+    "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion until the lower arms are also parallel to the floor. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyprosty tricepsów ze sztangą w wąskim chwycie leżąc za głowę",
+  "instructions_pl": [
+    "Trzymając sztangę lub gryf łamany (EZ Curl bar) nachwytem (dłonie skierowane do przodu), połóż się na plecach na płaskiej ławce, z głową blisko jej końca. Wskazówka: Jeśli używasz sztangi, chwyć ją na szerokość barków; jeśli używasz gryfu łamanego, chwyć za wewnętrzne uchwyty.",
+    "Wyprostuj ramiona przed sobą i powoli przenieś sztangę ruchem półkolistym (utrzymując ramiona wyprostowane) do pozycji nad głową. Pod koniec tego etapu ramiona powinny znajdować się nad głową i być równoległe do podłogi. Będzie to Twoja pozycja wyjściowa. Wskazówka: Trzymaj łokcie blisko ciała przez cały czas.",
+    "Podczas wdechu opuść sztangę, zginając łokcie i utrzymując ramię nieruchomo. Kontynuuj opuszczanie sztangi, aż przedramiona będą prostopadłe do podłogi.",
+    "Podczas wydechu unieś sztangę z powrotem do pozycji wyjściowej, wypychając ją ruchem półkolistym, aż przedramiona również znajdą się równolegle do podłogi. Mocno napnij mięśnie trójgłowe ramienia w górnej fazie ruchu na sekundę. Wskazówka: Ponownie, tylko przedramiona powinny się poruszać. Ramiona powinny pozostać nieruchome przez cały czas.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Liegende Langhantel-Trizepsextension mit engem Griff hinter dem Kopf",
+  "instructions_de": [
+    "Halten Sie eine Langhantel oder eine EZ-Stange mit einem Pronationsgriff (Handflächen zeigen nach vorne) und legen Sie sich auf den Rücken auf eine Flachbank, wobei Ihr Kopf nahe am Ende der Bank liegt. Tipp: Wenn Sie eine Langhantel halten, greifen Sie sie schulterbreit; wenn Sie eine EZ-Stange verwenden, greifen Sie sie an den inneren Griffen.",
+    "Strecken Sie Ihre Arme vor sich aus und führen Sie die Stange langsam in einer halbkreisförmigen Bewegung (wobei die Arme gestreckt bleiben) in eine Position über Ihrem Kopf zurück. Am Ende dieses Schrittes sollten Ihre Arme über dem Kopf und parallel zum Boden sein. Dies ist Ihre Ausgangsposition. Tipp: Halten Sie Ihre Ellbogen stets eng beieinander.",
+    "Atmen Sie ein und senken Sie die Stange, indem Sie die Ellbogen beugen und dabei den Oberarm fixiert lassen. Senken Sie die Stange weiter, bis Ihre Unterarme senkrecht zum Boden stehen.",
+    "Atmen Sie aus und führen Sie die Stange zurück in die Ausgangsposition, indem Sie die Stange in einer halbkreisförmigen Bewegung nach oben drücken, bis die Unterarme ebenfalls parallel zum Boden sind. Kontrahieren Sie den Musculus triceps brachii am oberen Punkt der Bewegung für eine Sekunde kräftig. Tipp: Auch hier sollten sich nur die Unterarme bewegen. Die Oberarme sollten stets stationär bleiben.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

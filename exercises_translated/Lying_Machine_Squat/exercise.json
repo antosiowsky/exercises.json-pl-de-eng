@@ -1,0 +1,62 @@
+{
+  "name": "Lying Machine Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Adjust the leg machine to a height that will allow you to get inside it with your knees bent and the thighs slightly below parallel.",
+    "Once you select the weight, position yourself inside the machine face up with the knees bent and thighs slightly below parallel to the platform. Make sure that the knees do not go past the toes. The angle created between the hamstrings and the calves should be one that is slightly less than 90 degrees (since your starting position requires you to start slightly below parallel). Your back and your head should be resting on the machine while your shoulders are pressed under the shoulder pads.",
+    "Place your hands by the handles and position your feet slightly pointing out at a shoulder width position. This will be your starting position.",
+    "While pressing with the balls of the feet as you breathe out, make your whole body erect as you squeeze the quads. Hold the contracted position for a second. Tip: Since you are starting below parallel, you can opt to use your hands to help you up by pressing on your thighs only on the first repetition.",
+    "Slowly squat down as you inhale but instead of going all the way down to the starting position, just stop once your thighs are parallel to the platform. The angle between your hamstrings and calves should be a 90-degree angle.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Przysiad na maszynie leżąc",
+  "instructions_pl": [
+    "Dostosuj maszynę do nóg na taką wysokość, która pozwoli ci wejść do niej z ugiętymi kolanami i udami lekko poniżej pozycji równoległej.",
+    "Po wybraniu obciążenia, ustaw się w maszynie, leżąc na plecach, z ugiętymi kolanami i udami lekko poniżej poziomu równoległego do platformy. Upewnij się, że kolana nie wychodzą poza linię palców stóp. Kąt utworzony między mięśniami kulszowo-goleniowymi a mięśniami łydek powinien być nieco mniejszy niż 90 stopni (ponieważ pozycja początkowa wymaga rozpoczęcia ruchu lekko poniżej poziomu równoległego). Twoje plecy i głowa powinny spoczywać na maszynie, podczas gdy twoje barki są wciśnięte pod poduszki naramienne.",
+    "Umieść dłonie na uchwytach i ustaw stopy lekko skierowane na zewnątrz, na szerokość barków. Będzie to twoja pozycja początkowa.",
+    "Naciskając śródstopiem podczas wydechu, wyprostuj całe ciało, jednocześnie napinając mięśnie czworogłowe uda. Przytrzymaj pozycję skurczoną przez sekundę. Wskazówka: Ponieważ zaczynasz poniżej poziomu równoległego, możesz pomóc sobie rękami, naciskając na uda tylko podczas pierwszego powtórzenia.",
+    "Powoli opuść się podczas wdechu, ale zamiast schodzić całkowicie do pozycji początkowej, zatrzymaj się, gdy tylko twoje uda znajdą się równolegle do platformy. Kąt między mięśniami kulszowo-goleniowymi a mięśniami łydek powinien wynosić 90 stopni.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Liegende Kniebeuge an der Maschine",
+  "instructions_de": [
+    "Stellen Sie die Beinmaschine auf eine Höhe ein, die es Ihnen ermöglicht, mit gebeugten Knien und den Oberschenkeln leicht unterhalb der Parallelen in die Maschine zu gelangen.",
+    "Nachdem Sie das Gewicht ausgewählt haben, positionieren Sie sich mit dem Gesicht nach oben in der Maschine, die Knie gebeugt und die Oberschenkel leicht unterhalb der Parallelen zur Plattform. Achten Sie darauf, dass die Knie nicht über die Zehenspitzen hinausragen. Der Winkel zwischen den ischiocruralen Muskeln und den Wadenmuskeln sollte etwas weniger als 90 Grad betragen (da Ihre Ausgangsposition erfordert, dass Sie leicht unterhalb der Parallelen beginnen). Ihr Rücken und Ihr Kopf sollten auf der Maschine aufliegen, während Ihre Schultern unter die Schulterpolster gedrückt werden.",
+    "Legen Sie Ihre Hände an die Griffe und stellen Sie Ihre Füße schulterbreit und leicht nach außen zeigend auf. Dies ist Ihre Ausgangsposition.",
+    "Während Sie mit den Fußballen drücken und ausatmen, strecken Sie Ihren gesamten Körper, während Sie die Quadrizeps anspannen. Halten Sie die kontrahierte Position für eine Sekunde. Tipp: Da Sie unterhalb der Parallelen beginnen, können Sie sich entscheiden, Ihre Hände zu benutzen, um sich hochzudrücken, indem Sie nur bei der ersten Wiederholung auf Ihre Oberschenkel drücken.",
+    "Gehen Sie langsam in die Kniebeuge, während Sie einatmen, aber anstatt ganz in die Ausgangsposition zurückzukehren, stoppen Sie, sobald Ihre Oberschenkel parallel zur Plattform sind. Der Winkel zwischen Ihren ischiocruralen Muskeln und Wadenmuskeln sollte 90 Grad betragen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskeln",
+    "Gesäßmuskeln",
+    "Ischiocrurale Muskeln"
+  ],
+  "category_de": "Kraft"
+}

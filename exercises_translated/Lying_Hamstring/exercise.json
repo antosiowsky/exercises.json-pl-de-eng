@@ -1,0 +1,47 @@
+{
+  "name": "Lying Hamstring",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Lie on your back with your legs extended. Your partner should be kneeling beside you. Raise one leg up towards the ceiling and have your partner hold the ankle. Your partner can use their shoulder to brace your leg if necessary. This will be your starting position.",
+    "With your partner holding your leg in place, attempt to flex the knee, contracting the hamstrings for 10-20 seconds.",
+    "Then relax your leg, allowing your partner to gently push the leg towards your head. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching. Switch sides once complete."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśni kulszowo-goleniowych w leżeniu",
+  "instructions_pl": [
+    "Połóż się na plecach z wyprostowanymi nogami. Twój partner powinien klęczeć obok ciebie. Unieś jedną nogę w kierunku sufitu i poproś partnera, aby przytrzymał ją za kostkę. W razie potrzeby partner może podeprzeć twoją nogę ramieniem. Będzie to twoja pozycja początkowa.",
+    "Gdy partner trzyma twoją nogę w miejscu, spróbuj zgiąć kolano, napinając mięśnie kulszowo-goleniowe przez 10-20 sekund.",
+    "Następnie rozluźnij nogę, pozwalając partnerowi delikatnie pchnąć nogę w kierunku twojej głowy. Pamiętaj, aby poinformować pomocnika, kiedy rozciągnięcie jest wystarczające, aby zapobiec kontuzji lub nadmiernemu rozciągnięciu. Po zakończeniu zmień stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie trójgłowe łydki"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Liegende Dehnung der ischiocruralen Muskulatur",
+  "instructions_de": [
+    "Legen Sie sich mit ausgestreckten Beinen auf den Rücken. Ihr Partner sollte neben Ihnen knien. Heben Sie ein Bein zur Decke und lassen Sie Ihren Partner das Sprunggelenk festhalten. Ihr Partner kann bei Bedarf seine Schulter nutzen, um Ihr Bein zu stützen. Dies ist Ihre Ausgangsposition.",
+    "Während Ihr Partner Ihr Bein festhält, versuchen Sie, das Knie zu beugen, wobei Sie die ischiocrurale Muskulatur für 10-20 Sekunden anspannen.",
+    "Entspannen Sie dann Ihr Bein und lassen Sie Ihren Partner das Bein sanft in Richtung Ihres Kopfes drücken. Informieren Sie Ihren Helfer unbedingt, wenn die Dehnung ausreichend ist, um Verletzungen oder Überdehnungen zu vermeiden. Wechseln Sie die Seiten, sobald Sie fertig sind."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae"
+  ],
+  "category_de": "Dehnung"
+}

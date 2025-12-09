@@ -1,0 +1,65 @@
+{
+  "name": "Box Skip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "You will need several boxes lined up about 8 feet apart.",
+    "Begin facing the first box with one leg slightly behind the other.",
+    "Drive off the back leg, attempting to gain as much height with the hips as possible.",
+    "Immediately upon landing on the box, drive the other leg forward and upward to gain height and distance, leaping from the box. Land between the first two boxes with the same leg that landed on the first box.",
+    "Then, step to the next box and repeat."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok przez skrzynie",
+  "instructions_pl": [
+    "Będziesz potrzebować kilku skrzyń ustawionych w rzędzie, w odległości około 8 stóp od siebie.",
+    "Rozpocznij, stojąc przodem do pierwszej skrzyni, z jedną nogą lekko cofniętą za drugą.",
+    "Wykonaj wybicie z tylnej nogi, starając się uzyskać jak największą wysokość bioder.",
+    "Natychmiast po wylądowaniu na skrzyni, wybij się drugą nogą do przodu i w górę, aby zyskać wysokość i dystans, odskakując od skrzyni. Wyląduj między pierwszą a drugą skrzynią, tą samą nogą, którą wylądowałeś na pierwszej skrzyni.",
+    "Następnie, przejdź do kolejnej skrzyni i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Kasten-Sprunglauf",
+  "instructions_de": [
+    "Sie benötigen mehrere Kästen, die etwa 8 Fuß voneinander entfernt aufgereiht sind.",
+    "Beginnen Sie dem ersten Kasten zugewandt, wobei ein Bein leicht hinter dem anderen positioniert ist.",
+    "Stoßen Sie sich mit dem hinteren Bein ab und versuchen Sie dabei, mit den Hüften so viel Höhe wie möglich zu gewinnen.",
+    "Unmittelbar nach der Landung auf dem Kasten treiben Sie das andere Bein nach vorne und oben, um Höhe und Weite zu gewinnen und vom Kasten abzuspringen. Landen Sie zwischen den ersten beiden Kästen mit demselben Bein, das zuvor auf dem ersten Kasten gelandet ist.",
+    "Anschließend treten Sie zum nächsten Kasten und wiederholen den Vorgang."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Quadrizeps"
+  ],
+  "category_de": "Plyometrie"
+}

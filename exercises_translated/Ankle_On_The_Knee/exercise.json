@@ -1,0 +1,41 @@
+{
+  "name": "Ankle On The Knee",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "From a lying position, bend your knees and keep your feet on the floor.",
+    "Place your ankle of one foot on your opposite knee.",
+    "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Kostka na kolanie",
+  "instructions_pl": [
+    "Z pozycji leżącej zegnij kolana i trzymaj stopy na podłodze.",
+    "Umieść kostkę jednej stopy na przeciwległym kolanie.",
+    "Chwyć udo lub kolano nogi znajdującej się na dole i przyciągnij obie nogi do klatki piersiowej. Rozluźnij szyję i barki. Utrzymaj pozycję przez 10-20 sekund, a następnie zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Knöchel auf dem Knie",
+  "instructions_de": [
+    "Aus der Rückenlage die Knie anwinkeln und die Füße auf dem Boden aufstellen.",
+    "Legen Sie den Knöchel eines Fußes auf das gegenüberliegende Knie.",
+    "Fassen Sie den Oberschenkel oder das Knie des unteren Beins und ziehen Sie beide Beine zur Brust. Entspannen Sie Nacken und Schultern. Halten Sie die Position für 10-20 Sekunden und wechseln Sie dann die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

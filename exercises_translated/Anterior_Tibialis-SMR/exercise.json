@@ -1,0 +1,38 @@
+{
+  "name": "Anterior Tibialis-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin seated on the ground with your legs bent and your feet on the floor.",
+    "Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Mięsień Piszczelowy Przedni - Automasaż Mięśniowo-Powięziowy",
+  "instructions_pl": [
+    "Rozpocznij w pozycji siedzącej na podłodze, z ugiętymi nogami i stopami opartymi o podłoże.",
+    "Używając wałka do masażu (foam roller) lub wałka kuchennego, przykładaj nacisk do mięśnia piszczelowego przedniego. Pracuj od miejsca tuż poniżej kolana do obszaru powyżej kostki, zatrzymując się w punktach napięcia na 10-30 sekund. Powtórz na drugiej nodze."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Musculus tibialis anterior-SMR",
+  "instructions_de": [
+    "Beginnen Sie sitzend auf dem Boden, die Beine angewinkelt und die Füße aufgestellt.",
+    "Verwenden Sie eine Faszienrolle oder ein Nudelholz, um Druck auf die Muskeln an der Außenseite Ihrer Schienbeine auszuüben. Arbeiten Sie von knapp unterhalb des Knies bis oberhalb des Knöchels, wobei Sie an Spannungspunkten für 10-30 Sekunden verweilen. Wiederholen Sie dies am anderen Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

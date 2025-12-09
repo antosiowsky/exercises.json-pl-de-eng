@@ -1,0 +1,53 @@
+{
+  "name": "Power Clean from Blocks",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "With a barbell on boxes of the desired height, take a grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+    "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. As the bar approaches the mid-thigh position, begin extending through the hips.",
+    "In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight. At the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.",
+    "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, pull yourself under the bar far enough that it can be racked onto the shoulders, rotating your elbows under the bar as you do so. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position, and complete the repetition by returning the weight to the boxes."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut siłowy ze skrzyń",
+  "instructions_pl": [
+    "Ze sztangą umieszczoną na skrzyniach o pożądanej wysokości, chwyć sztangę nieco na zewnątrz nóg. Opuść biodra, utrzymując ciężar ciała skupiony na piętach, plecy proste, głowa skierowana do przodu, klatka piersiowa wypięta, z barkami nieco przed sztangą. Będzie to Twoja pozycja startowa.",
+    "Rozpocznij pierwsze podciągnięcie, napierając na pięty i prostując kolana. Kąt nachylenia tułowia powinien pozostać niezmieniony, a ramiona powinny pozostać proste. Gdy sztanga zbliży się do połowy uda, rozpocznij prostowanie w stawach biodrowych.",
+    "Wykonując ruch skokowy, przyspiesz, prostując biodra, kolana i stawy skokowe, wykorzystując szybkość do uniesienia sztangi w górę. Nie ma potrzeby aktywnego podciągania sztangi ramionami w celu przyspieszenia ciężaru. Pod koniec drugiego podciągnięcia ciało powinno być w pełni wyprostowane, lekko odchylone do tyłu, z ramionami nadal wyprostowanymi.",
+    "Po osiągnięciu pełnego wyprostu przejdź do trzeciego podciągnięcia, agresywnie wzruszając barkami i zginając ramiona, z łokciami skierowanymi w górę i na zewnątrz. W szczytowym momencie wyprostu, wciągnij się pod sztangę na tyle, aby mogła zostać zarzucona na barki, obracając łokcie pod sztangę podczas tego ruchu. Sztanga powinna spocząć na wysuniętych barkach, lekko dotykając gardła, z rozluźnionymi dłońmi.",
+    "Natychmiast wykonaj wyjście z przysiadu, napierając na pięty, utrzymując tułów w pozycji pionowej i łokcie wysoko. Kontynuuj, aż wstaniesz do pozycji stojącej, i zakończ powtórzenie, odkładając ciężar na skrzynie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Power Clean vom Block",
+  "instructions_de": [
+    "Stellen Sie sich mit einer Langhantel auf Blöcken der gewünschten Höhe auf und fassen Sie die Stange etwas außerhalb der Beine. Senken Sie Ihre Hüften, wobei das Gewicht auf den Fersen liegt, der Rücken gerade ist, der Kopf nach vorne gerichtet, die Brust erhoben und die Schultern leicht vor der Stange positioniert sind. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie den ersten Zug, indem Sie sich durch die Fersen abdrücken und die Knie strecken. Ihr Rückenwinkel sollte gleich bleiben und Ihre Arme sollten gestreckt bleiben. Wenn die Stange die Mitte des Oberschenkels erreicht, beginnen Sie, die Hüften zu strecken.",
+    "In einer Sprungbewegung beschleunigen Sie, indem Sie Hüften, Knie und Sprunggelenke strecken, und nutzen Sie die Geschwindigkeit, um die Stange nach oben zu bewegen. Es sollte nicht notwendig sein, aktiv mit den Armen zu ziehen, um das Gewicht zu beschleunigen. Am Ende des zweiten Zugs sollte der Körper vollständig gestreckt, leicht nach hinten gelehnt und die Arme immer noch gestreckt sein.",
+    "Sobald die vollständige Streckung erreicht ist, gehen Sie in den dritten Zug über, indem Sie die Schultern aggressiv hochziehen und die Arme beugen, wobei die Ellbogen hoch und nach außen zeigen. Am Höhepunkt der Streckung ziehen Sie sich weit genug unter die Stange, sodass diese auf den protrahierten Schultern abgelegt werden kann, während Sie Ihre Ellbogen dabei unter die Stange drehen. Die Stange sollte auf den protrahierten Schultern abgelegt werden, leicht den Hals berührend, mit entspannten Händen.",
+    "Erholen Sie sich sofort, indem Sie sich durch die Fersen abdrücken, wobei der Oberkörper aufrecht und die Ellbogen oben bleiben. Fahren Sie fort, bis Sie eine stehende Position erreicht haben, und beenden Sie die Wiederholung, indem Sie das Gewicht auf die Blöcke zurücklegen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

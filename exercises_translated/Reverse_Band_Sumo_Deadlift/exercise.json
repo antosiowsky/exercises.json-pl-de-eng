@@ -1,0 +1,74 @@
+{
+  "name": "Reverse Band Sumo Deadlift",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with a bar loaded on the floor inside of a power rack. Attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end to the barbell.",
+    "Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",
+    "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
+    "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
+    "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg sumo z odwróconą gumą",
+  "instructions_pl": [
+    "Rozpocznij z obciążoną sztangą leżącą na podłodze wewnątrz klatki treningowej (power rack). Przymocuj gumy oporowe do górnej części klatki, używając kołków lub samej ramy. Drugi koniec przymocuj do sztangi.",
+    "Podejdź do sztangi tak, aby znajdowała się ona na wysokości środka stóp. Stopy powinny być rozstawione bardzo szeroko, blisko tulei na obciążenie. Ugnij się w biodrach, aby chwycić sztangę. Ramiona powinny znajdować się bezpośrednio pod barkami, wewnątrz nóg, i możesz użyć chwytu pronowanego (nachwytu), chwytu mieszanego lub chwytu zamkowego (hook grip). Rozluźnij barki, co w efekcie wydłuży twoje ramiona.",
+    "Weź wdech, a następnie obniż biodra, patrząc przed siebie z uniesioną klatką piersiową. Wypchnij się z podłogi, rozpychając stopy na boki, z ciężarem ciała spoczywającym na tylnej części stóp. Wyprostuj się w biodrach i kolanach.",
+    "Gdy sztanga minie kolana, odchyl się do tyłu i wypchnij biodra w kierunku sztangi, ściągając łopatki razem.",
+    "Opuść ciężar na podłogę, uginając się w biodrach i kontrolując ciężar podczas opuszczania."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie trójgłowe łydki",
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięsień czworogłowy uda",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Bandunterstütztes Sumo-Kreuzheben",
+  "instructions_de": [
+    "Beginnen Sie mit einer auf dem Boden liegenden Langhantel innerhalb eines Power Racks. Befestigen Sie Bänder am oberen Teil des Racks, entweder an den Stiften oder am Rahmen selbst. Befestigen Sie das andere Ende an der Langhantel.",
+    "Stellen Sie sich so an die Hantel, dass diese die Mitte Ihrer Füße kreuzt. Die Füße sollten sehr weit auseinander stehen, nahe den Hantelmanschetten. Beugen Sie sich in den Hüften, um die Hantel zu greifen. Die Arme sollten direkt unter den Schultern, innerhalb der Beine sein, und Sie können einen Obergriff (Pronationsgriff), Kreuzgriff (gemischter Griff) oder Haken-Griff verwenden. Entspannen Sie die Schultern, was Ihre Arme effektiv verlängert.",
+    "Atmen Sie ein und senken Sie dann Ihre Hüften, wobei Sie mit dem Kopf nach vorne schauen und die Brust oben halten. Drücken Sie sich vom Boden ab, spreizen Sie dabei die Füße, wobei Ihr Gewicht auf der hinteren Hälfte Ihrer Füße liegt. Strecken Sie Hüften und Knie.",
+    "Sobald die Hantel die Knie passiert, lehnen Sie sich zurück und drücken Sie die Hüften in die Hantel, indem Sie die Schulterblätter zusammenziehen.",
+    "Führen Sie das Gewicht zurück zum Boden, indem Sie sich in den Hüften beugen und das Gewicht auf dem Weg nach unten kontrollieren."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Lendenmuskulatur",
+    "Quadrizeps",
+    "Trapezmuskel"
+  ],
+  "category_de": "Kraftdreikampf"
+}

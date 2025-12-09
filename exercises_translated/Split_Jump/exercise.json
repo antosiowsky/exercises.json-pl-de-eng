@@ -1,0 +1,59 @@
+{
+  "name": "Split Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot.",
+    "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump, bring your feet together, and move them back to their initial positions as you land.",
+    "Absorb the impact by reverting back to the starting position."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wyskoki w wykroku",
+  "instructions_pl": [
+    "Przyjmij pozycję wykroczną z jedną stopą wysuniętą do przodu i ugiętym kolanem, oraz tylnym kolanem niemal dotykającym podłoża.",
+    "Upewnij się, że przednie kolano znajduje się nad śródstopiem.",
+    "Wyprostowując obie nogi, wykonaj wyskok jak najwyżej, dynamicznie wymachując ramionami, aby zwiększyć wysokość wyskoku.",
+    "Podczas wyskoku zbliż stopy do siebie i wróć nimi do ich pozycji początkowych podczas lądowania.",
+    "Amortyzuj lądowanie, wracając do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Plyometria",
+  "name_de": "Split-Sprung",
+  "instructions_de": [
+    "Nimm eine Ausfallschrittposition ein, wobei ein Fuß nach vorne gestellt und das Knie gebeugt ist, und das hintere Knie fast den Boden berührt.",
+    "Stelle sicher, dass das vordere Knie zentriert über dem Fuß ist.",
+    "Drücke dich mit beiden Beinen ab und springe so hoch wie möglich, wobei du deine Arme schwingst, um Schwung zu holen.",
+    "Während des Sprungs führst du deine Füße zusammen und bringst sie bei der Landung wieder in ihre ursprünglichen Positionen zurück.",
+    "Federe den Aufprall ab, indem du in die Ausgangsposition zurückkehrst."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Plyometrie"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Dumbbell Alternate Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand (torso upright) with a dumbbell in each hand held at arms length. The elbows should be close to the torso and the palms of your hand should be facing your thighs.",
+    "While holding the upper arm stationary, curl the right weight as you rotate the palm of the hands until they are facing forward. At this point continue contracting the biceps as you breathe out until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+    "Slowly begin to bring the dumbbell back to the starting position as your breathe in. Tip: Remember to twist the palms back to the starting position (facing your thighs) as you come down.",
+    "Repeat the movement with the left hand. This equals one repetition.",
+    "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Naprzemienne uginanie ramion z hantlami",
+  "instructions_pl": [
+    "Stań (tułów wyprostowany) z hantlą w każdej dłoni, ramiona wyprostowane wzdłuż tułowia. Łokcie powinny znajdować się blisko tułowia, a wnętrza dłoni skierowane w stronę ud.",
+    "Utrzymując ramię nieruchomo, uginaj prawą rękę (z hantlą), jednocześnie obracając dłoń tak, aby wnętrze dłoni było skierowane do przodu. W tym momencie kontynuuj skurcz mięśnia dwugłowego ramienia, wydychając powietrze, aż mięsień dwugłowy ramienia będzie w pełni napięty, a hantla znajdzie się na wysokości barku. Przytrzymaj pozycję maksymalnego skurczu przez sekundę, mocno napinając mięsień dwugłowy ramienia. Wskazówka: Poruszają się tylko przedramiona.",
+    "Powoli opuszczaj hantlę do pozycji początkowej, jednocześnie wdychając powietrze. Wskazówka: Pamiętaj, aby podczas opuszczania hantli obracać dłonie z powrotem do pozycji początkowej (wnętrza dłoni skierowane do ud).",
+    "Powtórz ruch lewą ręką. To stanowi jedno powtórzenie.",
+    "Kontynuuj naprzemienne wykonywanie ćwiczenia w ten sposób przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "przedramiona"
+  ],
+  "category_pl": "siła",
+  "name_de": "Alternierendes Kurzhantel-Bizepscurl",
+  "instructions_de": [
+    "Stellen Sie sich (mit aufrechtem Oberkörper) hin, eine Kurzhantel in jeder Hand auf Armeslänge haltend. Die Ellbogen sollten eng am Rumpf anliegen und die Handflächen zu den Oberschenkeln zeigen.",
+    "Halten Sie den Oberarm stationär und beugen Sie die rechte Hantel, während Sie die Handfläche drehen, bis sie nach vorne zeigt. Fahren Sie an diesem Punkt fort, den Musculus biceps brachii zu kontrahieren, während Sie ausatmen, bis Ihr Musculus biceps brachii vollständig kontrahiert ist und die Kurzhantel sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Musculus biceps brachii anspannen. Tipp: Nur die Unterarme sollten sich bewegen.",
+    "Beginnen Sie langsam, die Kurzhantel in die Ausgangsposition zurückzuführen, während Sie einatmen. Tipp: Denken Sie daran, die Handflächen beim Herablassen wieder in die Ausgangsposition (zu den Oberschenkeln zeigend) zu drehen.",
+    "Wiederholen Sie die Bewegung mit der linken Hand. Dies entspricht einer Wiederholung.",
+    "Fahren Sie in dieser Weise abwechselnd für die empfohlene Anzahl an Wiederholungen fort."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

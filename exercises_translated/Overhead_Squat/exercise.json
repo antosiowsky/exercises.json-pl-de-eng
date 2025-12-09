@@ -1,0 +1,74 @@
+{
+  "name": "Overhead Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",
+    "Bend the knees and use a pronated grip (palms facing you) to grab the barbell. Your hands should be at a wider than shoulder width apart from each other before lifting. Once you are positioned, lift the barbell up until you can rest it on your chest.",
+    "Move the barbell over and slightly behind your head and make sure your arms are fully extended. Keep your head up at all times and also maintain a straight back. Retract your shoulder blades. This is your starting position.",
+    "Slowly lower the weight by bending your knees until your thighs are parallel to the ground while inhaling. Tip: Keep your back straight while performing this exercise to avoid any injuries and your arms should remain extended and over your head at all times.",
+    "Now use your feet and legs to help bring the weight back up to the starting position while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad ze sztangą nad głową",
+  "instructions_pl": [
+    "Rozpocznij, mając sztangę przed sobą na podłodze. Stopy powinny być rozstawione szerzej niż szerokość barków.",
+    "Ugnij kolana i chwyć sztangę nachwytem (dłonie skierowane do siebie). Dłonie powinny być rozstawione szerzej niż szerokość barków przed podniesieniem. Po przyjęciu pozycji, podnieś sztangę, aż oprzesz ją na klatce piersiowej.",
+    "Przenieś sztangę nad i lekko za głowę, upewniając się, że ramiona są w pełni wyprostowane. Utrzymuj głowę uniesioną przez cały czas, a także prosty kręgosłup. Zretrakuj łopatki. To jest Twoja pozycja wyjściowa.",
+    "Powoli opuść ciężar, uginając kolana, aż uda znajdą się równolegle do podłoża, wykonując wdech. Wskazówka: Utrzymuj prosty kręgosłup podczas wykonywania tego ćwiczenia, aby uniknąć kontuzji, a ramiona powinny pozostać wyprostowane i nad głową przez cały czas.",
+    "Teraz użyj stóp i nóg, aby pomóc podnieść ciężar z powrotem do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie dolnego odcinka pleców",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów olimpijskie",
+  "name_de": "Überkopfkniebeuge",
+  "instructions_de": [
+    "Stellen Sie sich mit einer Langhantel vor sich auf dem Boden auf. Ihre Füße sollten etwas weiter als schulterbreit auseinander stehen.",
+    "Beugen Sie die Knie und greifen Sie die Langhantel im Obergriff (Handflächen zeigen zu Ihnen). Ihre Hände sollten vor dem Heben weiter als schulterbreit auseinander liegen. Sobald Sie positioniert sind, heben Sie die Langhantel an, bis Sie sie auf Ihrer Brust ablegen können.",
+    "Führen Sie die Langhantel über und leicht hinter Ihren Kopf und stellen Sie sicher, dass Ihre Arme vollständig gestreckt sind. Halten Sie Ihren Kopf stets oben und Ihren Rücken gerade. Ziehen Sie Ihre Schulterblätter zurück. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie das Gewicht langsam ab, indem Sie Ihre Knie beugen, bis Ihre Oberschenkel beim Einatmen parallel zum Boden sind. Tipp: Halten Sie Ihren Rücken während der gesamten Übung gerade, um Verletzungen zu vermeiden, und Ihre Arme sollten stets gestreckt und über Ihrem Kopf bleiben.",
+    "Nutzen Sie nun Ihre Füße und Beine, um das Gewicht beim Ausatmen zurück in die Ausgangsposition zu bringen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenmuskulatur",
+    "Deltamuskeln",
+    "Trizeps"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

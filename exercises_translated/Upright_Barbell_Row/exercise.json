@@ -1,0 +1,50 @@
+{
+  "name": "Upright Barbell Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Grasp a barbell with an overhand grip that is slightly less than shoulder width. The bar should be resting on the top of your thighs with your arms extended and a slight bend in your elbows. Your back should also be straight. This will be your starting position.",
+    "Now exhale and use the sides of your shoulders to lift the bar, raising your elbows up and to the side. Keep the bar close to your body as you raise it. Continue to lift the bar until it nearly touches your chin. Tip: Your elbows should drive the motion, and should always be higher than your forearms. Remember to keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą wzdłuż tułowia",
+  "instructions_pl": [
+    "Chwyć sztangę nachwytem, nieco węższym niż szerokość barków. Sztanga powinna spoczywać na górnej części ud, ramiona powinny być wyprostowane z lekkim ugięciem w łokciach. Plecy powinny być proste. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonaj wydech i użyj bocznych aktonów mięśni naramiennych, aby unieść sztangę, unosząc łokcie w górę i na boki. Utrzymuj sztangę blisko ciała podczas unoszenia. Kontynuuj unoszenie sztangi, aż prawie dotknie brody. Wskazówka: Ruch powinien być prowadzony przez łokcie, które zawsze powinny znajdować się wyżej niż przedramiona. Pamiętaj, aby utrzymywać tułów nieruchomo i zatrzymać ruch na sekundę w szczytowym punkcie.",
+    "Powoli opuść sztangę z powrotem do pozycji wyjściowej. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Aufrechtes Rudern mit der Langhantel",
+  "instructions_de": [
+    "Fassen Sie eine Langhantel im Obergriff, etwas enger als schulterbreit. Die Hantel sollte auf Ihren Oberschenkeln aufliegen, die Arme sind gestreckt und die Ellenbogen leicht gebeugt. Ihr Rücken sollte ebenfalls gerade sein. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie nun aus und heben Sie die Hantel mithilfe der seitlichen Deltamuskeln an, indem Sie Ihre Ellenbogen nach oben und zur Seite führen. Halten Sie die Hantel beim Anheben nah am Körper. Heben Sie die Hantel weiter an, bis sie fast Ihr Kinn berührt. Tipp: Ihre Ellenbogen sollten die Bewegung anführen und stets höher als Ihre Unterarme sein. Achten Sie darauf, Ihren Oberkörper stabil zu halten und am höchsten Punkt der Bewegung eine Sekunde lang innezuhalten.",
+    "Senken Sie die Hantel langsam und kontrolliert in die Ausgangsposition zurück. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Single-Leg Leg Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
+    "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
+    "Return to the starting position without letting the weight stop, keeping tension on the muscle.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyprost nogi jednonóż",
+  "instructions_pl": [
+    "Zajmij miejsce w maszynie i wyreguluj ją tak, abyś był prawidłowo ustawiony. Poduszka powinna opierać się o dolną część goleni, ale nie dotykać kostki. Wyreguluj siedzisko tak, aby punkt obrotu znajdował się w linii z kolanem. Wybierz obciążenie odpowiednie do swoich możliwości.",
+    "Utrzymując prawidłową postawę, całkowicie wyprostuj jedną nogę, zatrzymując się na chwilę w szczytowym punkcie ruchu.",
+    "Wróć do pozycji początkowej, nie pozwalając, aby obciążenie zatrzymało się, utrzymując napięcie w mięśniu.",
+    "Powtórz ćwiczenie dla żądanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einbeinige Beinstreckung",
+  "instructions_de": [
+    "Nehmen Sie in der Maschine Platz und stellen Sie diese so ein, dass Sie korrekt positioniert sind. Das Polster sollte am unteren Teil des Schienbeins anliegen, aber nicht den Knöchel berühren. Stellen Sie den Sitz so ein, dass der Drehpunkt auf Höhe Ihres Knies liegt. Wählen Sie ein Gewicht, das Ihren Fähigkeiten entspricht.",
+    "Achten Sie auf eine gute Körperhaltung, strecken Sie ein Bein vollständig aus und halten Sie am höchsten Punkt der Bewegung kurz inne.",
+    "Kehren Sie in die Ausgangsposition zurück, ohne das Gewicht zum Stillstand kommen zu lassen, und halten Sie dabei die Muskelspannung aufrecht.",
+    "Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

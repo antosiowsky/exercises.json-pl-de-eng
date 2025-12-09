@@ -1,0 +1,44 @@
+{
+  "name": "Standing Towel Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
+    "Now communicate with your partner so that he/she can grip the other side of the towel to apply resistance. Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+    "Go back to the starting position by using the triceps to raise the towel. Breathe out as you perform this step.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wyprosty ramion z ręcznikiem stojąc",
+  "instructions_pl": [
+    "Aby rozpocząć, stań prosto z obiema rękami w pełni wyprostowanymi nad głową, trzymając jeden koniec ręcznika obiema dłońmi. Łokcie powinny być skierowane do wewnątrz, a ramiona prostopadle do podłogi, z dłońmi zwróconymi do siebie. Stopy powinny być rozstawione na szerokość barków. Jest to pozycja wyjściowa.",
+    "Teraz skomunikuj się z partnerem, aby mógł/mogła chwycić drugi koniec ręcznika i zastosować opór. Utrzymując ramiona blisko głowy (łokcie skierowane do wewnątrz) i prostopadle do podłogi, opuść opór ruchem półkolistym za głowę, aż przedramiona dotkną mięśni dwugłowych ramienia. Wskazówka: Ramiona powinny pozostać nieruchome, a poruszać się powinny tylko przedramiona. Wykonując ten krok, zrób wdech.",
+    "Wróć do pozycji wyjściowej, używając mięśni trójgłowych ramienia do podniesienia ręcznika. Wykonując ten krok, zrób wydech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Stehende Handtuch-Trizepsextension",
+  "instructions_de": [
+    "Stellen Sie sich zu Beginn aufrecht hin, die Arme vollständig über dem Kopf ausgestreckt, wobei Sie ein Ende eines Handtuchs mit beiden Händen halten. Ihre Ellbogen sollten eng am Kopf sein und die Arme senkrecht zum Boden, die Handflächen zueinander zeigend. Ihre Füße sollten schulterbreit auseinander stehen. Dies ist die Ausgangsposition.",
+    "Kommunizieren Sie nun mit Ihrem Partner, damit er/sie die andere Seite des Handtuchs greifen und Widerstand ausüben kann. Halten Sie Ihre Oberarme eng am Kopf (Ellbogen nach innen) und senkrecht zum Boden und senken Sie den Widerstand in einer halbkreisförmigen Bewegung hinter Ihren Kopf, bis Ihre Unterarme Ihre Bizeps berühren. Tipp: Die Oberarme sollten stationär bleiben und nur die Unterarme sollten sich bewegen. Atmen Sie ein, während Sie diesen Schritt ausführen.",
+    "Kehren Sie zur Ausgangsposition zurück, indem Sie den Trizeps nutzen, um das Handtuch anzuheben. Atmen Sie aus, während Sie diesen Schritt ausführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

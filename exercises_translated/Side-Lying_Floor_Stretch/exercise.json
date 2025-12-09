@@ -1,0 +1,38 @@
+{
+  "name": "Side-Lying Floor Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
+    "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie boczne w leżeniu na podłodze",
+  "instructions_pl": [
+    "Najpierw połóż się na lewym boku, zginając lewe kolano przed sobą, aby ustabilizować tułów (użyj również mięśni brzucha, aby utrzymać pozycję).",
+    "Wyprostuj prawą nogę i oprzyj prawą stopę na podłodze za lewą. Wyprostuj prawą rękę nad głową i delikatnie pociągnij za prawy nadgarstek, aby rozciągnąć całą prawą stronę ciała. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Seitliche Bodenstreckung",
+  "instructions_de": [
+    "Legen Sie sich zuerst auf Ihre linke Seite und beugen Sie Ihr linkes Knie vor sich, um Ihren Rumpf zu stabilisieren (nutzen Sie auch Ihre Bauchmuskeln, um sich aufrecht zu halten).",
+    "Strecken Sie Ihr rechtes Bein aus und legen Sie den rechten Fuß hinter Ihrem linken auf dem Boden ab. Strecken Sie Ihren rechten Arm über Ihren Kopf und ziehen Sie sanft an Ihrem rechten Handgelenk, um die gesamte rechte Körperseite zu dehnen. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

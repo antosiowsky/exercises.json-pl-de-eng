@@ -1,0 +1,50 @@
+{
+  "name": "Incline Cable Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
+    "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
+    "After pausing at full extension, return to the starting position, keeping tension on the cables."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyciskanie na wyciągu w pozycji skośnej",
+  "instructions_pl": [
+    "Ustaw odpowiednie obciążenie i usiądź, chwytając uchwyty. Ramiona powinny znajdować się pod kątem około 45 stopni względem tułowia, z głową i klatką piersiową uniesionymi. Łokcie powinny być zgięte pod kątem około 90 stopni. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, prostując łokcie i wyciskając uchwyty prosto przed siebie. Utrzymuj łopatki ściągnięte podczas wykonywania ruchu.",
+    "Po krótkiej pauzie w pełnym wyproście, wróć do pozycji wyjściowej, utrzymując napięcie na linkach wyciągu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Schräges Kabel-Brustdrücken",
+  "instructions_de": [
+    "Wählen Sie ein passendes Gewicht und nehmen Sie Platz, indem Sie die Griffe fassen. Ihre Oberarme sollten einen Winkel von etwa 45 Grad zum Körper bilden, Kopf und Brust sind aufrecht. Die Ellbogen sollten etwa 90 Grad gebeugt sein. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie die Ellbogen strecken und die Griffe gerade vor sich zusammenpressen. Halten Sie die Schulterblätter während der Ausführung der Bewegung zurückgezogen.",
+    "Nach einer kurzen Pause in der vollständigen Streckung kehren Sie unter Beibehaltung der Spannung auf den Kabeln in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Schultern",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

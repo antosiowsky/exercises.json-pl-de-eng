@@ -1,0 +1,47 @@
+{
+  "name": "Downward Facing Balance",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie facedown on top of an exercise ball.",
+    "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Balansowanie przodem",
+  "instructions_pl": [
+    "Połóż się przodem na piłce gimnastycznej.",
+    "Opierając się brzuchem na piłce, przesuwaj dłonie do przodu po podłodze i unieś nogi, prostując łokcie i kolana."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Balance in Bauchlage",
+  "instructions_de": [
+    "Lege dich bäuchlings auf einen Gymnastikball.",
+    "Während du mit dem Bauch auf dem Ball liegst, gehe mit den Händen am Boden entlang nach vorne und hebe deine Beine an, strecke dabei deine Ellbogen und Knie."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Oberschenkelrückseite"
+  ],
+  "category_de": "Kraft"
+}

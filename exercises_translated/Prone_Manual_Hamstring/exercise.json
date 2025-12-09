@@ -1,0 +1,41 @@
+{
+  "name": "Prone Manual Hamstring",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
+    "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
+    "Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Manualne zginanie podudzia w leżeniu przodem (mięśnie kulszowo-goleniowe)",
+  "instructions_pl": [
+    "Do wykonania tego ćwiczenia potrzebny będzie partner. Połóż się na brzuchu z wyprostowanymi nogami. Twój asystent położy dłoń na Twojej pięcie.",
+    "Aby rozpocząć, zegnij kolano, unosząc podudzie w górę. Twój partner powinien stawiać opór, zaczynając od lekkiego i zwiększając nacisk w miarę wykonywania ruchu. Komunikuj się z partnerem, aby monitorować odpowiednie poziomy oporu.",
+    "Zatrzymaj się w górnej pozycji, a następnie powróć podudziem do pozycji wyjściowej, podczas gdy partner stawia opór w przeciwnym kierunku."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Manuelles Beinbeugen der ischiocruralen Muskulatur in Bauchlage",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie einen Partner. Legen Sie sich mit gestreckten Beinen auf den Bauch (Bauchlage). Ihr Assistent legt eine Hand auf Ihre Ferse.",
+    "Beugen Sie zu Beginn das Knie, um den Unterschenkel in Richtung Gesäß zu ziehen. Ihr Partner sollte Widerstand leisten, beginnend mit leichtem Druck und diesen während der Ausführung der Bewegung steigernd. Kommunizieren Sie mit Ihrem Partner, um die angemessenen Widerstandsstufen abzustimmen.",
+    "Halten Sie die Position am höchsten Punkt kurz an und führen Sie das Bein dann in die Ausgangsposition zurück, wobei Ihr Partner in die entgegengesetzte Richtung Widerstand leistet."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

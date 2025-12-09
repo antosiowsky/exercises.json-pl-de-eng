@@ -1,0 +1,53 @@
+{
+  "name": "Dips - Chest Version",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "For this exercise you will need access to parallel bars. To get yourself into the starting position, hold your body at arms length (arms locked) above the bars.",
+    "While breathing in, lower yourself slowly with your torso leaning forward around 30 degrees or so and your elbows flared out slightly until you feel a slight stretch in the chest.",
+    "Once you feel the stretch, use your chest to bring your body back to the starting position as you breathe out. Tip: Remember to squeeze the chest at the top of the movement for a second.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Dipy - Wersja klatkowa",
+  "instructions_pl": [
+    "Do tego ćwiczenia potrzebne będą poręcze równoległe. Aby przyjąć pozycję startową, unieś ciało na wyprostowanych ramionach (ramiona zablokowane) ponad poręczami.",
+    "Podczas wdechu, opuszczaj się powoli z tułowiem pochylonym do przodu o około 30 stopni i łokciami lekko rozchylonymi na boki, aż poczujesz lekkie rozciągnięcie w mięśniach klatki piersiowej.",
+    "Gdy poczujesz rozciągnięcie, użyj mięśni klatki piersiowej, aby unieść ciało z powrotem do pozycji startowej podczas wydechu. Wskazówka: Pamiętaj, aby na sekundę mocno napiąć mięśnie klatki piersiowej w górnej fazie ruchu.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Dips - Brustbetonte Version",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie Zugang zu einem Barren. Um in die Ausgangsposition zu gelangen, halten Sie Ihren Körper mit durchgestreckten Armen über den Holmen.",
+    "Während Sie einatmen, senken Sie sich langsam ab, wobei Ihr Oberkörper etwa 30 Grad nach vorne geneigt ist und Ihre Ellbogen leicht nach außen zeigen, bis Sie eine leichte Dehnung in der Brustmuskulatur spüren.",
+    "Sobald Sie die Dehnung spüren, nutzen Sie Ihre Brustmuskulatur, um Ihren Körper zurück in die Ausgangsposition zu bringen, während Sie ausatmen. Tipp: Denken Sie daran, die Brustmuskulatur am oberen Punkt der Bewegung für eine Sekunde anzuspannen.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Schultern",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

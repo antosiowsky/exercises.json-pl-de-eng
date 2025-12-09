@@ -1,0 +1,53 @@
+{
+  "name": "Recumbent Bike",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height.",
+    "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+    "Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Rower poziomy",
+  "instructions_pl": [
+    "Na początek usiądź na rowerze i dopasuj siodełko do swojego wzrostu.",
+    "Wybierz żądaną opcję z menu. Aby włączyć urządzenie, być może będziesz musiał zacząć pedałować. Możesz skorzystać z ustawień manualnych lub wybrać program. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować liczbę spalonych kalorii podczas ćwiczeń. Poziom oporu można zmieniać w trakcie treningu. Uchwyty mogą służyć do monitorowania tętna, co pomoże utrzymać odpowiednią intensywność.",
+    "Rowery poziome oferują wygodę, korzyści sercowo-naczyniowe i charakteryzują się mniejszym obciążeniem stawów niż inne aktywności. Osoba ważąca 150 funtów spali około 230 kalorii, jeżdżąc na rowerze w umiarkowanym tempie przez 30 minut, w porównaniu do 450 kalorii lub więcej podczas biegania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "cardio",
+  "name_de": "Liegefahrrad",
+  "instructions_de": [
+    "Zu Beginn setzen Sie sich auf das Fahrrad und stellen den Sitz auf Ihre Körpergröße ein.",
+    "Wählen Sie die gewünschte Option aus dem Menü. Möglicherweise müssen Sie mit dem Treten beginnen, um das Gerät einzuschalten. Sie können die manuelle Einstellung verwenden oder ein Programm auswählen. Typischerweise können Sie Ihr Alter und Gewicht eingeben, um die während des Trainings verbrannten Kalorien zu schätzen. Der Widerstandsgrad kann während des gesamten Trainings geändert werden. Die Griffe können zur Überwachung Ihrer Herzfrequenz verwendet werden, um Ihnen zu helfen, eine angemessene Intensität beizubehalten.",
+    "Liegefahrräder bieten Komfort, kardiovaskuläre Vorteile und haben eine geringere Belastung als andere Aktivitäten. Eine Person mit einem Gewicht von 150 Pfund (ca. 68 kg) verbrennt beim Radfahren mit moderater Geschwindigkeit etwa 230 Kalorien in 30 Minuten, verglichen mit 450 Kalorien oder mehr beim Laufen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Herz-Kreislauf-Training"
+}

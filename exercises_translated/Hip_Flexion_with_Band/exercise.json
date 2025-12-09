@@ -1,0 +1,44 @@
+{
+  "name": "Hip Flexion with Band",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Face away from the attachment point of the band.",
+    "Keeping your head and your chest up, raise your knee up to 90 degrees and pause.",
+    "Return the leg to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Zgięcie stawu biodrowego z gumą oporową",
+  "instructions_pl": [
+    "Przymocuj jeden koniec gumy oporowej do dolnej części słupka, a drugi koniec do jednej kostki.",
+    "Odwróć się plecami do punktu mocowania gumy oporowej.",
+    "Utrzymując głowę i klatkę piersiową uniesione, unieś kolano do kąta 90 stopni i zatrzymaj ruch.",
+    "Opuść nogę do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Hüftbeugung mit Band",
+  "instructions_de": [
+    "Befestigen Sie ein Ende des Bandes am unteren Teil eines Pfostens und das andere an einem Knöchel.",
+    "Wenden Sie sich vom Befestigungspunkt des Bandes ab.",
+    "Halten Sie Kopf und Brust aufrecht, heben Sie Ihr Knie bis zu 90 Grad an und pausieren Sie.",
+    "Führen Sie das Bein in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

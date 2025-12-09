@@ -1,0 +1,59 @@
+{
+  "name": "Seated Cable Rows",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+    "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
+    "With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
+    "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie siedząc na wyciągu",
+  "instructions_pl": [
+    "Do wykonania tego ćwiczenia będziesz potrzebować dostępu do maszyny do wiosłowania na wyciągu dolnym z uchwytem V. Uwaga: Uchwyt V umożliwi ci zastosowanie chwytu neutralnego, w którym dłonie są zwrócone do siebie. Aby przyjąć pozycję startową, najpierw usiądź na maszynie i umieść stopy na przedniej platformie lub poprzeczce, upewniając się, że kolana są lekko ugięte i nie zablokowane.",
+    "Pochyl się do przodu, zachowując naturalne ułożenie kręgosłupa, i chwyć uchwyty V.",
+    "Z wyprostowanymi ramionami odchyl się do tyłu, aż tułów znajdzie się pod kątem 90 stopni względem nóg. Plecy powinny być lekko wygięte w łuk, a klatka piersiowa wypchnięta do przodu. Powinieneś czuć przyjemne rozciąganie mięśni najszerszych grzbietu, trzymając drążek przed sobą. Jest to pozycja startowa ćwiczenia.",
+    "Utrzymując tułów nieruchomo, przyciągnij uchwyty do tułowia, trzymając ramiona blisko niego, aż dotkniesz brzucha. Wykonując ten ruch, zrób wydech. W tym momencie powinieneś mocno ściskać mięśnie pleców. Przytrzymaj to napięcie przez sekundę i powoli wróć do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Kabelrudern",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie Zugang zu einer Ruderzugmaschine mit tiefem Kabelzug und einem V-Griff. Hinweis: Der V-Griff ermöglicht Ihnen einen neutralen Griff, bei dem die Handflächen zueinander zeigen. Um in die Ausgangsposition zu gelangen, setzen Sie sich zuerst auf die Maschine und stellen Sie Ihre Füße auf die dafür vorgesehene vordere Plattform oder Querstange, wobei Sie darauf achten, dass Ihre Knie leicht gebeugt und nicht durchgestreckt sind.",
+    "Beugen Sie sich nach vorne, während Sie die natürliche Ausrichtung Ihres Rückens beibehalten, und fassen Sie die Griffe des V-Griffs.",
+    "Ziehen Sie mit ausgestreckten Armen zurück, bis Ihr Oberkörper einen 90-Grad-Winkel zu Ihren Beinen bildet. Ihr Rücken sollte leicht gewölbt sein und Ihre Brust sollte herausgestreckt sein. Sie sollten eine gute Dehnung in Ihrem Musculus latissimus dorsi spüren, während Sie den Griff vor sich halten. Dies ist die Ausgangsposition der Übung.",
+    "Halten Sie den Oberkörper stabil und ziehen Sie die Griffe zurück zu Ihrem Oberkörper, während Sie die Arme nah am Körper halten, bis Sie die Bauchregion berühren. Atmen Sie bei dieser Bewegung aus. Zu diesem Zeitpunkt sollten Sie Ihre Rückenmuskulatur fest anspannen. Halten Sie diese Kontraktion für eine Sekunde und kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

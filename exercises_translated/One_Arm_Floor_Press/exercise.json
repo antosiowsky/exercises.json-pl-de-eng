@@ -1,0 +1,62 @@
+{
+  "name": "One Arm Floor Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
+    "Have a partner hand you the bar on one hand. When starting, your arm should be just about fully extended, similar to the starting position of a barbell bench press. However, this time your grip will be neutral (palms facing your torso).",
+    "Make sure the hand you are not using to lift the weight is placed by your side.",
+    "Begin the exercise by lowering the barbell until your elbow touches the ground. Make sure to breathe in as this is the eccentric (lowering part of the exercise).",
+    "Then start lifting the barbell back up to the original starting position. Remember to breathe out during the concentric (lifting part of the exercise).",
+    "Repeat until you have performed your recommended repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie jednorącz leżąc na podłodze",
+  "instructions_pl": [
+    "Połóż się na płaskiej powierzchni, opierając plecy o podłogę lub matę do ćwiczeń. Upewnij się, że kolana są ugięte.",
+    "Poproś partnera, aby podał Ci hantel do jednej ręki. W pozycji początkowej ramię powinno być niemal całkowicie wyprostowane, podobnie jak w pozycji wyjściowej wyciskania sztangi leżąc. Tym razem jednak chwyt będzie neutralny (dłonie skierowane do tułowia).",
+    "Upewnij się, że ręka, którą nie podnosisz ciężaru, jest ułożona wzdłuż tułowia.",
+    "Rozpocznij ćwiczenie, opuszczając hantel, aż łokieć dotknie podłoża. Pamiętaj o wdechu, ponieważ jest to faza ekscentryczna (faza opuszczania ciężaru).",
+    "Następnie zacznij podnosić hantel z powrotem do pierwotnej pozycji wyjściowej. Pamiętaj o wydechu podczas fazy koncentrycznej (faza podnoszenia ciężaru).",
+    "Powtarzaj ćwiczenie, aż wykonasz zalecaną liczbę powtórzeń.",
+    "Zmień rękę i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Einarmige Bodenpresse",
+  "instructions_de": [
+    "Legen Sie sich auf eine flache Oberfläche, wobei Ihr Rücken fest auf dem Boden oder einer Trainingsmatte aufliegt. Achten Sie darauf, dass Ihre Knie gebeugt sind.",
+    "Lassen Sie sich von einem Partner die Hantel in eine Hand geben. In der Ausgangsposition sollte Ihr Arm nahezu vollständig gestreckt sein, ähnlich der Startposition beim Langhantel-Bankdrücken. Diesmal ist Ihr Griff jedoch neutral (Handflächen zeigen zum Oberkörper).",
+    "Stellen Sie sicher, dass die Hand, die Sie nicht zum Heben des Gewichts verwenden, seitlich neben Ihrem Körper platziert ist.",
+    "Beginnen Sie die Übung, indem Sie die Hantel absenken, bis Ihr Ellenbogen den Boden berührt. Achten Sie darauf, einzuatmen, da dies die exzentrische Phase (Absenkphase der Übung) ist.",
+    "Heben Sie anschließend die Hantel wieder in die ursprüngliche Ausgangsposition. Denken Sie daran, während der konzentrischen Phase (Heben des Gewichts) auszuatmen.",
+    "Wiederholen Sie dies, bis Sie die empfohlene Anzahl an Wiederholungen ausgeführt haben.",
+    "Wechseln Sie die Arme und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

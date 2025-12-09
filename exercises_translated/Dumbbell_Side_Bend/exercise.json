@@ -1,0 +1,44 @@
+{
+  "name": "Dumbbell Side Bend",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up straight while holding a dumbbell on the left hand (palms facing the torso) as you have the right hand holding your waist. Your feet should be placed at shoulder width. This will be your starting position.",
+    "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",
+    "Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.",
+    "Repeat for the recommended amount of repetitions and then change hands."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Skłon boczny z hantlą",
+  "instructions_pl": [
+    "Stań prosto, trzymając hantlę w lewej dłoni (dłoń skierowana w stronę tułowia), a prawą dłoń oprzyj na biodrze. Stopy rozstaw na szerokość barków. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując proste plecy i uniesioną głowę, wykonaj skłon tułowia tylko w pasie w prawo, tak daleko, jak to możliwe. Wykonaj wdech, pochylając się na bok. Następnie przytrzymaj przez sekundę i wróć do pozycji wyjściowej, wykonując wydech. Wskazówka: Utrzymuj resztę ciała nieruchomo.",
+    "Teraz powtórz ruch, wykonując skłon w lewo. Przytrzymaj przez sekundę i wróć do pozycji wyjściowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń, a następnie zmień dłonie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Kurzhantel-Seitenbeugen",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin und halten Sie eine Kurzhantel in der linken Hand (Handfläche zeigt zum Rumpf). Legen Sie die rechte Hand an Ihre Taille. Ihre Füße sollten schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihren Rücken gerade und den Kopf aufrecht. Beugen Sie sich nur aus der Taille so weit wie möglich nach rechts. Atmen Sie ein, während Sie sich zur Seite beugen. Halten Sie dann eine Sekunde lang inne und kehren Sie beim Ausatmen in die Ausgangsposition zurück. Tipp: Halten Sie den Rest des Körpers ruhig.",
+    "Wiederholen Sie nun die Bewegung, beugen Sie sich jedoch stattdessen nach links. Halten Sie eine Sekunde lang inne und kehren Sie in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen und wechseln Sie dann die Hände."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

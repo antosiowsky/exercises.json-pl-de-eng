@@ -1,0 +1,68 @@
+{
+  "name": "Pin Presses",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Pin presses remove the eccentric phase of the bench press, developing starting strength. They also allow you to train a desired range of motion.",
+    "The bench should be set up in a power rack. Set the pins to the desired point in your range of motion, whether it just be lockout or an inch off of your chest. The bar should be moved to the pins and prepared for lifting.",
+    "Begin by lying on the bench, with the bar directly above the contact point during your regular bench. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
+    "You can take a standard bench grip, or shoulder width to focus on the triceps. The bar, wrist, and elbow should stay in line at all times. Focus on squeezing the bar and trying to pull it apart.",
+    "Drive the bar up with as much force as possible. The elbows should be tucked in until lockout.",
+    "Return the bar to the pins, pausing before beginning the next repetition."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi z ograniczników (Pin Presses)",
+  "instructions_pl": [
+    "Wyciskanie sztangi z ograniczników eliminuje fazę ekscentryczną wyciskania sztangi leżąc, rozwijając siłę początkową. Pozwala również trenować w pożądanym zakresie ruchu.",
+    "Ławka powinna być ustawiona w klatce mocy (power rack). Ustaw ograniczniki (piny) na pożądanym punkcie w zakresie ruchu, czy to będzie zablokowanie stawu (lockout), czy centymetr nad klatką piersiową. Sztanga powinna być umieszczona na ogranicznikach i przygotowana do podnoszenia.",
+    "Rozpocznij, leżąc na ławce, ze sztangą bezpośrednio nad punktem kontaktu podczas regularnego wyciskania sztangi leżąc. Podwiń stopy pod siebie i wygnij plecy w łuk. Używając sztangi do podparcia ciężaru ciała, unieś barki z ławki i cofnij je, ściskając łopatki razem. Użyj stóp, aby wcisnąć mięśnie czworoboczne (trapezy) w ławkę. Utrzymuj tę napiętą pozycję ciała przez cały ruch.",
+    "Możesz zastosować standardowy chwyt do wyciskania sztangi leżąc lub chwyt na szerokość barków, aby skupić się na mięśniach trójgłowych ramienia. Sztanga, nadgarstek i łokieć powinny pozostawać w jednej linii przez cały czas. Skup się na ściskaniu sztangi i próbie jej rozrywania.",
+    "Wypchnij sztangę w górę z jak największą siłą. Łokcie powinny być schowane (przyciągnięte do tułowia) aż do zablokowania stawu.",
+    "Opuść sztangę z powrotem na ograniczniki, zatrzymując się przed rozpoczęciem kolejnego powtórzenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie przedramion",
+    "mięśnie najszersze grzbietu",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Pin-Bankdrücken",
+  "instructions_de": [
+    "Pin-Bankdrücken eliminiert die exzentrische Phase des Bankdrückens und fördert die Startkraft. Es ermöglicht zudem, einen gewünschten Bewegungsumfang zu trainieren.",
+    "Die Hantelbank sollte in einem Power Rack positioniert werden. Stellen Sie die Sicherheitsstangen (Pins) auf den gewünschten Punkt Ihres Bewegungsumfangs ein, sei es direkt das Lockout oder einen Zentimeter oberhalb Ihrer Brust. Die Hantel sollte auf die Pins gelegt und für das Heben vorbereitet werden.",
+    "Beginnen Sie, indem Sie sich auf die Hantelbank legen, wobei sich die Hantel direkt über dem Kontaktpunkt Ihres regulären Bankdrückens befindet. Ziehen Sie Ihre Füße unter sich und wölben Sie Ihren Rücken. Nutzen Sie die Hantel zur Unterstützung Ihres Gewichts, heben Sie Ihre Schultern von der Bank und ziehen Sie sie zurück, indem Sie die Scapulae (Schulterblätter) zusammenpressen. Drücken Sie mit den Füßen Ihre Trapezmuskeln (Musculus trapezius) fest in die Bank. Behalten Sie diese stabile Körperposition während der gesamten Bewegung bei.",
+    "Wählen Sie einen Standard-Bankdrückgriff oder einen schulterbreiten Griff, um den Fokus auf den Musculus triceps brachii (Trizeps) zu legen. Hantel, Handgelenk und Ellbogen sollten stets in einer Linie bleiben. Konzentrieren Sie sich darauf, die Hantel fest zu umgreifen und sie förmlich auseinanderzuziehen.",
+    "Drücken Sie die Hantel mit maximaler Kraft nach oben. Die Ellbogen sollten bis zum Lockout eng am Körper geführt werden.",
+    "Führen Sie die Hantel kontrolliert auf die Pins zurück und pausieren Sie kurz, bevor Sie die nächste Wiederholung beginnen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Unterarmmuskulatur",
+    "Musculus latissimus dorsi",
+    "Mittlere Rückenmuskulatur",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Powerlifting"
+}

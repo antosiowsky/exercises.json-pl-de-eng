@@ -1,0 +1,53 @@
+{
+  "name": "Single-Arm Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin laying prone on the ground. Move yourself into a position supporting your weight on your toes and one arm. Your working arm should be placed directly under the shoulder, fully extended. Your legs should be extended, and for this movement you may need a wider base, placing your feet further apart than in a normal push-up.",
+    "Maintain good posture, and place your free hand behind your back. This will be your starting position.",
+    "Lower yourself by allowing the elbow to flex until you touch the ground.",
+    "Descend slowly, and reverse direction be extending the arm to return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompka jednoramienna",
+  "instructions_pl": [
+    "Rozpocznij, leżąc na brzuchu na ziemi. Przyjmij pozycję, opierając ciężar ciała na palcach stóp i jednej ręce. Ramię pracujące powinno być umieszczone bezpośrednio pod barkiem, w pełnym wyproście. Nogi powinny być wyprostowane, a dla tego ruchu możesz potrzebować szerszej podstawy, rozstawiając stopy szerzej niż w przypadku zwykłej pompki.",
+    "Zachowaj prawidłową postawę i umieść wolną rękę za plecami. Będzie to Twoja pozycja początkowa.",
+    "Opuść się, zginając łokieć, aż dotkniesz ziemi.",
+    "Opuszczaj się powoli i odwróć ruch, prostując ramię, aby powrócić do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmiger Liegestütz",
+  "instructions_de": [
+    "Beginnen Sie in Bauchlage auf dem Boden. Begeben Sie sich in eine Position, in der Sie Ihr Gewicht auf Ihre Zehenspitzen und einen Arm stützen. Ihr Arbeitsarm sollte direkt unter der Schulter platziert und vollständig gestreckt sein. Ihre Beine sollten gestreckt sein, und für diese Bewegung benötigen Sie möglicherweise eine breitere Basis, indem Sie Ihre Füße weiter auseinander stellen als bei einem normalen Liegestütz.",
+    "Halten Sie eine gute Körperhaltung bei und legen Sie Ihre freie Hand hinter Ihren Rücken. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie sich ab, indem Sie den Ellenbogen beugen, bis Sie den Boden berühren.",
+    "Führen Sie die Abwärtsbewegung langsam aus und kehren Sie die Bewegung um, indem Sie den Arm strecken, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

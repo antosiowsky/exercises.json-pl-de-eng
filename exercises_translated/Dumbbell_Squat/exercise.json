@@ -1,0 +1,62 @@
+{
+  "name": "Dumbbell Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
+    "Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section.",
+    "Begin to slowly lower your torso by bending the knees as you maintain a straight posture with the head up. Continue down until your thighs are parallel to the floor. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+    "Begin to raise your torso as you exhale by pushing the floor with the heel of your foot mainly as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Przysiad z hantlami",
+  "instructions_pl": [
+    "Stań prosto, trzymając hantlę w każdej dłoni (dłonie skierowane w stronę boków nóg).",
+    "Ustaw nogi w średnim rozkroku na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Przez cały czas utrzymuj głowę uniesioną, ponieważ patrzenie w dół może zaburzyć równowagę, a także utrzymuj proste plecy. Będzie to Twoja pozycja wyjściowa. Uwaga: Na potrzeby tej instrukcji używamy opisanego powyżej średniego rozkroku, który angażuje ogólny rozwój; możesz jednak wybrać dowolny z trzech rozkroków omówionych w sekcji dotyczącej ustawienia stóp.",
+    "Zacznij powoli opuszczać tułów, uginając kolana, zachowując prostą postawę z uniesioną głową. Kontynuuj ruch w dół, aż uda znajdą się równolegle do podłogi. Wskazówka: Jeśli wykonasz ćwiczenie prawidłowo, przód kolan powinien tworzyć wyimaginowaną prostą linię z palcami stóp, która jest prostopadła do podłoża. Jeśli kolana przekroczą tę wyimaginowaną linię (jeśli wyjdą poza palce stóp), wówczas nadmiernie obciążasz stawy kolanowe, a ćwiczenie zostało wykonane nieprawidłowo.",
+    "Zacznij unosić tułów, wydychając powietrze, głównie poprzez odpychanie się od podłogi piętą stopy, prostując ponownie nogi i wracając do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "prostowniki grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kurzhantelkniebeuge",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie in jeder Hand eine Kurzhantel halten (Handflächen zeigen zur Seite Ihrer Beine).",
+    "Positionieren Sie Ihre Beine in einem schulterbreiten, mittleren Stand, wobei die Zehen leicht nach außen zeigen. Halten Sie den Kopf stets oben, da ein Blick nach unten Sie aus dem Gleichgewicht bringen würde, und halten Sie den Rücken gerade. Dies ist Ihre Ausgangsposition. Hinweis: Für diese Beschreibung verwenden wir den oben beschriebenen mittleren Stand, der eine umfassende Entwicklung fördert; Sie können jedoch jeden der drei im Abschnitt 'Fußstellungen' besprochenen Stände wählen.",
+    "Beginnen Sie, Ihren Oberkörper langsam zu senken, indem Sie die Knie beugen, während Sie eine aufrechte Haltung mit erhobenem Kopf beibehalten. Fahren Sie fort, bis Ihre Oberschenkel parallel zum Boden sind. Tipp: Wenn Sie die Übung korrekt ausgeführt haben, sollten die Vorderseiten der Knie eine imaginäre gerade Linie mit den Zehen bilden, die senkrecht nach vorne verläuft. Wenn Ihre Knie diese imaginäre Linie überschreiten (d.h. über Ihre Zehen hinausragen), belasten Sie das Knie übermäßig, und die Übung wurde falsch ausgeführt.",
+    "Beginnen Sie, Ihren Oberkörper beim Ausatmen anzuheben, indem Sie hauptsächlich mit der Ferse Ihres Fußes vom Boden abdrücken, während Sie die Beine wieder strecken und in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Muskulatur des unteren Rückens"
+  ],
+  "category_de": "Kraft"
+}

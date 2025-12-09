@@ -1,0 +1,56 @@
+{
+  "name": "Bradford/Rocky Presses",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Sit on a Military Press Bench with a bar at shoulder level with a pronated grip (palms facing forward). Tip: Your grip should be wider than shoulder width and it should create a 90-degree angle between the forearm and the upper arm as the barbell goes down. This is your starting position.",
+    "Once you pick up the barbell with the correct grip, lift the bar up over your head by locking your arms.",
+    "Now lower the bar down to the back of the head slowly as you inhale.",
+    "Lift the bar back up to the starting position as you exhale.",
+    "Lower the bar down to the starting position slowly as you inhale. This is one repetition.",
+    "Alternate in this manner until you complete the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskania Bradford/Rocky",
+  "instructions_pl": [
+    "Usiądź na ławce do wyciskania żołnierskiego ze sztangą na wysokości barków, używając chwytu pronowanego (dłonie skierowane do przodu). Wskazówka: Twój chwyt powinien być szerszy niż szerokość barków i powinien tworzyć kąt 90 stopni między przedramieniem a ramieniem, gdy sztanga jest opuszczana. To jest Twoja pozycja początkowa.",
+    "Po podniesieniu sztangi prawidłowym chwytem, unieś ją nad głowę, prostując ramiona.",
+    "Teraz powoli opuść sztangę za głowę, wykonując wdech.",
+    "Unieś sztangę z powrotem do pozycji początkowej, wykonując wydech.",
+    "Powoli opuść sztangę do pozycji początkowej, wykonując wdech. To jest jedno powtórzenie.",
+    "Kontynuuj w ten sposób, aż do wykonania zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Bradford/Rocky Pressen",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Militärpressbank mit einer Langhantel auf Schulterhöhe und einem Obergriff (Handflächen zeigen nach vorne). Tipp: Ihr Griff sollte breiter als schulterbreit sein und einen 90-Grad-Winkel zwischen Unterarm und Oberarm bilden, wenn die Langhantel nach unten geht. Dies ist Ihre Ausgangsposition.",
+    "Sobald Sie die Langhantel mit dem korrekten Griff aufgenommen haben, heben Sie die Stange über Ihren Kopf, indem Sie Ihre Arme durchstrecken.",
+    "Senken Sie die Stange nun langsam hinter den Kopf ab, während Sie einatmen.",
+    "Heben Sie die Stange wieder über den Kopf an, während Sie ausatmen.",
+    "Senken Sie die Stange langsam in die ursprüngliche Ausgangsposition (auf Schulterhöhe) ab, während Sie einatmen. Dies ist eine Wiederholung.",
+    "Wiederholen Sie diesen Ablauf, bis Sie die empfohlene Anzahl an Wiederholungen erreicht haben."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

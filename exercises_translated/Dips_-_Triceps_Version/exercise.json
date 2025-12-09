@@ -1,0 +1,53 @@
+{
+  "name": "Dips - Triceps Version",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars.",
+    "Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.",
+    "Then, exhale and push your torso back up using your triceps to bring your body back to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompki na poręczach – wersja na mięsień trójgłowy ramienia",
+  "instructions_pl": [
+    "Aby przyjąć pozycję startową, unieś ciało na wyprostowanych ramionach, z niemal zablokowanymi stawami łokciowymi nad poręczami.",
+    "Następnie, wykonaj wdech i powoli opuść ciało w dół. Tułów powinien pozostać w pozycji pionowej, a łokcie powinny pozostać blisko tułowia. Pomaga to lepiej zaangażować mięsień trójgłowy ramienia. Opuść się, aż między ramieniem a przedramieniem utworzy się kąt 90 stopni.",
+    "Następnie, wykonaj wydech i wypchnij tułów z powrotem w górę, używając mięśni trójgłowych ramion, aby powrócić do pozycji startowej.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Dips - Trizeps-Version",
+  "instructions_de": [
+    "Um in die Ausgangsposition zu gelangen, halten Sie Ihren Körper mit fast vollständig gestreckten Armen über den Holmen.",
+    "Atmen Sie nun ein und senken Sie sich langsam nach unten ab. Ihr Oberkörper sollte aufrecht bleiben und Ihre Ellbogen sollten eng am Körper geführt werden. Dies hilft, die Beteiligung des Trizeps besser zu fokussieren. Senken Sie sich ab, bis ein 90-Grad-Winkel zwischen Oberarm und Unterarm entsteht.",
+    "Atmen Sie dann aus und drücken Sie Ihren Oberkörper mithilfe Ihres Trizeps wieder nach oben, um Ihren Körper in die Ausgangsposition zurückzuführen.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

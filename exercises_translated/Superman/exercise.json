@@ -1,0 +1,53 @@
+{
+  "name": "Superman",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position.",
+    "Simultaneously raise your arms, legs, and chest off of the floor and hold this contraction for 2 seconds. Tip: Squeeze your lower back to get the best results from this exercise. Remember to exhale during this movement. Note: When holding the contracted position, you should look like superman when he is flying.",
+    "Slowly begin to lower your arms, legs and chest back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Superman",
+  "instructions_pl": [
+    "Aby rozpocząć, połóż się prosto, twarzą w dół na podłodze lub macie do ćwiczeń. Ramiona powinny być w pełni wyprostowane przed tobą. Jest to pozycja wyjściowa.",
+    "Jednocześnie unieś ramiona, nogi i klatkę piersiową nad podłogę i utrzymaj ten skurcz przez 2 sekundy. Wskazówka: Ściśnij mięśnie dolnej części pleców, aby uzyskać najlepsze rezultaty z tego ćwiczenia. Pamiętaj, aby wykonać wydech podczas tego ruchu. Uwaga: Utrzymując pozycję skurczu, powinieneś wyglądać jak Superman w locie.",
+    "Powoli zacznij opuszczać ramiona, nogi i klatkę piersiową z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń określoną w twoim programie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Superman",
+  "instructions_de": [
+    "Legen Sie sich zu Beginn gerade und mit dem Gesicht nach unten auf den Boden oder eine Trainingsmatte. Ihre Arme sollten vollständig vor Ihnen ausgestreckt sein. Dies ist die Ausgangsposition.",
+    "Heben Sie gleichzeitig Arme, Beine und Brust vom Boden ab und halten Sie diese Kontraktion für 2 Sekunden. Tipp: Spannen Sie Ihren unteren Rücken an, um die besten Ergebnisse aus dieser Übung zu erzielen. Denken Sie daran, während dieser Bewegung auszuatmen. Hinweis: In der kontrahierten Position sollten Sie wie Superman im Flug aussehen.",
+    "Beginnen Sie langsam, Arme, Beine und Brust unter Einatmung wieder in die Ausgangsposition abzusenken.",
+    "Wiederholen Sie die Übung für die in Ihrem Programm empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi glutei",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Dehnung"
+}

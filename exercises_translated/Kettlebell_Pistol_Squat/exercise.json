@@ -1,0 +1,59 @@
+{
+  "name": "Kettlebell Pistol Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
+    "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",
+    "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
+    "Lower yourself again and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Przysiad pistoletowy z kettlebell",
+  "instructions_pl": [
+    "Chwyć kettlebell oburącz, trzymając go za rogi. Unieś jedną nogę nad podłogę i wykonaj przysiad na drugiej.",
+    "Opuść się w dół, zginając kolano i cofając biodra, trzymając kettlebell przed sobą.",
+    "Przytrzymaj dolną pozycję przez sekundę, a następnie odwróć ruch, odpychając się przez piętę i utrzymując głowę oraz klatkę piersiową uniesione.",
+    "Ponownie opuść się w dół i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kettlebell Pistol Squat",
+  "instructions_de": [
+    "Nimm eine Kettlebell mit beiden Händen auf und halte sie an den Hörnern. Hebe ein Bein vom Boden ab und gehe mit dem anderen Bein in die Kniebeuge.",
+    "Gehe in die Kniebeuge, indem du das Knie beugst und die Hüften nach hinten schiebst, während du die Kettlebell vor dir hochhältst.",
+    "Halte die unterste Position für eine Sekunde und kehre dann die Bewegung um, indem du dich über die Ferse nach oben drückst und Kopf und Brust oben hältst.",
+    "Senke dich erneut ab und wiederhole die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

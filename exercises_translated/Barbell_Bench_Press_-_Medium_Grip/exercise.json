@@ -1,0 +1,56 @@
+{
+  "name": "Barbell Bench Press - Medium Grip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.",
+    "After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi leżąc – chwytem średnim",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce. Używając chwytu o średniej szerokości (chwyt, który tworzy kąt 90 stopni w połowie ruchu między przedramionami a ramionami), unieś sztangę ze stojaków i trzymaj ją prosto nad sobą z wyprostowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Z pozycji początkowej weź wdech i zacznij powoli opuszczać sztangę, aż dotknie środkowej części klatki piersiowej.",
+    "Po krótkiej pauzie odepchnij sztangę z powrotem do pozycji początkowej, jednocześnie wykonując wydech. Skup się na wypychaniu sztangi, używając mięśni klatki piersiowej. Wyprostuj ramiona i mocno napnij mięśnie klatki piersiowej w pozycji skurczonej na szczycie ruchu, przytrzymaj przez sekundę, a następnie zacznij ponownie powoli opuszczać sztangę. Wskazówka: Idealnie, opuszczanie ciężaru powinno trwać około dwa razy dłużej niż jego podnoszenie.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Po zakończeniu ćwiczenia odłóż sztangę z powrotem na stojaki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantelbankdrücken - mittlerer Griff",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank. Greifen Sie die Stange mittbreit (ein Griff, der in der Mitte der Bewegung einen 90-Grad-Winkel zwischen den Unterarmen und den Oberarmen bildet), heben Sie die Stange aus der Ablage und halten Sie sie mit gestreckten Armen gerade über sich. Dies ist Ihre Ausgangsposition.",
+    "Aus der Ausgangsposition atmen Sie ein und beginnen, die Stange langsam herabzulassen, bis sie Ihre Brustmitte berührt.",
+    "Nach einer kurzen Pause drücken Sie die Stange beim Ausatmen zurück in die Ausgangsposition. Konzentrieren Sie sich darauf, die Stange mit Ihren Musculi pectorales zu drücken. Strecken Sie die Arme durch und spannen Sie die Brust in der kontrahierten Position am oberen Punkt der Bewegung an, halten Sie eine Sekunde lang und beginnen Sie dann erneut, die Stange langsam herabzulassen. Tipp: Idealerweise sollte das Herablassen des Gewichts etwa doppelt so lange dauern wie das Anheben.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Stange zurück in die Ablage."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Get into a prone position on the floor, supporting your weight on your toes and your forearms. Your arms are bent and directly below the shoulder.",
+    "Keep your body straight at all times, and hold this position as long as possible. To increase difficulty, an arm or leg can be raised."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Plank",
+  "instructions_pl": [
+    "Przyjmij pozycję leżącą na brzuchu na podłodze, opierając ciężar ciała na palcach stóp i przedramionach. Ramiona są zgięte i znajdują się bezpośrednio pod barkami.",
+    "Utrzymuj ciało w prostej linii przez cały czas i utrzymuj tę pozycję tak długo, jak to możliwe. Aby zwiększyć trudność, można unieść jedno ramię lub nogę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Plank",
+  "instructions_de": [
+    "Begib dich in Bauchlage auf den Boden und stütze dein Gewicht auf deine Zehenspitzen und deine Unterarme ab. Deine Arme sind gebeugt und befinden sich direkt unter den Schultern.",
+    "Halte deinen Körper durchgehend gerade und halte diese Position so lange wie möglich. Um die Schwierigkeit zu erhöhen, kann ein Arm oder ein Bein angehoben werden."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

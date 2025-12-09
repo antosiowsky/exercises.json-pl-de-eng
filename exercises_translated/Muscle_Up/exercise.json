@@ -1,0 +1,68 @@
+{
+  "name": "Muscle Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.",
+    "As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
+    "Maintaining control and stability, extend through the elbow to complete the motion.",
+    "Use care when lowering yourself to the ground."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wejście siłowe na kółkach",
+  "instructions_pl": [
+    "Chwyć kółka chwytem fałszywym, opierając podstawę dłoni na górnej części kółek. Rozpocznij podciąganie, ściągając łokcie w dół do boku i zginając je.",
+    "Gdy osiągniesz górną pozycję podciągania, przyciągnij kółka do pach, jednocześnie przetaczając barki do przodu i pozwalając łokciom przemieścić się prosto do tyłu za siebie. To ustawi cię w odpowiedniej pozycji do kontynuowania ruchu w fazie pompki na poręczach.",
+    "Zachowując kontrolę i stabilność, wyprostuj łokcie, aby zakończyć ruch.",
+    "Zachowaj ostrożność podczas opuszczania się na ziemię."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięsień dwugłowy ramienia",
+    "mięśnie przedramion",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne",
+    "mięsień czworoboczny grzbietu",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Muscle-up",
+  "instructions_de": [
+    "Greifen Sie die Ringe im Ristgriff, wobei die Handballen auf den Ringen aufliegen. Leiten Sie einen Klimmzug ein, indem Sie die Ellbogen seitlich nach unten ziehen und dabei beugen.",
+    "Wenn Sie die oberste Position des Klimmzugs erreichen, ziehen Sie die Ringe zu Ihren Achselhöhlen, während Sie die Schultern nach vorne rollen und dabei die Ellbogen gerade nach hinten führen. Dies bringt Sie in die richtige Position, um in den Dip-Teil der Bewegung überzugehen.",
+    "Unter Beibehaltung von Kontrolle und Stabilität strecken Sie die Ellbogen, um die Bewegung abzuschließen.",
+    "Lassen Sie sich mit Vorsicht zum Boden ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculus biceps brachii",
+    "Musculi antebrachii",
+    "Muskulatur des mittleren Rückens",
+    "Musculi deltoidei",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

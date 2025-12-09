@@ -1,0 +1,50 @@
+{
+  "name": "Dumbbell Seated One-Leg Calf Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place a block on the floor about 12 inches from a flat bench.",
+    "Sit on a flat bench and place a dumbbell on your upper left thigh about 3 inches above your knee.",
+    "Now place the ball of your left foot on the block. This will be your starting position.",
+    "Raise your toes up as high as possible as you exhale and you contract your calf muscle. Hold the contraction for a second.",
+    "Slowly return to the starting position, stretching as far down as possible.",
+    "Repeat for your prescribed number of repetitions and then repeat with the right leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Siedzące wspięcia łydek jednonóż z hantlą",
+  "instructions_pl": [
+    "Umieść klocek na podłodze około 30 centymetrów od płaskiej ławki.",
+    "Usiądź na płaskiej ławce i umieść hantlę na górnej części lewego uda, około 7-8 centymetrów powyżej kolana.",
+    "Teraz umieść śródstopie lewej stopy na klocku. Będzie to Twoja pozycja wyjściowa.",
+    "Wspnij się na palce tak wysoko, jak to możliwe, wykonując wydech i napinając mięsień trójgłowy łydki. Przytrzymaj skurcz przez sekundę.",
+    "Powoli wróć do pozycji wyjściowej, rozciągając się tak nisko, jak to możliwe.",
+    "Powtórz ćwiczenie dla zalecanej liczby powtórzeń, a następnie powtórz z prawą nogą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes einbeiniges Wadenheben mit Kurzhantel",
+  "instructions_de": [
+    "Platzieren Sie einen Block auf dem Boden, etwa 30 cm von einer Flachbank entfernt.",
+    "Setzen Sie sich auf eine Flachbank und legen Sie eine Kurzhantel auf Ihren oberen linken Oberschenkel, etwa 7-8 cm oberhalb Ihres Knies.",
+    "Legen Sie nun den Fußballen Ihres linken Fußes auf den Block. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie Ihre Zehenspitzen so hoch wie möglich an, während Sie ausatmen und den Musculus triceps surae anspannen. Halten Sie die Kontraktion für eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, indem Sie so weit wie möglich nach unten dehnen.",
+    "Wiederholen Sie dies für die vorgeschriebene Anzahl an Wiederholungen und wiederholen Sie anschließend mit dem rechten Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

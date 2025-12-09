@@ -1,0 +1,50 @@
+{
+  "name": "Cross Body Hammer Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.",
+    "While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.",
+    "Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.",
+    "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramion z hantlami chwytem młotkowym w poprzek ciała",
+  "instructions_pl": [
+    "Stań prosto z hantlem w każdej dłoni. Dłonie powinny znajdować się wzdłuż tułowia, z kciukami skierowanymi do przodu (chwyt neutralny).",
+    "Utrzymując dłonie skierowane do siebie (chwyt neutralny) i nie skręcając przedramienia, ugnij prawą rękę z hantlem w kierunku lewego barku, wykonując wydech. Dotknij górną częścią hantla barku i przytrzymaj skurcz mięśnia przez sekundę.",
+    "Powoli opuść hantel po tej samej trajektorii, wykonując wdech, a następnie powtórz ten sam ruch dla lewej ręki.",
+    "Kontynuuj naprzemienne wykonywanie ćwiczenia w ten sposób, aż do osiągnięcia zalecanej liczby powtórzeń dla każdej ręki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Überkreuz-Hammercurls",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, mit einer Kurzhantel in jeder Hand. Ihre Hände sollten seitlich am Körper hängen, wobei die Handflächen zueinander zeigen.",
+    "Halten Sie die Handflächen weiterhin zueinander gerichtet und ohne den Arm zu verdrehen. Führen Sie die Kurzhantel des rechten Arms beim Ausatmen zur linken Schulter hoch. Berühren Sie mit der Oberseite der Kurzhantel Ihre Schulter und halten Sie die Kontraktion für eine Sekunde.",
+    "Senken Sie die Kurzhantel langsam entlang desselben Weges beim Einatmen ab und wiederholen Sie dann dieselbe Bewegung für den linken Arm.",
+    "Fahren Sie fort, auf diese Weise abwechselnd zu trainieren, bis die empfohlene Anzahl an Wiederholungen für jeden Arm ausgeführt wurde."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarme"
+  ],
+  "category_de": "Kraft"
+}

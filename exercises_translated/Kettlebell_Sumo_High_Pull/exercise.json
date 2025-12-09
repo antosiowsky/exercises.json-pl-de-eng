@@ -1,0 +1,56 @@
+{
+  "name": "Kettlebell Sumo High Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a kettlebell on the ground between your feet. Position your feet in a wide stance, and grasp the kettlebell with two hands. Set your hips back as far as possible, with your knees bent. Keep your chest and head up. This will be your starting position.",
+    "Begin by extending the hips and knees, simultaneously pulling the kettlebell to your shoulders, raising your elbows as you do so. Reverse the motion to return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wysoki Ciąg Sumo z Kettlebell",
+  "instructions_pl": [
+    "Umieść kettlebell na podłodze między stopami. Ustaw stopy w szerokim rozkroku i chwyć kettlebell oburącz. Cofnij biodra jak najdalej, z ugiętymi kolanami. Utrzymuj klatkę piersiową i głowę uniesione. To będzie Twoja pozycja wyjściowa.",
+    "Rozpocznij od wyprostu bioder i kolan, jednocześnie podciągając kettlebell do barków, unosząc łokcie w trakcie ruchu. Odwróć ruch, aby wrócić do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przywodziciele",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie czworogłowe uda",
+    "Mięśnie naramienne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kettlebell Sumo Hochzug",
+  "instructions_de": [
+    "Stellen Sie eine Kettlebell auf den Boden zwischen Ihre Füße. Positionieren Sie Ihre Füße in einem breiten Stand und fassen Sie die Kettlebell mit beiden Händen. Führen Sie Ihre Hüften so weit wie möglich nach hinten, wobei die Knie gebeugt sind. Halten Sie Brust und Kopf aufrecht. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie Hüften und Knie strecken und die Kettlebell gleichzeitig zu Ihren Schultern ziehen, wobei Sie die Ellenbogen dabei anheben. Kehren Sie die Bewegung um, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Quadrizeps",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

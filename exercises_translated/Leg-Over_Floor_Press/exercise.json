@@ -1,0 +1,50 @@
+{
+  "name": "Leg-Over Floor Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on the floor with one kettlebell in place on your chest, holding it by the handle. Extend leg on working side over leg on non-working side.Your free arm can be extended out to your side for support.",
+    "Press the kettlebll into a locked out position.",
+    "Lower the weight until the elbow touches the ground, keeping the kettlebell above the elbow. Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie podłogowe z nogą założoną",
+  "instructions_pl": [
+    "Połóż się na podłodze z jednym odważnikiem kulowym (kettlebellem) umieszczonym na klatce piersiowej, trzymając go za uchwyt. Załóż nogę po stronie pracującej na nogę po stronie niepracującej. Wolną rękę możesz wyprostować na bok dla wsparcia.",
+    "Wyciśnij odważnik kulowy do pozycji pełnego wyprostu.",
+    "Opuść ciężar, aż łokieć dotknie podłoża, utrzymując odważnik kulowy nad łokciem. Powtórz ćwiczenie dla pożądanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Bein-über-Bein Bodenpresse",
+  "instructions_de": [
+    "Legen Sie sich auf den Boden, mit einer Kettlebell auf Ihrer Brust, die Sie am Griff halten. Legen Sie das Bein der Arbeitsseite über das Bein der nicht-arbeitenden Seite. Ihr freier Arm kann zur Unterstützung seitlich ausgestreckt werden.",
+    "Drücken Sie die Kettlebell in eine vollständig gestreckte Position.",
+    "Senken Sie das Gewicht, bis der Ellbogen den Boden berührt, wobei die Kettlebell über dem Ellbogen bleibt. Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

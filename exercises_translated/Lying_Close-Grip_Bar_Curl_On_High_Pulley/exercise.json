@@ -1,0 +1,53 @@
+{
+  "name": "Lying Close-Grip Bar Curl On High Pulley",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place a flat bench in front of a high pulley or lat pulldown machine.",
+    "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",
+    "Lie on your back with your head over the end of the bench.",
+    "Now extend your arms straight above your shoulders. Your torso and your arms should make a 90-degree angle and the elbows should be in. This will be your starting position.",
+    "As you breathe out, curl the bar down in a semicircular motion until it touches your chin. Squeeze the biceps for a second at the top contracted position. Tip: As you execute this motion only the forearms should move. At no time should the upper arms be moving at all. They are to remain perpendicular throughout the movement.",
+    "Return to starting position slowly.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie ramion z drążkiem na wyciągu górnym w leżeniu wąskim chwytem",
+  "instructions_pl": [
+    "Ustaw płaską ławkę przed wyciągiem górnym.",
+    "Chwyć prosty drążek podchwytem (dłonie skierowane do góry) na szerokość barków.",
+    "Połóż się na plecach, tak aby głowa znajdowała się poza końcem ławki.",
+    "Wyprostuj ramiona prosto nad barkami. Tułów i ramiona powinny tworzyć kąt 90 stopni, a łokcie powinny być skierowane do wewnątrz. Będzie to pozycja wyjściowa.",
+    "Podczas wydechu, uginaj drążek w dół ruchem półkolistym, aż dotknie podbródka. Ściśnij mięśnie dwugłowe ramienia na sekundę w szczytowym punkcie skurczu. Wskazówka: Podczas wykonywania tego ruchu powinny poruszać się wyłącznie przedramiona. Ramiona (odcinek od barku do łokcia) w żadnym momencie nie powinny się poruszać. Powinny pozostać prostopadłe do tułowia przez cały ruch.",
+    "Powróć powoli do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Liegendes Enggriff-Stangencurl am oberen Kabelzug",
+  "instructions_de": [
+    "Stellen Sie eine Flachbank vor einen oberen Kabelzug oder eine Latzugmaschine.",
+    "Fassen Sie die gerade Stange mit einem Untergriff (Handflächen nach oben) in etwa Schulterbreite.",
+    "Legen Sie sich auf den Rücken, wobei Ihr Kopf über das Ende der Bank hinausragt.",
+    "Strecken Sie nun Ihre Arme gerade über Ihre Schultern. Ihr Oberkörper und Ihre Arme sollten einen 90-Grad-Winkel bilden und die Ellbogen sollten eng am Körper anliegen. Dies ist Ihre Ausgangsposition.",
+    "Während Sie ausatmen, ziehen Sie die Stange in einer halbkreisförmigen Bewegung nach unten, bis sie Ihr Kinn berührt. Spannen Sie den Musculus biceps brachii für eine Sekunde in der obersten kontrahierten Position an. Tipp: Bei der Ausführung dieser Bewegung sollten sich nur die Unterarme bewegen. Die Oberarme sollten sich zu keiner Zeit bewegen. Sie müssen während der gesamten Bewegung senkrecht bleiben.",
+    "Kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

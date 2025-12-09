@@ -1,0 +1,44 @@
+{
+  "name": "Tricep Dumbbell Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.",
+    "Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.",
+    "After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Prostowanie przedramion w opadzie tułowia z hantlami na mięsień trójgłowy ramienia",
+  "instructions_pl": [
+    "Rozpocznij z hantlą w każdej dłoni, dłońmi skierowanymi w stronę tułowia. Utrzymuj proste plecy z lekkim ugięciem w kolanach i pochyl się do przodu w pasie. Twój tułów powinien być niemal równoległy do podłogi. Upewnij się, że głowa jest uniesiona. Ramiona (część ramienna) powinny być blisko tułowia i równoległe do podłogi. Przedramiona powinny być skierowane w stronę podłogi, gdy trzymasz ciężarki. Pomiędzy przedramieniem a ramieniem powinien tworzyć się kąt 90 stopni. To jest twoja pozycja początkowa.",
+    "Teraz, utrzymując ramiona (część ramienną) nieruchomo, wykonaj wydech i użyj mięśni trójgłowych ramienia, aby unieść ciężarki, aż ramię będzie w pełni wyprostowane. Skup się na ruchu przedramienia.",
+    "Po krótkiej pauzie w szczytowym punkcie skurczu, wykonaj wdech i powoli opuść hantle z powrotem do pozycji początkowej.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siłowy",
+  "name_de": "Trizeps-Kickback mit Kurzhanteln",
+  "instructions_de": [
+    "Beginnen Sie mit einer Kurzhantel in jeder Hand, wobei die Handflächen zum Rumpf zeigen. Halten Sie Ihren Rücken gerade, die Knie leicht gebeugt, und beugen Sie sich aus der Hüfte nach vorne. Ihr Oberkörper sollte nahezu parallel zum Boden sein. Achten Sie darauf, den Kopf oben zu halten. Ihre Oberarme sollten eng am Rumpf anliegen und parallel zum Boden sein. Ihre Unterarme sollten mit den Gewichten zum Boden zeigen. Zwischen Unterarm und Oberarm sollte ein 90-Grad-Winkel gebildet werden. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie nun Ihre Oberarme unbewegt, atmen Sie aus und nutzen Sie Ihren Musculus triceps brachii, um die Gewichte zu heben, bis der Arm vollständig gestreckt ist. Konzentrieren Sie sich dabei auf die Bewegung des Unterarms.",
+    "Nach einer kurzen Pause am oberen Punkt der Kontraktion atmen Sie ein und senken die Kurzhanteln langsam zurück in die Ausgangsposition.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

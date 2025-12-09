@@ -1,0 +1,53 @@
+{
+  "name": "Incline Push-Up Depth Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "For this drill you will need a box about 12 inches high, and two thick mats or aerobics steps.",
+    "Place the steps just outside of your shoulders, and place your feet on top of the box so that you are in an incline pushup position, your hands just inside the steps. This will be your starting position.",
+    "Begin by bending at the elbows to lower your body, quickly reversing position to push your body off of the ground. As you leave the ground, move your hands onto the steps, bending your elbows to absorb the impact.",
+    "Repeat the motion to return to the starting position."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pompka ze wzniesieniem ze skokiem w głąb",
+  "instructions_pl": [
+    "Do tego ćwiczenia będziesz potrzebować skrzyni o wysokości około 30 cm oraz dwóch grubych mat lub stepów aerobikowych.",
+    "Ustaw stepy tuż na zewnątrz barków, a stopy umieść na skrzyni, tak aby znaleźć się w pozycji pompki ze wzniesieniem, z dłońmi tuż wewnątrz stepów. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij od zgięcia łokci, obniżając ciało, a następnie szybko odwróć ruch, aby odepchnąć ciało od podłoża. Gdy oderwiesz się od podłoża, przenieś dłonie na stepy, zginając łokcie, aby zaabsorbować uderzenie.",
+    "Powtórz ruch, aby wrócić do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Schrägliegestütz-Tiefensprung",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie eine Kiste von etwa 30 cm Höhe und zwei dicke Matten oder Aerobic-Steps.",
+    "Platzieren Sie die Steps knapp außerhalb Ihrer Schultern und stellen Sie Ihre Füße auf die Kiste, sodass Sie sich in einer Schrägliegestützposition befinden, Ihre Hände knapp innerhalb der Steps. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie die Ellbogen beugen, um Ihren Körper abzusenken, und kehren Sie die Bewegung schnell um, um Ihren Körper vom Boden abzustoßen. Sobald Sie den Boden verlassen, bewegen Sie Ihre Hände auf die Steps und beugen Sie die Ellbogen, um den Aufprall abzufedern.",
+    "Wiederholen Sie die Bewegung, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskel",
+    "Trizeps"
+  ],
+  "category_de": "Plyometrie"
+}

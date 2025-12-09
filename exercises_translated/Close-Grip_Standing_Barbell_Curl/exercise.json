@@ -1,0 +1,53 @@
+{
+  "name": "Close-Grip Standing Barbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a barbell with both hands, palms up and a few inches apart.",
+    "Stand with your torso straight and your head up. Your feet should be about shoulder width and your elbows close to your torso. This will be your starting position. Tip: You will keep your upper arms and elbows stationary throughout the movement.",
+    "Curl the bar up in a semicircular motion until the forearms touch your biceps. Exhale as you perform this portion of the movement and contract your biceps hard for a second at the top. Tip: Avoid bending the back or using swinging motions as you lift the weight. Only the forearms should move.",
+    "Slowly go back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie ramion ze sztangą stojąc z wąskim chwytem",
+  "instructions_pl": [
+    "Trzymaj sztangę obiema rękami, dłońmi skierowanymi w górę i oddalonymi od siebie o kilka cali.",
+    "Stań prosto, z tułowiem wyprostowanym i głową uniesioną. Stopy powinny być rozstawione na szerokość barków, a łokcie blisko tułowia. Będzie to Twoja pozycja wyjściowa. Wskazówka: Utrzymuj ramiona i łokcie nieruchomo przez cały czas trwania ruchu.",
+    "Uginaj sztangę w górę ruchem półkolistym, aż przedramiona dotkną mięśni dwugłowych ramion. Wykonując tę część ruchu, wydychaj powietrze i mocno napnij mięśnie dwugłowe ramion na sekundę w górnej fazie. Wskazówka: Unikaj wyginania pleców lub używania ruchów wahadłowych podczas podnoszenia ciężaru. Poruszać powinny się tylko przedramiona.",
+    "Powoli opuść sztangę do pozycji wyjściowej, wciągając powietrze.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Stehender Langhantel-Bizepscurl mit engem Griff",
+  "instructions_de": [
+    "Halte eine Langhantel mit beiden Händen im Supinationsgriff, wobei die Hände wenige Zentimeter voneinander entfernt sind.",
+    "Stelle dich mit geradem Rumpf und erhobenem Kopf hin. Deine Füße sollten etwa schulterbreit auseinander stehen und deine Ellbogen nah am Rumpf anliegen. Dies ist deine Ausgangsposition. Tipp: Halte deine Oberarme und Ellbogen während der gesamten Bewegung unbewegt.",
+    "Locke die Stange in einer halbkreisförmigen Bewegung nach oben, bis die Unterarme den Musculus biceps brachii berühren. Atme aus, während du diesen Teil der Bewegung ausführst, und kontrahiere deinen Musculus biceps brachii oben für eine Sekunde fest. Tipp: Vermeide es, den Rücken zu beugen oder Schwungbewegungen zu nutzen, während du das Gewicht hebst. Nur die Unterarme sollten sich bewegen.",
+    "Gehe langsam in die Ausgangsposition zurück, während du einatmest.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Barbell Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack to just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+    "Begin to slowly lower the bar by bending the knees and hips as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees. Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+    "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad ze sztangą",
+  "instructions_pl": [
+    "To ćwiczenie najlepiej wykonywać w stojaku do przysiadów ze względów bezpieczeństwa. Aby rozpocząć, najpierw ustaw sztangę na stojaku tuż poniżej poziomu barków. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, wejdź pod nią i umieść tylną część barków (nieco poniżej karku) na sztandze.",
+    "Chwyć sztangę obiema rękami po obu stronach i zdejmij ją ze stojaka, najpierw pchając nogami i jednocześnie prostując tułów.",
+    "Odejdź od stojaka i ustaw nogi w średnim rozkroku na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Przez cały czas utrzymuj głowę uniesioną i proste plecy. Będzie to Twoja pozycja wyjściowa. (Uwaga: Na potrzeby tej instrukcji użyjemy opisanego powyżej średniego rozkroku, który angażuje ogólny rozwój; możesz jednak wybrać dowolny z trzech rozkroków omówionych w sekcji dotyczącej ustawienia stóp).",
+    "Zacznij powoli opuszczać sztangę, uginając kolana i biodra, jednocześnie utrzymując prostą postawę z uniesioną głową. Kontynuuj opuszczanie, aż kąt między udem a łydkami stanie się nieco mniejszy niż 90 stopni. Wykonując tę część ruchu, zrób wdech. Wskazówka: Jeśli wykonałeś ćwiczenie prawidłowo, przód kolan powinien tworzyć wyobrażoną prostą linię z palcami stóp, prostopadłą do przodu. Jeśli Twoje kolana przekraczają tę wyobrażoną linię (jeśli są poza palcami stóp), nadmiernie obciążasz kolano, a ćwiczenie zostało wykonane nieprawidłowo.",
+    "Zacznij podnosić sztangę, robiąc wydech, pchając podłogę piętą stopy, prostując ponownie nogi i wracając do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Langhantelkniebeuge",
+  "instructions_de": [
+    "Diese Übung wird aus Sicherheitsgründen am besten in einem Kniebeugenständer ausgeführt. Stellen Sie zu Beginn die Langhantel auf dem Ständer knapp unter Schulterhöhe ein. Sobald die korrekte Höhe gewählt und die Hantel beladen ist, treten Sie unter die Stange und legen Sie den hinteren Teil Ihrer Schultern (leicht unterhalb des Nackens) darauf ab.",
+    "Fassen Sie die Hantel mit beiden Händen seitlich an und heben Sie sie vom Ständer, indem Sie zuerst mit den Beinen drücken und gleichzeitig Ihren Oberkörper aufrichten.",
+    "Treten Sie vom Ständer zurück und stellen Sie Ihre Beine in einem schulterbreiten, mittleren Stand auf, wobei die Zehen leicht nach außen zeigen. Halten Sie den Kopf stets oben und den Rücken gerade. Dies ist Ihre Ausgangsposition. (Hinweis: Für diese Beschreibung verwenden wir den oben genannten mittleren Stand, der eine umfassende Entwicklung fördert; Sie können jedoch jeden der drei in der Sektion 'Fußstellungen' besprochenen Stände wählen).",
+    "Beginnen Sie, die Hantel langsam abzusenken, indem Sie Knie und Hüften beugen, während Sie eine gerade Haltung mit erhobenem Kopf beibehalten. Fahren Sie fort, bis der Winkel zwischen Oberschenkel und Wadenmuskulatur etwas weniger als 90 Grad beträgt. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen. Tipp: Wenn Sie die Übung korrekt ausgeführt haben, sollten die Vorderseiten der Knie eine imaginäre gerade Linie mit den Zehen bilden, die senkrecht nach vorne verläuft. Wenn Ihre Knie diese imaginäre Linie überschreiten (d.h. über Ihre Zehen hinausragen), belasten Sie das Knie übermäßig, und die Übung wurde falsch ausgeführt.",
+    "Beginnen Sie, die Hantel beim Ausatmen anzuheben, indem Sie mit der Ferse des Fußes vom Boden abdrücken, während Sie die Beine wieder strecken und in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus erector spinae"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Flexor Incline Dumbbell Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them.",
+    "Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand.",
+    "Let your arms hang down on your sides, with the elbows in, and turn the palms of your hands forward with the thumbs pointing away from the body. Tip: You will keep this hand position throughout the movement as there should not be any twisting of the hands as they come up. This will be your starting position.",
+    "Curl up the two dumbbells at the same time until your biceps are fully contracted and exhale. Tip: Do not swing the arms or use momentum. Keep a controlled motion at all times. Hold the contracted position for a second at the top.",
+    "As you inhale, slowly go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Uginanie ramion ze sztangielkami na ławce skośnej z akcentem na zginacze",
+  "instructions_pl": [
+    "Chwyć sztangielkę, przesuwając dłoń w kierunku jej zewnętrznego końca (dalej od ciała), tak aby większy ciężar spoczywał na wewnętrznej stronie dłoni (bliżej ciała). (Można to zastosować dla lepszego efektu we wszystkich ćwiczeniach na mięsień dwugłowy ramienia ze sztangielkami). Następnie wykonaj standardowe uginanie ramion ze sztangielkami na ławce skośnej, ale utrzymuj nadgarstki maksymalnie odgięte grzbietowo (w wyproście), aby zneutralizować wszelkie obciążenia na nie.",
+    "Usiądź na ławce skośnej ustawionej pod kątem 45 stopni, trzymając sztangielkę w każdej dłoni.",
+    "Pozwól ramionom swobodnie zwisać po bokach ciała, utrzymując łokcie blisko tułowia. Obróć dłonie tak, aby ich wewnętrzne strony były skierowane do przodu, a kciuki wskazywały na zewnątrz od ciała. Wskazówka: Utrzymuj tę pozycję dłoni przez cały ruch, unikając obracania dłoni podczas unoszenia sztangielek. Będzie to twoja pozycja początkowa.",
+    "Uginaj ramiona, unosząc obie sztangielki jednocześnie, aż mięśnie dwugłowe ramion będą w pełni skurczone, i wykonaj wydech. Wskazówka: Nie kołysz ramionami ani nie używaj pędu. Utrzymuj kontrolowany ruch przez cały czas. Przytrzymaj pozycję maksymalnego skurczu przez sekundę w górnej fazie ruchu.",
+    "Wraz z wdechem, powoli wróć do pozycji początkowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Beuger-Schrägbank-Kurzhantelcurls",
+  "instructions_de": [
+    "Halten Sie die Kurzhantel so, dass die Seite, die weiter von Ihnen entfernt ist, nach außen zeigt, und somit mehr Gewicht auf der Ihnen zugewandten Seite liegt. (Dies kann bei allen Bizeps-Kurzhantelübungen für eine gute Wirkung angewendet werden). Führen Sie nun einen normalen Schrägbank-Kurzhantelcurl aus, halten Sie jedoch Ihre Handgelenke so weit wie möglich nach hinten gebeugt (dorsalextendiert), um eine unnötige Belastung der Handgelenke zu vermeiden und die Zielmuskulatur optimal zu isolieren.",
+    "Setzen Sie sich auf eine Schrägbank, die in einem Winkel von 45 Grad eingestellt ist, während Sie in jeder Hand eine Kurzhantel halten.",
+    "Lassen Sie Ihre Arme seitlich am Körper herabhängen, wobei die Ellenbogen eng am Körper anliegen, und drehen Sie die Handflächen nach vorne, sodass die Daumen vom Körper wegzeigen. Tipp: Halten Sie diese Handposition während der gesamten Bewegung bei, da es beim Hochführen der Hanteln zu keiner Verdrehung der Hände kommen sollte. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie die beiden Kurzhanteln gleichzeitig nach oben, bis Ihre Musculi biceps brachii (Bizeps) vollständig kontrahiert sind, und atmen Sie dabei aus. Tipp: Schwingen Sie nicht mit den Armen und nutzen Sie keinen Schwung. Halten Sie die Bewegung jederzeit kontrolliert. Halten Sie die kontrahierte Position am oberen Punkt für eine Sekunde.",
+    "Während Sie einatmen, kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

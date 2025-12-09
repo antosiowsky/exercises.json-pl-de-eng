@@ -1,0 +1,65 @@
+{
+  "name": "Front Cone Hops (or hurdle hops)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up a row of cones or other small barriers, placing them a few feet apart.",
+    "Stand in front of the first cone with your feet shoulder width apart. This will be your starting position.",
+    "Begin by jumping with both feet over the first cone, swinging both arms as you jump.",
+    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next cone.",
+    "Continue until you have jumped over all of the cones."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skoki przez pachołki przodem (lub skoki przez płotki)",
+  "instructions_pl": [
+    "Ustaw rząd pachołków lub innych małych przeszkód, rozmieszczając je w odległości kilku stóp od siebie.",
+    "Stań przed pierwszym pachołkiem, ze stopami rozstawionymi na szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij, skacząc obunóż nad pierwszym pachołkiem, kołysząc obiema rękami podczas skoku.",
+    "Amortyzuj uderzenie lądowania, uginając kolana, a następnie, odbijając się po pierwszym skoku, przeskocz nad kolejnym pachołkiem.",
+    "Kontynuuj, aż przeskoczysz nad wszystkimi pachołkami."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Frontale Hütchensprünge (oder Hürdensprünge)",
+  "instructions_de": [
+    "Stellen Sie eine Reihe von Hütchen oder anderen kleinen Hindernissen auf und platzieren Sie diese im Abstand von wenigen Fuß voneinander.",
+    "Stellen Sie sich mit schulterbreit auseinanderstehenden Füßen vor das erste Hütchen. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie mit beiden Füßen über das erste Hütchen springen und dabei beide Arme mitschwingen.",
+    "Federn Sie den Aufprall der Landung durch Beugen der Knie ab und nutzen Sie den Schwung, um direkt über das nächste Hütchen zu springen.",
+    "Fahren Sie fort, bis Sie über alle Hütchen gesprungen sind."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiokrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

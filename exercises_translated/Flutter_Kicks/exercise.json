@@ -1,0 +1,53 @@
+{
+  "name": "Flutter Kicks",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "On a flat bench lie facedown with the hips on the edge of the bench, the legs straight with toes high off the floor and with the arms on top of the bench holding on to the front edge.",
+    "Squeeze your glutes and hamstrings and straighten the legs until they are level with the hips. This will be your starting position.",
+    "Start the movement by lifting the left leg higher than the right leg.",
+    "Then lower the left leg as you lift the right leg.",
+    "Continue alternating in this manner (as though you are doing a flutter kick in water) until you have done the recommended amount of repetitions for each leg. Make sure that you keep a controlled movement at all times. Tip: You will breathe normally as you perform this movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Nożyce",
+  "instructions_pl": [
+    "Połóż się przodem na płaskiej ławce, tak aby biodra znajdowały się na jej krawędzi. Nogi trzymaj prosto, z palcami stóp wysoko nad podłogą, a ramiona oprzyj na ławce, chwytając się jej przedniej krawędzi.",
+    "Napnij mięśnie pośladkowe i mięśnie dwugłowe uda i wyprostuj nogi, aż znajdą się na wysokości bioder. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, unosząc lewą nogę wyżej niż prawą.",
+    "Następnie opuść lewą nogę, jednocześnie unosząc prawą.",
+    "Kontynuuj naprzemienne ruchy w ten sposób (jakbyś wykonywał/a nożyce w wodzie), aż wykonasz zalecaną liczbę powtórzeń dla każdej nogi. Upewnij się, że ruchy są kontrolowane przez cały czas. Wskazówka: Oddychaj normalnie podczas wykonywania tego ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie dwugłowe uda"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Beinschere",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf eine Flachbank, die Hüften an der Kante der Bank. Die Beine sind gestreckt, die Zehen hoch über dem Boden. Die Arme liegen auf der Bank, wobei Sie sich am vorderen Rand festhalten.",
+    "Spannen Sie Ihre Gesäßmuskulatur und die hintere Oberschenkelmuskulatur an und strecken Sie die Beine, bis sie sich auf Hüfthöhe befinden. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie das linke Bein höher als das rechte Bein heben.",
+    "Senken Sie dann das linke Bein, während Sie das rechte Bein heben.",
+    "Fahren Sie in dieser Weise abwechselnd fort (als ob Sie einen Flatterkick im Wasser ausführen würden), bis Sie die empfohlene Anzahl an Wiederholungen für jedes Bein erreicht haben. Achten Sie darauf, dass die Bewegung jederzeit kontrolliert bleibt. Tipp: Atmen Sie während dieser Bewegung normal weiter."
+  ],
+  "secondaryMuscles_de": [
+    "hintere Oberschenkelmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

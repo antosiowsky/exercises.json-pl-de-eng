@@ -1,0 +1,59 @@
+{
+  "name": "Split Jerk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.",
+    "Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.",
+    "In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.",
+    "Return to a standing position, bringing the feet together."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rzut podrzutem",
+  "instructions_pl": [
+    "Stojąc ze sztangą spoczywającą na przedniej części barków, rozpocznij od dipu. Ze stopami bezpośrednio pod biodrami, ugnij kolana bez cofania bioder.",
+    "Zejdź tylko nieznacznie w dół i odwróć ruch tak dynamicznie, jak to możliwe. Wypchnij się z pięt, generując jak największą prędkość i siłę, i upewnij się, że odsuniesz głowę, gdy sztanga opuszcza barki. W tym momencie, gdy stopy odrywają się od podłoża, muszą one zostać ustawione w pozycji odbioru tak szybko, jak to możliwe.",
+    "W krótkim momencie, gdy stopy nie napierają aktywnie na platformę, wysiłek sportowca w celu wypchnięcia sztangi w górę spowoduje jego obniżenie. Stopy należy ustawić w pozycji rozkrocznej (jedna stopa z przodu, jedna stopa z tyłu), z częściowo ugiętymi kolanami. Odbierz sztangę z zablokowanymi ramionami nad głową.",
+    "Wróć do pozycji stojącej, łącząc stopy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Ausstoß im Split",
+  "instructions_de": [
+    "Stehend mit der Langhantel in der Front-Rack-Position, beginne mit der Beugephase (Dip). Mit den Füßen direkt unter den Hüften, beuge die Knie, ohne die Hüften nach hinten zu bewegen.",
+    "Gehe nur geringfügig nach unten und kehre die Bewegung so kraftvoll wie möglich um. Drücke dich über die Fersen ab, um so viel Geschwindigkeit und Kraft wie möglich zu erzeugen, und achte darauf, den Kopf aus dem Weg zu bewegen, sobald die Langhantel die Schultern verlässt. In diesem Moment, wenn die Füße den Boden verlassen, müssen die Füße so schnell wie möglich in die Fangposition gebracht werden.",
+    "In dem kurzen Moment, in dem die Füße keinen aktiven Druck auf die Plattform ausüben, wird die Aufwärtsbewegung der Langhantel den Athleten nach unten in die Fangposition ziehen. Die Füße sollten in eine Split-Position gebracht werden, ein Fuß nach vorne, ein Fuß nach hinten, mit leicht gebeugten Knien. Fange die Langhantel mit vollständig durchgestreckten Armen über dem Kopf ab.",
+    "Kehre in eine stehende Position zurück, indem du die Füße zusammenführst."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Schultermuskulatur",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Ring Dips",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a ring in each hand, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Dipy na kółkach gimnastycznych",
+  "instructions_pl": [
+    "Chwyć po jednym kółku gimnastycznym w każdą dłoń, a następnie wykonaj lekki wyskok, aby przyjąć pozycję początkową z wyprostowanymi ramionami w stawach łokciowych.",
+    "Rozpocznij od zgięcia stawów łokciowych, opuszczając ciało, aż ramiona przekroczą kąt 90 stopni. Unikaj kołysania się i utrzymuj prawidłową postawę przez cały ruch opuszczania.",
+    "Odwróć ruch, poprzez wyprostowanie stawów łokciowych, wypychając się z powrotem do pozycji początkowej.",
+    "Powtórz ćwiczenie dla pożądanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowe",
+  "name_de": "Ring-Dips",
+  "instructions_de": [
+    "Fasse je einen Ring in jede Hand und mache dann einen kleinen Sprung, um dich mit gestreckten Armen in die Ausgangsposition zu bringen.",
+    "Beginne, indem du die Ellbogen beugst und deinen Körper absenkst, bis der Winkel in deinen Ellbogen unter 90 Grad liegt. Vermeide jegliches Schwingen und halte während der gesamten Abwärtsbewegung eine gute Körperhaltung bei.",
+    "Kehre die Bewegung um, indem du die Ellbogen streckst und dich wieder nach oben in die Ausgangsposition drückst.",
+    "Wiederhole dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

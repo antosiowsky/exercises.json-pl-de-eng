@@ -1,0 +1,50 @@
+{
+  "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on a flat bench with a dumbbell in your right hand.",
+    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
+    "Lean forward and place your right forearm on top of your upper right thigh with your palm up. Tip: Make sure that the front of the wrist lies on top of your knees. This will be your starting position.",
+    "Lower the dumbbell as far as possible as you keep a tight grip on the dumbbell. Inhale as you perform this movement.",
+    "Now curl the dumbbell as high as possible as you contract the forearms and as you exhale. Keep the contraction for a second before you lower again. Tip: The only movement should happen at the wrist.",
+    "Perform for the recommended amount of repetitions, switch arms and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Siedzące uginanie nadgarstków jednorącz hantlem podchwytem",
+  "instructions_pl": [
+    "Usiądź na płaskiej ławce, trzymając hantel w prawej dłoni.",
+    "Postaw stopy płasko na podłodze, w rozkroku nieco szerszym niż szerokość barków.",
+    "Pochyl się do przodu i oprzyj prawe przedramię na górnej części prawego uda, z dłonią skierowaną w górę. Wskazówka: Upewnij się, że przód nadgarstka spoczywa na kolanach. Będzie to Twoja pozycja początkowa.",
+    "Opuść hantel jak najniżej, utrzymując jednocześnie mocny chwyt. Wykonując ten ruch, wykonaj wdech.",
+    "Następnie ugnij nadgarstek, unosząc hantel jak najwyżej, jednocześnie napinając mięśnie przedramion i wykonując wydech. Utrzymaj napięcie przez sekundę, zanim ponownie opuścisz ciężar. Wskazówka: Jedyny ruch powinien odbywać się w stawie nadgarstkowym.",
+    "Wykonaj zalecaną liczbę powtórzeń, zmień rękę i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes einarmiges Kurzhantel-Handgelenksbeugen mit supiniertem Griff",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Flachbank mit einer Kurzhantel in Ihrer rechten Hand.",
+    "Stellen Sie Ihre Füße flach auf den Boden, etwas weiter als schulterbreit auseinander.",
+    "Lehnen Sie sich nach vorne und legen Sie Ihren rechten Unterarm mit der Handfläche nach oben auf Ihren oberen rechten Oberschenkel. Tipp: Achten Sie darauf, dass die Vorderseite des Handgelenks auf Ihren Knien aufliegt. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Kurzhantel so weit wie möglich ab, während Sie sie fest im Griff behalten. Atmen Sie während dieser Bewegung ein.",
+    "Beugen Sie nun die Kurzhantel so hoch wie möglich nach oben, während Sie die Unterarme anspannen und ausatmen. Halten Sie die Kontraktion eine Sekunde lang, bevor Sie die Hantel wieder absenken. Tipp: Die einzige Bewegung sollte im Handgelenk stattfinden.",
+    "Führen Sie die empfohlene Anzahl an Wiederholungen durch, wechseln Sie die Arme und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

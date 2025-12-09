@@ -1,0 +1,50 @@
+{
+  "name": "Dumbbell Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each arm and stand up straight with your arms extended by your sides with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be next to your thighs with the palm of your hands facing back.",
+    "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be to the side of the body as you move them up. Continue to lift it until the dumbbells are nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Unoszenie hantli bokiem",
+  "instructions_pl": [
+    "Chwyć po hantli w każdą dłoń i stań prosto, z ramionami wyprostowanymi wzdłuż tułowia, z lekkim ugięciem w łokciach i prostymi plecami. Będzie to Twoja pozycja wyjściowa. Wskazówka: Hantle powinny znajdować się obok ud, a dłonie powinny być skierowane do tyłu.",
+    "Użyj bocznych aktonów mięśni naramiennych, aby unieść hantle podczas wydechu. Hantle powinny poruszać się wzdłuż boków ciała podczas ich unoszenia. Kontynuuj unoszenie, aż hantle znajdą się niemal na wysokości podbródka. Wskazówka: Ruch powinien być prowadzony przez łokcie. Podczas unoszenia hantli, łokieć powinien zawsze znajdować się wyżej niż przedramię. Ponadto, utrzymuj tułów nieruchomo i zatrzymaj ruch na sekundę w szczytowym punkcie.",
+    "Powoli opuść hantle z powrotem do pozycji wyjściowej. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kurzhantel-Seitheben",
+  "instructions_de": [
+    "Nimm in jede Hand eine Kurzhantel und stelle dich aufrecht hin, die Arme seitlich am Körper ausgestreckt, mit einer leichten Beugung in den Ellbogen und geradem Rücken. Dies ist deine Ausgangsposition. Tipp: Die Kurzhanteln sollten sich neben deinen Oberschenkeln befinden, wobei die Handflächen nach hinten zeigen.",
+    "Hebe die Kurzhanteln mit deinen seitlichen Schultern an, während du ausatmest. Die Kurzhanteln sollten sich beim Anheben seitlich des Körpers befinden. Hebe sie weiter an, bis die Kurzhanteln fast auf Kinnhöhe sind. Tipp: Deine Ellbogen sollten die Bewegung anführen. Beim Anheben der Kurzhantel sollte dein Ellbogen immer höher sein als dein Unterarm. Halte außerdem deinen Oberkörper stabil und pausiere für eine Sekunde am höchsten Punkt der Bewegung.",
+    "Senke die Kurzhanteln langsam und kontrolliert zurück in die Ausgangsposition. Atme ein, während du diesen Teil der Bewegung ausführst.",
+    "Wiederhole die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Bizeps"
+  ],
+  "category_de": "Kraft"
+}

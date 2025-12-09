@@ -1,0 +1,50 @@
+{
+  "name": "Tuck Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
+    "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
+    "Move your arms from the floor and cross them so they are resting on your chest. This is the starting position.",
+    "While keeping your lower back pressed against the floor, slowly lift your torso. Remember to exhale while perform this part of the exercise.",
+    "Slowly begin to lower your torso back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia tułowia z przyciąganiem kolan",
+  "instructions_pl": [
+    "Aby rozpocząć, połóż się na podłodze lub macie do ćwiczeń z plecami dociśniętymi do podłogi. Ramiona powinny leżeć wzdłuż tułowia z dłońmi skierowanymi w dół.",
+    "Skrzyżuj nogi, oplatając jedną kostkę wokół drugiej. Powoli unieś nogi w górę, aż uda znajdą się prostopadle do podłogi, z lekkim zgięciem w kolanach. Uwaga: Kolana i palce stóp powinny być równoległe do podłogi, w przeciwieństwie do ud.",
+    "Przenieś ramiona z podłogi i skrzyżuj je na klatce piersiowej. Jest to pozycja wyjściowa.",
+    "Utrzymując dolną część pleców dociśniętą do podłogi, powoli unieś tułów. Pamiętaj, aby wykonać wydech podczas tej części ćwiczenia.",
+    "Powoli opuść tułów z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siłowe",
+  "name_de": "Crunch mit angezogenen Beinen",
+  "instructions_de": [
+    "Legen Sie sich zunächst auf den Boden oder eine Trainingsmatte, wobei Ihr Rücken fest auf den Boden gedrückt ist. Ihre Arme sollten seitlich am Körper liegen, mit den Handflächen nach unten.",
+    "Ihre Beine sollten überkreuzt sein, indem Sie einen Knöchel um den anderen schlingen. Heben Sie Ihre Beine langsam in die Luft, bis Ihre Oberschenkel senkrecht zum Boden stehen, mit einer leichten Beugung in den Knien. Beachten Sie: Während die Oberschenkel senkrecht stehen, sollten Ihre Knie und Zehen parallel zum Boden ausgerichtet sein.",
+    "Nehmen Sie Ihre Arme vom Boden und kreuzen Sie sie so, dass sie auf Ihrer Brust ruhen. Dies ist die Ausgangsposition.",
+    "Halten Sie Ihren unteren Rücken fest auf den Boden gedrückt und heben Sie Ihren Oberkörper langsam an. Denken Sie daran, während dieses Teils der Übung auszuatmen.",
+    "Beginnen Sie langsam, Ihren Oberkörper wieder in die Ausgangsposition abzusenken, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

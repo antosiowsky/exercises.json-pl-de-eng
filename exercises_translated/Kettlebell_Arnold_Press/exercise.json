@@ -1,0 +1,47 @@
+{
+  "name": "Kettlebell Arnold Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you raise the kettlebell towards your shoulder. The palm should be facing inward.",
+    "Looking straight ahead, press the kettlebell out and overhead, rotating your wrist so that your palm faces forward at the top of the motion.",
+    "Return the kettlebell to the starting position, with the palm facing in."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie Arnolda z odważnikami kulowymi",
+  "instructions_pl": [
+    "Zarzuć odważnik kulowy na bark. Wykonaj zarzut odważnika kulowego na bark, prostując nogi i biodra podczas unoszenia odważnika w kierunku barku. Dłoń powinna być skierowana do wewnątrz.",
+    "Patrząc prosto przed siebie, wyciśnij odważnik kulowy na zewnątrz i nad głowę, obracając nadgarstek tak, aby dłoń była skierowana do przodu w szczytowej fazie ruchu.",
+    "Opuść odważnik kulowy do pozycji początkowej, z dłonią skierowaną do wewnątrz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell Arnold-Presse",
+  "instructions_de": [
+    "Führe eine Kettlebell auf Schulterhöhe in die Rack-Position. Dies geschieht, indem du dich aus den Beinen und Hüften streckst, während du die Kettlebell zur Schulter hebst. Die Handfläche sollte dabei nach innen zeigen.",
+    "Blicke geradeaus und drücke die Kettlebell nach oben und über den Kopf, wobei du dein Handgelenk so rotierst, dass die Handfläche am oberen Punkt der Bewegung nach vorne zeigt.",
+    "Führe die Kettlebell in die Ausgangsposition zurück, wobei die Handfläche nach innen zeigt."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

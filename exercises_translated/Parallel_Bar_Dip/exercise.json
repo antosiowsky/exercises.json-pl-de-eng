@@ -1,0 +1,53 @@
+{
+  "name": "Parallel Bar Dip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pompki na poręczach",
+  "instructions_pl": [
+    "Stań między poręczami równoległymi. Połóż dłoń na każdej poręczy, a następnie wykonaj lekki podskok, aby przyjąć pozycję startową z wyprostowanymi ramionami.",
+    "Rozpocznij od zgięcia stawów łokciowych, opuszczając ciało, aż ramiona przekroczą kąt 90 stopni. Unikaj kołysania się i utrzymuj prawidłową postawę przez cały ruch w dół.",
+    "Odwróć ruch, prostując stawy łokciowe i wypychając się z powrotem do pozycji startowej.",
+    "Powtórz ćwiczenie wybraną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Barren-Dip",
+  "instructions_de": [
+    "Stellen Sie sich zwischen zwei Parallelbarren. Legen Sie eine Hand auf jeden Holm und springen Sie leicht hoch, um sich in die Ausgangsposition mit vollständig gestreckten Armen zu begeben.",
+    "Beginnen Sie, indem Sie die Ellbogen beugen und Ihren Körper absenken, bis der Winkel im Ellbogengelenk kleiner als 90 Grad ist. Vermeiden Sie Pendelbewegungen und achten Sie während der gesamten Abwärtsbewegung auf eine stabile Körperhaltung.",
+    "Kehren Sie die Bewegung um, indem Sie die Ellbogen strecken und sich wieder in die Ausgangsposition hochdrücken.",
+    "Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis major",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

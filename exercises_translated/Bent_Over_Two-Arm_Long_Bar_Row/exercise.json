@@ -1,0 +1,59 @@
+{
+  "name": "Bent Over Two-Arm Long Bar Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
+    "Bend forward until your torso is as close to parallel with the floor as you can and keep your knees slightly bent.",
+    "Now grab the bar with both arms just behind the plates on the side where the weight was placed and put your other hand on your knee. This will be your starting position.",
+    "Pull the bar straight up with your elbows in (to maximize back stimulation) until the plates touch your lower chest. Squeeze the back muscles as you lift the weight up and hold for a second at the top of the movement. Breathe out as you lift the weight. Tip: Use a stirrup or double handle cable attachment by hooking it under the end of the bar.",
+    "Slowly lower the bar to the starting position getting a nice stretch on the lats. Tip: Do not let the plates touch the floor. To ensure the best range of motion, I recommend using small plates (25-lb ones) as opposed to larger plates (like 35-45lb ones).",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wiosłowanie sztangą oburącz w opadzie tułowia",
+  "instructions_pl": [
+    "Załóż obciążenie na jeden z końców sztangi olimpijskiej. Upewnij się, że drugi koniec sztangi jest umieszczony w rogu dwóch ścian lub zablokowany ciężkim przedmiotem na ziemi, aby sztanga nie mogła się cofnąć.",
+    "Pochyl się do przodu, aż tułów będzie jak najbliżej równolegle do podłogi, i trzymaj kolana lekko ugięte.",
+    "Chwyć sztangę oburącz tuż za talerzami po stronie, na której założono obciążenie, i oprzyj drugą rękę na kolanie. Będzie to Twoja pozycja startowa.",
+    "Przyciągnij sztangę prosto w górę, trzymając łokcie blisko tułowia (aby zmaksymalizować stymulację mięśni grzbietu), aż talerze dotkną dolnej części klatki piersiowej. Ściśnij mięśnie grzbietu, unosząc ciężar, i przytrzymaj przez sekundę w szczytowej fazie ruchu. Wydychaj powietrze, unosząc ciężar. Wskazówka: Użyj uchwytu strzemieniowego lub podwójnego uchwytu linki, zaczepiając go pod koniec sztangi.",
+    "Powoli opuść sztangę do pozycji startowej, uzyskując dobre rozciągnięcie mięśni najszerszych grzbietu. Wskazówka: Nie pozwól, aby talerze dotknęły podłogi. Aby zapewnić najlepszy zakres ruchu, zalecam użycie małych talerzy (25 funtów) zamiast większych (takich jak 35-45 funtów).",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Vorgebeugtes beidarmiges T-Bar Rudern",
+  "instructions_de": [
+    "Legen Sie Gewicht auf ein Ende einer olympischen Langhantelstange. Stellen Sie sicher, dass das andere Ende der Langhantelstange entweder in einer Ecke von zwei Wänden fixiert ist oder durch ein schweres Objekt am Boden gesichert wird, damit die Stange nicht nach hinten wegrutschen kann.",
+    "Beugen Sie sich nach vorne, bis Ihr Oberkörper so nah wie möglich parallel zum Boden ist, und halten Sie Ihre Knie leicht gebeugt.",
+    "Greifen Sie nun die Stange mit beiden Händen direkt hinter den Hantelscheiben auf der gewichtsbeladenen Seite. Legen Sie Ihre freie Hand auf Ihr Knie. Dies ist Ihre Startposition.",
+    "Ziehen Sie die Stange gerade nach oben, wobei Sie die Ellbogen eng am Körper halten (um die Rückenmuskulatur maximal zu stimulieren), bis die Hantelscheiben Ihren unteren Brustbereich berühren. Spannen Sie die Rückenmuskulatur beim Anheben des Gewichts an und halten Sie die Position für eine Sekunde am oberen Punkt der Bewegung. Atmen Sie beim Anheben des Gewichts aus. Tipp: Verwenden Sie einen Steigbügelgriff oder einen Doppelgriff-Kabelzugaufsatz, indem Sie ihn unter das Ende der Stange haken.",
+    "Senken Sie die Stange langsam in die Startposition zurück und spüren Sie eine gute Dehnung im Musculus latissimus dorsi. Tipp: Lassen Sie die Hantelscheiben nicht den Boden berühren. Um den optimalen Bewegungsumfang zu gewährleisten, empfehle ich die Verwendung kleinerer Hantelscheiben (25-lb) anstelle größerer (wie 35-45lb).",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

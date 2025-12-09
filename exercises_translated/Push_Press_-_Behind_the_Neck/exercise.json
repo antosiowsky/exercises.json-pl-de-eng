@@ -1,0 +1,53 @@
+{
+  "name": "Push Press - Behind the Neck",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
+    "Using the momentum generated, finish pressing the weight overhead be extending through the arms.",
+    "Return to the starting position, using your legs to absorb the impact."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Push Press zza karku",
+  "instructions_pl": [
+    "Stojąc ze sztangą ułożoną na karku, rozpocznij od ugięcia nóg (dipu). Ze stopami ustawionymi bezpośrednio pod biodrami, ugnij kolana, nie cofając bioder. Zejdź tylko nieznacznie w dół i odwróć ruch tak dynamicznie, jak to możliwe. Wypchnij się przez pięty, generując maksymalną prędkość i siłę, prowadząc sztangę w pionowej linii.",
+    "Wykorzystując wygenerowany pęd, dokończ wyciskanie ciężaru nad głowę, prostując ramiona.",
+    "Wróć do pozycji początkowej, wykorzystując nogi do amortyzacji uderzenia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięsień czworogłowy uda",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów (olimpijskie)",
+  "name_de": "Push Press – Nacken",
+  "instructions_de": [
+    "Stehend, mit der Langhantel im Nacken abgelegt, leiten Sie die Bewegung mit dem Dip ein. Mit den Füßen direkt unter den Hüften beugen Sie die Knie, ohne die Hüften nach hinten zu bewegen. Gehen Sie nur leicht in die Knie und kehren Sie die Bewegung so kraftvoll wie möglich um. Drücken Sie sich über die Fersen ab, um so viel Geschwindigkeit und Kraft wie möglich zu erzeugen, wobei die Hantel in einer vertikalen Bahn bewegt wird.",
+    "Nutzen Sie den erzeugten Schwung, um das Gewicht über Kopf zu drücken, indem Sie die Arme vollständig strecken.",
+    "Kehren Sie in die Ausgangsposition zurück, um den Aufprall mit den Beinen abzufedern."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

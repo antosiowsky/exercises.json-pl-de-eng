@@ -1,0 +1,50 @@
+{
+  "name": "Behind Head Chest Stretch",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit upright on the floor with your partner behind you.",
+    "Place your hands behind your hand, and push your elbows back as far as you can. Your partner should hold your elbows. This will be your starting position.",
+    "Gently attempt to pull your elbows forward with your hands still behind your head for 10 or more seconds. Your partner should prevent your elbows from moving.",
+    "Now, relax your muscles and have your partner gently pull the elbows back as far as it comfortable for you. Be sure to let your partner know when the stretch is adequate to prevent overstretching or injury."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie klatki piersiowej za głową",
+  "instructions_pl": [
+    "Usiądź prosto na podłodze, z partnerem siedzącym za tobą.",
+    "Umieść dłonie za głową i odepchnij łokcie do tyłu tak daleko, jak to możliwe. Partner powinien przytrzymać twoje łokcie. Będzie to twoja pozycja wyjściowa.",
+    "Delikatnie spróbuj pociągnąć łokcie do przodu, mając dłonie nadal za głową, przez 10 lub więcej sekund. Partner powinien uniemożliwić ruch twoich łokci.",
+    "Teraz rozluźnij mięśnie i pozwól partnerowi delikatnie pociągnąć łokcie do tyłu tak daleko, jak jest to dla ciebie komfortowe. Pamiętaj, aby poinformować partnera, kiedy rozciągnięcie jest wystarczające, aby zapobiec nadmiernemu rozciągnięciu lub kontuzji."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Brustdehnung mit Händen hinter dem Kopf",
+  "instructions_de": [
+    "Setzen Sie sich aufrecht auf den Boden, Ihr Partner sitzt hinter Ihnen.",
+    "Legen Sie Ihre Hände hinter Ihren Kopf und schieben Sie Ihre Ellbogen so weit wie möglich nach hinten. Ihr Partner sollte Ihre Ellbogen festhalten. Dies ist Ihre Ausgangsposition.",
+    "Versuchen Sie sanft, Ihre Ellbogen für 10 oder mehr Sekunden nach vorne zu ziehen, während Ihre Hände weiterhin hinter Ihrem Kopf bleiben. Ihr Partner sollte verhindern, dass sich Ihre Ellbogen bewegen.",
+    "Entspannen Sie nun Ihre Muskulatur und lassen Sie Ihren Partner die Ellbogen sanft so weit nach hinten ziehen, wie es für Sie angenehm ist. Achten Sie darauf, Ihrem Partner mitzuteilen, wann die Dehnung ausreichend ist, um Überdehnung oder Verletzungen zu vermeiden."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

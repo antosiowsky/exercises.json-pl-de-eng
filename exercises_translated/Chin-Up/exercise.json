@@ -1,0 +1,59 @@
+{
+  "name": "Chin-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back"
+  ],
+  "instructions": [
+    "Grab the pull-up bar with the palms facing your torso and a grip closer than the shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, keep your torso as straight as possible while creating a curvature on your lower back and sticking your chest out. This is your starting position. Tip: Keeping the torso as straight as possible maximizes biceps stimulation while minimizing back involvement.",
+    "As you breathe out, pull your torso up until your head is around the level of the pull-up bar. Concentrate on using the biceps muscles in order to perform the movement. Keep the elbows close to your body. Tip: The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of squeezing the biceps in the contracted position, slowly lower your torso back to the starting position; when your arms are fully extended. Breathe in as you perform this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Podciąganie podchwytem",
+  "instructions_pl": [
+    "Chwyć drążek do podciągania podchwytem, dłońmi skierowanymi w stronę tułowia, z rozstawem rąk węższym niż szerokość barków.",
+    "Mając ramiona w pełni wyprostowane przed sobą, trzymając drążek wybranym rozstawem, utrzymuj tułów możliwie prosto, jednocześnie tworząc naturalną krzywiznę w dolnej części pleców i wypinając klatkę piersiową. To jest pozycja wyjściowa. Wskazówka: Utrzymywanie tułowia możliwie prosto maksymalizuje stymulację mięśni dwugłowych ramion, minimalizując zaangażowanie mięśni grzbietu.",
+    "Podczas wydechu podciągnij tułów w górę, aż głowa znajdzie się mniej więcej na wysokości drążka do podciągania. Skoncentruj się na użyciu mięśni dwugłowych ramion do wykonania ruchu. Utrzymuj łokcie blisko ciała. Wskazówka: Górna część tułowia powinna pozostać nieruchoma podczas ruchu w przestrzeni, a poruszać się powinny jedynie ramiona. Przedramiona nie powinny wykonywać żadnej innej pracy poza trzymaniem drążka.",
+    "Po sekundzie napięcia mięśni dwugłowych ramion w pozycji skurczonej, powoli opuść tułów z powrotem do pozycji wyjściowej, aż ramiona będą w pełni wyprostowane. Wykonaj wdech podczas tej fazy ruchu.",
+    "Powtórz ten ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie dwugłowe ramion",
+    "mięśnie przedramion",
+    "mięśnie środkowej części grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Klimmzug im Untergriff",
+  "instructions_de": [
+    "Fassen Sie die Klimmzugstange im Untergriff, wobei die Handflächen zum Körper zeigen, und wählen Sie einen Griff, der enger als schulterbreit ist.",
+    "Strecken Sie beide Arme vor sich aus und halten Sie die Stange in der gewählten Griffbreite. Halten Sie Ihren Oberkörper so gerade wie möglich, während Sie ein leichtes Hohlkreuz bilden und die Brust herausstrecken. Dies ist Ihre Ausgangsposition. Tipp: Einen möglichst geraden Oberkörper zu halten, maximiert die Stimulation des Musculus biceps brachii und minimiert gleichzeitig die Beteiligung der Rückenmuskulatur.",
+    "Beim Ausatmen ziehen Sie Ihren Oberkörper nach oben, bis sich Ihr Kopf etwa auf Höhe der Klimmzugstange befindet. Konzentrieren Sie sich darauf, die Musculi biceps brachii einzusetzen, um die Bewegung auszuführen. Halten Sie die Ellbogen eng am Körper. Tipp: Der obere Rumpf sollte stabil bleiben und sich nicht aktiv bewegen; nur die Arme sollten die Bewegung ausführen. Die Unterarme sollten keine andere Arbeit verrichten, als die Stange zu halten.",
+    "Nachdem Sie die Musculi biceps brachii in der kontrahierten Position eine Sekunde lang angespannt haben, senken Sie Ihren Oberkörper langsam zurück in die Ausgangsposition, bis Ihre Arme vollständig gestreckt sind. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+    "Wiederholen Sie diese Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Unterarmmuskulatur",
+    "Mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Bicycling",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Jazda na rowerze",
+  "instructions_pl": [
+    "Aby rozpocząć, usiądź na rowerze i wyreguluj siodełko do swojego wzrostu."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Kardio",
+  "name_de": "Radfahren",
+  "instructions_de": [
+    "Zunächst setzen Sie sich auf das Fahrrad und passen den Sattel Ihrer Körpergröße an."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Cardio"
+}

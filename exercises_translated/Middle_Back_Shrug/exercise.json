@@ -1,0 +1,44 @@
+{
+  "name": "Middle Back Shrug",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie facedown on an incline bench while holding a dumbbell in each hand. Your arms should be fully extended hanging down and pointing towards the floor. The palms of your hands should be facing each other. This will be your starting position.",
+    "As you exhale, squeeze your shoulder blades together and hold the contraction for a full second. Tip: This movement is just like the reverse action of a hug, or trying to perform rear laterals as if you had no arms.",
+    "As you inhale go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Retrakcja łopatek (środkowy grzbiet)",
+  "instructions_pl": [
+    "Połóż się przodem na ławce skośnej, trzymając hantlę w każdej dłoni. Ramiona powinny być w pełni wyprostowane, zwisając w dół i wskazując podłogę. Dłonie powinny być zwrócone do siebie. To będzie twoja pozycja wyjściowa.",
+    "Podczas wydechu ściągnij łopatki i utrzymaj skurcz przez pełną sekundę. Wskazówka: Ten ruch przypomina odwrotność uścisku lub próbę wykonania wznosów bocznych w opadzie, tak jakbyś nie miał ramion.",
+    "Podczas wdechu wróć do pozycji wyjściowej.",
+    "Powtórz przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Umgekehrtes Schulterzucken für den mittleren Rücken",
+  "instructions_de": [
+    "Legen Sie sich bäuchlings auf eine Schrägbank, während Sie in jeder Hand eine Kurzhantel halten. Ihre Arme sollten vollständig gestreckt herabhängen und zum Boden zeigen. Ihre Handflächen sollten zueinander zeigen. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen ziehen Sie Ihre Schulterblätter (Scapulae) zusammen und halten die Kontraktion für eine volle Sekunde. Tipp: Diese Bewegung ähnelt der umgekehrten Aktion einer Umarmung oder dem Versuch, Reverse Flys auszuführen, als hätten Sie keine Arme.",
+    "Beim Einatmen kehren Sie in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

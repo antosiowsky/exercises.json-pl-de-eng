@@ -1,0 +1,56 @@
+{
+  "name": "Standing Military Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Start by placing a barbell that is about chest high on a squat rack. Once you have selected the weights, grab the barbell using a pronated (palms facing forward) grip. Make sure to grip the bar wider than shoulder width apart from each other.",
+    "Slightly bend the knees and place the barbell on your collar bone. Lift the barbell up keeping it lying on your chest. Take a step back and position your feet shoulder width apart from each other.",
+    "Once you pick up the barbell with the correct grip length, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
+    "Lower the bar down to the collarbone slowly as you inhale.",
+    "Lift the bar back up to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie żołnierskie stojąc",
+  "instructions_pl": [
+    "Rozpocznij od umieszczenia sztangi na stojaku do przysiadów na wysokości klatki piersiowej. Po wybraniu odpowiedniego obciążenia, chwyć sztangę nachwytem (dłonie skierowane do przodu). Upewnij się, że chwyt jest szerszy niż szerokość barków.",
+    "Lekko ugnij kolana i umieść sztangę na obojczykach. Podnieś sztangę, utrzymując ją na klatce piersiowej. Cofnij się o krok i ustaw stopy na szerokość barków.",
+    "Po podniesieniu sztangi z odpowiednią szerokością chwytu, unieś ją nad głowę, prostując ramiona. Zatrzymaj ją na wysokości barków i lekko przed głową. To jest Twoja pozycja wyjściowa.",
+    "Powoli opuść sztangę do obojczyków, wykonując wdech.",
+    "Unieś sztangę z powrotem do pozycji wyjściowej, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "triceps"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehende Militärpresse",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie eine Langhantel auf einem Kniebeugenständer platzieren, die sich etwa auf Brusthöhe befindet. Nachdem Sie die Gewichte ausgewählt haben, greifen Sie die Langhantel mit einem pronatierten Griff (Handflächen zeigen nach vorne). Achten Sie darauf, die Stange breiter als schulterbreit zu greifen.",
+    "Beugen Sie die Knie leicht und legen Sie die Langhantel auf Ihr Schlüsselbein. Heben Sie die Langhantel vom Ständer, sodass sie auf Ihrer Brust aufliegt. Treten Sie einen Schritt zurück und stellen Sie Ihre Füße schulterbreit auseinander.",
+    "Sobald Sie die Langhantel mit der korrekten Griffbreite aufgenommen haben, heben Sie die Stange über Ihren Kopf, indem Sie Ihre Arme durchstrecken. Halten Sie sie dann etwa auf Schulterhöhe und leicht vor Ihrem Kopf. Dies ist Ihre Startposition.",
+    "Senken Sie die Stange langsam bis zum Schlüsselbein ab, während Sie einatmen.",
+    "Heben Sie die Stange beim Ausatmen wieder in die Startposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

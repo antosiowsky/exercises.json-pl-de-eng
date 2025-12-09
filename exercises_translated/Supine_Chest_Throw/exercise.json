@@ -1,0 +1,53 @@
+{
+  "name": "Supine Chest Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
+    "Begin with the ball on your chest, held with both hands on the bottom.",
+    "Explode up, extending through the elbow to throw the ball directly above you as high as possible.",
+    "Catch the ball with both hands as it comes down."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Wyrzut piłki z klatki piersiowej w pozycji leżącej na plecach",
+  "instructions_pl": [
+    "To ćwiczenie jest doskonałe do podań z klatki piersiowej, gdy brakuje partnera lub ściany o odpowiedniej wytrzymałości. Połóż się na plecach na ziemi z ugiętymi kolanami.",
+    "Rozpocznij z piłką na klatce piersiowej, trzymaną obiema rękami od spodu.",
+    "Wykonaj dynamiczny wyrzut w górę, prostując łokcie, aby wyrzucić piłkę bezpośrednio nad siebie tak wysoko, jak to możliwe.",
+    "Złap piłkę obiema rękami, gdy opada."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Rückenliegender Brustwurf",
+  "instructions_de": [
+    "Diese Übung eignet sich hervorragend für Brustpässe, wenn Ihnen ein Partner oder eine ausreichend stabile Wand fehlt. Legen Sie sich mit angewinkelten Knien auf den Rücken auf den Boden.",
+    "Beginnen Sie mit dem Ball auf Ihrer Brust, mit beiden Händen von unten gehalten.",
+    "Stoßen Sie explosiv nach oben ab, indem Sie die Ellbogen strecken, um den Ball so hoch wie möglich direkt über sich zu werfen.",
+    "Fangen Sie den Ball mit beiden Händen, wenn er herunterkommt."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

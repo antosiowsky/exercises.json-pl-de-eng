@@ -1,0 +1,62 @@
+{
+  "name": "Hammer Grip Incline DB Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
+    "By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them at shoulder width.",
+    "Once at shoulder width, keep the palms of your hands with a neutral grip (palms facing each other). Keep your elbows flared out with the upper arms in line with the shoulders (perpendicular to the torso) and the elbows bent creating a 90-degree angle between the upper arm and the forearm. This will be your starting position.",
+    "Now bring down the weights slowly to your side as you breathe in. Keep full control of the dumbbells at all times.",
+    "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli na ławce skośnej chwytem neutralnym",
+  "instructions_pl": [
+    "Połóż się na ławce skośnej, trzymając po jednej hantli w każdej dłoni, opierając je na udach. Dłonie powinny być zwrócone do siebie.",
+    "Wspomagając się udami, podnieś hantle, po jednej na raz, do pozycji, w której będziesz je trzymać na szerokości barków.",
+    "Gdy hantle znajdą się na szerokości barków, utrzymuj chwyt neutralny (dłonie zwrócone do siebie). Łokcie powinny być skierowane na zewnątrz, ramiona w linii z barkami (prostopadle do tułowia), a łokcie zgięte, tworząc kąt 90 stopni między ramieniem a przedramieniem. Będzie to pozycja wyjściowa.",
+    "Powoli opuść hantle na boki, jednocześnie wykonując wdech. Przez cały czas utrzymuj pełną kontrolę nad hantlami.",
+    "Wykonując wydech, wypchnij hantle w górę, angażując mięśnie piersiowe. Zablokuj ramiona w pozycji skurczonej, przytrzymaj przez sekundę, a następnie powoli zacznij opuszczać hantle. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Po zakończeniu ćwiczenia, odłóż hantle z powrotem na uda, a następnie na podłogę. Jest to najbezpieczniejszy sposób na odłożenie hantli."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Schrägbank-Kurzhanteldrücken im Hammergriff",
+  "instructions_de": [
+    "Legen Sie sich auf eine Schrägbank, mit einer Kurzhantel in jeder Hand, die auf Ihren Oberschenkeln ruht. Ihre Handflächen zeigen zueinander.",
+    "Nutzen Sie Ihre Oberschenkel, um die Kurzhanteln nach oben zu bringen, und heben Sie die Kurzhanteln nacheinander an, sodass Sie sie auf Schulterbreite halten können.",
+    "Sobald die Kurzhanteln auf Schulterbreite sind, halten Sie die Handflächen im neutralen Griff (zueinander zeigend). Halten Sie Ihre Ellbogen seitlich ausgestellt, wobei die Oberarme auf einer Linie mit den Schultern sind (senkrecht zum Rumpf) und die Ellbogen gebeugt sind, sodass ein 90-Grad-Winkel zwischen Oberarm und Unterarm entsteht. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie nun die Gewichte langsam seitlich ab, während Sie einatmen. Behalten Sie stets die volle Kontrolle über die Kurzhanteln.",
+    "Während Sie ausatmen, drücken Sie die Kurzhanteln mit Ihren Brustmuskeln nach oben. Strecken Sie die Arme in der kontrahierten Position, halten Sie einen Moment inne und beginnen Sie dann langsam, die Gewichte wieder abzusenken. Tipp: Das Absenken sollte mindestens doppelt so lange dauern wie das Hochdrücken.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Kurzhanteln zurück auf Ihre Oberschenkel und dann auf den Boden. Dies ist die sicherste Methode, um die Kurzhanteln abzulegen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

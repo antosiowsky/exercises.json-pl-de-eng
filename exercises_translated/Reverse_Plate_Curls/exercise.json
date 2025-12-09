@@ -1,0 +1,53 @@
+{
+  "name": "Reverse Plate Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o'clock position.",
+    "Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.",
+    "Slowly lift the plate up while keeping the elbows in and the upper arms stationary until your biceps and forearms touch while exhaling. The plate should be evenly aligned with your torso at this point.",
+    "Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Uginanie przedramion z talerzem nachwytem",
+  "instructions_pl": [
+    "Rozpocznij, stojąc prosto, trzymając talerz obciążeniowy obiema rękami, z ramionami w pełni wyprostowanymi. Zastosuj chwyt pronowany (dłonie skierowane w dół) i upewnij się, że palce chwytają szorstką stronę talerza, podczas gdy kciuk chwyta stronę gładką. Uwaga: Aby uzyskać najlepsze rezultaty, chwyć talerz obciążeniowy w pozycji odpowiadającej godzinie 11:00 i 1:00.",
+    "Stopy powinny być rozstawione na szerokość barków, a talerz obciążeniowy powinien znajdować się w okolicy pachwiny. Jest to pozycja początkowa.",
+    "Powoli unieś talerz w górę, utrzymując łokcie blisko tułowia i ramiona nieruchomo, aż mięśnie dwugłowe ramion i przedramiona zetkną się, wykonując wydech. W tym momencie talerz powinien być równo z tułowiem.",
+    "Poczuj skurcz przez sekundę i zacznij opuszczać ciężar z powrotem do pozycji początkowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Reverse Hantelscheiben-Curls",
+  "instructions_de": [
+    "Beginnen Sie in aufrechter Haltung, eine Hantelscheibe mit beiden Händen haltend und die Arme vollständig ausgestreckt. Verwenden Sie einen Obergriff (Handflächen zeigen nach unten) und stellen Sie sicher, dass Ihre Finger die raue Seite der Scheibe umfassen, während Ihr Daumen die glatte Seite greift. Hinweis: Für optimale Ergebnisse greifen Sie die Hantelscheibe an der 11-Uhr- und 1-Uhr-Position.",
+    "Ihre Füße sollten schulterbreit auseinander stehen, und die Hantelscheibe sollte sich nahe der Leistengegend befinden. Dies ist die Ausgangsposition.",
+    "Heben Sie die Scheibe langsam an, während Sie die Ellbogen eng am Körper halten und die Oberarme unbewegt lassen, bis sich Ihre Musculi bicipites brachii und die Unterarmmuskulatur berühren, während Sie ausatmen. Die Scheibe sollte zu diesem Zeitpunkt gleichmäßig mit Ihrem Oberkörper ausgerichtet sein.",
+    "Spüren Sie die Kontraktion für eine Sekunde und beginnen Sie dann, das Gewicht unter Einatmung langsam in die Ausgangsposition zurückzuführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

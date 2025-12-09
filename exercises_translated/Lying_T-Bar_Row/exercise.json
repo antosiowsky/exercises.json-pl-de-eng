@@ -1,0 +1,59 @@
+{
+  "name": "Lying T-Bar Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Load up the T-bar Row Machine with the desired weight and adjust the leg height so that your upper chest is at the top of the pad. Tip: In some machines all you can do is stand on the appropriate step that allows you to be at a height that has the upper chest at the top of the pad.",
+    "Lay face down on the pad and grab the handles. You can either use a palms down, palms up, or palms in position depending on what part of your back you want to emphasize.",
+    "Lift the bar off the rack and extend your arms in front of you. This will be your starting position.",
+    "As you exhale slowly pull the weight up and squeeze your back at the top of the movement. Tip: Keep the upper arms as close to the torso as possible throughout the movement in order to better engage the back muscles. Also, do not lift your body off of the pad at any time and refrain from using the biceps to lift the weight.",
+    "After a second contraction at the top of the movement, as you inhale, slowly go back down to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wiosłowanie T-sztangą w leżeniu",
+  "instructions_pl": [
+    "Załaduj maszynę do wiosłowania T-sztangą odpowiednim ciężarem i wyreguluj wysokość podparcia na nogi tak, aby górna część klatki piersiowej znajdowała się na szczycie poduszki. Wskazówka: W niektórych maszynach jedyne, co możesz zrobić, to stanąć na odpowiednim stopniu, który pozwoli Ci osiągnąć wysokość, przy której górna część klatki piersiowej znajdzie się na szczycie poduszki.",
+    "Połóż się twarzą w dół na poduszce i chwyć uchwyty. Możesz użyć chwytu pronowanego (dłonie skierowane w dół), supinowanego (dłonie skierowane w górę) lub neutralnego (dłonie skierowane do siebie), w zależności od tego, którą część pleców chcesz zaangażować.",
+    "Zdejmij sztangę z zaczepu i wyprostuj ramiona przed sobą. Będzie to Twoja pozycja początkowa.",
+    "Podczas wydechu powoli podciągnij ciężar do góry i mocno ściśnij mięśnie pleców w szczytowej fazie ruchu. Wskazówka: Utrzymuj ramiona jak najbliżej tułowia przez cały ruch, aby lepiej zaangażować mięśnie pleców. Ponadto, nie odrywaj ciała od poduszki w żadnym momencie i unikaj używania mięśni dwugłowych ramion do podnoszenia ciężaru.",
+    "Po sekundowej kontrakcji w szczytowej fazie ruchu, podczas wdechu, powoli wróć do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie najszersze grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Liegendes T-Bar Rudern",
+  "instructions_de": [
+    "Beladen Sie die T-Bar Rudermaschine mit dem gewünschten Gewicht und stellen Sie die Beinhöhe so ein, dass Ihr oberer Brustbereich am oberen Rand des Polsters liegt. Tipp: Bei einigen Maschinen können Sie lediglich auf den entsprechenden Tritt steigen, der es Ihnen ermöglicht, eine Höhe zu erreichen, bei der der obere Brustbereich am oberen Rand des Polsters liegt.",
+    "Legen Sie sich mit dem Gesicht nach unten auf das Polster und greifen Sie die Griffe. Sie können entweder einen Obergriff (Handflächen nach unten), einen Untergriff (Handflächen nach oben) oder einen neutralen Griff (Handflächen zueinander) verwenden, je nachdem, welchen Teil Ihres Rückens Sie betonen möchten.",
+    "Heben Sie die Stange aus der Ablage und strecken Sie Ihre Arme vor sich aus. Dies ist Ihre Startposition.",
+    "Während Sie ausatmen, ziehen Sie das Gewicht langsam nach oben und spannen Sie Ihren Rücken am oberen Punkt der Bewegung an. Tipp: Halten Sie die Oberarme während der gesamten Bewegung so nah wie möglich am Rumpf, um die Rückenmuskulatur besser zu aktivieren. Heben Sie Ihren Körper zu keiner Zeit vom Polster ab und vermeiden Sie es, den Musculus biceps brachii zum Heben des Gewichts zu verwenden.",
+    "Nach einer Sekunde Kontraktion am oberen Punkt der Bewegung kehren Sie, während Sie einatmen, langsam in die Startposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

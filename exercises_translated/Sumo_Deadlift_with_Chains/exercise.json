@@ -1,0 +1,74 @@
+{
+  "name": "Sumo Deadlift with Chains",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "forearms",
+    "glutes",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift. Attempt to keep the ends of the chains away from the plates so you don't hit them when you lower the weight.",
+    "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",
+    "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
+    "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
+    "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Martwy ciąg sumo z łańcuchami",
+  "instructions_pl": [
+    "Możesz przymocować łańcuchy do tulei sztangi lub po prostu przewiesić je środkiem przez sztangę, aby zwiększyć obciążenie w miarę podnoszenia. Staraj się trzymać końce łańcuchów z dala od talerzy, aby ich nie uderzyć podczas opuszczania ciężaru.",
+    "Rozpocznij ze sztangą załadowaną na ziemi. Podejdź do sztangi tak, aby znajdowała się ona na wysokości środka stóp. Stopy powinny być ustawione bardzo szeroko, blisko kołnierzy sztangi. Ugnij się w biodrach, aby chwycić sztangę. Ramiona powinny znajdować się bezpośrednio pod barkami, wewnątrz nóg, i możesz użyć chwytu pronowanego (nachwytu), chwytu mieszanego lub chwytu zamkowego (haczykowego). Rozluźnij barki, co w efekcie wydłuży twoje ramiona.",
+    "Weź wdech, a następnie obniż biodra, patrząc przed siebie z uniesioną klatką piersiową. Pchnij podłogę stopami, rozpychając je na boki, z ciężarem ciała na tylnej części stóp. Wyprostuj biodra i kolana.",
+    "Gdy sztanga minie kolana, odchyl się do tyłu i pchnij biodra w kierunku sztangi, ściągając łopatki.",
+    "Opuść ciężar na ziemię, uginając się w biodrach i kontrolując ciężar podczas opuszczania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu",
+    "mięśnie środkowej części pleców",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Sumo-Kreuzheben mit Ketten",
+  "instructions_de": [
+    "Sie können die Ketten an den Hantelaufnahmen befestigen oder einfach die Mitte über die Stange legen, um beim Heben eine größere Gewichtszunahme zu erzielen. Versuchen Sie, die Enden der Ketten von den Hantelscheiben fernzuhalten, damit Sie diese beim Absenken des Gewichts nicht berühren.",
+    "Beginnen Sie mit einer auf dem Boden liegenden, beladenen Hantel. Treten Sie an die Stange heran, sodass die Stange die Mitte Ihrer Füße kreuzt. Die Füße sollten sehr weit auseinander stehen, nahe den Hantelverschlüssen. Beugen Sie sich in den Hüften, um die Stange zu greifen. Die Arme sollten direkt unter den Schultern, innerhalb der Beine sein, und Sie können einen Obergriff, einen Kreuzgriff oder einen Haken-Griff verwenden. Entspannen Sie die Schultern, was Ihre Arme effektiv verlängert.",
+    "Atmen Sie ein und senken Sie dann Ihre Hüften, mit dem Kopf nach vorne blickend und die Brust erhoben. Drücken Sie sich vom Boden ab, indem Sie Ihre Füße auseinanderdrücken, wobei Ihr Gewicht auf der hinteren Hälfte Ihrer Füße liegt. Strecken Sie Hüften und Knie durch.",
+    "Sobald die Stange die Knie passiert, lehnen Sie sich zurück und drücken Sie die Hüften in die Stange, indem Sie die Schulterblätter zusammenziehen.",
+    "Führen Sie das Gewicht zurück zum Boden, indem Sie sich in den Hüften beugen und das Gewicht auf dem Weg nach unten kontrollieren."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Unterarme",
+    "Gesäßmuskulatur",
+    "unterer Rücken",
+    "mittlerer Rücken",
+    "Quadrizeps",
+    "Trapezmuskel"
+  ],
+  "category_de": "Kraftdreikampf"
+}

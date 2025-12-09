@@ -1,0 +1,47 @@
+{
+  "name": "Kettlebell Figure 8",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Kettlebell Ósemka",
+  "instructions_pl": [
+    "Umieść jeden kettlebell między nogami i przyjmij postawę szerszą niż szerokość barków. Pochyl się, wypychając biodra do tyłu i utrzymując proste plecy.",
+    "Podnieś kettlebell i podaj go do drugiej ręki między nogami. Ręka odbierająca powinna sięgać zza nóg. Wykonuj ruch naprzemiennie przez kilka powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell Achter",
+  "instructions_de": [
+    "Stellen Sie eine Kettlebell zwischen Ihre Beine und nehmen Sie einen mehr als schulterbreiten Stand ein. Beugen Sie sich vor, indem Sie Ihr Gesäß nach hinten schieben und Ihren Rücken flach halten.",
+    "Nehmen Sie eine Kettlebell auf und reichen Sie sie zwischen Ihren Beinen an Ihre andere Hand weiter. Die empfangende Hand sollte von hinten zwischen die Beine greifen. Führen Sie die Bewegung für mehrere Wiederholungen hin und her aus."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

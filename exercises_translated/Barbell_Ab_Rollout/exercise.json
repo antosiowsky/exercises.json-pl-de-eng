@@ -1,0 +1,53 @@
+{
+  "name": "Barbell Ab Rollout",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.",
+    "While keeping a slight arch on your back, lift your hips and roll the barbell towards your feet as you exhale. Tip: As you perform the movement, your glutes should be coming up, you should be keeping the abs tight and should maintain your back posture at all times. Also your arms should be staying perpendicular to the floor throughout the movement. If you don't, you will work out your shoulders and back more than the abs.",
+    "After a second contraction at the top, start to roll the barbell back forward to the starting position slowly as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rolowanie sztangi na mięśnie brzucha",
+  "instructions_pl": [
+    "Aby wykonać to ćwiczenie, przyjmij pozycję do pompki, ale zamiast opierać dłonie na podłodze, chwyć sztangę olimpijską (obciążoną 5-10 funtami z każdej strony). Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując delikatne wygięcie w dolnej części pleców, unieś biodra i przetocz sztangę w kierunku stóp, wykonując wydech. Wskazówka: Podczas wykonywania ruchu, mięśnie pośladkowe powinny unosić się w górę, mięśnie brzucha powinny być napięte, a prawidłowa postawa pleców powinna być utrzymana przez cały czas. Ramiona powinny pozostawać prostopadle do podłogi przez cały czas trwania ruchu. W przeciwnym razie, zamiast mięśni brzucha, zaangażujesz bardziej mięśnie naramienne i grzbietu.",
+    "Po sekundowej fazie skurczu w górnej pozycji, powoli przetocz sztangę z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień prostownik grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Rollout",
+  "instructions_de": [
+    "Für diese Übung begeben Sie sich in eine Liegestützposition. Anstatt Ihre Hände auf dem Boden zu platzieren, greifen Sie eine olympische Langhantel (beladen mit 5-10 Pfund auf jeder Seite). Dies ist Ihre Ausgangsposition.",
+    "Halten Sie einen leichten Bogen im Rücken, heben Sie Ihre Hüften an und rollen Sie die Langhantel beim Ausatmen in Richtung Ihrer Füße. Tipp: Während der Ausführung der Bewegung sollten Ihre Gesäßmuskeln nach oben kommen, Ihre Bauchmuskeln sollten angespannt bleiben und Sie sollten Ihre Rückenhaltung jederzeit beibehalten. Ihre Arme sollten während der gesamten Bewegung senkrecht zum Boden bleiben. Andernfalls trainieren Sie Ihre Schultern und den Rücken stärker als die Bauchmuskeln.",
+    "Nach einer kurzen Kontraktion am oberen Punkt beginnen Sie, die Langhantel langsam und kontrolliert beim Einatmen in die Ausgangsposition zurückzurollen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "unterer Rücken",
+    "Schultern"
+  ],
+  "category_de": "Kraft"
+}

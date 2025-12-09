@@ -1,0 +1,56 @@
+{
+  "name": "Sled Push",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "instructions": [
+    "Load your pushing sled with the desired weight.",
+    "Take an athletic posture, leaning into the sled with your arms fully extended, grasping the handles. Push the sled as fast as possible, focusing on extending your hips and knees to strengthen your posterior chain."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Pchanie sanek",
+  "instructions_pl": [
+    "Załaduj sanki do pchania pożądanym ciężarem.",
+    "Przyjmij sportową postawę, pochylając się nad sankami z w pełni wyprostowanymi ramionami, chwytając uchwyty. Pchaj sanki tak szybko, jak to możliwe, koncentrując się na wyproście bioder i kolan, aby wzmocnić łańcuch tylny."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie klatki piersiowej",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Schlittenstoßen",
+  "instructions_de": [
+    "Belade deinen Stoßschlitten mit dem gewünschten Gewicht.",
+    "Nimm eine athletische Haltung ein, lehne dich mit vollständig gestreckten Armen in den Schlitten und greife die Griffe. Stoße den Schlitten so schnell wie möglich, wobei du dich auf die Streckung deiner Hüften und Knie konzentrierst, um deine hintere Muskelkette zu kräftigen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus pectoralis major",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Strongman"
+}

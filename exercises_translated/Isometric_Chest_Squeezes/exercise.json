@@ -1,0 +1,56 @@
+{
+  "name": "Isometric Chest Squeezes",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
+    "Push both hands against each other as you contract your chest. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+    "Hold for the recommended number of seconds.",
+    "Now release the tension slowly.",
+    "Rest for the recommended amount of time and repeat."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Izometryczne ściskanie klatki piersiowej",
+  "instructions_pl": [
+    "Siedząc lub stojąc, zegnij ramiona pod kątem 90 stopni i złącz dłonie przed klatką piersiową. Wskazówka: Dłonie powinny być otwarte, złączone wewnętrznymi stronami, a palce skierowane do przodu (prostopadle do tułowia).",
+    "Naciskaj obiema dłońmi na siebie, jednocześnie napinając mięśnie klatki piersiowej. Rozpocznij od delikatnego napięcia i stopniowo je zwiększaj. Oddychaj normalnie podczas wykonywania tego skurczu.",
+    "Utrzymaj pozycję przez zalecaną liczbę sekund.",
+    "Następnie powoli rozluźnij napięcie.",
+    "Odpocznij przez zalecany czas i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Isometrisches Brustdrücken",
+  "instructions_de": [
+    "Im Sitzen oder Stehen beugen Sie Ihre Arme in einem 90-Grad-Winkel und legen Sie die Handflächen vor Ihrer Brust zusammen. Tipp: Ihre Hände sollten geöffnet sein, die Handflächen zusammen und die Finger nach vorne zeigen (senkrecht zum Rumpf).",
+    "Drücken Sie beide Hände gegeneinander, während Sie Ihre Brustmuskulatur anspannen. Beginnen Sie mit geringer Spannung und steigern Sie diese langsam. Atmen Sie während dieser Kontraktion normal weiter.",
+    "Halten Sie die Spannung für die empfohlene Anzahl von Sekunden.",
+    "Lassen Sie die Spannung nun langsam los.",
+    "Ruhen Sie die empfohlene Zeit und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Schultern",
+    "Trizeps"
+  ],
+  "category_de": "Plyometrie"
+}

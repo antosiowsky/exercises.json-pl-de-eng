@@ -1,0 +1,47 @@
+{
+  "name": "Front Cable Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
+    "Face away from the pulley and put your arm straight down with the hand cable attachment in front of your thighs at arms' length with the palms of the hand facing your thighs. This will be your starting position.",
+    "While maintaining the torso stationary (no swinging), lift the left arm to the front with a slight bend on the elbow and the palms of the hand always faces down. Continue to go up until you arm is slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top.",
+    "Now as you inhale lower the arm back down slowly to the starting position.",
+    "Once all of the recommended amount of repetitions have been performed for this arm, switch arms and perform the exercise with the right one."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wznosy ramion w przód z linką wyciągu",
+  "instructions_pl": [
+    "Wybierz obciążenie na maszynie z dolnym wyciągiem i chwyć lewą ręką uchwyt jednoręczny przymocowany do dolnego wyciągu.",
+    "Odwróć się plecami do wyciągu i opuść ramię prosto w dół, trzymając uchwyt linki przed udami na wyprostowanym ramieniu, z dłonią skierowaną w stronę ud. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując tułów nieruchomo (bez kołysania), unieś lewe ramię w przód z lekkim zgięciem w łokciu i dłonią zawsze skierowaną w dół. Kontynuuj ruch w górę, aż ramię znajdzie się nieco powyżej linii równoległej do podłogi. Wykonaj wydech podczas tej fazy ruchu i zatrzymaj się na sekundę w górnej pozycji.",
+    "Teraz, wykonując wdech, powoli opuść ramię z powrotem do pozycji wyjściowej.",
+    "Po wykonaniu zalecanej liczby powtórzeń dla tej ręki, zmień rękę i wykonaj ćwiczenie prawą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Frontheben am Kabelzug",
+  "instructions_de": [
+    "Wählen Sie das Gewicht an einer tiefen Kabelzugmaschine und fassen Sie den am unteren Kabelzug befestigten Einzelgriff mit Ihrer linken Hand.",
+    "Stellen Sie sich mit dem Rücken zum Kabelzug und lassen Sie Ihren Arm gerade nach unten hängen, wobei sich der Einzelgriff in Armlänge vor Ihren Oberschenkeln befindet und die Handflächen zu den Oberschenkeln zeigen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie den Rumpf stabil (ohne zu schwingen) und heben Sie den linken Arm mit einer leichten Beugung im Ellbogen nach vorne, wobei die Handflächen stets nach unten zeigen. Führen Sie die Bewegung fort, bis Ihr Arm leicht über die Parallele zum Boden hinausgeht. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie am höchsten Punkt eine Sekunde inne.",
+    "Atmen Sie nun ein und senken Sie den Arm langsam wieder in die Ausgangsposition ab.",
+    "Nachdem die empfohlene Anzahl an Wiederholungen für diesen Arm ausgeführt wurde, wechseln Sie den Arm und führen Sie die Übung mit dem rechten Arm aus."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

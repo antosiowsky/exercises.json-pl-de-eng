@@ -1,0 +1,50 @@
+{
+  "name": "Iron Cross",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Żelazny Krzyż",
+  "instructions_pl": [],
+  "secondaryMuscles_pl": [
+    "mięśnie piersiowe",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie lędźwiowe grzbietu",
+    "mięsień czworogłowy uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Iron Cross",
+  "instructions_de": [],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

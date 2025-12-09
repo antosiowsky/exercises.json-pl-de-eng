@@ -1,0 +1,38 @@
+{
+  "name": "Torso Rotation",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand upright holding an exercise ball with both hands. Extend your arms so the ball is straight out in front of you. This will be your starting position.",
+    "Rotate your torso to one side, keeping your eyes on the ball as you move. Now, rotate back to the opposite direction. Repeat for 10-20 repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "piłka gimnastyczna",
+  "equipment_de": "Gymnastikball",
+  "name_pl": "Rotacja tułowia",
+  "instructions_pl": [
+    "Stań w pozycji wyprostowanej, trzymając piłkę gimnastyczną obiema rękami. Wyciągnij ramiona tak, aby piłka znajdowała się prosto przed tobą. Będzie to twoja pozycja wyjściowa.",
+    "Wykonaj rotację tułowia w jedną stronę, utrzymując wzrok na piłce podczas ruchu. Następnie wykonaj rotację w przeciwnym kierunku. Powtórz ćwiczenie 10-20 razy."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Rumpfrotation",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin und halten Sie einen Gymnastikball mit beiden Händen. Strecken Sie Ihre Arme aus, sodass der Ball direkt vor Ihnen ist. Dies ist Ihre Ausgangsposition.",
+    "Rotieren Sie Ihren Rumpf zu einer Seite, wobei Sie den Ball mit den Augen verfolgen. Rotieren Sie nun zurück in die entgegengesetzte Richtung. Wiederholen Sie dies für 10-20 Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

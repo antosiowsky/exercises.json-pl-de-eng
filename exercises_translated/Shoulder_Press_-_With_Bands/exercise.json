@@ -1,0 +1,47 @@
+{
+  "name": "Shoulder Press - With Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "To begin, stand on an exercise band so that tension begins at arm's length. Grasp the handles and lift them so that the hands are at shoulder height at each side.",
+    "Rotate the wrists so that the palms of your hands are facing forward. Your elbows should be bent, with the upper arms and forearms in line to the torso. This is your starting position.",
+    "As you exhale, lift the handles up until your arms are fully extended overhead."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Wyciskanie na barki - Z gumami oporowymi",
+  "instructions_pl": [
+    "Na początek stań na gumie oporowej tak, aby napięcie zaczynało się na długość ramion. Chwyć uchwyty i unieś je tak, aby dłonie znajdowały się na wysokości barków po każdej stronie.",
+    "Obróć nadgarstki tak, aby wewnętrzna strona dłoni była skierowana do przodu. Łokcie powinny być zgięte, z ramionami i przedramionami ustawionymi w jednej linii z tułowiem. To jest Twoja pozycja początkowa.",
+    "Podczas wydechu unieś uchwyty w górę, aż ramiona będą w pełni wyprostowane nad głową."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Schulterdrücken - mit Bändern",
+  "instructions_de": [
+    "Zu Beginn stellen Sie sich auf ein Widerstandsband, sodass die Spannung bereits bei ausgestreckten Armen einsetzt. Fassen Sie die Griffe und heben Sie diese an, sodass sich die Hände auf Schulterhöhe zu beiden Seiten befinden.",
+    "Drehen Sie die Handgelenke, sodass Ihre Handflächen nach vorne zeigen. Ihre Ellbogen sollten gebeugt sein, wobei Oberarme und Unterarme in einer Linie mit dem Rumpf ausgerichtet sind. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen heben Sie die Griffe nach oben, bis Ihre Arme vollständig über dem Kopf ausgestreckt sind."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

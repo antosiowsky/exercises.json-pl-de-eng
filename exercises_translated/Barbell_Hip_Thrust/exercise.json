@@ -1,0 +1,50 @@
+{
+  "name": "Barbell Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise.",
+    "Roll the bar so that it is directly above your hips, and lean back against the bench so that your shoulder blades are near the top of it.",
+    "Begin the movement by driving through your feet, extending your hips vertically through the bar. Your weight should be supported by your shoulder blades and your feet. Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wypychanie bioder ze sztangą",
+  "instructions_pl": [
+    "Usiądź na podłodze z ławką bezpośrednio za sobą. Umieść załadowaną sztangę na swoich udach. Użycie grubego gryfu (fat bar) lub podkładki na sztandze może znacznie zmniejszyć dyskomfort spowodowany tym ćwiczeniem.",
+    "Przetocz sztangę tak, aby znajdowała się bezpośrednio nad twoimi biodrami, a następnie oprzyj się plecami o ławkę tak, aby twoje łopatki znajdowały się blisko jej górnej krawędzi.",
+    "Rozpocznij ruch, odpychając się stopami od podłoża i unosząc biodra pionowo w górę, wypychając sztangę. Twój ciężar ciała powinien być podparty na łopatkach i stopach. Unieś biodra tak wysoko, jak to możliwe, a następnie odwróć ruch, aby wrócić do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Langhantel-Hüftheben",
+  "instructions_de": [
+    "Setzen Sie sich auf den Boden, mit einer Bank direkt hinter Ihnen. Legen Sie eine beladene Langhantel über Ihre Beine. Die Verwendung einer Fat Bar oder eines Stangenpolsters kann das durch diese Übung verursachte Unbehagen erheblich reduzieren.",
+    "Rollen Sie die Stange so, dass sie sich direkt über Ihren Hüften befindet, und lehnen Sie sich gegen die Bank zurück, sodass Ihre Schulterblätter nahe der Oberkante der Bank liegen.",
+    "Beginnen Sie die Bewegung, indem Sie sich mit den Füßen abdrücken und Ihre Hüften vertikal nach oben strecken, wobei die Stange mitgeführt wird. Ihr Gewicht sollte von Ihren Schulterblättern und Ihren Füßen getragen werden. Strecken Sie sich so weit wie möglich nach oben und kehren Sie dann durch Umkehrung der Bewegung in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

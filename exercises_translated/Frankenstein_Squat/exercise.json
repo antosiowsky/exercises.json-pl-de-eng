@@ -1,0 +1,59 @@
+{
+  "name": "Frankenstein Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "This drill teaches you the proper positioning of both the bar and your body during the clean and front squat.",
+    "Place the barbell on the front of the shoulders, releasing your grip and extending your arms out in front of you. The shoulders should be pushed forward to create a shelf, and the bar should be in contact with the throat. Ensure that you only move your shoulder blades forward; don't round the thoracic spine.",
+    "Squat by flexing the knees and hips, sitting in between your legs. Keep the torso upright, the arms up, and the shoulders forward, and the bar should stay in place. Go to the bottom of the squat, until your hamstrings contact your calves.",
+    "Return to the upright position by driving through the front of the heel and extending the knees and hips."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad Frankensteina",
+  "instructions_pl": [
+    "To ćwiczenie uczy prawidłowego ułożenia zarówno sztangi, jak i ciała podczas zarzutu i przysiadu przedniego.",
+    "Umieść sztangę na przedniej części barków, puszczając chwyt i wyciągając ramiona przed siebie. Barki powinny być wypchnięte do przodu, aby stworzyć półkę, a sztanga powinna stykać się z gardłem. Upewnij się, że wysuwasz do przodu jedynie łopatki; nie zaokrąglaj odcinka piersiowego kręgosłupa.",
+    "Wykonaj przysiad, zginając kolana i biodra, siadając między nogami. Utrzymuj tułów wyprostowany, ramiona uniesione, a barki wysunięte do przodu, a sztanga powinna pozostać na miejscu. Zejdź do pełnego przysiadu, aż mięśnie kulszowo-goleniowe zetkną się z łydkami.",
+    "Wróć do pozycji wyprostowanej, wypychając się z przedniej części stopy i prostując kolana oraz biodra."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "dwubój olimpijski",
+  "name_de": "Frankenstein Kniebeuge",
+  "instructions_de": [
+    "Diese Übung lehrt die korrekte Positionierung der Langhantel und des Körpers während des Umsetzens und der Frontkniebeuge.",
+    "Platzieren Sie die Langhantel auf der Vorderseite der Schultern, lösen Sie den Griff und strecken Sie die Arme nach vorne aus. Die Schultern sollten nach vorne geschoben werden, um eine Ablage zu bilden, und die Hantel sollte Kontakt mit dem Hals haben. Stellen Sie sicher, dass Sie nur die Schulterblätter nach vorne bewegen; runden Sie nicht die Brustwirbelsäule.",
+    "Gehen Sie in die Kniebeuge, indem Sie Knie und Hüften beugen und sich zwischen die Beine setzen. Halten Sie den Rumpf aufrecht, die Arme oben und die Schultern vorne, und die Hantel sollte an Ort und Stelle bleiben. Gehen Sie bis zum tiefsten Punkt der Kniebeuge, bis Ihre ischiocrurale Muskulatur Ihre Waden berührt.",
+    "Kehren Sie in die aufrechte Position zurück, indem Sie sich über den vorderen Teil der Ferse abdrücken und Knie und Hüften strecken."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

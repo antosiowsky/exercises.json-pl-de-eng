@@ -1,0 +1,59 @@
+{
+  "name": "Front Raise And Pullover",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on a flat bench while holding a barbell using a palms down grip that is about 15 inches apart.",
+    "Place the bar on your upper thighs, extend your arms and lock them while keeping a slight bend on the elbows. This will be your starting position.",
+    "Now raise the weight using a semicircular motion and keeping your arms straight as you inhale. Continue the same movement until the bar is on the other side above your head . (Tip: the bar will travel approximately 180-degrees). At this point your arms should be parallel to the floor with the palms of your hands facing the ceiling.",
+    "Now return the barbell to the starting position by reversing the motion as you exhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wznosy ramion w przód i przenoszenie sztangi za głowę",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce, trzymając sztangę nachwytem w rozstawie około 38 cm.",
+    "Umieść sztangę na górnej części ud, wyprostuj ramiona i zablokuj je, zachowując jednocześnie lekkie zgięcie w łokciach. Będzie to twoja pozycja początkowa.",
+    "Teraz unieś ciężar ruchem półkolistym, utrzymując ramiona proste, podczas wdechu. Kontynuuj ten sam ruch, aż sztanga znajdzie się po drugiej stronie, nad twoją głową. (Wskazówka: sztanga pokona dystans około 180 stopni). W tym momencie twoje ramiona powinny być równoległe do podłogi, z dłońmi skierowanymi w stronę sufitu.",
+    "Teraz wróć ze sztangą do pozycji początkowej, odwracając ruch, podczas wydechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Frontheben und Überzüge",
+  "instructions_de": [
+    "Legen Sie sich auf eine Flachbank, während Sie eine Langhantel mit einem Obergriff halten, dessen Hände etwa 38 cm (15 Zoll) auseinander liegen.",
+    "Platzieren Sie die Hantel auf Ihren oberen Oberschenkeln. Strecken Sie Ihre Arme aus und fixieren Sie sie, wobei die Ellbogen leicht gebeugt bleiben. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie nun das Gewicht in einer halbkreisförmigen Bewegung an und halten Sie Ihre Arme gestreckt, während Sie einatmen. Führen Sie die Bewegung fort, bis sich die Hantel auf der anderen Seite über Ihrem Kopf befindet. (Tipp: Die Hantel bewegt sich dabei etwa 180 Grad). An diesem Punkt sollten Ihre Arme parallel zum Boden sein, wobei die Handflächen zur Decke zeigen.",
+    "Führen Sie die Langhantel nun in die Ausgangsposition zurück, indem Sie die Bewegung umkehren, während Sie ausatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

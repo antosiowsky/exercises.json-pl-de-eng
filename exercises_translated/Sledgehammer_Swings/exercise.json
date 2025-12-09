@@ -1,0 +1,62 @@
+{
+  "name": "Sledgehammer Swings",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "lats",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "You will need a tire and a sledgehammer for this exercise. Stand in front of the tire about two feet away from it with a staggered stance. Grip the sledgehammer.",
+    "If you are right handed, your left hand should be at the bottom of the handle, and your right hand should be choking up closer to the head.",
+    "As you bring the sledge up, your right hand slides toward the head; as you swing down, your right hand will slide down to join your left hand. Slam it down as hard as you can against the tire. Control the bounce of the hammer off of the tire.",
+    "Repeat on the other side."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wymachy młotem kowalskim",
+  "instructions_pl": [
+    "Do wykonania tego ćwiczenia potrzebna będzie opona oraz młot kowalski. Stań przed oponą w odległości około dwóch stóp (ok. 60 cm), przyjmując pozycję wykroczną. Chwyć młot kowalski.",
+    "Jeśli jesteś praworęczny, lewa dłoń powinna znajdować się na końcu rękojeści, a prawa dłoń bliżej głowicy młota.",
+    "Podczas podnoszenia młota w górę, prawa dłoń przesuwa się w kierunku głowicy; natomiast podczas opuszczania młota w dół, prawa dłoń zsuwa się, aby połączyć się z lewą dłonią. Uderz młotem w oponę z maksymalną siłą. Kontroluj odbicie młota od opony.",
+    "Powtórz ćwiczenie na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie najszersze grzbietu",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Vorschlaghammerschwünge",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie einen Reifen und einen Vorschlaghammer. Stellen Sie sich mit einem versetzten Stand etwa 60 cm (zwei Fuß) entfernt vor den Reifen. Fassen Sie den Vorschlaghammer.",
+    "Wenn Sie Rechtshänder sind, sollte Ihre linke Hand am unteren Ende des Griffs sein und Ihre rechte Hand näher am Kopf greifen.",
+    "Während Sie den Vorschlaghammer nach oben führen, gleitet Ihre rechte Hand in Richtung des Kopfes. Beim Abschwung gleitet Ihre rechte Hand nach unten, um sich Ihrer linken Hand anzuschließen. Schlagen Sie den Vorschlaghammer so hart wie möglich auf den Reifen. Kontrollieren Sie das Abprallen des Hammers vom Reifen.",
+    "Wiederholen Sie die Übung auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Musculus latissimus dorsi",
+    "Mittlere Rückenmuskulatur",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Plyometrie"
+}

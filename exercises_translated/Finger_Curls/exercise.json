@@ -1,0 +1,44 @@
+{
+  "name": "Finger Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
+    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
+    "Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.",
+    "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie palców ze sztangą",
+  "instructions_pl": [
+    "Chwyć sztangę obiema rękami, dłońmi skierowanymi w górę, w rozstawie rąk mniej więcej na szerokość barków.",
+    "Ustaw stopy płasko na podłodze, w rozkroku nieco szerszym niż szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Opuść sztangę jak najniżej, prostując palce. Pozwól sztandze stoczyć się po dłoniach, a następnie złap ją ostatnimi stawami palców.",
+    "Następnie ugnij sztangę w górę jak najwyżej, zaciskając dłonie i wykonując wydech. Przytrzymaj skurcz w górnej pozycji."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Fingercurls",
+  "instructions_de": [
+    "Halten Sie eine Langhantel mit beiden Händen, die Handflächen nach oben gerichtet; die Hände etwa schulterbreit auseinander.",
+    "Stellen Sie Ihre Füße flach auf den Boden, etwas weiter als schulterbreit auseinander. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Hantel so weit wie möglich ab, indem Sie die Finger strecken. Lassen Sie die Hantel über die Hände rollen und fangen Sie sie mit dem letzten Fingergelenk ab.",
+    "Heben Sie die Hantel nun so hoch wie möglich an, indem Sie die Hände schließen, während Sie ausatmen. Halten Sie die Kontraktion am höchsten Punkt."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

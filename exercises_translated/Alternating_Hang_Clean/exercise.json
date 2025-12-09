@@ -1,0 +1,62 @@
+{
+  "name": "Alternating Hang Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean one kettlebell to your shoulder and hold on to the other kettlebell in a hanging position. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so.",
+    "Lower the cleaned kettlebell to a hanging position and clean the alternate kettlebell. Repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Naprzemienny Zarzut z Zwisem",
+  "instructions_pl": [
+    "Ustaw dwa kettlebelle między stopami. Aby przyjąć pozycję startową, wypchnij biodra w tył i patrz prosto przed siebie.",
+    "Wykonaj zarzut jednym kettlebellem do barku, a drugi kettlebell trzymaj w pozycji zwisu. Wykonaj zarzut kettlebellem do barku, prostując nogi i biodra, jednocześnie przyciągając kettlebell w stronę barków. W tym samym czasie obróć nadgarstek.",
+    "Opuść kettlebell, którym wykonano zarzut, do pozycji zwisu i wykonaj zarzut drugim kettlebellem. Powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięśnie łydek",
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie odcinka lędźwiowego kręgosłupa",
+    "Mięśnie czworoboczne"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Alternierendes Umsetzen aus dem Hang",
+  "instructions_de": [
+    "Stellen Sie zwei Kettlebells zwischen Ihre Füße. Um die Ausgangsposition einzunehmen, schieben Sie Ihr Gesäß nach hinten und blicken Sie geradeaus.",
+    "Setzen Sie eine Kettlebell zur Schulter um und halten Sie die andere Kettlebell in einer hängenden Position. Setzen Sie die Kettlebell zur Schulter um, indem Sie Beine und Hüfte strecken, während Sie die Kettlebell zu Ihrer Schulter ziehen. Rotieren Sie dabei Ihr Handgelenk.",
+    "Senken Sie die umgesetzte Kettlebell in eine hängende Position ab und setzen Sie die andere Kettlebell um. Wiederholen Sie dies."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculi triceps surae",
+    "Musculi antebrachii",
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Prowler Sprint",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
+    "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",
+    "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Sprint z sankami obciążeniowymi",
+  "instructions_pl": [
+    "Umieść sanki obciążeniowe na odpowiedniej powierzchni, z odpowiednim ciężarem. Sanki powinny stawiać wystarczający opór, aby wymagać wysiłku, ale nie na tyle ciężkie, aby znacząco Cię spowalniały.",
+    "Do tego ćwiczenia możesz użyć pionowych lub niskich uchwytów. Połóż dłonie na uchwytach z wyprostowanymi ramionami, pochylając się w stronę sanek.",
+    "Zachowując prawidłową postawę, odpychaj się od podłoża naprzemiennymi, krótkimi krokami. Poruszaj się tak szybko, jak potrafisz na krótkim dystansie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie klatki piersiowej",
+    "mięśnie pośladkowe",
+    "mięsień czworogłowy uda",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Trening cardio",
+  "name_de": "Prowler-Sprint",
+  "instructions_de": [
+    "Platziere deinen Schlitten auf einem geeigneten Untergrund, beladen mit einem passenden Gewicht. Der Schlitten sollte genügend Widerstand bieten, um Anstrengung zu erfordern, aber nicht so schwer sein, dass du merklich verlangsamt wirst.",
+    "Für diese Übung kannst du die hohen oder die tiefen Griffe verwenden. Platziere deine Hände mit gestreckten Armen an den Griffen und lehne dich gegen das Gerät.",
+    "Mit guter Körperhaltung stoße dich mit abwechselnden, kurzen Schritten vom Boden ab. Bewege dich so schnell du kannst über eine kurze Distanz."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus pectoralis major",
+    "Musculus gluteus maximus",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Herz-Kreislauf-Training"
+}

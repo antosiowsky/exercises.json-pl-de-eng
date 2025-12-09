@@ -1,0 +1,59 @@
+{
+  "name": "Double Kettlebell Windmill",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Place a kettlebell in front of your front foot and clean and press a kettlebell overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward.",
+    "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell.",
+    "Bending at the hip to one side, sticking your butt out, slowly lean until you can retrieve the kettlebell from the floor. Keep your eyes on the kettlebell that you hold over your head at all times.",
+    "Pause for a second after retrieving the kettlebell from the ground and reverse the motion back to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Podwójny Wiatrak z Kettlebellami",
+  "instructions_pl": [
+    "Umieść jeden kettlebell przed swoją przednią stopą. Drugi kettlebell zarzuć i wyciśnij nad głowę przeciwną ręką. Aby zarzucić kettlebell na wysokość barku, wyprostuj nogi i biodra, jednocześnie przyciągając kettlebell do barku. Obróć nadgarstek w trakcie ruchu, tak aby dłoń była skierowana do przodu.",
+    "Utrzymując kettlebell w pełnym wyproście nad głową przez cały czas, wypchnij biodro w kierunku zablokowanego kettlebell. Skieruj stopy na zewnątrz pod kątem czterdziestu pięciu stopni od ręki z zablokowanym kettlebell.",
+    "Zginając się w biodrze na jedną stronę i wypychając pośladek, powoli pochylaj się, aż będziesz w stanie podnieść kettlebell z podłogi. Przez cały czas utrzymuj wzrok na kettlebellu trzymanym nad głową.",
+    "Zatrzymaj się na sekundę po podniesieniu kettlebell z podłogi i odwróć ruch, wracając do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Doppelte Kettlebell-Windmühle",
+  "instructions_de": [
+    "Platziere eine Kettlebell vor deinem vorderen Fuß. Führe mit dem entgegengesetzten Arm einen Kettlebell Clean & Press über Kopf aus. Um die Kettlebell zur Schulter umzusetzen, strecke Beine und Hüfte, während du die Kettlebell zur Schulter ziehst. Drehe dabei dein Handgelenk, sodass die Handfläche nach vorne zeigt.",
+    "Halte die Kettlebell stets über Kopf fixiert. Schiebe dein Gesäß in Richtung der fixierten Kettlebell nach hinten heraus. Drehe deine Füße um 45 Grad vom Arm mit der fixierten Kettlebell weg nach außen.",
+    "Beuge dich seitlich in der Hüfte, wobei du dein Gesäß nach hinten herausstreckst. Lehne dich langsam, bis du die Kettlebell vom Boden aufnehmen kannst. Halte deine Augen stets auf die Kettlebell gerichtet, die du über deinem Kopf hältst.",
+    "Halte einen Moment inne, nachdem du die Kettlebell vom Boden aufgenommen hast, und kehre die Bewegung in die Ausgangsposition um."
+  ],
+  "secondaryMuscles_de": [
+    "Glutealmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Deltamuskeln",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Alternating Deltoid Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In a standing position, hold a pair of dumbbells at your side.",
+    "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
+    "Return the weights to your side.",
+    "On the next repetition, raise the weights laterally, raising them out to your side to about shoulder height.",
+    "Return the weights to the starting position and continue alternating to the front and side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Naprzemienne wznosy mięśni naramiennych",
+  "instructions_pl": [
+    "W pozycji stojącej trzymaj parę hantli wzdłuż tułowia.",
+    "Utrzymując łokcie lekko ugięte, unieś ciężary bezpośrednio przed siebie na wysokość barków, unikając bujania lub oszukiwania.",
+    "Opuść ciężary wzdłuż tułowia.",
+    "W kolejnym powtórzeniu unieś ciężary bocznie, na wysokość około barków.",
+    "Opuść ciężary do pozycji wyjściowej i kontynuuj naprzemienne unoszenie do przodu i na boki."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Alternierendes Deltamuskelheben",
+  "instructions_de": [
+    "Im Stehen halten Sie ein Paar Kurzhanteln seitlich am Körper.",
+    "Mit leicht gebeugten Ellbogen heben Sie die Gewichte direkt vor sich auf Schulterhöhe, wobei Sie jegliches Schwingen oder Abfälschen vermeiden.",
+    "Führen Sie die Gewichte zurück in die Ausgangsposition.",
+    "Bei der nächsten Wiederholung heben Sie die Gewichte seitlich bis etwa auf Schulterhöhe.",
+    "Führen Sie die Gewichte zurück in die Ausgangsposition und fahren Sie fort, abwechselnd nach vorne und zur Seite zu heben."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

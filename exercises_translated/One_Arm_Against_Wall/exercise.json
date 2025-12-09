@@ -1,0 +1,38 @@
+{
+  "name": "One Arm Against Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "From a standing position, place a bent arm against a wall or doorway.",
+    "Slowly lean toward your arm until you feel a stretch in your lats."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie jednoramienne przy ścianie",
+  "instructions_pl": [
+    "Z pozycji stojącej, oprzyj zgięte ramię o ścianę lub futrynę drzwi.",
+    "Powoli pochyl się w stronę ramienia, aż poczujesz rozciąganie w mięśniach najszerszych grzbietu."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Rozciąganie",
+  "name_de": "Einarmiges Dehnen an der Wand",
+  "instructions_de": [
+    "Stellen Sie sich hin und legen Sie einen angewinkelten Arm an eine Wand oder einen Türrahmen.",
+    "Lehnen Sie sich langsam zu Ihrem Arm hin, bis Sie eine Dehnung im Musculus latissimus dorsi spüren."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

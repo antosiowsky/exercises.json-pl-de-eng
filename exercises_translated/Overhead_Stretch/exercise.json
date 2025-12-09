@@ -1,0 +1,53 @@
+{
+  "name": "Overhead Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "triceps"
+  ],
+  "instructions": [
+    "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
+    "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie nad głową",
+  "instructions_pl": [
+    "Stojąc prosto, spleć palce i skieruj dłonie ku sufitowi. Utrzymuj barki opuszczone, wyciągając ramiona w górę.",
+    "Aby uzyskać pełne rozciągnięcie tułowia, opuść kość ogonową i ustabilizuj tułów podczas wykonywania tego ruchu. Rozciągnij mięśnie zarówno z przodu, jak i z tyłu tułowia."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy większy",
+    "mięśnie przedramienia",
+    "mięsień najszerszy grzbietu",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Überkopfdehnung",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, verschränken Sie Ihre Finger und richten Sie die Handflächen zur Decke. Senken Sie die Schultern ab, während Sie die Arme nach oben strecken.",
+    "Um eine vollständige Rumpfdehnung zu erzielen, ziehen Sie Ihr Steißbein nach unten und stabilisieren Sie dabei Ihren Rumpf. Dehnen Sie die Muskulatur sowohl an der Vorder- als auch an der Rückseite des Rumpfes."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Unterarmmuskulatur",
+    "Musculus latissimus dorsi",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Wrist Roller",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
+    "Slowly lift both arms until they are fully extended and parallel to the floor in front of you. Note: Make sure the rope is not wrapped around the roller. Your entire body should be stationary except for the forearms. This is the starting position.",
+    "Rotate one wrist at a time in an upward motion to bring the weight up to the bar by rolling the rope around the roller.",
+    "Once the weight has reached the bar, slowly begin to lower the weight back down by rotating the wrist in a downward motion until the weight reaches the starting position.",
+    "Repeat for the prescribed amount of repetitions in your program."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wałek nadgarstkowy",
+  "instructions_pl": [
+    "Aby rozpocząć, stań prosto, chwytając wałek nadgarstkowy nachwytem (dłonie skierowane w dół). Stopy powinny być rozstawione na szerokość barków.",
+    "Powoli unieś obie ręce, aż będą w pełni wyprostowane i równoległe do podłogi przed tobą. Uwaga: Upewnij się, że lina nie jest owinięta wokół wałka. Całe twoje ciało powinno pozostać nieruchome, z wyjątkiem przedramion. Jest to pozycja początkowa.",
+    "Obracaj jeden nadgarstek na raz ruchem w górę, aby podnieść ciężar do wałka, zwijając linę wokół wałka.",
+    "Gdy ciężar zostanie podniesiony do wałka, powoli zacznij opuszczać ciężar z powrotem w dół, obracając nadgarstek ruchem w dół, aż ciężar osiągnie pozycję początkową.",
+    "Powtórz ćwiczenie przez zalecaną liczbę powtórzeń w twoim programie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Handgelenkroller",
+  "instructions_de": [
+    "Zu Beginn stellen Sie sich aufrecht hin und greifen einen Handgelenkroller im Pronationsgriff (Handflächen zeigen nach unten). Ihre Füße sollten schulterbreit auseinander stehen.",
+    "Heben Sie beide Arme langsam an, bis sie vollständig gestreckt und parallel zum Boden vor Ihnen sind. Hinweis: Stellen Sie sicher, dass das Seil nicht um den Roller gewickelt ist. Ihr gesamter Körper sollte unbewegt bleiben, außer den Unterarmen. Dies ist die Ausgangsposition.",
+    "Drehen Sie jeweils ein Handgelenk in einer Aufwärtsbewegung, um das Gewicht zur Stange zu bringen, indem Sie das Seil um den Roller wickeln.",
+    "Sobald das Gewicht die Stange erreicht hat, beginnen Sie langsam, das Gewicht wieder abzusenken, indem Sie das Handgelenk in einer Abwärtsbewegung drehen, bis das Gewicht die Ausgangsposition erreicht.",
+    "Wiederholen Sie dies für die vorgeschriebene Anzahl von Wiederholungen in Ihrem Programm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

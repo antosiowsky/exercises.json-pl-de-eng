@@ -1,0 +1,59 @@
+{
+  "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Put a bench in front of a low pulley machine that has a barbell or EZ Curl attachment on it.",
+    "Move the bench far enough away so that when you bring the handle to the top of your thighs tension is created on the cable due to the weight stack being moved up.",
+    "Now hold the handle with both hands, palms up, using a shoulder-width grip.",
+    "Step back and sit on the bench with your feet about shoulder width apart, firmly on the floor.",
+    "Lean forward and place the forearms on your thighs with the back of your wrists over your knees. This will be your starting position.",
+    "Lower the bar as far as possible, while inhaling and keeping a tight grip.",
+    "Now curl the bar up as high as possible while contracting the forearms. Tip: Only the wrist should move; not the forearms.",
+    "After a second contraction at the top go back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Siedzące uginanie nadgarstków podchwytem na wyciągu dolnym oburącz",
+  "instructions_pl": [
+    "Ustaw ławkę przed maszyną z wyciągiem dolnym, do której przymocowany jest drążek prosty lub łamany (EZ).",
+    "Odsunąć ławkę na tyle daleko, aby po przyciągnięciu uchwytu do górnej części ud, powstało napięcie na lince wyciągu, spowodowane uniesieniem stosu obciążeń.",
+    "Chwyć uchwyt oburącz, podchwytem (dłonie skierowane w górę), na szerokość barków.",
+    "Cofnij się i usiądź na ławce, stopy rozstawione na szerokość barków, stabilnie oparte o podłogę.",
+    "Pochyl się do przodu i oprzyj przedramiona na udach, tak aby grzbiety nadgarstków znajdowały się nad kolanami. To będzie Twoja pozycja początkowa.",
+    "Opuść drążek jak najniżej, jednocześnie wykonując wdech i utrzymując mocny chwyt.",
+    "Następnie ugnij nadgarstki, unosząc drążek jak najwyżej, jednocześnie napinając mięśnie przedramion. Wskazówka: Ruch powinien odbywać się wyłącznie w nadgarstkach; przedramiona pozostają nieruchome.",
+    "Po sekundowej fazie szczytowego napięcia (na górze) wróć do pozycji początkowej, wykonując wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Sitzender beidarmiger Handgelenkscurl am tiefen Kabelzug im Untergriff",
+  "instructions_de": [
+    "Stellen Sie eine Hantelbank vor eine tiefe Kabelzugmaschine, die mit einer Langhantelstange oder einem EZ-Curl-Aufsatz ausgestattet ist.",
+    "Positionieren Sie die Bank so weit entfernt, dass beim Anlegen des Griffs an die Oberschenkel eine Spannung auf dem Kabel entsteht, da der Gewichtsstapel angehoben wird.",
+    "Fassen Sie nun den Griff mit beiden Händen im Untergriff, schulterbreit.",
+    "Treten Sie zurück und setzen Sie sich auf die Bank, die Füße etwa schulterbreit und fest auf dem Boden.",
+    "Lehnen Sie sich nach vorne und legen Sie die Unterarme auf Ihre Oberschenkel, sodass die Handgelenksrücken über Ihren Knien liegen. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Stange so weit wie möglich ab, während Sie einatmen und den Griff fest halten.",
+    "Heben Sie nun die Stange so hoch wie möglich an, während Sie die Unterarme anspannen. Tipp: Nur die Handgelenke sollten sich bewegen, nicht die Unterarme.",
+    "Nach einer kurzen Kontraktion am oberen Punkt kehren Sie beim Einatmen in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

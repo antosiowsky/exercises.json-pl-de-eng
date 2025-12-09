@@ -1,0 +1,59 @@
+{
+  "name": "Forward Drag with Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",
+    "Begin the movement by moving forward for one step. Leaning forward, extend through the legs and hips to move, pausing with each step to extend through the elbows, pressing your hands forward. Step forward until you return to the start position prepared to press."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Ciągnięcie do przodu z wyciskaniem",
+  "instructions_pl": [
+    "Przymocuj do sanek łańcuch lub uchwyt linowy z podwójnymi rączkami. Stań tyłem do sanek, trzymając po jednym uchwycie w każdej dłoni.",
+    "Rozpocznij ruch, wykonując jeden krok do przodu. Pochylając się do przodu, wyprostuj nogi i biodra, aby się poruszyć, zatrzymując się po każdym kroku, aby wyprostować łokcie, wyciskając ręce do przodu. Wykonuj kroki do przodu, aż wrócisz do pozycji początkowej, gotowy do wyciskania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne",
+    "mięśnie trójgłowe ramienia"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Vorwärtszug mit Drücken",
+  "instructions_de": [
+    "Befestigen Sie eine Doppelgriffkette oder ein Doppelgriffseil am Schlitten. Kehren Sie dem Schlitten den Rücken zu und halten Sie in jeder Hand einen Griff.",
+    "Beginnen Sie die Bewegung, indem Sie einen Schritt vorwärtsgehen. Lehnen Sie sich nach vorne und strecken Sie Beine und Hüfte, um sich fortzubewegen. Halten Sie bei jedem Schritt inne, um die Ellbogen zu strecken und die Hände nach vorne zu drücken. Gehen Sie so lange vorwärts, bis Sie wieder in die Ausgangsposition gelangen und bereit sind, erneut zu drücken."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Strongman"
+}

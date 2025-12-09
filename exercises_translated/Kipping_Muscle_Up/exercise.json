@@ -1,0 +1,71 @@
+{
+  "name": "Kipping Muscle Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Grip the rings using a false grip, with the base of your palms on top of the rings.",
+    "Begin with a movement swinging your legs backward slightly.",
+    "Counter that movement by swinging your legs forward and up, jerking your chin and chest back, pulling yourself up with both arms as you do so. As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
+    "Maintaining control and stability, extend through the elbow to complete the motion.",
+    "Use care when lowering yourself to the ground."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Muscle Up z kippingiem",
+  "instructions_pl": [
+    "Chwyć kółka chwytem fałszywym, z nasadami dłoni ułożonymi na szczycie kółek.",
+    "Rozpocznij ruch lekkim zamachem nóg w tył.",
+    "Skompensuj ten ruch, wykonując zamach nogami w przód i w górę, dynamicznie odrzucając podbródek i klatkę piersiową w tył, jednocześnie podciągając się obiema rękami. Gdy osiągniesz górną pozycję podciągania, przyciągnij kółka do pach, jednocześnie przetaczając barki w przód i pozwalając łokciom na ruch prosto w tył za siebie. To ustawi Cię w odpowiedniej pozycji do kontynuowania ruchu w fazie pompki na poręczach.",
+    "Zachowując kontrolę i stabilność, wyprostuj ramiona w stawach łokciowych, aby zakończyć ruch.",
+    "Zachowaj ostrożność podczas opuszczania się na ziemię."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięsień dwugłowy ramienia",
+    "mięśnie przedramion",
+    "mięśnie środkowej części pleców",
+    "mięśnie naramienne",
+    "mięsień czworoboczny grzbietu",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kipping Muscle-Up",
+  "instructions_de": [
+    "Greifen Sie die Ringe im Ristgriff, wobei die Handballen auf den Ringen aufliegen.",
+    "Beginnen Sie die Bewegung, indem Sie Ihre Beine leicht nach hinten schwingen.",
+    "Kontern Sie diese Bewegung, indem Sie Ihre Beine nach vorne und oben schwingen, Ihr Kinn und Ihre Brust ruckartig nach hinten ziehen und sich dabei mit beiden Armen hochziehen. Sobald Sie die oberste Position des Klimmzugs erreichen, ziehen Sie die Ringe zu Ihren Achselhöhlen, während Sie Ihre Schultern nach vorne rollen und Ihre Ellbogen gerade nach hinten bewegen lassen. Dies bringt Sie in die richtige Position, um mit dem Dip-Teil der Bewegung fortzufahren.",
+    "Bewahren Sie Kontrolle und Stabilität und strecken Sie die Ellbogen durch, um die Bewegung abzuschließen.",
+    "Lassen Sie sich kontrolliert und vorsichtig zum Boden ab."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Musculus biceps brachii",
+    "Unterarmmuskulatur",
+    "Mittlere Rückenmuskulatur",
+    "Musculi deltoidei",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

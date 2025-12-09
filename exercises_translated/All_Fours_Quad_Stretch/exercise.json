@@ -1,0 +1,47 @@
+{
+  "name": "All Fours Quad Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
+    "Use your hand to hold the foot or ankle, keeping the knee fully flexed, stretching the quadriceps and hip flexors.",
+    "Focus on extending your hips, thrusting them towards the floor. Hold for 10-20 seconds and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Rozciąganie mięśnia czworogłowego w klęku podpartym",
+  "instructions_pl": [
+    "Przyjmij pozycję klęku podpartego (na dłoniach i kolanach), następnie unieś nogę z podłogi i chwyć stopę dłonią.",
+    "Dłonią chwyć stopę lub kostkę, utrzymując kolano w pełnym zgięciu, rozciągając mięsień czworogłowy uda i zginacze stawu biodrowego.",
+    "Skup się na wyproście bioder, kierując je w stronę podłogi. Utrzymaj pozycję przez 10-20 sekund, a następnie zmień stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworogłowy uda"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Quadrizepsdehnung im Vierfüßlerstand",
+  "instructions_de": [
+    "Beginnen Sie im Vierfüßlerstand. Heben Sie dann ein Bein vom Boden ab und fassen Sie den Fuß mit der Hand.",
+    "Halten Sie den Fuß oder Knöchel mit Ihrer Hand fest, wobei das Knie vollständig gebeugt bleibt, um den Musculus quadriceps femoris und die Hüftbeuger zu dehnen.",
+    "Konzentrieren Sie sich darauf, Ihre Hüften zu strecken, indem Sie sie in Richtung Boden drücken. Halten Sie die Position für 10-20 Sekunden und wechseln Sie dann die Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Dehnung"
+}

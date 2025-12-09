@@ -1,0 +1,50 @@
+{
+  "name": "Ab Roller",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold the Ab Roller with both hands and kneel on the floor.",
+    "Now place the ab roller on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
+    "Slowly roll the ab roller straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
+    "After a pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Kółko do mięśni brzucha",
+  "instructions_pl": [
+    "Chwyć kółko do mięśni brzucha obiema rękami i uklęknij na podłodze.",
+    "Następnie umieść kółko do mięśni brzucha na podłodze przed sobą, tak abyś znajdował się w pozycji na czworakach (jak w pozycji do pompki na kolanach). Będzie to Twoja pozycja wyjściowa.",
+    "Powoli przetaczaj kółko do mięśni brzucha prosto do przodu, rozciągając ciało do pozycji wyprostowanej. Wskazówka: Zejdź tak nisko, jak potrafisz, nie dotykając podłogi ciałem. Wykonaj wdech podczas tej fazy ruchu.",
+    "Po krótkiej pauzie w pozycji rozciągniętej, zacznij przyciągać się z powrotem do pozycji wyjściowej, wykonując wydech. Wskazówka: Wykonuj ruch powoli i utrzymuj mięśnie brzucha napięte przez cały czas."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Bauchroller",
+  "instructions_de": [
+    "Halten Sie den Bauchroller mit beiden Händen und knien Sie auf dem Boden.",
+    "Platzieren Sie den Bauchroller nun vor sich auf dem Boden, sodass Sie sich im Vierfüßlerstand befinden (ähnlich einer Liegestützposition auf den Knien). Dies ist Ihre Ausgangsposition.",
+    "Rollen Sie den Bauchroller langsam geradeaus nach vorne, während Sie Ihren Körper in eine gestreckte Position bringen. Tipp: Gehen Sie so weit nach unten, wie Sie können, ohne den Boden mit Ihrem Körper zu berühren. Atmen Sie während dieses Teils der Bewegung ein.",
+    "Nach einer kurzen Pause in der gestreckten Position ziehen Sie sich beim Ausatmen langsam zurück in die Ausgangsposition. Tipp: Gehen Sie langsam vor und halten Sie Ihre Bauchmuskeln jederzeit angespannt."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Reverse Grip Triceps Pushdown",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
+    "Facing the bar attachment, grab it with the palms facing up (supinated grip) at shoulder width. Lower the bar by using your lats until your arms are fully extended by your sides. Tip: Elbows should be in by your sides and your feet should be shoulder width apart from each other. This is the starting position.",
+    "Slowly elevate the bar attachment up as you inhale so it is aligned with your chest. Only the forearms should move and the elbows/upper arms should be stationary by your side at all times.",
+    "Then begin to lower the cable bar back down to the original staring position while exhaling and contracting the triceps hard.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Prostowanie ramion na wyciągu górnym podchwytem na mięsień trójgłowy ramienia",
+  "instructions_pl": [
+    "Rozpocznij od zamocowania drążka (prostego lub łamanego/EZ) do wyciągu górnego.",
+    "Stojąc przodem do drążka, chwyć go podchwytem (dłonie skierowane ku górze) na szerokość barków. Opuść drążek, angażując mięśnie najszersze grzbietu, aż ramiona będą w pełni wyprostowane wzdłuż tułowia. Wskazówka: Łokcie powinny być blisko tułowia, a stopy rozstawione na szerokość barków. To jest pozycja początkowa.",
+    "Powoli unieś drążek w górę, wykonując wdech, tak, aby znajdował się na wysokości klatki piersiowej. Ruch powinien odbywać się wyłącznie w przedramionach, a łokcie i ramiona powinny pozostać nieruchome wzdłuż tułowia przez cały czas.",
+    "Następnie zacznij opuszczać drążek wyciągu z powrotem do pozycji początkowej, wykonując wydech i mocno spinając mięśnie trójgłowe ramienia.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Trizepsdrücken am Kabelzug im Untergriff",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie eine Stange (gerade oder SZ-Stange) an einem oberen Kabelzugturm anbringen.",
+    "Stellen Sie sich mit Blick zur Stange und greifen Sie diese im Untergriff (Handflächen zeigen nach oben) schulterbreit. Senken Sie die Stange mithilfe Ihres Musculus latissimus dorsi, bis Ihre Arme vollständig an Ihren Seiten gestreckt sind. Tipp: Die Ellenbogen sollten eng am Körper anliegen und Ihre Füße schulterbreit auseinander stehen. Dies ist die Ausgangsposition.",
+    "Heben Sie die Stange langsam beim Einatmen nach oben, bis sie auf Brusthöhe ist. Nur die Unterarme sollten sich bewegen, während die Ellenbogen und Oberarme jederzeit stabil an Ihrer Seite bleiben.",
+    "Beginnen Sie dann, die Kabelstange beim Ausatmen wieder in die ursprüngliche Ausgangsposition zu senken und den Musculus triceps brachii (Trizeps) stark zu kontrahieren.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Landmine Linear Jammer",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "chest",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Position a bar into landmine or, lacking one, securely anchor it in a corner. Load the bar to an appropriate weight and position the handle attachment on the bar.",
+    "Raise the bar from the floor, taking the handles to your shoulders. This will be your starting position.",
+    "In an athletic stance, squat by flexing your hips and setting your hips back, keeping your arms flexed.",
+    "Reverse the motion by powerfully extending through the hips, knees, and ankles, while also extending the elbows to straighten the arms. This movement should be done explosively, coming out of the squat to full extension as powerfully as possible.",
+    "Return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi Landmine w płaszczyźnie liniowej",
+  "instructions_pl": [
+    "Ustaw sztangę w uchwycie Landmine lub, w przypadku jego braku, bezpiecznie zakotwicz ją w rogu. Załaduj sztangę odpowiednim ciężarem i zamocuj uchwyt na sztandze.",
+    "Podnieś sztangę z podłogi, prowadząc uchwyty do wysokości barków. Będzie to Twoja pozycja wyjściowa.",
+    "Przyjmij pozycję atletyczną, wykonaj przysiad, zginając stawy biodrowe i cofając biodra, utrzymując ramiona ugięte.",
+    "Odwróć ruch, dynamicznie prostując stawy biodrowe, kolanowe i skokowe, jednocześnie prostując stawy łokciowe, aby wyprostować ramiona. Ruch ten powinien być wykonany eksplozywnie, wychodząc z przysiadu do pełnego wyprostu tak mocno, jak to możliwe.",
+    "Wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie klatki piersiowej",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Landmine Linear Jammer",
+  "instructions_de": [
+    "Positionieren Sie eine Langhantel in einer Landmine-Vorrichtung oder, falls nicht vorhanden, verankern Sie sie sicher in einer Ecke. Beladen Sie die Hantel mit einem angemessenen Gewicht und befestigen Sie den Griffaufsatz an der Hantel.",
+    "Heben Sie die Hantel vom Boden an und führen Sie die Griffe zu Ihren Schultern. Dies ist Ihre Ausgangsposition.",
+    "Begeben Sie sich in eine athletische Haltung, gehen Sie in die Knie, indem Sie Ihre Hüften beugen und nach hinten schieben, während Sie Ihre Arme gebeugt halten.",
+    "Kehren Sie die Bewegung um, indem Sie sich kraftvoll aus den Hüften, Knien und Sprunggelenken strecken und gleichzeitig die Ellenbogen strecken, um die Arme zu begradigen. Diese Bewegung sollte explosiv ausgeführt werden, wobei Sie so kraftvoll wie möglich aus der Kniebeuge in die volle Streckung kommen.",
+    "Kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi tricipites surae",
+    "Musculus pectoralis major",
+    "Musculi ischiocrurales",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

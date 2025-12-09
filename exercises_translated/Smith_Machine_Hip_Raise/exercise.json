@@ -1,0 +1,44 @@
+{
+  "name": "Smith Machine Hip Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
+    "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
+    "After a brief pause, return the hips to the bench.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Unoszenie Bioder na Suwnicy Smitha",
+  "instructions_pl": [
+    "Ustaw ławkę w stojaku i załaduj sztangę odpowiednim ciężarem. Połóż się na ławce, opierając podeszwy stóp o sztangę. Odblokuj sztangę i wyprostuj nogi. W razie potrzeby możesz wspomóc się rękami. Dla dodatkowej stabilizacji chwyć boki suwnicy Smitha. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, rotując miednicę i zginając kręgosłup, aby unieść biodra z ławki. Utrzymuj lekkie zgięcie w stawach kolanowych przez cały ruch.",
+    "Po krótkiej pauzie, opuść biodra z powrotem na ławkę.",
+    "Powtórz ćwiczenie dla pożądanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Hüftheben an der Smith-Maschine",
+  "instructions_de": [
+    "Stellen Sie eine Hantelbank in das Rack und beladen Sie die Stange mit einem angemessenen Gewicht. Legen Sie sich auf die Hantelbank, wobei Sie die Fußsohlen gegen die Stange legen. Entriegeln Sie die Stange und strecken Sie Ihre Beine aus. Möglicherweise müssen Sie Ihre Hände zur Unterstützung einsetzen. Für zusätzliche Stabilität greifen Sie die Seiten der Smith-Maschine. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie Ihr Becken rotieren und Ihre Wirbelsäule beugen, um Ihre Hüften von der Hantelbank zu heben. Halten Sie während der gesamten Bewegung eine leichte Beugung in den Knien bei.",
+    "Nach einer kurzen Pause senken Sie die Hüften zurück auf die Hantelbank.",
+    "Wiederholen Sie dies für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

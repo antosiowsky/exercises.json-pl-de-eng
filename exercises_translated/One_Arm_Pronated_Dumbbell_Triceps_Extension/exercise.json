@@ -1,0 +1,50 @@
+{
+  "name": "One Arm Pronated Dumbbell Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.",
+    "Place your non lifting hand on your bicep for support.",
+    "Slowly begin to lower the dumbbell down as you breathe in.",
+    "Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).",
+    "Repeat until you have performed your set repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Jednoramienny wyprost ramienia z hantlem w chwycie pronowanym",
+  "instructions_pl": [
+    "Połóż się płasko na ławce, trzymając hantel na wyprostowanej ręce. Ramię powinno być prostopadłe do tułowia. Dłoń powinna być skierowana w stronę stóp, ponieważ do wykonania tego ćwiczenia wymagany jest chwyt pronowany.",
+    "Wolną rękę połóż na mięśniu dwugłowym ramienia dla wsparcia.",
+    "Powoli zacznij opuszczać hantel w dół, wykonując wdech.",
+    "Następnie zacznij podnosić hantel w górę, napinając mięsień trójgłowy ramienia. Pamiętaj, aby wykonać wydech podczas fazy koncentrycznej (części ćwiczenia polegającej na podnoszeniu).",
+    "Powtarzaj, aż wykonasz zaplanowaną liczbę powtórzeń.",
+    "Zmień ramię i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges, proniertes Kurzhantel-Trizepsstrecken",
+  "instructions_de": [
+    "Legen Sie sich flach auf eine Hantelbank, während Sie eine Kurzhantel mit ausgestrecktem Arm halten. Ihr Arm sollte senkrecht zu Ihrem Körper stehen. Die Handfläche sollte zu Ihren Füßen zeigen, da für diese Übung ein Pronationsgriff erforderlich ist.",
+    "Legen Sie Ihre freie Hand zur Unterstützung auf Ihren Musculus biceps brachii.",
+    "Beginnen Sie langsam, die Kurzhantel abzusenken, während Sie einatmen.",
+    "Heben Sie anschließend die Kurzhantel wieder nach oben, während Sie den Musculus triceps brachii kontrahieren. Denken Sie daran, während der konzentrischen Phase (Heben der Hantel) auszuatmen.",
+    "Wiederholen Sie dies, bis Sie die vorgegebene Anzahl an Wiederholungen erreicht haben.",
+    "Wechseln Sie den Arm und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

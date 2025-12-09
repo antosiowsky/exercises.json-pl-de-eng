@@ -1,0 +1,53 @@
+{
+  "name": "Kettlebell Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so. This will be your starting position.",
+    "Begin to squat by flexing your hips and knees, lowering your hips between your legs. Maintain an upright, straight back as you descend as low as you can.",
+    "At the bottom, reverse direction and squat by extending your knees and hips, driving through your heels. As you do so, press both kettlebells overhead by extending your arms straight up, using the momentum from the squat to help drive the weights upward.",
+    "As you begin the next repetition, return the weights to the shoulders."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskopodrzut z odważnikami kulowymi",
+  "instructions_pl": [
+    "Zarzuć dwa odważniki kulowe na wysokość barków. Wykonaj zarzut odważników kulowych na wysokość barków, prostując nogi i biodra, jednocześnie przyciągając odważniki kulowe w kierunku barków. W trakcie ruchu obróć nadgarstki. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij przysiad, zginając biodra i kolana, obniżając biodra między nogami. Utrzymuj wyprostowane, proste plecy podczas schodzenia tak nisko, jak to możliwe.",
+    "W dolnej fazie odwróć ruch i wykonaj przysiad, prostując kolana i biodra, pchając ciężar przez pięty. Jednocześnie wyciśnij oba odważniki kulowe nad głowę, prostując ramiona prosto w górę, wykorzystując pęd z przysiadu do wypchnięcia ciężarów w górę.",
+    "Rozpoczynając kolejne powtórzenie, opuść ciężary na wysokość barków."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworogłowy uda",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell Thruster",
+  "instructions_de": [
+    "Führe zwei Kettlebells in die Schulterposition (Clean). Dies geschieht, indem du Beine und Hüfte streckst und die Kettlebells zu deinen Schultern ziehst. Rotiere dabei deine Handgelenke. Dies ist deine Ausgangsposition.",
+    "Beginne eine Kniebeuge, indem du Hüfte und Knie beugst und deine Hüfte zwischen deine Beine absenkst. Halte deinen Rücken während der Abwärtsbewegung aufrecht und gerade, so tief du kannst.",
+    "Am tiefsten Punkt kehrst du die Bewegung um und drückst dich aus der Kniebeuge nach oben, indem du Knie und Hüfte streckst und dich durch die Fersen abdrückst. Drücke dabei beide Kettlebells über Kopf, indem du deine Arme gerade nach oben streckst und den Schwung der Kniebeuge nutzt, um die Gewichte nach oben zu treiben.",
+    "Wenn du die nächste Wiederholung beginnst, bringe die Gewichte zurück zu den Schultern."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

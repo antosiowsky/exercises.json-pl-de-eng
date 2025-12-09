@@ -1,0 +1,44 @@
+{
+  "name": "On-Your-Back Quad Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on a flat bench or step, and hang one leg and arm over the side.",
+    "Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.",
+    "Pull the belly button to the spine to stay in neutral. Press your foot down and into your hand. To add the hip stretch, lift the hip of the leg you're holding up toward the ceiling.",
+    "Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśnia czworogłowego uda na plecach",
+  "instructions_pl": [
+    "Połóż się na płaskiej ławce lub stopniu, a jedną nogę i ramię pozwól zwisać swobodnie z boku.",
+    "Zegnij kolano i chwyć grzbiet stopy. Wykonując to, uważaj, aby nie wyginać nadmiernie odcinka lędźwiowego kręgosłupa.",
+    "Przyciągnij pępek do kręgosłupa, aby utrzymać neutralną pozycję. Naciśnij stopą w dół i w kierunku dłoni. Aby dodać rozciąganie biodra, unieś biodro nogi, którą trzymasz, w kierunku sufitu.",
+    "Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Quadriceps-Dehnung in Rückenlage",
+  "instructions_de": [
+    "Lege dich auf eine flache Bank oder Stufe und lasse ein Bein und einen Arm über die Seite hängen.",
+    "Beuge das Knie und halte den Fußrücken fest. Achte dabei darauf, deinen unteren Rücken nicht ins Hohlkreuz zu ziehen.",
+    "Ziehe den Bauchnabel zur Wirbelsäule, um eine neutrale Position beizubehalten. Drücke deinen Fuß nach unten und in deine Hand. Um die Hüftdehnung zu verstärken, hebe die Hüfte des Beins, das du hältst, nach oben zur Decke.",
+    "Wechsle die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

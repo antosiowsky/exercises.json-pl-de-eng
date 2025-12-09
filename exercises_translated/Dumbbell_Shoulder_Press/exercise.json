@@ -1,0 +1,56 @@
+{
+  "name": "Dumbbell Shoulder Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.",
+    "Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.",
+    "Make sure to rotate your wrists so that the palms of your hands are facing forward. This is your starting position.",
+    "Now, exhale and push the dumbbells upward until they touch at the top.",
+    "Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli nad głowę",
+  "instructions_pl": [
+    "Trzymając hantlę w każdej dłoni, usiądź na ławce do wyciskania żołnierskiego lub uniwersalnej ławce z oparciem. Umieść hantle pionowo na udach.",
+    "Następnie, podnieś hantle do wysokości barków, po jednej na raz, pomagając sobie udami w wypchnięciu ich na pozycję.",
+    "Upewnij się, że obracasz nadgarstki tak, aby dłonie były skierowane do przodu. To jest Twoja pozycja początkowa.",
+    "Teraz, wykonaj wydech i wypchnij hantle w górę, aż zetkną się ze sobą na szczycie.",
+    "Następnie, po krótkiej pauzie w górnej, skurczonej pozycji, powoli opuść ciężary z powrotem do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kurzhantel-Schulterdrücken",
+  "instructions_de": [
+    "Halten Sie in jeder Hand eine Kurzhantel und setzen Sie sich auf eine Militärpressebank oder eine Universalbank mit Rückenlehne. Legen Sie die Kurzhanteln aufrecht auf Ihre Oberschenkel.",
+    "Heben Sie nun die Kurzhanteln nacheinander auf Schulterhöhe, indem Sie Ihre Oberschenkel nutzen, um sie in Position zu bringen.",
+    "Achten Sie darauf, Ihre Handgelenke zu drehen, sodass Ihre Handflächen nach vorne zeigen. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie nun aus und drücken Sie die Kurzhanteln nach oben, bis sie sich oben berühren.",
+    "Machen Sie dann nach einer kurzen Pause in der obersten, kontrahierten Position, senken Sie die Gewichte langsam und einatmend zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

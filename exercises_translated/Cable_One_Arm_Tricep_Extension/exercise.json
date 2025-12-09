@@ -1,0 +1,50 @@
+{
+  "name": "Cable One Arm Tricep Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "With your right hand, grasp a single handle attached to the high-cable pulley using a supinated (underhand; palms facing up) grip. You should be standing directly in front of the weight stack.",
+    "Now pull the handle down so that your upper arm and elbow are locked in to the side of your body. Your upper arm and forearm should form an acute angle (less than 90-degrees). You can keep the other arm by the waist and you can have one leg in front of you and the other one back for better balance. This will be your starting position.",
+    "As you contract the triceps, move the single handle attachment down to your side until your arm is straight. Breathe out as you perform this movement. Tip: Only the forearms should move. Your upper arms should remain stationary at all times.",
+    "Squeeze the triceps and hold for a second in this contracted position.",
+    "Slowly return the handle to the starting position.",
+    "Repeat for the recommended amount of repetitions and then perform the same movement with the other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wyprost ramienia jednorącz na wyciągu",
+  "instructions_pl": [
+    "Prawą ręką chwyć pojedynczy uchwyt przymocowany do górnego bloczka wyciągu, używając chwytu supinacyjnego (podchwytem; dłonie skierowane do góry). Powinieneś stać bezpośrednio przed stosem obciążeń.",
+    "Teraz pociągnij uchwyt w dół tak, aby ramię i staw łokciowy były zablokowane przy boku ciała. Twoje ramię i przedramię powinny tworzyć kąt ostry (mniejszy niż 90 stopni). Drugą rękę możesz trzymać przy talii, a jedną nogę wysunąć do przodu, a drugą cofnąć dla lepszej równowagi. Będzie to Twoja pozycja wyjściowa.",
+    "Podczas skurczu mięśnia trójgłowego ramienia przesuń pojedynczy uchwyt w dół, aż ramię będzie proste. Wykonując ten ruch, zrób wydech. Wskazówka: Poruszać powinny się tylko przedramiona. Ramiona powinny pozostać nieruchome przez cały czas.",
+    "Ściśnij mięsień trójgłowy ramienia i przytrzymaj przez sekundę w tej skurczonej pozycji.",
+    "Powoli wróć uchwytem do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń, a następnie wykonaj ten sam ruch drugą ręką."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Trizepsstrecken am Kabelzug",
+  "instructions_de": [
+    "Fassen Sie mit Ihrer rechten Hand einen Einzelgriff, der an einem hohen Kabelzug befestigt ist, im supinierten Griff (Untergriff; Handflächen zeigen nach oben). Sie sollten direkt vor dem Gewichtsturm stehen.",
+    "Ziehen Sie nun den Griff nach unten, sodass Ihr Oberarm und Ellenbogen seitlich am Körper fixiert sind. Ihr Oberarm und Unterarm sollten einen spitzen Winkel (weniger als 90 Grad) bilden. Den anderen Arm können Sie an der Taille halten und ein Bein vor dem anderen positionieren, um die Balance zu verbessern. Dies ist Ihre Ausgangsposition.",
+    "Während Sie den Trizeps kontrahieren, bewegen Sie den Einzelgriff seitlich nach unten, bis Ihr Arm gestreckt ist. Atmen Sie bei dieser Bewegung aus. Tipp: Nur die Unterarme sollten sich bewegen. Ihre Oberarme sollten jederzeit stationär bleiben.",
+    "Spannen Sie den Trizeps an und halten Sie die Kontraktion für eine Sekunde.",
+    "Führen Sie den Griff langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen und führen Sie dann die gleiche Bewegung mit dem anderen Arm aus."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Conan's Wheel",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
+    "Begin by lifting the weight from the ground. Keep a tight, upright posture as you being to walk, taking short, fast steps. Look up and away as you turn in a circle. Do not hold your breath during the event. Continue walking until you complete one or more complete turns."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Koło Conana",
+  "instructions_pl": [
+    "Po załadowaniu ciężaru, przyjmij chwyt Zurchera na końcu przyrządu. Umieść sztangę w zgięciu łokciowym i chwyć swój nadgarstek. Staraj się, aby ciężar nie spoczywał na przedramionach.",
+    "Rozpocznij od podniesienia ciężaru z ziemi. Zachowaj napiętą, wyprostowaną postawę, gdy zaczniesz iść, wykonując krótkie, szybkie kroki. Patrz w górę i w dal, obracając się w kółko. Nie wstrzymuj oddechu podczas wykonywania ćwiczenia. Kontynuuj marsz, aż wykonasz jedno lub więcej pełnych okrążeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięsień dwugłowy ramienia",
+    "Mięsień trójgłowy łydki",
+    "Mięśnie przedramienia",
+    "Mięśnie odcinka lędźwiowego kręgosłupa",
+    "Mięśnie naramienne",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Strongman",
+  "name_de": "Conans Rad",
+  "instructions_de": [
+    "Mit beladenem Gewicht nehmen Sie einen Zurcher-Griff am Ende des Geräts ein. Legen Sie die Stange in die Ellenbeuge und halten Sie Ihr Handgelenk fest. Versuchen Sie, das Gewicht von den Unterarmen fernzuhalten.",
+    "Beginnen Sie, indem Sie das Gewicht vom Boden heben. Halten Sie eine straffe, aufrechte Haltung bei, während Sie mit kurzen, schnellen Schritten zu gehen beginnen. Blicken Sie nach oben und weg, während Sie sich im Kreis drehen. Halten Sie während der Übung nicht den Atem an. Gehen Sie weiter, bis Sie eine oder mehrere vollständige Runden absolviert haben."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Bizeps",
+    "Waden",
+    "Unterarme",
+    "unterer Rücken",
+    "Schultern",
+    "Trapezmuskel"
+  ],
+  "category_de": "Strongman"
+}

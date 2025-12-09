@@ -1,0 +1,68 @@
+{
+  "name": "Reverse Band Box Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin in a power rack with a box at the appropriate height behind you. Set up the bands either on band pegs or attached to the top of the rack, ensuring they will be directly above the bar during the squat. Attach the other end to the bar.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe. Use care to return the barbell to the rack."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad na skrzynię z gumami odciążającymi",
+  "instructions_pl": [
+    "Rozpocznij w klatce treningowej, ze skrzynią o odpowiedniej wysokości umieszczoną za tobą. Zamocuj gumy albo na kołkach na gumy, albo do górnej części ramy, upewniając się, że będą znajdować się bezpośrednio nad sztangą podczas przysiadu. Drugi koniec gum przymocuj do sztangi.",
+    "Rozpocznij, wchodząc pod sztangę i umieszczając ją na górnej części pleców. Ściśnij łopatki i skieruj łokcie do przodu, starając się 'złamać' sztangę na barkach. Zdejmij sztangę ze stojaków, tworząc mocne wygięcie w odcinku lędźwiowym kręgosłupa, i cofnij się do pozycji wyjściowej. Rozstaw stopy szerzej dla większego zaangażowania mięśni grzbietu, pośladkowych, przywodzicieli i kulszowo-goleniowych, lub węziej dla większego rozwoju mięśni czworogłowych uda. Utrzymuj głowę skierowaną do przodu.",
+    "Z napiętymi mięśniami grzbietu, barków i korpusu, wypchnij kolana na zewnątrz i cofnij biodra, rozpoczynając fazę opuszczania. Cofnij biodra, aż usiądziesz na skrzyni. Idealnie, twoje piszczele powinny być prostopadłe do podłoża. Zatrzymaj się, gdy usiądziesz na skrzyni, i rozluźnij zginacze stawu biodrowego. Nigdy nie odbijaj się od skrzyni.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, wypchnij się w górę ze skrzyni, prowadząc ruch głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głowy. Zachowaj ostrożność, odkładając sztangę na stojaki."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Bandunterstützte Box Kniebeuge",
+  "instructions_de": [
+    "Beginnen Sie in einem Power Rack mit einer Box in der passenden Höhe hinter Ihnen. Befestigen Sie die Bänder entweder an Band-Pins oder oben am Rack, um sicherzustellen, dass sie sich während der Kniebeuge direkt über der Stange befinden. Befestigen Sie das andere Ende der Bänder an der Stange.",
+    "Treten Sie unter die Stange und legen Sie diese auf dem oberen Rücken ab. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, um Spannung in der Stange über Ihren Schultern aufzubauen. Nehmen Sie die Stange aus dem Rack, bilden Sie ein festes Hohlkreuz im unteren Rücken und treten Sie in Position. Stellen Sie Ihre Füße breiter für eine stärkere Betonung des Rückenstreckers, der Gesäßmuskulatur, der Adduktoren und der ischiocruralen Muskulatur, oder enger zusammen für eine stärkere Entwicklung des Musculus quadriceps femoris. Halten Sie Ihren Kopf nach vorne gerichtet.",
+    "Halten Sie Rücken, Schultern und Rumpf angespannt, drücken Sie Ihre Knie nach außen und schieben Sie Ihr Gesäß nach hinten, während Sie die Abwärtsbewegung beginnen. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Pausieren Sie, wenn Sie die Box erreichen, und entspannen Sie die Hüftbeuger. Federn Sie niemals von der Box ab.",
+    "Halten Sie das Gewicht auf den Fersen und drücken Sie Ihre Füße und Knie nach außen, während Sie sich von der Box nach oben drücken und die Bewegung mit dem Kopf anführen. Fahren Sie nach oben fort, wobei Sie die Spannung von Kopf bis Fuß aufrechterhalten. Seien Sie vorsichtig, wenn Sie die Langhantel ins Rack zurücklegen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Rückenstrecker"
+  ],
+  "category_de": "Powerlifting"
+}

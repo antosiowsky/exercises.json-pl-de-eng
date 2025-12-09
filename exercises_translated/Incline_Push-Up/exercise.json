@@ -1,0 +1,50 @@
+{
+  "name": "Incline Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.",
+    "Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.",
+    "Push body up until arms are extended. Repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Pompka na podwyższeniu",
+  "instructions_pl": [
+    "Stań przodem do ławki lub stabilnej, podwyższonej platformy. Umieść dłonie na krawędzi ławki lub platformy, nieco szerzej niż szerokość barków.",
+    "Ustaw śródstopie z tyłu, z dala od ławki lub platformy, z wyprostowanymi ramionami i tułowiem. Ramiona powinny być prostopadłe do tułowia. Utrzymując tułów prosto, opuść klatkę piersiową do krawędzi skrzyni lub platformy, zginając ramiona.",
+    "Odepchnij tułów w górę, aż ramiona będą wyprostowane. Powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Erhöhter Liegestütz",
+  "instructions_de": [
+    "Stellen Sie sich vor eine Bank oder eine stabile erhöhte Plattform. Legen Sie die Hände auf den Rand der Bank oder Plattform, etwas breiter als schulterbreit auseinander.",
+    "Stellen Sie die Fußballen hinter die Bank oder Plattform, wobei Arme und Körper gestreckt sind. Die Arme sollten senkrecht zum Körper stehen. Halten Sie den Körper gerade und senken Sie die Brust zum Rand der Bank oder Plattform, indem Sie die Arme beugen.",
+    "Drücken Sie den Körper nach oben, bis die Arme gestreckt sind. Wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

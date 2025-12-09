@@ -1,0 +1,53 @@
+{
+  "name": "Double Kettlebell Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
+    "Swing the kettlebells between your legs forcefully and reverse the direction.",
+    "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Podwójne Rwanie Kettlebell",
+  "instructions_pl": [
+    "Ustaw dwa kettlebelle za stopami. Ugnij kolana i cofnij biodra, aby podnieść kettlebelle.",
+    "Dynamicznie zarzuć kettlebelle między nogi i zmień kierunek ruchu.",
+    "Wykonaj dynamiczny wyprost bioder i zablokuj kettlebelle nad głową jednym płynnym ruchem."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie czworogłowe uda"
+  ],
+  "category_pl": "siła",
+  "name_de": "Doppel-Kettlebell-Reißen",
+  "instructions_de": [
+    "Platziere zwei Kettlebells hinter deinen Füßen. Beuge deine Knie und setze dich nach hinten ab, um die Kettlebells aufzunehmen.",
+    "Schwinge die Kettlebells kraftvoll zwischen deinen Beinen hindurch und kehre die Richtung um.",
+    "Treibe mit deinen Hüften nach oben und fixiere die Kettlebells in einer ununterbrochenen Bewegung über Kopf."
+  ],
+  "secondaryMuscles_de": [
+    "Glutaeus",
+    "Ischiocrurale Muskulatur",
+    "Quadrizeps"
+  ],
+  "category_de": "Kraft"
+}

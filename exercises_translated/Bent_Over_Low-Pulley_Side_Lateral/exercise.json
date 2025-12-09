@@ -1,0 +1,59 @@
+{
+  "name": "Bent Over Low-Pulley Side Lateral",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Select a weight and hold the handle of the low pulley with your right hand.",
+    "Bend at the waist until your torso is nearly parallel to the floor. Your legs should be slightly bent with your left hand placed on your lower left thigh. Your right arm should be hanging from your shoulder in front of you and with a slight bend at the elbow. This will be your starting position.",
+    "Raise your right arm, elbow slightly bent, to the side until the arm is parallel to the floor and in line with your right ear. Breathe out as you perform this step.",
+    "Slowly lower the weight back to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions and repeat the movement with the other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Odwodzenie boczne ramienia w opadzie tułowia z wyciągu dolnego",
+  "instructions_pl": [
+    "Wybierz obciążenie i chwyć uchwyt wyciągu dolnego prawą ręką.",
+    "Pochyl się w pasie, aż tułów będzie niemal równoległy do podłogi. Nogi powinny być lekko ugięte, a lewa ręka spoczywać na dolnej części lewego uda. Prawa ręka powinna swobodnie zwisać z ramienia przed tobą, z lekkim ugięciem w stawie łokciowym. Będzie to twoja pozycja początkowa.",
+    "Unieś prawą rękę, z lekko ugiętym łokciem, na bok, aż ramię będzie równoległe do podłogi i w linii z prawym uchem. Wydychaj powietrze podczas wykonywania tego ruchu.",
+    "Powoli opuść ciężar z powrotem do pozycji początkowej, wciągając powietrze.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń, a następnie wykonaj ruch drugą ręką."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie prostowniki grzbietu (część lędźwiowa)",
+    "mięśnie prostowniki grzbietu (część piersiowa)",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Vorgebeugtes Seitheben am unteren Kabelzug",
+  "instructions_de": [
+    "Wähle ein Gewicht und fasse den Griff des unteren Kabelzugs mit deiner rechten Hand.",
+    "Beuge dich aus der Hüfte, bis dein Rumpf nahezu parallel zum Boden ist. Deine Beine sollten leicht gebeugt sein, wobei deine linke Hand auf deinem unteren linken Oberschenkel platziert ist. Dein rechter Arm sollte vor dir aus der Schulter hängen und am Ellbogen leicht gebeugt sein. Dies ist deine Ausgangsposition.",
+    "Hebe deinen rechten Arm, den Ellbogen leicht gebeugt, zur Seite, bis der Arm parallel zum Boden und auf Höhe deines rechten Ohrs ist. Atme aus, während du diesen Schritt ausführst.",
+    "Senke das Gewicht langsam zurück in die Ausgangsposition, während du einatmest.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen und wiederhole die Bewegung mit dem anderen Arm."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus erector spinae (lumbale Anteile)",
+    "Musculus erector spinae (thorakale Anteile)",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

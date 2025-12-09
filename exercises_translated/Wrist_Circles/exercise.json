@@ -1,0 +1,41 @@
+{
+  "name": "Wrist Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start by standing straight with your feet being shoulder width apart from each other. Elevate your arms to the side of you until they are fully extended and parallel to the floor at a height that is evenly aligned with your shoulders. Tip: Your torso and arms should form the letter \"T: Your palms should be facing down. This is the starting position.",
+    "Keeping your entire body stationary except for the wrists, begin to rotate both wrists forward in a circular motion. Tip: Pretend that you are trying to draw circles by using your hands as the brush. Breathe normally as you perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Krążenia nadgarstków",
+  "instructions_pl": [
+    "Stań prosto ze stopami rozstawionymi na szerokość barków. Unieś ramiona na boki, aż będą w pełni wyprostowane i równoległe do podłogi, na wysokości równo z barkami. Wskazówka: Twój tułów i ramiona powinny tworzyć literę „T”. Dłonie powinny być skierowane w dół. To jest pozycja początkowa.",
+    "Utrzymując całe ciało nieruchomo, z wyjątkiem nadgarstków, zacznij obracać oba nadgarstki do przodu, wykonując ruch okrężny. Wskazówka: Udawaj, że próbujesz rysować okręgi, używając dłoni jako pędzla. Oddychaj normalnie podczas wykonywania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Handgelenkskreisen",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, die Füße schulterbreit auseinander. Heben Sie Ihre Arme seitlich an, bis sie vollständig gestreckt, parallel zum Boden und auf Schulterhöhe sind. Tipp: Ihr Oberkörper und Ihre Arme sollten ein „T“ bilden. Ihre Handflächen zeigen dabei nach unten. Dies ist die Ausgangsposition.",
+    "Halten Sie Ihren gesamten Körper, außer den Handgelenken, ruhig und beginnen Sie, beide Handgelenke in einer kreisenden Bewegung nach vorne zu drehen. Tipp: Stellen Sie sich vor, Sie würden mit Ihren Händen als Pinsel Kreise zeichnen. Atmen Sie während dieser Übung normal.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

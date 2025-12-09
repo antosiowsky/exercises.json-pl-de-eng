@@ -1,0 +1,44 @@
+{
+  "name": "Dumbbell Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",
+    "Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down.",
+    "Lower the dumbbells back to the original position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Unoszenie barków ze sztangielkami",
+  "instructions_pl": [
+    "Przyjmij postawę wyprostowaną ze sztangielką w każdej dłoni (dłonie skierowane do tułowia), ramiona wyprostowane wzdłuż tułowia.",
+    "Unieś sztangielki, unosząc barki jak najwyżej podczas wydechu. Przytrzymaj skurcz w górnej pozycji przez sekundę. Wskazówka: Ramiona powinny pozostać wyprostowane przez cały czas. Unikaj używania mięśni dwugłowych ramienia do wspomagania unoszenia sztangielek. Tylko barki powinny poruszać się w górę i w dół.",
+    "Opuść sztangielki z powrotem do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siłowy",
+  "name_de": "Kurzhantel-Schulterheben",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, mit einer Kurzhantel in jeder Hand (Handflächen zeigen zum Oberkörper) und seitlich ausgestreckten Armen.",
+    "Heben Sie die Kurzhanteln, indem Sie die Schultern so hoch wie möglich anheben, während Sie ausatmen. Halten Sie die Kontraktion am höchsten Punkt für eine Sekunde. Tipp: Die Arme sollten jederzeit gestreckt bleiben. Vermeiden Sie es, die Bizeps zur Unterstützung beim Heben der Kurzhanteln einzusetzen. Nur die Schultern sollten sich auf und ab bewegen.",
+    "Senken Sie die Kurzhanteln zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Circus Bell",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",
+    "Clean the dumbbell by extending through your hips and knees to deliver the implement to the desired shoulder, letting go with the extra hand.",
+    "Ensure that you get one of the dumbbell heads behind the shoulder to keep from being thrown off balance. To raise it overhead, dip by flexing the knees, and the drive upwards as you extend the dumbbell overhead, leaning slightly away from it as you do so.",
+    "Carefully guide the bell back to the floor, keeping it under control as much as possible. It is best to perform this event on a thick rubber mat to prevent damage to the floor."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Dzwon Cyrkowy",
+  "instructions_pl": [
+    "Dzwon cyrkowy to ponadwymiarowa hantla z grubym uchwytem. Rozpocznij z hantlą umieszczoną między stopami i chwyć uchwyt obiema rękami.",
+    "Zarzuć hantlę, wykonując wyprost w stawach biodrowych i kolanowych, aby dostarczyć przyrząd do wybranego barku, puszczając drugą ręką.",
+    "Upewnij się, że jedna z głowic hantli znajdzie się za barkiem, aby zapobiec utracie równowagi. Aby unieść ją nad głowę, wykonaj ugięcie (dip) poprzez zgięcie kolan, a następnie wypchnij ją w górę, prostując hantlę nad głową i lekko odchylając się od niej w trakcie ruchu.",
+    "Ostrożnie opuść dzwon z powrotem na podłogę, utrzymując go pod kontrolą w jak największym stopniu. Najlepiej wykonywać to ćwiczenie na grubej gumowej macie, aby zapobiec uszkodzeniu podłogi."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie grzbietu (odcinek lędźwiowy)",
+    "mięsień czworoboczny grzbietu",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Circus Bell",
+  "instructions_de": [
+    "Die Circus Bell ist eine überdimensionale Kurzhantel mit einem dicken Griff. Beginnen Sie mit der Hantel zwischen Ihren Füßen und umfassen Sie den Griff mit beiden Händen.",
+    "Um die Hantel umzusetzen (clean), strecken Sie Hüften und Knie, um das Gerät zur gewünschten Schulter zu bringen, wobei Sie die freie Hand loslassen.",
+    "Stellen Sie sicher, dass sich einer der Hantelköpfe hinter der Schulter befindet, um das Gleichgewicht nicht zu verlieren. Um die Hantel über Kopf zu heben, beugen Sie die Knie (dip) und treiben Sie sie nach oben, während Sie die Hantel über Kopf strecken, wobei Sie sich dabei leicht von ihr weglehnen.",
+    "Führen Sie die Hantel vorsichtig zurück zum Boden und halten Sie sie dabei so gut wie möglich unter Kontrolle. Es ist am besten, diese Übung auf einer dicken Gummimatte auszuführen, um Bodenschäden zu vermeiden."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Glutäalmuskulatur",
+    "Ischiokrurale Muskulatur",
+    "Musculi erector spinae",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Strongman"
+}

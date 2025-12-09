@@ -1,0 +1,38 @@
+{
+  "name": "Dynamic Back Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Keeping your arms straight, swing them straight up in front of you 5-10 times, increasing the range of motion each time until your arms are above your head."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Dynamiczne Rozciąganie Grzbietu",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków. Będzie to Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona proste, wykonuj nimi wymachy prosto w górę przed sobą 5-10 razy, zwiększając zakres ruchu za każdym razem, aż ramiona znajdą się nad głową."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dynamisches Rückendehnen",
+  "instructions_de": [
+    "Stellen Sie sich schulterbreit hin. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihre Arme gestreckt und schwingen Sie sie 5-10 Mal gerade nach oben vor Ihrem Körper, wobei Sie den Bewegungsumfang jedes Mal erhöhen, bis Ihre Arme über Ihrem Kopf sind."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

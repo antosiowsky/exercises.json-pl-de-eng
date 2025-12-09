@@ -1,0 +1,53 @@
+{
+  "name": "Double Kettlebell Push Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells to your shoulders.",
+    "Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.",
+    "Once the kettlebells are locked out, lower the kettlebells to your shoulders and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Podwójne Wyciskanie Kettlebellami z Wybiciem",
+  "instructions_pl": [
+    "Zarzuć dwa kettlebelle na barki.",
+    "Wykonaj lekki przysiad i dynamicznie odwróć ruch. Wykorzystaj pęd z nóg, aby wybić kettlebelle nad głowę.",
+    "Po pełnym wyproście ramion z kettlebellami, opuść kettlebelle na barki i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięsień czworogłowy uda",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Doppeltes Kettlebell-Stoßen aus den Beinen",
+  "instructions_de": [
+    "Setze zwei Kettlebells auf Schulterhöhe um.",
+    "Gehe einige Zentimeter in die Knie und kehre die Bewegung schnell um. Nutze den Schwung aus den Beinen, um die Kettlebells über Kopf zu stoßen.",
+    "Sobald die Arme mit den Kettlebells vollständig gestreckt sind, senke die Kettlebells auf deine Schultern ab und wiederhole die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

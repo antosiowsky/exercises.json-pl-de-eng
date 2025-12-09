@@ -1,0 +1,47 @@
+{
+  "name": "Standing Pelvic Tilt",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Start off with your feet hip-distance apart.",
+    "Bend your knees slightly to keep them soft and springy.",
+    "You may want to move your pelvis forward and backward and back few times before holding the tailbone forward in this stretch."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Pochylenie miednicy w pozycji stojącej",
+  "instructions_pl": [
+    "Rozpocznij od stóp rozstawionych na szerokość bioder.",
+    "Lekko ugnij kolana, aby były elastyczne i sprężyste.",
+    "Możesz poruszać miednicą do przodu i do tyłu kilka razy, zanim utrzymasz kość ogonową wysuniętą do przodu w tej pozycji rozciągającej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehende Beckenkippung",
+  "instructions_de": [
+    "Beginnen Sie mit den Füßen hüftbreit auseinander.",
+    "Beugen Sie Ihre Knie leicht, um sie entspannt und federnd zu halten.",
+    "Sie können Ihr Becken einige Male vor- und zurückkippen, bevor Sie das Steißbein in dieser Dehnung nach vorne halten."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ankle Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Use a sturdy object like a squat rack to hold yourself.",
+    "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
+    "When you are done with the right foot, then repeat with the left leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Krążenia stawu skokowego",
+  "instructions_pl": [
+    "Użyj stabilnego obiektu, takiego jak stojak do przysiadów, aby się podeprzeć.",
+    "Unieś prawą nogę w powietrze (około 5 cm nad podłogą) i wykonuj okrężny ruch dużym palcem u stopy. Udawaj, że rysujesz nim duże koło. Wskazówka: Jedno pełne koło to 1 powtórzenie. Oddychaj normalnie podczas wykonywania ruchu.",
+    "Po zakończeniu ćwiczenia prawą stopą, powtórz z lewą nogą."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Sprunggelenkskreisen",
+  "instructions_de": [
+    "Verwenden Sie ein stabiles Objekt wie einen Kniebeugenständer, um sich festzuhalten.",
+    "Heben Sie das rechte Bein in die Luft (nur etwa 2 Zoll vom Boden entfernt) und führen Sie eine kreisförmige Bewegung mit dem Großzeh aus. Stellen Sie sich vor, Sie zeichnen damit einen großen Kreis. Tipp: Ein Kreis entspricht 1 Wiederholung. Atmen Sie während der Bewegung normal.",
+    "Wenn Sie mit dem rechten Fuß fertig sind, wiederholen Sie dies mit dem linken Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Lateral Bound",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
+    "Allow your lead leg to do a countermovement inward as you shift your weight to the outside leg.",
+    "Immediately push off and extend, attempting to bound to the side as far as possible.",
+    "Upon landing, immediately push off in the opposite direction, returning to your original start position.",
+    "Continue back and forth for several repetitions."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok boczny",
+  "instructions_pl": [
+    "Przyjmij pozycję półprzysiadu, ustawiając się bokiem do kierunku, w którym zamierzasz się poruszać. Będzie to Twoja pozycja wyjściowa.",
+    "Pozwól nodze, która będzie lądować, wykonać ruch kontrujący do wewnątrz, jednocześnie przenosząc ciężar ciała na nogę, która będzie się odbijać.",
+    "Natychmiast odbij się i wyprostuj, starając się wykonać skok boczny jak najdalej.",
+    "Po wylądowaniu natychmiast odbij się w przeciwnym kierunku, wracając do pozycji wyjściowej.",
+    "Kontynuuj naprzemiennie przez kilka powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięsień czworogłowy uda"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Lateraler Sprung",
+  "instructions_de": [
+    "Nimm eine halbe Kniebeugenposition ein, wobei du um 90 Grad zur Bewegungsrichtung gedreht bist. Dies ist deine Ausgangsposition.",
+    "Führe mit dem führenden Bein eine Gegenbewegung nach innen aus, während du dein Gewicht auf das äußere Bein verlagerst.",
+    "Stoße dich sofort ab und strecke dich aus, um so weit wie möglich zur Seite zu springen.",
+    "Nach der Landung stoße dich sofort in die entgegengesetzte Richtung ab, um in deine ursprüngliche Ausgangsposition zurückzukehren.",
+    "Führe die Bewegung für mehrere Wiederholungen abwechselnd hin und her aus."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Musculus triceps surae",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Plyometrie"
+}

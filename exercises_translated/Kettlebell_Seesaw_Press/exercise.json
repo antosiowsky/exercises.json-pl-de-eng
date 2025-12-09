@@ -1,0 +1,47 @@
+{
+  "name": "Kettlebell Seesaw Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Clean two kettlebells two your shoulders.",
+    "Press one kettlebell.",
+    "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie naprzemienne odważników kulowych",
+  "instructions_pl": [
+    "Zarzuć dwa odważniki kulowe na barki.",
+    "Wyciśnij jeden odważnik kulowy.",
+    "Opuść odważnik kulowy i natychmiast wyciśnij drugi odważnik kulowy. Upewnij się, że wykonujesz taką samą liczbę powtórzeń po obu stronach."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell-Wippdrücken",
+  "instructions_de": [
+    "Bringe zwei Kettlebells in die Rack-Position auf deine Schultern.",
+    "Drücke eine Kettlebell nach oben.",
+    "Senke die Kettlebell ab und drücke sofort die andere Kettlebell nach oben. Achte darauf, die gleiche Anzahl an Wiederholungen auf beiden Seiten zu absolvieren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

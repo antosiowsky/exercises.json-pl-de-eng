@@ -1,0 +1,53 @@
+{
+  "name": "Single-Cone Sprint Drill",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "This drill teaches quick foot action. You need a single cone. Begin standing next to the cone with one arm back and one arm forward.",
+    "Chop the feet as quickly as possible, blocking with the arms. Circle the cone, keep your knees up, with violent foot action.",
+    "Rest after three trips around the cone."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Ćwiczenie sprinterskie z pojedynczym pachołkiem",
+  "instructions_pl": [
+    "To ćwiczenie rozwija szybkość pracy stóp. Potrzebujesz jednego pachołka. Rozpocznij, stojąc obok pachołka, z jedną ręką cofniętą i drugą wysuniętą do przodu.",
+    "Szybko przebieraj stopami, energicznie pracując ramionami. Okrążaj pachołek, utrzymując kolana wysoko, z dynamiczną pracą stóp.",
+    "Odpocznij po trzech okrążeniach pachołka."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Ein-Hütchen-Sprintübung",
+  "instructions_de": [
+    "Diese Übung schult schnelle Fußarbeit. Sie benötigen ein einzelnes Hütchen. Beginnen Sie im Stand neben dem Hütchen, einen Arm nach hinten und den anderen Arm nach vorne.",
+    "Machen Sie so schnelle, kurze Schritte wie möglich, die Arme dabei aktiv und kraftvoll einsetzend. Umrunden Sie das Hütchen, halten Sie die Knie hoch, mit explosiver Fußarbeit.",
+    "Ruhen Sie sich nach drei Umrundungen des Hütchens aus."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

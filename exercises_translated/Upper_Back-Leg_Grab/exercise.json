@@ -1,0 +1,47 @@
+{
+  "name": "Upper Back-Leg Grab",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "middle back"
+  ],
+  "instructions": [
+    "While seated, bend forward to hug your thighs from underneath with both arms.",
+    "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Chwyt nóg z rozciąganiem górnej części pleców",
+  "instructions_pl": [
+    "Siedząc, pochyl się do przodu, aby objąć uda od spodu obiema rękami.",
+    "Trzymaj kolana razem i nogi wyprostowane, jednocześnie opuszczając klatkę piersiową do kolan. Możesz również rozciągnąć mięśnie odcinka piersiowego kręgosłupa, odciągając plecy od kolan, podczas gdy je obejmujesz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odcinka lędźwiowego kręgosłupa",
+    "Mięśnie odcinka piersiowego kręgosłupa"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Oberer Rücken-Beinumfassung",
+  "instructions_de": [
+    "Sitzend beugen Sie sich nach vorne, um Ihre Oberschenkel mit beiden Armen von unten zu umfassen.",
+    "Halten Sie Ihre Knie zusammen und Ihre Beine ausgestreckt, während Sie Ihre Brust zu Ihren Knien senken. Sie können auch Ihre mittlere Rückenmuskulatur dehnen, indem Sie Ihren Rücken von Ihren Knien wegziehen, während Sie diese umfassen."
+  ],
+  "secondaryMuscles_de": [
+    "untere Rückenmuskulatur",
+    "mittlere Rückenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

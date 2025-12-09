@@ -1,0 +1,53 @@
+{
+  "name": "Russian Twist",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
+    "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.",
+    "Twist your torso to the right side until your arms are parallel with the floor while breathing out.",
+    "Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skręty rosyjskie",
+  "instructions_pl": [
+    "Połóż się na podłodze, umieszczając stopy pod czymś nieruchomym lub prosząc partnera o ich przytrzymanie. Nogi powinny być ugięte w kolanach.",
+    "Unieś tułów, tworząc wyobrażoną literę V z udami. Ramiona powinny być w pełni wyprostowane przed tobą, prostopadle do tułowia, ze splecionymi dłońmi. To jest pozycja wyjściowa.",
+    "Skręć tułów w prawą stronę, aż ramiona znajdą się równolegle do podłogi, wykonując wydech.",
+    "Utrzymaj skurcz przez sekundę i wróć do pozycji wyjściowej, wykonując wydech. Następnie wykonaj ruch na przeciwną stronę, stosując te same techniki, co dla strony prawej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie dolnego odcinka grzbietu"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Russischer Twist",
+  "instructions_de": [
+    "Legen Sie sich auf den Boden. Platzieren Sie Ihre Füße entweder unter etwas Unbeweglichem oder lassen Sie sie von einem Partner festhalten. Ihre Beine sind in den Knien gebeugt.",
+    "Heben Sie Ihren Oberkörper an, sodass er mit Ihren Oberschenkeln eine imaginäre V-Form bildet. Ihre Arme sind vollständig vor Ihnen ausgestreckt, senkrecht zu Ihrem Rumpf, und die Hände sind verschränkt. Dies ist die Ausgangsposition.",
+    "Drehen Sie Ihren Rumpf zur rechten Seite, bis Ihre Arme parallel zum Boden sind, während Sie ausatmen.",
+    "Halten Sie die Kontraktion für eine Sekunde und kehren Sie zur Ausgangsposition zurück, während Sie ausatmen. Bewegen Sie sich nun zur gegenüberliegenden Seite und wenden Sie dieselben Techniken an, die Sie auf der rechten Seite angewendet haben.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Lendenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Front Plate Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While standing straight, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended and locked with a slight bend at the elbows and the plate should be down near your waist in front of you as far as you can go. Tip: The arms will remain in this position throughout the exercise. This will be your starting position.",
+    "Slowly raise the plate as you exhale until it is a little above shoulder level. Hold the contraction for a second. Tip: make sure that you do not swing the weight or bend at the elbows. Your torso should remain stationary throughout the movement as well.",
+    "As you inhale, slowly lower the plate back down to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wznosy talerza przodem",
+  "instructions_pl": [
+    "Stojąc prosto, chwyć talerz sztangi obiema rękami na wysokości godzin 3 i 9. Dłonie powinny być skierowane do siebie, a ramiona wyprostowane, z lekkim zgięciem w stawach łokciowych. Talerz powinien znajdować się przed Tobą, blisko pasa, tak nisko, jak to możliwe. Wskazówka: Ramiona pozostaną w tej pozycji przez cały czas trwania ćwiczenia. Będzie to Twoja pozycja wyjściowa.",
+    "Powoli unoś talerz, wykonując wydech, aż znajdzie się nieco powyżej poziomu barków. Przytrzymaj skurcz mięśni przez sekundę. Wskazówka: Upewnij się, że nie wykonujesz zamachu ciężarem ani nie zginasz łokci. Tułów również powinien pozostać nieruchomy przez cały czas trwania ruchu.",
+    "Wykonując wdech, powoli opuść talerz z powrotem do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Frontales Hantelscheibenheben",
+  "instructions_de": [
+    "Stehen Sie aufrecht und halten Sie eine Hantelscheibe mit beiden Händen an den Seiten (Positionen 3 und 9 Uhr). Ihre Handflächen zeigen zueinander. Ihre Arme sind gestreckt und fixiert, mit einer leichten Beugung in den Ellenbogen. Die Hantelscheibe befindet sich so tief wie möglich vor Ihrem Körper, nahe Ihrer Taille. Tipp: Die Arme bleiben während der gesamten Übung in dieser Position. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Hantelscheibe langsam an, während Sie ausatmen, bis sie sich etwas über Schulterhöhe befindet. Halten Sie die Spannung für eine Sekunde. Tipp: Achten Sie darauf, das Gewicht nicht zu schwingen oder die Ellenbogen zu beugen. Ihr Rumpf sollte während der gesamten Bewegung ebenfalls stabil bleiben.",
+    "Während Sie einatmen, senken Sie die Hantelscheibe langsam wieder in die Ausgangsposition ab.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

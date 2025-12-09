@@ -1,0 +1,59 @@
+{
+  "name": "Landmine 180's",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
+    "Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.",
+    "Perform the movement by rotating the trunk and hips as you swing the weight all the way down to one side. Keep your arms extended throughout the exercise.",
+    "Reverse the motion to swing the weight all the way to the opposite side.",
+    "Continue alternating the movement until the set is complete."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Landmine 180 stopni",
+  "instructions_pl": [
+    "Umieść sztangę w uchwycie Landmine lub bezpiecznie zakotwicz ją w narożniku. Obciąż sztangę odpowiednim ciężarem.",
+    "Podnieś sztangę z podłogi, unosząc ją obiema rękami na wysokość barków, z ramionami wyprostowanymi przed sobą. Przyjmij szeroki rozkrok. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonaj ruch, rotując tułów i biodra, przenosząc ciężar całkowicie w dół na jedną stronę. Utrzymuj ramiona wyprostowane przez cały czas trwania ćwiczenia.",
+    "Odwróć ruch, aby przenieść ciężar całkowicie na przeciwną stronę.",
+    "Kontynuuj naprzemienne wykonywanie ruchu aż do zakończenia serii."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie lędźwiowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Landmine 180-Grad-Rotation",
+  "instructions_de": [
+    "Positionieren Sie eine Langhantel in einer Landmine oder verankern Sie sie sicher in einer Ecke. Beladen Sie die Hantel mit einem angemessenen Gewicht.",
+    "Heben Sie die Langhantel vom Boden auf Schulterhöhe, wobei Sie sie mit beiden Händen und ausgestreckten Armen vor sich halten. Nehmen Sie einen breiten Stand ein. Dies ist Ihre Ausgangsposition.",
+    "Führen Sie die Bewegung aus, indem Sie Rumpf und Hüfte rotieren, während Sie das Gewicht vollständig zu einer Seite schwingen. Halten Sie Ihre Arme während der gesamten Übung gestreckt.",
+    "Kehren Sie die Bewegung um, um das Gewicht vollständig zur gegenüberliegenden Seite zu schwingen.",
+    "Fahren Sie fort, die Bewegung abwechselnd auszuführen, bis der Satz beendet ist."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi glutei",
+    "Musculi erector spinae",
+    "Musculi deltoidei"
+  ],
+  "category_de": "Kraft"
+}

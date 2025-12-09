@@ -1,0 +1,56 @@
+{
+  "name": "Linear Depth Jump",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
+    "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
+    "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
+    "Land softly, asborbing the impact through the legs."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Liniowy Skok w Głąb",
+  "instructions_pl": [
+    "Będziesz potrzebować dwóch skrzyń lub ławek rozstawionych w odległości kilku stóp od siebie. Rozpocznij, stojąc na jednej skrzyni, przodem do drugiego podestu.",
+    "Aby rozpocząć ruch, delikatnie opuść się na ziemię między podestami, pozwalając na zgięcie kolan i bioder.",
+    "Odwróć ruch, dynamicznie odbijając się, wykonując wyprost w stawach biodrowych, kolanowych i skokowych, aby wskoczyć na drugi podest.",
+    "Wyląduj miękko, amortyzując uderzenie nogami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Linearer Tiefensprung",
+  "instructions_de": [
+    "Sie benötigen zwei Kästen oder Bänke, die in einem gewissen Abstand zueinander platziert sind. Beginnen Sie, indem Sie auf einem Kasten stehen und der anderen Plattform zugewandt sind.",
+    "Um die Bewegung einzuleiten, lassen Sie sich sanft auf den Boden zwischen Ihren Plattformen fallen, wobei Knie und Hüften gebeugt werden.",
+    "Kehren Sie die Bewegung um, indem Sie explosiv abspringen und Hüften, Knie und Sprunggelenke strecken, um auf die andere Plattform zu springen.",
+    "Landen Sie sanft und federn Sie den Aufprall durch die Beine ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Glutealmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

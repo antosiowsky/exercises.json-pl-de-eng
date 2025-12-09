@@ -1,0 +1,53 @@
+{
+  "name": "Inverted Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Position a bar in a rack to about waist height. You can also use a smith machine.",
+    "Take a wider than shoulder width grip on the bar and position yourself hanging underneath the bar. Your body should be straight with your heels on the ground with your arms fully extended. This will be your starting position.",
+    "Begin by flexing the elbow, pulling your chest towards the bar. Retract your shoulder blades as you perform the movement.",
+    "Pause at the top of the motion, and return yourself to the start position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Wiosłowanie odwrócone",
+  "instructions_pl": [
+    "Umieść sztangę w stojaku na wysokości mniej więcej pasa. Możesz również użyć maszyny Smitha.",
+    "Chwyć sztangę szerzej niż szerokość barków i ustaw się, zwisając pod nią. Twoje ciało powinno być proste, pięty na ziemi, a ramiona w pełni wyprostowane. Będzie to twoja pozycja początkowa.",
+    "Rozpocznij, zginając łokcie i przyciągając klatkę piersiową do sztangi. Ściągnij łopatki podczas wykonywania ruchu.",
+    "Zatrzymaj się w szczytowej fazie ruchu, a następnie wróć do pozycji początkowej.",
+    "Powtórz ćwiczenie dla pożądanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "siła",
+  "name_de": "Invertiertes Rudern",
+  "instructions_de": [
+    "Positionieren Sie eine Stange in einem Rack auf etwa Hüfthöhe. Eine Smith-Maschine kann ebenfalls verwendet werden.",
+    "Fassen Sie die Stange etwas breiter als schulterbreit und positionieren Sie sich hängend unter der Stange. Ihr Körper sollte gerade sein, die Fersen auf dem Boden und die Arme vollständig gestreckt. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, indem Sie die Ellbogen beugen und Ihre Brust zur Stange ziehen. Ziehen Sie Ihre Schulterblätter während der Ausführung der Bewegung zurück.",
+    "Halten Sie am höchsten Punkt der Bewegung inne und kehren Sie in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Übung für die gewünschte Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

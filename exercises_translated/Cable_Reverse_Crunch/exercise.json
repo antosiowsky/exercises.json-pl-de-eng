@@ -1,0 +1,50 @@
+{
+  "name": "Cable Reverse Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.",
+    "Sit down with your feet toward the pulley and attach the cable to your ankles.",
+    "Lie down, elevate your legs and bend your knees at a 90-degree angle. Your legs and the cable should be aligned. If not, adjust the pulley up or down until they are.",
+    "With your hands behind your head, bring your knees inward to your torso and elevate your hips off the floor.",
+    "Pause for a moment and in a slow and controlled manner drop your hips and bring your legs back to the starting 90-degree angle. You should still have tension on your abs in the resting position.",
+    "Repeat the same movement to failure."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Spięcie odwrotne na wyciągu",
+  "instructions_pl": [
+    "Przymocuj opaskę na kostkę do linki dolnego wyciągu i połóż matę na podłodze przed nim.",
+    "Usiądź z nogami skierowanymi w stronę wyciągu i przymocuj linkę do kostek.",
+    "Połóż się, unieś nogi i zegnij kolana pod kątem 90 stopni. Twoje nogi i linka powinny być w jednej linii. Jeśli nie, wyreguluj wyciąg w górę lub w dół, aż będą.",
+    "Z rękami za głową, przyciągnij kolana do tułowia i unieś biodra z podłogi.",
+    "Zatrzymaj się na chwilę, a następnie w powolny i kontrolowany sposób opuść biodra i wróć nogami do pozycji początkowej pod kątem 90 stopni. W pozycji spoczynkowej powinieneś nadal odczuwać napięcie mięśni brzucha.",
+    "Powtarzaj ten sam ruch do upadku mięśniowego."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabelzug Reverse Crunch",
+  "instructions_de": [
+    "Befestigen Sie eine Fußschlaufe an einem unteren Kabelzug und legen Sie eine Matte davor auf den Boden.",
+    "Setzen Sie sich mit den Füßen zum Kabelzug gerichtet hin und befestigen Sie das Kabel an Ihren Knöcheln.",
+    "Legen Sie sich hin, heben Sie Ihre Beine an und beugen Sie Ihre Knie in einem 90-Grad-Winkel. Ihre Beine und das Kabel sollten ausgerichtet sein. Falls nicht, stellen Sie den Kabelzug nach oben oder unten ein, bis sie ausgerichtet sind.",
+    "Mit den Händen hinter dem Kopf ziehen Sie Ihre Knie nach innen zum Oberkörper und heben Sie Ihre Hüften vom Boden ab.",
+    "Halten Sie einen Moment inne und senken Sie Ihre Hüften langsam und kontrolliert ab, während Sie Ihre Beine zurück in den Ausgangswinkel von 90 Grad führen. Sie sollten in der Ruheposition immer noch Spannung auf Ihren Bauchmuskeln haben.",
+    "Wiederholen Sie die gleiche Bewegung bis zum Muskelversagen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

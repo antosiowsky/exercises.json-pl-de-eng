@@ -1,0 +1,56 @@
+{
+  "name": "Single-Leg Stride Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the same position that you started, using your inside leg to decelerate the impact."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skok kroczny jednonóż",
+  "instructions_pl": [
+    "Stań z boku skrzyni, umieszczając wewnętrzną stopę na jej wierzchu, blisko krawędzi.",
+    "Rozpocznij, wykonując zamach ramionami w górę, jednocześnie odpychając się nogą opartą na skrzyni, wyskakując w górę tak wysoko, jak to możliwe. Staraj się unieść przeciwne kolano w górę.",
+    "Wyląduj w pozycji wyjściowej, używając wewnętrznej nogi do amortyzacji uderzenia."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Einbeiniger Schrittsprung",
+  "instructions_de": [
+    "Stellen Sie sich seitlich zu einer Box, wobei Ihr innerer Fuß nahe am Rand darauf steht.",
+    "Beginnen Sie, indem Sie die Arme nach oben schwingen, während Sie sich mit dem oberen Bein abstoßen und so hoch wie möglich nach oben springen. Versuchen Sie, das entgegengesetzte Knie nach oben zu ziehen.",
+    "Landen Sie in der gleichen Position, in der Sie begonnen haben, wobei Sie Ihr inneres Bein nutzen, um den Aufprall abzubremsen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

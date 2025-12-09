@@ -1,0 +1,44 @@
+{
+  "name": "Standing Lateral Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Take a slightly wider than hip distance stance with your knees slightly bent.",
+    "Place your right hand on your right hip to support the spine.",
+    "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
+    "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Boczne rozciąganie tułowia w pozycji stojącej",
+  "instructions_pl": [
+    "Przyjmij postawę ze stopami rozstawionymi nieco szerzej niż szerokość bioder, z lekko ugiętymi kolanami.",
+    "Połóż prawą dłoń na prawym biodrze, aby podeprzeć kręgosłup.",
+    "Unieś lewe ramię pionowo i połóż lewą dłoń za głową. Utrzymaj tę pozycję, pochylając tułów w prawo.",
+    "Utrzymuj ciężar ciała równomiernie rozłożony na obie nogi (nie opieraj się na lewym biodrze). Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Seitliche Dehnung im Stehen",
+  "instructions_de": [
+    "Nehmen Sie einen etwas breiter als hüftbreiten Stand ein, mit leicht gebeugten Knien.",
+    "Legen Sie Ihre rechte Hand auf Ihre rechte Hüfte, um die Wirbelsäule zu stützen.",
+    "Heben Sie Ihren linken Arm vertikal an und legen Sie Ihre linke Hand hinter Ihren Kopf. Halten Sie diese Position, während Sie Ihren Oberkörper nach rechts neigen.",
+    "Verteilen Sie Ihr Gewicht gleichmäßig auf beide Beine (verlagern Sie Ihr Gewicht nicht auf die linke Hüfte). Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

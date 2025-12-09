@@ -1,0 +1,50 @@
+{
+  "name": "Seated Biceps",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
+    "Attempt to flex your elbows, while your partner prevents any actual movement.",
+    "After 10-20 seconds, relax your arms while your partner gently pulls your wrists up to stretch your biceps. Be sure to let your partner know when the stretch is appropriate to prevent injury or overstretching."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Rozciąganie mięśnia dwugłowego ramienia siedząc",
+  "instructions_pl": [
+    "Usiądź na podłodze z ugiętymi kolanami, a partner niech stanie za tobą. Wyprostuj ramiona prosto za siebie, dłonie skierowane do siebie. Partner będzie trzymał twoje nadgarstki. Będzie to pozycja wyjściowa.",
+    "Spróbuj zgiąć łokcie, podczas gdy partner uniemożliwia jakikolwiek rzeczywisty ruch.",
+    "Po 10-20 sekundach rozluźnij ramiona, podczas gdy partner delikatnie pociąga twoje nadgarstki w górę, aby rozciągnąć mięsień dwugłowy ramienia. Pamiętaj, aby poinformować partnera, kiedy rozciągnięcie jest odpowiednie, aby zapobiec kontuzji lub nadmiernemu rozciągnięciu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Sitzende Bizepsdehnung",
+  "instructions_de": [
+    "Setzen Sie sich mit angewinkelten Knien auf den Boden, während Ihr Partner hinter Ihnen steht. Strecken Sie Ihre Arme gerade nach hinten aus, die Handflächen zueinander zeigend. Ihr Partner hält Ihre Handgelenke fest. Dies ist die Ausgangsposition.",
+    "Versuchen Sie, Ihre Ellbogen zu beugen, während Ihr Partner jede tatsächliche Bewegung verhindert.",
+    "Nach 10-20 Sekunden entspannen Sie Ihre Arme, während Ihr Partner Ihre Handgelenke sanft nach oben zieht, um Ihren Musculus biceps brachii zu dehnen. Informieren Sie Ihren Partner unbedingt, wann die Dehnung angemessen ist, um Verletzungen oder Überdehnungen zu vermeiden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Dehnung"
+}

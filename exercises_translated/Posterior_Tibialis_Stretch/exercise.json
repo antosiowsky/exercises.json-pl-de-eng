@@ -1,0 +1,38 @@
+{
+  "name": "Posterior Tibialis Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
+    "With the leg extended and the heel off of the ground, pull on the belt so that the foot is everted, with the outside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozciąganie mięśnia piszczelowego tylnego",
+  "instructions_pl": [
+    "W pozycji siedzącej załóż pasek, linę lub taśmę wokół jednej stopy. Będzie to Twoja pozycja wyjściowa.",
+    "Z wyprostowaną nogą i piętą uniesioną nad ziemią, ciągnij za pasek tak, aby stopa była ewertowana, z zewnętrzną krawędzią stopy ciągniętą w Twoim kierunku. Utrzymaj przez 10-20 sekund, a następnie zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Dehnung des Musculus tibialis posterior",
+  "instructions_de": [
+    "In sitzender Position schlingen Sie einen Gürtel, ein Seil oder ein Band um einen Fuß. Dies ist Ihre Ausgangsposition.",
+    "Strecken Sie das Bein aus und heben Sie die Ferse vom Boden ab. Ziehen Sie am Gürtel, sodass der Fuß evertiert wird und die Außenseite des Fußes zu Ihnen gezogen wird. Halten Sie die Position für 10-20 Sekunden und wechseln Sie dann die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

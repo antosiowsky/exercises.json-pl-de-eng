@@ -1,0 +1,47 @@
+{
+  "name": "Machine Preacher Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit down on the Preacher Curl Machine and select the weight.",
+    "Place the back of your upper arms (your triceps) on the preacher pad provided and grab the handles using an underhand grip (palms facing up). Tip: Make sure that when you place the arms on the pad you keep the elbows in. This will be your starting position.",
+    "Now lift the handles as you exhale and you contract the biceps. At the top of the position make sure that you hold the contraction for a second. Tip: Only the forearms should move. The upper arms should remain stationary and on the pad at all times.",
+    "Lower the handles slowly back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Uginanie ramion na modlitewniku maszynowym",
+  "instructions_pl": [
+    "Usiądź na maszynie typu modlitewnik i wybierz obciążenie.",
+    "Połóż tylną część ramion (mięśnie trójgłowe ramienia) na podkładce modlitewnika i chwyć uchwyty podchwytem (dłonie skierowane ku górze). Wskazówka: Upewnij się, że podczas układania ramion na podkładce trzymasz łokcie blisko siebie. Będzie to Twoja pozycja początkowa.",
+    "Teraz unieś uchwyty, wykonując wydech i napinając mięśnie dwugłowe ramienia. W szczytowej fazie ruchu upewnij się, że utrzymujesz napięcie przez sekundę. Wskazówka: Poruszają się tylko przedramiona. Ramiona powinny pozostać nieruchome i przez cały czas spoczywać na podkładce.",
+    "Powoli opuść uchwyty z powrotem do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Maschinen-Preacher-Curls",
+  "instructions_de": [
+    "Setzen Sie sich an die Preacher-Curl-Maschine und wählen Sie das Gewicht aus.",
+    "Legen Sie die Rückseite Ihrer Oberarme (Ihre Trizeps) auf das dafür vorgesehene Polster und fassen Sie die Griffe im Untergriff (Handflächen zeigen nach oben). Tipp: Achten Sie darauf, dass Sie beim Ablegen der Arme auf dem Polster die Ellenbogen eng halten. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie nun die Griffe an, während Sie ausatmen und Ihre Bizeps kontrahieren. Halten Sie am oberen Punkt der Bewegung die Kontraktion für eine Sekunde. Tipp: Es sollten sich nur die Unterarme bewegen. Die Oberarme sollten jederzeit unbeweglich und auf dem Polster bleiben.",
+    "Senken Sie die Griffe langsam zurück in die Ausgangsposition, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

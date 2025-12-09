@@ -1,0 +1,50 @@
+{
+  "name": "Low Cable Crossover",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
+    "Step forward, gaining tension in the pulleys. Your palms should be facing forward, hands below the waist, and your arms straight. This will be your starting position.",
+    "With a slight bend in your arms, draw your hands upward and toward the midline of your body. Your hands should come together in front of your chest, palms facing up.",
+    "Return your arms back to the starting position after a brief pause."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Rozpiętki na bramie z wyciągiem dolnym",
+  "instructions_pl": [
+    "Aby przyjąć pozycję startową, ustaw bloczki w niskiej pozycji, wybierz odpowiednie obciążenie i chwyć po jednej rączce w każdą dłoń.",
+    "Zrób krok do przodu, napinając linki wyciągu. Dłonie powinny być skierowane do przodu, znajdować się poniżej pasa, a ramiona proste. Będzie to Twoja pozycja startowa.",
+    "Z lekko ugiętymi ramionami, przyciągnij dłonie w górę i w kierunku linii środkowej ciała. Dłonie powinny zetknąć się przed klatką piersiową, a wewnętrzne strony dłoni być skierowane w górę.",
+    "Po krótkiej pauzie, wróć ramionami do pozycji startowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Kabelzug-Crossover (von unten)",
+  "instructions_de": [
+    "Um in die Ausgangsposition zu gelangen, stellen Sie die Rollen in die tiefe Position, wählen Sie den gewünschten Widerstand und fassen Sie einen Griff in jede Hand.",
+    "Treten Sie einen Schritt nach vorne, um Spannung in den Kabelzügen aufzubauen. Ihre Handflächen sollten nach vorne zeigen, die Hände unterhalb der Taille und Ihre Arme gestreckt sein. Dies ist Ihre Ausgangsposition.",
+    "Mit einer leichten Beugung in den Armen ziehen Sie Ihre Hände nach oben und zur Mittellinie Ihres Körpers. Ihre Hände sollten sich vor Ihrer Brust treffen, die Handflächen nach oben zeigend.",
+    "Führen Sie Ihre Arme nach einer kurzen Pause zurück in die Ausgangsposition."
+  ],
+  "secondaryMuscles_de": [
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "London Bridges",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back"
+  ],
+  "instructions": [
+    "Attach a climbing rope to a high beam or cross member. Below it, ensure that the smith machine bar is locked in place with the safeties and cannot move. Alternatively, a secure box could also be utilized.",
+    "Stand on the bar, using the rope to balance yourself. This will be your starting position.",
+    "Keeping your body straight, lean back and lower your body by slowly going hand over hand with the rope. Continue until you are perpendicular to the ground.",
+    "Keeping your body straight, reverse the motion, going hand over hand back to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Mosty Londyńskie",
+  "instructions_pl": [
+    "Przymocuj linę wspinaczkową do wysokiej belki lub poprzeczki.",
+    "Poniżej upewnij się, że sztanga maszyny Smitha jest zablokowana za pomocą zabezpieczeń i nie może się przesuwać. Alternatywnie, można również wykorzystać stabilną skrzynię.",
+    "Stań na sztandze, używając liny do utrzymania równowagi. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując proste ciało, odchyl się do tyłu i opuść ciało, powoli przesuwając dłonie po linie. Kontynuuj, aż znajdziesz się prostopadle do podłoża.",
+    "Utrzymując proste ciało, odwróć ruch, przesuwając dłonie po linie z powrotem do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie przedramion",
+    "mięśnie środkowej części pleców"
+  ],
+  "category_pl": "siła",
+  "name_de": "Londoner Brücken",
+  "instructions_de": [
+    "Befestigen Sie ein Kletterseil an einem hohen Balken oder Querträger. Darunter stellen Sie sicher, dass die Langhantel der Smith-Maschine mit den Sicherheitsvorrichtungen arretiert ist und sich nicht bewegen kann. Alternativ könnte auch eine stabile Box verwendet werden.",
+    "Stellen Sie sich auf die Stange und nutzen Sie das Seil, um das Gleichgewicht zu halten. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihren Körper gerade, lehnen Sie sich zurück und senken Sie Ihren Körper ab, indem Sie langsam Hand über Hand am Seil entlanggreifen. Fahren Sie fort, bis Sie senkrecht zum Boden stehen.",
+    "Halten Sie Ihren Körper gerade, kehren Sie die Bewegung um, indem Sie Hand über Hand zurück in die Ausgangsposition greifen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Unterarmmuskulatur",
+    "Muskulatur des mittleren Rückens"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Groiners",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin in a pushup position on the floor. This will be your starting position.",
+    "Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.",
+    "Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Przeskoki w podporze",
+  "instructions_pl": [
+    "Przyjmij pozycję do pompki na podłodze. Będzie to Twoja pozycja wyjściowa.",
+    "Używając obu nóg, przeskocz do przodu, lądując stopami obok dłoni. Podczas wykonywania ruchu utrzymuj głowę uniesioną.",
+    "Wróć do pozycji wyjściowej i natychmiast powtórz ruch, kontynuując przez 10-20 powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Froschsprünge",
+  "instructions_de": [
+    "Beginnen Sie in einer Liegestützposition auf dem Boden. Dies ist Ihre Ausgangsposition.",
+    "Springen Sie mit beiden Beinen nach vorne, sodass Ihre Füße neben Ihren Händen landen. Halten Sie dabei den Kopf oben.",
+    "Kehren Sie in die Ausgangsposition zurück und wiederholen Sie die Bewegung sofort für 10-20 Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

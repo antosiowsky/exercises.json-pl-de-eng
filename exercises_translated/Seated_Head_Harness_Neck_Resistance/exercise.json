@@ -1,0 +1,50 @@
+{
+  "name": "Seated Head Harness Neck Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.",
+    "Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.",
+    "Now place both hands on top of your knees. This is the starting position.",
+    "Slowly lower your neck down until your chin touches the upper part of your chest while breathing in.",
+    "While exhaling, bring your neck back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Szyja"
+  ],
+  "primaryMuscles_de": [
+    "Nacken"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Opór szyi z uprzężą głowową w pozycji siedzącej",
+  "instructions_pl": [
+    "Połóż uprząż głowową na podłodze na końcu płaskiej ławki. Po wybraniu obciążenia usiądź na końcu płaskiej ławki ze stopami rozstawionymi szerzej niż szerokość barków. Palce stóp powinny być skierowane na zewnątrz.",
+    "Powoli pochyl tułów do przodu, aż będzie prawie równoległy do podłogi. Używając obu rąk, pewnie załóż uprząż głowową wokół głowy. Wskazówka: Upewnij się, że obciążenie nadal leży na podłodze, aby zapobiec nadmiernemu obciążeniu szyi. Następnie chwyć obciążenie obiema rękami, jednocześnie unosząc tułów z powrotem, aż będzie prawie prostopadły do podłogi. Uwaga: Głowa i tułów powinny być lekko pochylone do przodu, aby wykonać to ćwiczenie.",
+    "Teraz połóż obie dłonie na kolanach. Jest to pozycja początkowa.",
+    "Powoli opuść szyję w dół, aż podbródek dotknie górnej części klatki piersiowej, jednocześnie wykonując wdech.",
+    "Podczas wydechu unieś szyję z powrotem do pozycji początkowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Sitzendes Nackenwiderstandstraining mit Kopfgeschirr",
+  "instructions_de": [
+    "Legen Sie ein Nackengeschirr am Ende einer Flachbank auf den Boden. Nachdem Sie die Gewichte ausgewählt haben, setzen Sie sich an das Ende der Flachbank, die Füße weiter als schulterbreit auseinander. Ihre Zehen sollten nach außen zeigen.",
+    "Bewegen Sie Ihren Oberkörper langsam nach vorne, bis er fast parallel zum Boden ist. Positionieren Sie das Nackengeschirr mit beiden Händen sicher um Ihren Kopf. Tipp: Stellen Sie sicher, dass die Gewichte noch auf dem Boden liegen, um eine Überlastung des Nackens zu vermeiden. Greifen Sie nun das Gewicht mit beiden Händen, während Sie Ihren Oberkörper wieder aufrichten, bis er fast senkrecht zum Boden steht. Hinweis: Ihr Kopf und Oberkörper müssen für diese Übung leicht nach vorne geneigt sein.",
+    "Legen Sie nun beide Hände auf Ihre Knie. Dies ist die Ausgangsposition.",
+    "Senken Sie Ihren Nacken langsam ab, bis Ihr Kinn den oberen Teil Ihrer Brust berührt, während Sie einatmen.",
+    "Während Sie ausatmen, bringen Sie Ihren Nacken zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

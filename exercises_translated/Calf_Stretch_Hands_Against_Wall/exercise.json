@@ -1,0 +1,41 @@
+{
+  "name": "Calf Stretch Hands Against Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
+    "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",
+    "Attempt to keep your heel on the ground. Hold for 10-20 seconds and then switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśni łydki z oparciem rąk o ścianę",
+  "instructions_pl": [
+    "Stań przodem do ściany w pewnej odległości. Ustaw stopy w wykroku, wysuwając jedną stopę do przodu.",
+    "Pochyl się do przodu i oprzyj dłonie o ścianę, utrzymując piętę, biodro i głowę w jednej linii.",
+    "Postaraj się utrzymać piętę na podłożu. Wytrzymaj przez 10-20 sekund, a następnie zmień stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Wadendehnung mit Händen an der Wand",
+  "instructions_de": [
+    "Stellen Sie sich in einigem Abstand mit dem Gesicht zur Wand. Nehmen Sie einen gestaffelten Stand ein, indem Sie einen Fuß nach vorne stellen.",
+    "Lehnen Sie sich nach vorne und stützen Sie Ihre Hände an der Wand ab, wobei Ferse, Hüfte und Kopf eine gerade Linie bilden.",
+    "Versuchen Sie, Ihre Ferse auf dem Boden zu halten. Halten Sie die Position für 10-20 Sekunden und wechseln Sie dann die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Goblet Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.",
+    "Squat down between your legs until your hamstrings are on your calves. Keep your chest and head up and your back straight.",
+    "At the bottom position, pause and use your elbows to push your knees out. Return to the starting position, and repeat for 10-20 repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Przysiad kielichowy",
+  "instructions_pl": [
+    "Stań, trzymając lekki kettlebell za rogi blisko klatki piersiowej. Będzie to Twoja pozycja wyjściowa.",
+    "Wykonaj przysiad między nogami, aż mięśnie kulszowo-goleniowe znajdą się na mięśniach łydek. Utrzymuj klatkę piersiową i głowę uniesione, a plecy proste.",
+    "W dolnej pozycji zatrzymaj się i użyj łokci, aby wypchnąć kolana na zewnątrz. Wróć do pozycji wyjściowej i powtórz ćwiczenie 10-20 razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Goblet Kniebeuge",
+  "instructions_de": [
+    "Stellen Sie sich hin und halten Sie eine leichte Kettlebell an den Hörnern nah an Ihrer Brust. Dies ist Ihre Ausgangsposition.",
+    "Gehen Sie in die Hocke zwischen Ihren Beinen, bis Ihre Ischiocrurale Muskulatur Ihre Waden berührt. Halten Sie Brust und Kopf aufrecht und Ihren Rücken gerade.",
+    "In der untersten Position pausieren Sie und nutzen Ihre Ellbogen, um Ihre Knie nach außen zu drücken. Kehren Sie in die Ausgangsposition zurück und wiederholen Sie dies für 10-20 Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

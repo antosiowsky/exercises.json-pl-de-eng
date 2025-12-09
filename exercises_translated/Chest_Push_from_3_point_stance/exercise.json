@@ -1,0 +1,53 @@
+{
+  "name": "Chest Push from 3 point stance",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
+    "To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.",
+    "As you execute the second step, explosively release the ball forward as hard as possible."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Pchnięcie piersiowe z pozycji trójpunktowej",
+  "instructions_pl": [
+    "Rozpocznij w pozycji trójpunktowej, w przysiadzie, z płaskimi plecami i jedną ręką na ziemi. Umieść piłkę lekarską bezpośrednio przed sobą.",
+    "Aby rozpocząć, wykonaj pierwszy krok, jednocześnie przyciągając piłkę do klatki piersiowej, ustawiając obie dłonie w celu przygotowania do rzutu.",
+    "Wykonując drugi krok, eksplozywnie wyrzuć piłkę do przodu z jak największą siłą."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie naramienne",
+    "Mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "Pliometria",
+  "name_de": "Bruststoß aus dem Dreipunktstand",
+  "instructions_de": [
+    "Beginnen Sie im Dreipunktstand, in der Hocke mit geradem Rücken und einer Hand auf dem Boden. Legen Sie den Medizinball direkt vor sich ab.",
+    "Als Startbewegung machen Sie Ihren ersten Schritt, während Sie den Ball zur Brust ziehen und beide Hände positionieren, um sich auf den Wurf vorzubereiten.",
+    "Während Sie den zweiten Schritt ausführen, stoßen Sie den Ball explosiv und so hart wie möglich nach vorne."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi deltoidei",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Plyometrie"
+}

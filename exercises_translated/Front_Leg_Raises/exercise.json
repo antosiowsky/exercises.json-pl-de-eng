@@ -1,0 +1,38 @@
+{
+  "name": "Front Leg Raises",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand next to a chair or other support, holding on with one hand.",
+    "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Unoszenie nóg w przód",
+  "instructions_pl": [
+    "Stań obok krzesła lub innego podparcia, przytrzymując się jedną ręką.",
+    "Wymachnij nogą w przód, utrzymując ją prosto. Kontynuuj ruch w dół, cofając nogę tak daleko w tył, jak pozwala na to Twoja elastyczność. Powtórz 5-10 razy, a następnie zmień nogę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Frontales Beinheben",
+  "instructions_de": [
+    "Stellen Sie sich neben einen Stuhl oder eine andere Stütze und halten Sie sich mit einer Hand fest.",
+    "Schwingen Sie Ihr Bein nach vorne, wobei das Bein gestreckt bleibt. Führen Sie eine Abwärtsschwingung fort, indem Sie das Bein so weit wie Ihre Beweglichkeit es zulässt, nach hinten führen. Wiederholen Sie dies 5-10 Mal und wechseln Sie dann die Beine."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

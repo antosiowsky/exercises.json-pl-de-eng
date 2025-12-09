@@ -1,0 +1,47 @@
+{
+  "name": "Plate Twist",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down on the floor or an exercise mat with your legs fully extended and your upper body upright. Grab the plate by its sides with both hands out in front of your abdominals with your arms slightly bent.",
+    "Slowly cross your legs near your ankles and lift them up off the ground. Your knees should also be bent slightly. Note: Move your upper body back slightly to help keep you balanced turning this exercise. This is the starting position.",
+    "Move the plate to the left side and touch the floor with it. Breathe out as you perform that movement.",
+    "Come back to the starting position as you breathe in and then repeat the movement but this time to the right side of the body. Tip: Use a slow controlled movement at all times. Jerking motions can injure the back.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Skręty tułowia z talerzem",
+  "instructions_pl": [
+    "Połóż się na podłodze lub macie do ćwiczeń z nogami w pełni wyprostowanymi i tułowiem w pozycji pionowej. Chwyć talerz oburącz po bokach, trzymając go przed mięśniami brzucha, z lekko ugiętymi ramionami.",
+    "Powoli skrzyżuj nogi w okolicach kostek i unieś je nad ziemię. Kolana powinny być również lekko ugięte. Uwaga: Odchyl tułów lekko do tyłu, aby pomóc w utrzymaniu równowagi podczas wykonywania tego ćwiczenia. To jest pozycja wyjściowa.",
+    "Przesuń talerz na lewą stronę i dotknij nim podłogi. Wykonując ten ruch, zrób wydech.",
+    "Wróć do pozycji wyjściowej, robiąc wdech, a następnie powtórz ruch, tym razem na prawą stronę ciała. Wskazówka: Zawsze wykonuj ruchy powoli i kontrolowanie. Gwałtowne ruchy mogą spowodować uraz pleców.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Rumpfrotation mit Gewichtsscheibe",
+  "instructions_de": [
+    "Legen Sie sich auf den Boden oder eine Trainingsmatte, mit vollständig ausgestreckten Beinen und aufrechtem Oberkörper. Fassen Sie die Gewichtsscheibe mit beiden Händen seitlich vor Ihrem Bauchbereich an, die Arme sind dabei leicht angewinkelt.",
+    "Kreuzen Sie langsam Ihre Beine im Bereich der Knöchel und heben Sie sie vom Boden ab. Ihre Knie sollten ebenfalls leicht angewinkelt sein. Hinweis: Lehnen Sie Ihren Oberkörper leicht nach hinten, um während dieser Übung das Gleichgewicht zu halten. Dies ist die Ausgangsposition.",
+    "Bewegen Sie die Gewichtsscheibe zur linken Seite und berühren Sie damit den Boden. Atmen Sie bei dieser Bewegung aus.",
+    "Kehren Sie beim Einatmen in die Ausgangsposition zurück und wiederholen Sie die Bewegung anschließend zur rechten Körperseite. Tipp: Führen Sie die Bewegung stets langsam und kontrolliert aus. Ruckartige Bewegungen können den Rücken verletzen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

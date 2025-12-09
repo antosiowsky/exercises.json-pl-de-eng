@@ -1,0 +1,50 @@
+{
+  "name": "Barbell Side Bend",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be shoulder width apart. This will be your starting position.",
+    "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",
+    "Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Skłony boczne ze sztangą",
+  "instructions_pl": [
+    "Stań prosto, trzymając sztangę umieszczoną na plecach, na wysokości barków (nieco poniżej karku). Stopy rozstaw na szerokość barków. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując proste plecy i uniesioną głowę, wykonaj skłon tułowia w prawo, jak najdalej potrafisz. Wdychaj powietrze, wykonując skłon. Następnie przytrzymaj pozycję przez sekundę i wróć do pozycji wyjściowej, wydychając powietrze. Wskazówka: Utrzymuj resztę ciała nieruchomo.",
+    "Teraz powtórz ruch, wykonując skłon w lewo. Przytrzymaj pozycję przez sekundę i wróć do pozycji wyjściowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie lędźwiowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Langhantel-Seitenbeugen",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie eine Langhantel auf dem oberen Rücken (leicht unterhalb des Nackens) halten. Ihre Füße sollten schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie Ihren Rücken gerade und den Kopf aufrecht. Neigen Sie sich nur aus der Taille so weit wie möglich nach rechts. Atmen Sie ein, während Sie sich zur Seite neigen. Halten Sie dann eine Sekunde lang inne und kehren Sie beim Ausatmen in die Ausgangsposition zurück. Tipp: Halten Sie den restlichen Körper ruhig.",
+    "Wiederholen Sie nun die Bewegung, neigen Sie sich jedoch stattdessen nach links. Halten Sie eine Sekunde lang inne und kehren Sie in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Lendenmuskulatur"
+  ],
+  "category_de": "Kraft"
+}

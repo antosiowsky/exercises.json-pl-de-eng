@@ -1,0 +1,50 @@
+{
+  "name": "Cable Wrist Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",
+    "Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.",
+    "Start out by curling your wrist upwards and exhaling. Keep the contraction for a second.",
+    "Slowly lower your wrists back down to the starting position while inhaling.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie nadgarstków na wyciągu",
+  "instructions_pl": [
+    "Rozpocznij od ustawienia płaskiej ławki przed dolnym wyciągiem z prostym drążkiem.",
+    "Chwyć drążek wyciągu wąskim lub na szerokość barków chwytem supinacyjnym (dłonie skierowane ku górze) i unieś ramiona tak, aby przedramiona spoczywały na górnej części ud. Nadgarstki powinny zwisać tuż za kolanami.",
+    "Rozpocznij od uginania nadgarstków w górę, wykonując wydech. Utrzymaj skurcz przez sekundę.",
+    "Powoli opuść nadgarstki z powrotem do pozycji początkowej, wykonując wdech.",
+    "Przedramiona powinny pozostać nieruchome, ponieważ ruch nadgarstków jest jedynym ruchem wymaganym do wykonania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabel-Handgelenkscurl",
+  "instructions_de": [
+    "Stellen Sie zunächst eine Flachbank vor einen tiefen Kabelzug mit gerader Stange.",
+    "Greifen Sie die Kabelstange mit einem engen bis schulterbreiten Supinationsgriff (Handflächen nach oben) und führen Sie sie so nach oben, dass Ihre Unterarme auf der Oberseite Ihrer Oberschenkel aufliegen. Ihre Handgelenke sollten dabei knapp über Ihre Knie hinausragen.",
+    "Beginnen Sie, indem Sie Ihr Handgelenk nach oben beugen und dabei ausatmen. Halten Sie die Kontraktion für eine Sekunde.",
+    "Senken Sie Ihre Handgelenke langsam wieder in die Ausgangsposition ab, während Sie einatmen.",
+    "Ihre Unterarme sollten unbeweglich bleiben, da die Bewegung zur Ausführung dieser Übung ausschließlich aus dem Handgelenk erfolgen sollte.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

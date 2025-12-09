@@ -1,0 +1,50 @@
+{
+  "name": "Hip Extension with Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Facing the attachment point of the band, hold on to the column to stabilize yourself.",
+    "Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.",
+    "Return the leg to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Wyprost biodra z gumami oporowymi",
+  "instructions_pl": [
+    "Przymocuj jeden koniec gumy oporowej do dolnej części słupka, a drugi koniec do jednej kostki.",
+    "Stojąc przodem do punktu mocowania gumy oporowej, przytrzymaj się kolumny, aby się ustabilizować.",
+    "Trzymając głowę i klatkę piersiową uniesione, przesuń nogę z oporem do tyłu tak daleko, jak to możliwe, utrzymując proste kolano.",
+    "Wróć nogą do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Hüftstreckung mit Widerstandsbändern",
+  "instructions_de": [
+    "Befestigen Sie ein Ende des Widerstandsbandes am unteren Teil einer Säule und das andere Ende an einem Knöchel.",
+    "Stellen Sie sich mit Blick zum Befestigungspunkt des Bandes auf und halten Sie sich an der Säule fest, um sich zu stabilisieren.",
+    "Halten Sie Kopf und Brust aufrecht und bewegen Sie das Bein, an dem das Band befestigt ist, so weit wie möglich nach hinten, wobei das Knie gestreckt bleibt.",
+    "Führen Sie das Bein kontrolliert in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Kraft"
+}

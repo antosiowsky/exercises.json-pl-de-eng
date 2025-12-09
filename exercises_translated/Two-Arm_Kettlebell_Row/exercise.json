@@ -1,0 +1,47 @@
+{
+  "name": "Two-Arm Kettlebell Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
+    "Grab both kettlebells and pull them to your stomach, retracting your shoulder blades and flexing the elbows. Keep your back straight. Lower and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wiosłowanie kettlebell oburącz",
+  "instructions_pl": [
+    "Ustaw dwa kettlebelle przed stopami. Lekko ugnij kolana, a następnie wypchnij biodra do tyłu tak mocno, jak to możliwe, pochylając się, aby przyjąć pozycję startową.",
+    "Chwyć oba kettlebelle i przyciągnij je do brzucha, ściągając łopatki i zginając łokcie. Utrzymuj proste plecy. Opuść i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień dwugłowy ramienia",
+    "Mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Beidarmiges Kettlebell-Rudern",
+  "instructions_de": [
+    "Stellen Sie zwei Kettlebells vor Ihre Füße. Beugen Sie Ihre Knie leicht und schieben Sie dann Ihr Gesäß so weit wie möglich nach hinten heraus, während Sie sich vorbeugen, um die Startposition einzunehmen.",
+    "Fassen Sie beide Kettlebells und ziehen Sie sie zum Bauch, indem Sie Ihre Schulterblätter zurückziehen und die Ellenbogen beugen. Halten Sie Ihren Rücken gerade. Senken Sie ab und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Kraft"
+}

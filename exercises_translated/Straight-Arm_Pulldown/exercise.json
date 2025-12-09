@@ -1,0 +1,47 @@
+{
+  "name": "Straight-Arm Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
+    "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
+    "While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.",
+    "While keeping the arms straight, go back to the starting position while breathing in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie drążka prostymi ramionami",
+  "instructions_pl": [
+    "Zacznij od chwycenia szerokiego drążka z górnego bloczka maszyny do ściągania, używając nachwytu (dłonie skierowane w dół) szerszego niż szerokość barków. Cofnij się o około dwie stopy.",
+    "Pochyl tułów do przodu w pasie o około 30 stopni, z ramionami w pełni wyprostowanymi przed sobą i lekkim zgięciem w łokciach. Jeśli ramiona nie są w pełni wyprostowane, cofnij się nieco bardziej, aż będą. Gdy ramiona są w pełni wyprostowane, a tułów lekko pochylony w pasie, napnij mięśnie najszersze grzbietu, a następnie jesteś gotowy do rozpoczęcia ćwiczenia.",
+    "Utrzymując ramiona proste, ściągnij drążek w dół poprzez skurcz mięśni najszerszych grzbietu, aż dłonie znajdą się obok ud. Wykonując ten krok, wykonaj wydech.",
+    "Utrzymując ramiona proste, wróć do pozycji początkowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Geradarmiges Latziehen",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie die breite Stange vom oberen Kabelzug einer Latzugmaschine mit einem pronatierten (Handflächen nach unten gerichteten) Griff fassen, der breiter als schulterbreit ist. Treten Sie etwa zwei Fuß zurück.",
+    "Beugen Sie Ihren Oberkörper in der Hüfte um etwa 30 Grad nach vorne, wobei Ihre Arme vollständig vor Ihnen ausgestreckt sind und eine leichte Beugung in den Ellbogen aufweisen. Wenn Ihre Arme nicht vollständig gestreckt sind, müssen Sie etwas weiter zurücktreten, bis sie es sind. Sobald Ihre Arme vollständig gestreckt und Ihr Oberkörper leicht in der Hüfte gebeugt sind, spannen Sie den Latissimus dorsi an, und Sie sind bereit zu beginnen.",
+    "Halten Sie die Arme gestreckt und ziehen Sie die Stange durch Kontraktion des Latissimus dorsi nach unten, bis sich Ihre Hände seitlich neben den Oberschenkeln befinden. Atmen Sie bei dieser Bewegung aus.",
+    "Halten Sie die Arme gestreckt und kehren Sie atmend in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

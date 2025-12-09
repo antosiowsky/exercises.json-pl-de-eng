@@ -1,0 +1,56 @@
+{
+  "name": "Standing Low-Pulley One-Arm Triceps Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.",
+    "Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+    "Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Stojące jednoramienne wyprosty mięśnia trójgłowego ramienia z wyciągiem dolnym",
+  "instructions_pl": [
+    "Chwyć pojedynczy uchwyt lewą ręką, stojąc obok maszyny z wyciągiem dolnym. Odwróć się od maszyny, trzymając uchwyt z boku ciała, z ramieniem w pełni wyprostowanym. Następnie użyj obu rąk, aby unieść pojedynczy uchwyt bezpośrednio nad głowę, z dłonią skierowaną do przodu. Utrzymuj ramię (część między barkiem a łokciem) całkowicie pionowo (prostopadle do podłogi) i połóż prawą dłoń na lewym łokciu, aby pomóc w jego stabilizacji. To jest pozycja początkowa.",
+    "Utrzymując ramię blisko głowy (łokieć skierowany do środka) i prostopadle do podłogi, opuść obciążenie półkolistym ruchem za głowę, aż przedramię dotknie mięśnia dwugłowego ramienia. Wskazówka: Ramię powinno pozostać nieruchome, a poruszać się powinno jedynie przedramię. Wykonując ten krok, wykonaj wdech.",
+    "Wróć do pozycji początkowej, używając mięśnia trójgłowego ramienia do uniesienia pojedynczego uchwytu. Wykonując ten krok, wykonaj wydech.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń.",
+    "Zmień rękę i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Siłowe",
+  "name_de": "Stehendes einarmiges Trizepsstrecken am unteren Kabelzug",
+  "instructions_de": [
+    "Fassen Sie einen Einzelgriff mit dem linken Arm neben dem unteren Kabelzuggerät. Drehen Sie sich vom Gerät weg und halten Sie den Griff mit vollständig ausgestrecktem Arm seitlich am Körper. Heben Sie nun mit beiden Händen den Einzelgriff direkt über den Kopf, wobei die Handfläche nach vorne zeigt. Halten Sie den Oberarm vollständig vertikal (senkrecht zum Boden) und legen Sie die rechte Hand auf den linken Ellbogen, um diesen zu stabilisieren. Dies ist die Ausgangsposition.",
+    "Halten Sie die Oberarme nah am Kopf (Ellbogen eng anliegend) und senkrecht zum Boden. Senken Sie den Widerstand in einer halbkreisförmigen Bewegung hinter Ihren Kopf, bis die Unterarme den Musculus biceps brachii berühren. Tipp: Die Oberarme sollten stationär bleiben und nur die Unterarme bewegen sich. Atmen Sie während dieser Bewegung ein.",
+    "Kehren Sie zur Ausgangsposition zurück, indem Sie den Musculus triceps brachii nutzen, um den Einzelgriff anzuheben. Atmen Sie während dieser Bewegung aus.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Arme und wiederholen Sie die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

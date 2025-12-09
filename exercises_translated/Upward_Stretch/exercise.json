@@ -1,0 +1,47 @@
+{
+  "name": "Upward Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats"
+  ],
+  "instructions": [
+    "Extend both hands straight above your head, palms touching.",
+    "Slowly push your hands up and back, keeping your back straight."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie w górę",
+  "instructions_pl": [
+    "Wyciągnij obie ręce prosto nad głowę, łącząc dłonie.",
+    "Powoli wypychaj ręce w górę i do tyłu, utrzymując proste plecy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy",
+    "mięsień najszerszy grzbietu"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Aufwärtsstreckung",
+  "instructions_de": [
+    "Strecken Sie beide Hände gerade über Ihren Kopf, die Handflächen berühren sich.",
+    "Drücken Sie Ihre Hände langsam nach oben und nach hinten, und halten Sie dabei Ihren Rücken gerade."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Musculus latissimus dorsi"
+  ],
+  "category_de": "Dehnung"
+}

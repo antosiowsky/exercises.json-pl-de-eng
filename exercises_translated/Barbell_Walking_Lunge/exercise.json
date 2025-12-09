@@ -1,0 +1,56 @@
+{
+  "name": "Barbell Walking Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
+    "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
+    "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
+    "Step forward with your rear foot, repeating the lunge on the opposite leg."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wykroki chodzone ze sztangą",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i sztangą ułożoną na górnej części pleców.",
+    "Zrób krok w przód jedną nogą, uginając kolana, aby obniżyć biodra. Opuść się, aż tylne kolano niemal dotknie podłoża. Twoja postawa powinna pozostać wyprostowana, a przednie kolano powinno znajdować się nad przednią stopą.",
+    "Odepchnij się piętą nogi wykrocznej i wyprostuj oba kolana, aby podnieść się z powrotem do góry.",
+    "Zrób krok w przód tylną nogą, powtarzając wykrok na przeciwnej nodze."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie trójgłowe łydki",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Langhantel-Geh-Ausfallschritt",
+  "instructions_de": [
+    "Beginnen Sie im Stand mit schulterbreit auseinanderstehenden Füßen und einer Langhantel auf dem oberen Rücken.",
+    "Treten Sie mit einem Bein nach vorne und beugen Sie die Knie, um die Hüften zu senken. Senken Sie sich ab, bis Ihr hinteres Knie fast den Boden berührt. Ihre Haltung sollte aufrecht bleiben, und Ihr vorderes Knie sollte über dem vorderen Fuß bleiben.",
+    "Drücken Sie sich über die Ferse Ihres vorderen Fußes ab und strecken Sie beide Knie, um sich wieder aufzurichten.",
+    "Treten Sie mit Ihrem hinteren Fuß nach vorne und wiederholen Sie den Ausfallschritt mit dem anderen Bein."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

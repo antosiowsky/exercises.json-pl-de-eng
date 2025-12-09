@@ -1,0 +1,44 @@
+{
+  "name": "Shoulder Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
+    "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Krążenia barków",
+  "instructions_pl": [
+    "Z rozluźnionymi barkami i ramionami swobodnie opuszczonymi wzdłuż tułowia (lub opartymi na kolanach, jeśli siedzisz), delikatnie wykonuj krążenia barkami do przodu, w górę, do tyłu i w dół.",
+    "Zmień kierunek. Ćwiczenie to możesz wykonywać naprzemiennie barkami lub obydwoma jednocześnie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Schulterkreisen",
+  "instructions_de": [
+    "Mit entspannten Schultern und locker an den Seiten ruhenden Armen (oder auf dem Schoß, falls Sie sitzen), rollen Sie Ihre Schultern sanft nach vorne, nach oben, nach hinten und nach unten.",
+    "Wechseln Sie die Richtung. Sie können diese Übung abwechselnd mit jeder Schulter oder mit beiden gleichzeitig ausführen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Dehnung"
+}

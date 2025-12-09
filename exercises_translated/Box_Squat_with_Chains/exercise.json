@@ -1,0 +1,68 @@
+{
+  "name": "Box Squat with Chains",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
+    "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad na skrzynię z łańcuchami",
+  "instructions_pl": [
+    "Rozpocznij w klatce mocy (power rack) ze skrzynią o odpowiedniej wysokości za sobą. Zazwyczaj dąży się do wysokości skrzyni, która pozwala na przysiad równoległy, ale w razie potrzeby można trenować wyżej lub niżej.",
+    "Aby zamocować łańcuchy, zacznij od przełożenia łańcucha prowadzącego przez tuleje sztangi. Ciężki łańcuch powinien być przymocowany za pomocą karabińczyka. Dostosuj długość łańcucha prowadzącego tak, aby kilka ogniw nadal znajdowało się na podłodze w górnej fazie ruchu.",
+    "Rozpocznij, wchodząc pod sztangę i umieszczając ją na tylnej części barków. Ściśnij łopatki i obróć łokcie do przodu, próbując 'zginać' sztangę na barkach. Zdejmij sztangę ze stojaków, tworząc mocne wygięcie (łuk) w dolnej części pleców, i cofnij się do pozycji. Rozstaw stopy szerzej, aby bardziej zaangażować mięśnie grzbietu, mięśnie pośladkowe, mięśnie przywodziciele i mięśnie kulszowo-goleniowe, lub bliżej siebie dla większego rozwoju mięśni czworogłowych uda. Utrzymuj głowę skierowaną do przodu.",
+    "Mając napięte mięśnie grzbietu, barków i tułowia, wypchnij kolana i pośladki na zewnątrz, rozpoczynając opuszczanie. Usiądź biodrami do tyłu, aż znajdziesz się na skrzyni. Idealnie, twoje piszczele powinny być prostopadłe do podłoża. Zatrzymaj się, gdy dotrzesz do skrzyni, i rozluźnij zginacze stawu biodrowego. Nigdy nie odbijaj się od skrzyni.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, wybij się w górę ze skrzyni, prowadząc ruch głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głów."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie odwodziciele",
+    "Mięśnie przywodziciele",
+    "Mięśnie łydek",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie dolnego odcinka grzbietu"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Boxkniebeuge mit Ketten",
+  "instructions_de": [
+    "Beginnen Sie in einem Power Rack mit einer Box in der passenden Höhe hinter Ihnen. Typischerweise streben Sie eine Boxhöhe an, die Sie in eine parallele Kniebeuge bringt, Sie können jedoch bei Bedarf höher oder tiefer trainieren.",
+    "Um die Ketten anzubringen, beginnen Sie damit, die Führungskette über die Hantelstangenaufnahmen zu legen. Die schwere Kette sollte mit einem Karabinerhaken befestigt werden. Passen Sie die Länge der Führungskette so an, dass am oberen Punkt der Bewegung noch einige Glieder auf dem Boden liegen.",
+    "Beginnen Sie, indem Sie unter die Hantel treten und diese auf dem oberen Rücken ablegen. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Hantel über Ihre Schultern zu biegen. Heben Sie die Hantel aus dem Rack, bilden Sie ein festes Hohlkreuz im unteren Rücken und treten Sie in Position zurück. Stellen Sie Ihre Füße breiter für eine stärkere Betonung von Rücken, Gesäßmuskulatur, Adduktoren und Oberschenkelbeugern, oder enger zusammen für eine stärkere Entwicklung des Quadrizeps. Halten Sie Ihren Kopf nach vorne gerichtet.",
+    "Mit angespanntem Rücken, Schultern und Rumpf drücken Sie Knie und Gesäß nach außen, während Sie die Abwärtsbewegung beginnen. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Pausieren Sie, wenn Sie die Box erreichen, und entspannen Sie die Hüftbeuger. Federn Sie niemals von der Box ab.",
+    "Halten Sie das Gewicht auf den Fersen und drücken Sie Füße und Knie nach außen, während Sie sich von der Box nach oben drücken und die Bewegung mit dem Kopf anführen. Setzen Sie die Aufwärtsbewegung fort, wobei Sie die Spannung von Kopf bis Fuß beibehalten."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Oberschenkelbeuger",
+    "unterer Rücken"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Smith Machine Incline Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Place an incline bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the incline bench and make sure your upper chest is aligned with the barbell. Using a pronated grip (palms facing forward) that is wider than shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "As you breathe in, come down slowly until you feel the bar on your upper chest.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej na suwnicy Smitha",
+  "instructions_pl": [
+    "Ustaw ławkę skośną pod suwnicą Smitha. Ustaw sztangę na wysokości, którą możesz dosięgnąć, leżąc na ławce, z ramionami niemal całkowicie wyprostowanymi. Po wybraniu odpowiedniego obciążenia, połóż się na ławce skośnej i upewnij się, że górna część klatki piersiowej jest wyrównana ze sztangą. Używając nachwytu (dłonie skierowane do przodu) szerszego niż szerokość barków, odblokuj sztangę z blokad i trzymaj ją prosto nad sobą z zablokowanymi ramionami. Będzie to Twoja pozycja początkowa.",
+    "Podczas wdechu, powoli opuść sztangę, aż poczujesz ją na górnej części klatki piersiowej.",
+    "Po sekundowej pauzie, unieś sztangę z powrotem do pozycji początkowej, wykonując wydech i wypychając sztangę mięśniami klatki piersiowej. Zablokuj ramiona w pozycji maksymalnego skurczu, przytrzymaj przez sekundę, a następnie ponownie zacznij powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch dla przepisanej liczby powtórzeń.",
+    "Po zakończeniu, odłóż sztangę z powrotem na blokady."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Schrägbankdrücken an der Smith-Maschine",
+  "instructions_de": [
+    "Stellen Sie eine Schrägbank unter die Smith-Maschine. Positionieren Sie die Langhantel auf einer Höhe, die Sie im Liegen mit fast vollständig gestreckten Armen erreichen können. Nachdem Sie das gewünschte Gewicht ausgewählt haben, legen Sie sich auf die Schrägbank und achten Sie darauf, dass Ihr oberer Brustbereich mit der Langhantel ausgerichtet ist. Fassen Sie die Stange mit einem Pronationsgriff (Handflächen zeigen nach vorne), der breiter als schulterbreit ist, entriegeln Sie die Stange aus der Halterung und halten Sie sie mit gestreckten Armen direkt über sich. Dies ist Ihre Ausgangsposition.",
+    "Während Sie einatmen, senken Sie die Stange langsam ab, bis Sie sie auf Ihrem oberen Brustbereich spüren.",
+    "Nach einer kurzen Pause von einer Sekunde drücken Sie die Stange beim Ausatmen mit Ihren Brustmuskeln zurück in die Ausgangsposition. Strecken Sie die Arme in der kontrahierten Position vollständig durch, halten Sie diese Position eine Sekunde lang und beginnen Sie dann erneut, die Stange langsam abzusenken. Tipp: Das Absenken sollte mindestens doppelt so lange dauern wie das Hochdrücken.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Stange wieder in die Halterung zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskeln",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

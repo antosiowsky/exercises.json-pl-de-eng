@@ -1,0 +1,47 @@
+{
+  "name": "Weighted Crunches",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on your back with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle.",
+    "Hold a weight to your chest, or you may hold it extended above your torso. This will be your starting position.",
+    "Now, exhale and slowly begin to roll your shoulders off the floor. Your shoulders should come up off the floor about 4 inches while your lower back remains on the floor.",
+    "At the top of the movement, flex your abdominals and hold for a brief pause.",
+    "Then inhale and slowly lower yourself back down to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "piłka lekarska",
+  "equipment_de": "Medizinball",
+  "name_pl": "Spięcia brzucha z obciążeniem",
+  "instructions_pl": [
+    "Połóż się płasko na plecach, ze stopami płasko na ziemi lub opartymi na ławce, z kolanami zgiętymi pod kątem 90 stopni.",
+    "Trzymaj obciążenie przy klatce piersiowej lub możesz trzymać je wyciągnięte nad tułowiem. Będzie to Twoja pozycja wyjściowa.",
+    "Teraz wykonaj wydech i powoli zacznij odrywać barki od podłogi. Twoje barki powinny unieść się około 4 cali (ok. 10 cm) nad podłogę, podczas gdy dolna część pleców pozostaje na podłodze.",
+    "W szczytowym momencie ruchu napnij mięśnie brzucha i przytrzymaj przez krótką chwilę.",
+    "Następnie wykonaj wdech i powoli opuść się z powrotem do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Gewichtete Crunches",
+  "instructions_de": [
+    "Legen Sie sich flach auf den Rücken, die Füße flach auf dem Boden oder auf einer Bank abgelegt, wobei die Knie in einem 90-Grad-Winkel gebeugt sind.",
+    "Halten Sie ein Gewicht an Ihre Brust, oder halten Sie es ausgestreckt über Ihrem Oberkörper. Dies ist Ihre Ausgangsposition.",
+    "Atmen Sie nun aus und beginnen Sie langsam, Ihre Schultern vom Boden zu lösen. Ihre Schultern sollten etwa 10 cm (ca. 4 Zoll) vom Boden abheben, während Ihr unterer Rücken auf dem Boden bleibt.",
+    "Am höchsten Punkt der Bewegung spannen Sie Ihre Bauchmuskeln an und halten Sie kurz inne.",
+    "Atmen Sie dann ein und senken Sie sich langsam wieder in die Ausgangsposition ab."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

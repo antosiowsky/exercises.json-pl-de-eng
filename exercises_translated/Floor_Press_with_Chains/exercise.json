@@ -1,0 +1,53 @@
+{
+  "name": "Floor Press with Chains",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Adjust the j-hooks so they are at the appropriate height to rack the bar. For this exercise, drape the chains directly over the end of the bar, trying to keep the ends away from the plates.",
+    "Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together, pull the bar off of the hooks.",
+    "Lower the bar towards the bottom of your chest or upper stomach, squeezing the bar and attempting to pull it apart as you do so. Ensure that you tuck your elbows throughout the movement. Lower the bar until your upper arm contacts the ground and pause, preventing any slamming or bouncing of the weight.",
+    "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie podłogowe z łańcuchami",
+  "instructions_pl": [
+    "Dostosuj haki J tak, aby znajdowały się na odpowiedniej wysokości do zdjęcia sztangi. W tym ćwiczeniu, zarzuć łańcuchy bezpośrednio na końce sztangi, starając się, aby ich końce znajdowały się z dala od talerzy.",
+    "Połóż się na podłodze, z głową blisko końca klatki mocy. Utrzymując ściągnięte łopatki, zdejmij sztangę z haków.",
+    "Opuść sztangę w kierunku dolnej części klatki piersiowej lub górnej części brzucha, ściskając ją i próbując 'rozciągnąć' w trakcie opuszczania. Upewnij się, że trzymasz łokcie blisko tułowia przez cały ruch. Opuść sztangę, aż ramię dotknie podłoża, i zatrzymaj ruch, zapobiegając uderzaniu lub odbijaniu ciężaru.",
+    "Wyciśnij sztangę z powrotem w górę tak szybko, jak potrafisz, utrzymując sztangę, nadgarstki i łokcie w jednej linii podczas ruchu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Bodenbankdrücken mit Ketten",
+  "instructions_de": [
+    "Stellen Sie die J-Hooks so ein, dass sie die passende Höhe haben, um die Langhantel abzulegen. Für diese Übung legen Sie die Ketten direkt über die Enden der Langhantelstange, wobei Sie versuchen, die Enden von den Hantelscheiben fernzuhalten.",
+    "Legen Sie sich auf den Boden, mit dem Kopf nahe am Ende eines Power Racks. Halten Sie Ihre Schulterblätter zusammengezogen und heben Sie die Langhantel von den J-Hooks ab.",
+    "Senken Sie die Langhantel in Richtung des unteren Teils Ihrer Brust oder des oberen Bauches ab, wobei Sie die Hantel fest umgreifen und versuchen, sie auseinanderzuziehen. Achten Sie darauf, Ihre Ellbogen während der gesamten Bewegung eng am Körper zu halten. Senken Sie die Langhantel, bis Ihr Oberarm den Boden berührt, und pausieren Sie, um ein Aufschlagen oder Abprallen des Gewichts zu verhindern.",
+    "Drücken Sie die Langhantel so schnell wie möglich wieder nach oben, wobei Sie die Langhantel, Ihre Handgelenke und Ellbogen in einer Linie halten."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

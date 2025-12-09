@@ -1,0 +1,59 @@
+{
+  "name": "Kettlebell Turkish Get-Up (Squat style)",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
+    "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position.",
+    "Using your free hand, push yourself to a seated position, then progressing to your feet. While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Tureckie Wstawanie z Kettlebell (Styl Przysiadu)",
+  "instructions_pl": [
+    "Połóż się na plecach na podłodze i wyciśnij kettlebell do pozycji górnej, prostując staw łokciowy. Zegnij kolano po tej samej stronie, co kettlebell.",
+    "Utrzymując kettlebell z zablokowanym stawem łokciowym przez cały czas, obróć się na przeciwną stronę i użyj wolnej ręki, aby pomóc sobie w przejściu do pozycji wykroku.",
+    "Używając wolnej ręki, odepchnij się do pozycji siedzącej, a następnie przejdź do stania. Patrząc w górę na kettlebell, powoli wstań. Odwróć ruch, wracając do pozycji początkowej i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe",
+    "mięsień czworogłowy uda",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kettlebell Turkish Get-Up (Kniebeugen-Stil)",
+  "instructions_de": [
+    "Legen Sie sich auf den Rücken auf den Boden und drücken Sie eine Kettlebell durch Strecken des Ellbogens in die obere Position. Beugen Sie das Knie auf der gleichen Seite wie die Kettlebell.",
+    "Halten Sie die Kettlebell jederzeit vollständig ausgestreckt, drehen Sie sich zur gegenüberliegenden Seite und nutzen Sie Ihren freien Arm, um sich in die Ausfallschrittposition vorzuarbeiten.",
+    "Nutzen Sie Ihre freie Hand, um sich in eine sitzende Position zu drücken und anschließend auf die Füße zu kommen. Während Sie zur Kettlebell aufblicken, stehen Sie langsam auf. Führen Sie die Bewegung zurück in die Ausgangsposition und wiederholen Sie."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculi tricipites surae",
+    "Musculi ischiocrurales",
+    "Musculus quadriceps femoris",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

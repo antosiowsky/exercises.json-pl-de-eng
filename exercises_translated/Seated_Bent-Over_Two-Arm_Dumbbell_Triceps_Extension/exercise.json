@@ -1,0 +1,50 @@
+{
+  "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit down at the end of a flat bench with a dumbbell in both arms using a neutral grip (palms of the hand facing you).",
+    "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
+    "The upper arms with the dumbbells should be close to the torso and aligned with it (lifted up until they are parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights). Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
+    "Keeping the upper arms stationary, use the triceps to lift the weight as you exhale until the forearms are parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves.",
+    "After a second contraction at the top, slowly lower the dumbbells back to the starting position as you inhale.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Siedzące wyprosty ramion na mięsień trójgłowy ramienia w opadzie tułowia oburącz z hantlami",
+  "instructions_pl": [
+    "Usiądź na końcu płaskiej ławki, trzymając hantel w każdej ręce chwytem neutralnym (dłonie skierowane do siebie).",
+    "Lekko ugnij kolana i pochyl tułów do przodu, zginając się w pasie, jednocześnie utrzymując proste plecy, aż tułów będzie prawie równoległy do podłogi. Upewnij się, że głowa jest uniesiona.",
+    "Ramiona z hantlami powinny znajdować się blisko tułowia i być z nim wyrównane (uniesione tak, aby były równoległe do podłogi, podczas gdy przedramiona są skierowane w dół, a dłonie trzymają ciężarki). Wskazówka: Pomiędzy przedramionami a ramionami powinien być kąt 90 stopni. To jest Twoja pozycja początkowa.",
+    "Utrzymując ramiona nieruchomo, użyj mięśnia trójgłowego ramienia, aby unieść ciężar podczas wydechu, aż przedramiona będą równoległe do podłogi, a całe ramię wyprostowane. Podobnie jak w wielu innych ćwiczeniach na ramiona, porusza się tylko przedramię.",
+    "Po sekundowej fazie skurczu w górnej pozycji, powoli opuść hantle z powrotem do pozycji początkowej podczas wdechu.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes vorgebeugtes beidarmiges Kurzhantel-Trizepsstrecken",
+  "instructions_de": [
+    "Setzen Sie sich an das Ende einer Flachbank, mit Kurzhanteln in beiden Händen im neutralen Griff (Handflächen zeigen zum Körper).",
+    "Beugen Sie die Knie leicht und lehnen Sie den Oberkörper aus der Hüfte nach vorne, wobei der Rücken gerade bleibt, bis er fast parallel zum Boden ist. Achten Sie darauf, den Kopf oben zu halten.",
+    "Die Oberarme mit den Kurzhanteln sollten nah am Oberkörper anliegen und parallel zum Boden ausgerichtet sein, während die Unterarme senkrecht zum Boden zeigen und die Hände die Gewichte halten. Tipp: Zwischen Unterarmen und Oberarmen sollte ein 90-Grad-Winkel bestehen. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme stationär und heben Sie die Gewichte unter Einsatz des Trizeps beim Ausatmen an, bis die Unterarme parallel zum Boden sind und der gesamte Arm gestreckt ist. Wie bei vielen anderen Armübungen bewegt sich nur der Unterarm.",
+    "Nach einer kurzen Kontraktion am höchsten Punkt senken Sie die Kurzhanteln beim Einatmen langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

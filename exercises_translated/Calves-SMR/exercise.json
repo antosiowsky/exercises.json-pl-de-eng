@@ -1,0 +1,38 @@
+{
+  "name": "Calves-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin seated on the floor. Place a foam roller underneath your lower leg. Your other leg can either be crossed over the opposite or be placed on the floor, supporting some of your weight. This will be your starting position.",
+    "Place your hands to your side or just behind you, and press down to raise your hips off of the floor, placing much of your weight against your calf muscle. Roll from below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat for the other leg."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Automasaż mięśni łydek",
+  "instructions_pl": [
+    "Usiądź na podłodze. Umieść wałek piankowy (foam roller) pod podudziem. Druga noga może być skrzyżowana nad pierwszą lub oparta na podłodze, podpierając część ciężaru ciała. Będzie to Twoja pozycja wyjściowa.",
+    "Oprzyj dłonie po bokach ciała lub tuż za sobą i naciśnij, aby unieść biodra z podłogi, przenosząc znaczną część ciężaru ciała na mięsień łydki. Przetaczaj wałek od obszaru poniżej kolana do obszaru powyżej kostki, zatrzymując się w punktach napięcia na 10-30 sekund. Powtórz dla drugiej nogi."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "SMR des Musculus triceps surae",
+  "instructions_de": [
+    "Setzen Sie sich auf den Boden. Platzieren Sie eine Faszienrolle unter Ihrem Unterschenkel. Ihr anderes Bein kann entweder über das andere Bein gekreuzt oder auf dem Boden abgestellt werden, um einen Teil Ihres Gewichts zu stützen. Dies ist Ihre Ausgangsposition.",
+    "Platzieren Sie Ihre Hände seitlich neben sich oder leicht hinter sich, stützen Sie sich mit den Händen ab und heben Sie Ihre Hüften vom Boden ab, wobei Sie einen Großteil Ihres Gewichts auf Ihren Musculus triceps surae verlagern. Rollen Sie von unterhalb des Knies bis oberhalb des Sprunggelenks und verweilen Sie an Spannungspunkten für 10-30 Sekunden. Wiederholen Sie dies für das andere Bein."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ab Crunch Machine",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Select a light resistance and sit down on the ab machine placing your feet under the pads provided and grabbing the top handles. Your arms should be bent at a 90 degree angle as you rest the triceps on the pads provided. This will be your starting position.",
+    "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
+    "After a second pause, slowly return to the starting position as you breathe in.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Maszyna do spięć brzucha",
+  "instructions_pl": [
+    "Wybierz lekki opór i usiądź na maszynie do spięć brzucha, umieszczając stopy pod dostarczonymi poduszkami i chwytając górne uchwyty. Twoje ramiona powinny być zgięte pod kątem 90 stopni, opierając mięśnie trójgłowe ramion na dostarczonych poduszkach. Będzie to Twoja pozycja wyjściowa.",
+    "Jednocześnie zacznij unosić nogi, wykonując spięcie górnej części tułowia. Wykonując ten ruch, wydychaj powietrze. Wskazówka: Pamiętaj o wykonywaniu ruchu w sposób powolny i kontrolowany. Skoncentruj się na używaniu mięśni brzucha do przesuwania ciężaru, jednocześnie rozluźniając nogi i stopy.",
+    "Po sekundowej pauzie powoli wróć do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Bauchpresse-Maschine",
+  "instructions_de": [
+    "Wählen Sie einen leichten Widerstand und setzen Sie sich auf die Bauchpresse-Maschine, indem Sie Ihre Füße unter die dafür vorgesehenen Polster legen und die oberen Griffe fassen. Ihre Arme sollten in einem 90-Grad-Winkel gebeugt sein, während Sie die Trizeps auf den dafür vorgesehenen Polstern ablegen. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie gleichzeitig die Beine an, während Sie den Oberkörper einrollen. Atmen Sie während dieser Bewegung aus. Tipp: Achten Sie auf eine langsame und kontrollierte Bewegung. Konzentrieren Sie sich darauf, Ihre Bauchmuskeln einzusetzen, um das Gewicht zu bewegen, während Sie Ihre Beine und Füße entspannen.",
+    "Nach einer einsekündigen Pause kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

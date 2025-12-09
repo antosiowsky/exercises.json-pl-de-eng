@@ -1,0 +1,62 @@
+{
+  "name": "Standing Cable Lift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
+    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+    "With your feet positioned shoulder width apart, squat down and grab the handle with both hands. Your arms should still be fully extended.",
+    "In one motion, pull the handle up and across your body until your arms are in a fully-extended position above your head.",
+    "Keep your back straight and your arms close to your body as you pivot your back foot and straighten your legs to get a full range of motion.",
+    "Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Unoszenie linki stojąc",
+  "instructions_pl": [
+    "Podłącz standardowy uchwyt do wyciągu i przesuń linkę do najniższej pozycji bloczka.",
+    "Ustaw się bokiem do wyciągu, chwyć uchwyt jedną ręką i odsuń się od wieży. Powinieneś znajdować się w odległości około wyciągniętej ręki od bloczka, z napięciem ciężaru na lince. Twoje wyprostowane ramię powinno być wyrównane z linką.",
+    "Ustaw stopy na szerokość barków, wykonaj przysiad i chwyć uchwyt obiema rękami. Twoje ramiona powinny być nadal w pełni wyprostowane.",
+    "Jednym płynnym ruchem pociągnij uchwyt w górę i w poprzek ciała, aż ramiona znajdą się w pozycji w pełni wyprostowanej nad głową.",
+    "Utrzymuj proste plecy i ramiona blisko ciała, obracając tylną stopę i prostując nogi, aby uzyskać pełny zakres ruchu.",
+    "Cofnij ramiona, a następnie ciało. Wróć do pozycji neutralnej w sposób powolny i kontrolowany.",
+    "Powtarzaj do upadku mięśniowego.",
+    "Następnie zmień ustawienie i powtórz tę samą serię ruchów po przeciwnej stronie."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Diagonales Kabelzugheben stehend",
+  "instructions_de": [
+    "Befestigen Sie einen Standardgriff an einem Kabelzugturm und stellen Sie das Kabel auf die unterste Rollenposition ein.",
+    "Stellen Sie sich seitlich zum Kabelzug, greifen Sie den Griff mit einer Hand und treten Sie vom Turm weg. Sie sollten etwa eine Armlänge von der Rolle entfernt sein, sodass Spannung auf dem Kabel lastet. Ihr ausgestreckter Arm sollte mit dem Kabel ausgerichtet sein.",
+    "Stellen Sie Ihre Füße schulterbreit auseinander, gehen Sie in die Hocke und greifen Sie den Griff mit beiden Händen. Ihre Arme sollten immer noch vollständig gestreckt sein.",
+    "Ziehen Sie in einer fließenden Bewegung den Griff nach oben und diagonal über Ihren Körper, bis Ihre Arme vollständig über Ihrem Kopf gestreckt sind.",
+    "Halten Sie Ihren Rücken gerade und Ihre Arme nah am Körper, während Sie Ihren hinteren Fuß drehen und Ihre Beine strecken, um einen vollen Bewegungsumfang zu erreichen.",
+    "Führen Sie Ihre Arme und anschließend Ihren Körper zurück. Kehren Sie langsam und kontrolliert in die Ausgangsposition zurück.",
+    "Wiederholen Sie bis zum Muskelversagen.",
+    "Wechseln Sie dann die Seite und wiederholen Sie die gleiche Bewegungsabfolge auf der gegenüberliegenden Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Deltamuskeln"
+  ],
+  "category_de": "Kraft"
+}

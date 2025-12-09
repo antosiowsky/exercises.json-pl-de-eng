@@ -1,0 +1,47 @@
+{
+  "name": "Jerk Dip Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
+    "Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad z ugięciem podrzutowym",
+  "instructions_pl": [
+    "To ćwiczenie wzmacnia fazę ugięcia w podrzucie. Rozpocznij ze sztangą spoczywającą w pozycji do podrzutu, z barkami wysuniętymi do przodu w celu utworzenia półki i sztangą lekko dotykającą gardła. Stopy powinny znajdować się bezpośrednio pod biodrami, z palcami stóp skierowanymi na zewnątrz w komfortowym zakresie.",
+    "Utrzymując tułów w pozycji pionowej, wykonaj ugięcie, zginając kolana, pozwalając im przemieszczać się do przodu i bez cofania bioder. Ugięcie nie powinno być nadmierne. Wróć do pozycji początkowej poprzez dynamiczne wybicie ze stóp."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek"
+  ],
+  "category_pl": "Dwubój olimpijski",
+  "name_de": "Ausstoß-Dip-Kniebeuge",
+  "instructions_de": [
+    "Diese Übung stärkt die Dip-Phase des Ausstoßes. Beginnen Sie mit der Langhantel in der Ausstoßposition auf den Schultern abgelegt, wobei die Schultern nach vorne gebracht werden, um eine Ablage zu bilden, und die Hantel leicht den Hals berührt. Die Füße sollten sich direkt unter den Hüften befinden, wobei die Fußspitzen bequem nach außen zeigen.",
+    "Halten Sie den Oberkörper aufrecht, senken Sie sich ab, indem Sie die Knie beugen, wobei Sie zulassen, dass diese sich nach vorne bewegen und ohne die Hüften nach hinten zu verschieben. Der Dip sollte nicht übermäßig tief sein. Kehren Sie in die Ausgangsposition zurück, indem Sie sich kraftvoll über die Füße abdrücken."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Wadenmuskulatur"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

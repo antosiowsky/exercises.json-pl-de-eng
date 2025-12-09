@@ -1,0 +1,62 @@
+{
+  "name": "Seated One-arm Cable Pulley Rows",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "traps"
+  ],
+  "instructions": [
+    "To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+    "Lean over as you keep the natural alignment of your back and grab the single handle attachment with your left arm using a palms-down grip.",
+    "With your arm extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lat as you hold the bar in front of you. The right arm can be kept by the waist. This is the starting position of the exercise.",
+    "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it as you rotate the wrist, so that by the time your hand is by your abdominals it is in a neutral position (palms facing the torso). Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard.",
+    "Hold that contraction for a second and slowly go back to the original position while breathing in. Tip: Remember to rotate the wrist as you go back to the starting position so that the palms are facing down again.",
+    "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wiosłowanie jednorącz na wyciągu siedząc",
+  "instructions_pl": [
+    "Aby przyjąć pozycję początkową, usiądź na maszynie i umieść stopy na przedniej platformie lub poprzeczce, upewniając się, że kolana są lekko ugięte i nie zablokowane.",
+    "Pochyl się do przodu, zachowując naturalne ułożenie kręgosłupa, i chwyć pojedynczy uchwyt lewą ręką chwytem pronacyjnym (dłoń skierowana w dół).",
+    "Z wyciągniętym ramieniem odchyl się do tyłu, aż tułów znajdzie się pod kątem 90 stopni względem nóg. Plecy powinny być lekko wygięte w łuk, a klatka piersiowa wypchnięta. Powinieneś czuć przyjemne rozciąganie mięśnia najszerszego grzbietu, trzymając uchwyt przed sobą. Prawe ramię może być trzymane przy talii. Jest to pozycja początkowa ćwiczenia.",
+    "Utrzymując tułów nieruchomo, przyciągnij uchwyt do tułowia, trzymając ramię blisko ciała i jednocześnie obracając nadgarstek, tak aby w momencie, gdy dłoń znajdzie się przy mięśniach brzucha, była w pozycji neutralnej (dłoń skierowana w stronę tułowia). Wykonując ten ruch, wydychaj powietrze. W tym momencie powinieneś mocno ściskać mięśnie grzbietu.",
+    "Przytrzymaj to napięcie przez sekundę i powoli wróć do pozycji wyjściowej, wciągając powietrze. Wskazówka: Pamiętaj o obrocie nadgarstka podczas powrotu do pozycji początkowej, tak aby dłoń ponownie była skierowana w dół.",
+    "Powtórz zalecaną liczbę powtórzeń, a następnie wykonaj ten sam ruch prawą ręką."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięsień najszerszy grzbietu",
+    "mięsień czworoboczny grzbietu"
+  ],
+  "category_pl": "Siłowy",
+  "name_de": "Sitzendes einarmiges Kabelzugrudern",
+  "instructions_de": [
+    "Um in die Ausgangsposition zu gelangen, setzen Sie sich zuerst auf das Gerät und stellen Sie Ihre Füße auf die vorgesehene vordere Plattform oder Querstange, wobei Sie darauf achten, dass Ihre Knie leicht gebeugt und nicht durchgestreckt sind.",
+    "Beugen Sie sich nach vorne, während Sie die natürliche Ausrichtung Ihres Rückens beibehalten, und greifen Sie den Einzelgriff mit Ihrem linken Arm im Obergriff (Handfläche nach unten).",
+    "Ziehen Sie mit ausgestrecktem Arm zurück, bis Ihr Oberkörper einen 90-Grad-Winkel zu Ihren Beinen bildet. Ihr Rücken sollte leicht gewölbt und Ihre Brust herausgestreckt sein. Sie sollten eine angenehme Dehnung Ihres Musculus latissimus dorsi spüren, während Sie den Griff vor sich halten. Der rechte Arm kann an der Taille gehalten werden. Dies ist die Ausgangsposition der Übung.",
+    "Halten Sie den Oberkörper stabil und ziehen Sie den Griff zurück zu Ihrem Oberkörper, während Sie den Arm nah am Körper halten und das Handgelenk drehen, sodass Ihre Hand, wenn sie sich auf Höhe Ihrer Bauchmuskeln befindet, in einer neutralen Position ist (Handfläche zum Oberkörper zeigend). Atmen Sie aus, während Sie diese Bewegung ausführen. Zu diesem Zeitpunkt sollten Sie Ihre Rückenmuskulatur fest anspannen.",
+    "Halten Sie diese Kontraktion für eine Sekunde und kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen. Tipp: Denken Sie daran, das Handgelenk beim Zurückkehren in die Ausgangsposition zu drehen, sodass die Handflächen wieder nach unten zeigen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie anschließend die gleiche Bewegung mit der rechten Hand aus."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Musculus latissimus dorsi",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

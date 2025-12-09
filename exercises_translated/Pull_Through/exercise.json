@@ -1,0 +1,47 @@
+{
+  "name": "Pull Through",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin standing a few feet in front of a low pulley with a rope or handle attached. Face away from the machine, straddling the cable, with your feet set wide apart.",
+    "Begin the movement by reaching through your legs as far as possible, bending at the hips. Keep your knees slightly bent. Keeping your arms straight, extend through the hip to stand straight up. Avoid pulling upward through the shoulders; all of the motion should originate through the hips."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Wypychanie bioder z linką wyciągu dolnego",
+  "instructions_pl": [
+    "Rozpocznij, stojąc kilkadziesiąt centymetrów przed niskim wyciągiem z przymocowaną liną lub uchwytem. Odwróć się plecami do maszyny, rozkrocz się nad linką, stopy rozstaw szeroko.",
+    "Rozpocznij ruch, sięgając rękami jak najdalej między nogi, zginając się w stawach biodrowych. Utrzymuj kolana lekko ugięte. Trzymając ramiona prosto, wyprostuj się, wykonując wyprost w stawach biodrowych. Unikaj angażowania barków do podciągania ciężaru w górę; cały ruch powinien pochodzić z bioder."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego kręgosłupa"
+  ],
+  "category_pl": "siła",
+  "name_de": "Kabelzug-Pull-Through",
+  "instructions_de": [
+    "Stellen Sie sich einige Schritte vor einen tiefen Kabelzug, an dem ein Seil oder Griff befestigt ist. Wenden Sie der Maschine den Rücken zu, mit dem Kabel zwischen den Beinen und weit auseinander stehenden Füßen.",
+    "Beginnen Sie die Bewegung, indem Sie mit dem Seil/Griff so weit wie möglich durch die Beine greifen und sich dabei in den Hüften beugen. Halten Sie die Knie leicht gebeugt. Halten Sie die Arme gestreckt und richten Sie sich durch Strecken der Hüfte vollständig auf. Vermeiden Sie ein Hochziehen aus den Schultern; die gesamte Bewegung sollte ihren Ursprung in der Hüfte haben."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur",
+    "Muskulatur des unteren Rückens"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Underhand Cable Pulldowns",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the pull-down bar with the palms facing your torso (a supinated grip). Make sure that the hands are placed closer than the shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "As you breathe out, pull the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the fully contracted position and keep the elbows close to your body. The upper torso should remain stationary as your bring the bar to you and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second on the contracted position, while breathing in, slowly bring the bar back to the starting position when your arms are fully extended and the lats are fully stretched.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie drążka wyciągu górnego podchwytem",
+  "instructions_pl": [
+    "Usiądź na maszynie do ściągania drążka wyciągu górnego z szerokim drążkiem przymocowanym do górnego bloczka. Dostosuj poduszki na kolana maszyny do swojego wzrostu. Poduszki te zapobiegną unoszeniu się ciała przez opór przymocowany do drążka.",
+    "Chwyć drążek wyciągu górnego dłońmi skierowanymi do tułowia (chwyt podchwytem). Upewnij się, że dłonie są ułożone węziej niż szerokość barków.",
+    "Gdy masz oba ramiona wyprostowane przed sobą, trzymając drążek z wybraną szerokością chwytu, odchyl tułów do tyłu o około 30 stopni, jednocześnie tworząc naturalną krzywiznę w odcinku lędźwiowym kręgosłupa i wypinając klatkę piersiową. To jest twoja pozycja początkowa.",
+    "Podczas wydechu ściągnij drążek w dół, aż dotknie górnej części klatki piersiowej, poprzez ściąganie barków i ramion w dół i do tyłu. Wskazówka: Skoncentruj się na maksymalnym napięciu mięśni grzbietu po osiągnięciu pozycji pełnego skurczu i trzymaj łokcie blisko ciała. Górna część tułowia powinna pozostać nieruchoma podczas przyciągania drążka, a poruszać się powinny jedynie ramiona. Przedramiona nie powinny wykonywać żadnej innej pracy poza utrzymywaniem drążka.",
+    "Po sekundzie w pozycji skurczu, podczas wdechu, powoli wróć drążkiem do pozycji początkowej, aż ramiona będą w pełni wyprostowane, a mięśnie najszersze grzbietu całkowicie rozciągnięte.",
+    "Powtórz ten ruch przez zaleconą liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień dwugłowy ramienia",
+    "mięśnie środkowej części grzbietu",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Latzug im Untergriff",
+  "instructions_de": [
+    "Setzen Sie sich an eine Latzugmaschine mit einer breiten Stange, die am oberen Seilzug befestigt ist. Passen Sie die Kniepolster der Maschine an Ihre Körpergröße an. Diese Polster verhindern, dass Ihr Körper durch den an der Stange befestigten Widerstand nach oben gezogen wird.",
+    "Greifen Sie die Latzugstange mit den Handflächen zum Oberkörper zeigend (im Untergriff). Achten Sie darauf, dass die Hände enger als schulterbreit platziert sind.",
+    "Während beide Arme vor Ihnen ausgestreckt sind und die Stange im gewählten Griff gehalten wird, lehnen Sie Ihren Oberkörper um etwa 30 Grad zurück, während Sie ein leichtes Hohlkreuz bilden und die Brust herausstrecken. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen ziehen Sie die Stange nach unten, bis sie Ihre obere Brust berührt, indem Sie die Schultern und Oberarme nach unten und hinten ziehen. Tipp: Konzentrieren Sie sich darauf, die Rückenmuskulatur in der vollständig kontrahierten Position fest anzuspannen und die Ellenbogen nah am Körper zu halten. Der obere Oberkörper sollte stabil bleiben, während Sie die Stange zu sich ziehen, und nur die Arme sollten sich bewegen. Die Unterarme sollten keine andere Arbeit verrichten, als die Stange zu halten.",
+    "Nach einer Sekunde in der kontrahierten Position, während Sie einatmen, führen Sie die Stange langsam in die Ausgangsposition zurück, wenn Ihre Arme vollständig gestreckt sind und der Musculus latissimus dorsi vollständig gedehnt ist.",
+    "Wiederholen Sie diese Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus biceps brachii",
+    "Mittlerer Rücken",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Krafttraining"
+}

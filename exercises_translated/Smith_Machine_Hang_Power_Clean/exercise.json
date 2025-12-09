@@ -1,0 +1,68 @@
+{
+  "name": "Smith Machine Hang Power Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Position the bar at knee height and load it to an appropriate weight.",
+    "Take a pronated grip on the bar outside of shoulder width and unhook the bar from the machine. Your arms should be fully extended with your head and chest up. Your elbows should be pointed out with your shoulders back and down. Your hips should be back, loading the tension into the hamstrings. This will be your starting position.",
+    "Initate the movement by forcefully extending the hips and knees, accelerating into the bar. Ensure that you keep your arms straight during this part of the motion.",
+    "Upon full extension, rebend the hips and knees to lower your receiving position.",
+    "Allow the arms to flex at this point, rotating the elbows around the bar to receive it on your shoulders.",
+    "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Zarzut siłowy z zawieszenia na maszynie Smitha",
+  "instructions_pl": [
+    "Ustaw sztangę na wysokości kolan i załaduj odpowiedni ciężar.",
+    "Chwyć sztangę nachwytem szerzej niż szerokość barków i odblokuj ją z maszyny. Ramiona powinny być w pełni wyprostowane, z głową i klatką piersiową uniesionymi. Łokcie powinny być skierowane na zewnątrz, z barkami cofniętymi i opuszczonymi. Biodra powinny być cofnięte, obciążając mięśnie kulszowo-goleniowe. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, dynamicznie prostując biodra i kolana, przyspieszając w kierunku sztangi. Upewnij się, że ramiona pozostają proste podczas tej fazy ruchu.",
+    "Po pełnym wyproście ponownie zegnij biodra i kolana, aby obniżyć pozycję przyjęcia sztangi.",
+    "W tym momencie pozwól ramionom się zgiąć, obracając łokcie wokół sztangi, aby przyjąć ją na barki.",
+    "Wyprostuj się w biodrach i kolanach, aby przyjąć pozycję stojącą ze sztangą opartą na barkach, w celu zakończenia ruchu."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "prostowniki grzbietu",
+    "mięsień czworogłowy uda",
+    "mięśnie naramienne",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siła",
+  "name_de": "Multipresse Hang Power Clean",
+  "instructions_de": [
+    "Platziere die Stange auf Kniehöhe und belade sie mit einem angemessenen Gewicht.",
+    "Fasse die Stange im Obergriff etwas breiter als schulterbreit und löse sie von der Maschine. Deine Arme sollten vollständig gestreckt sein, Kopf und Brust aufrecht. Deine Ellbogen sollten nach außen zeigen, die Schultern zurückgezogen und gesenkt. Deine Hüfte sollte nach hinten geschoben sein, um die Spannung auf die ischiocrurale Muskulatur zu verlagern. Dies ist deine Ausgangsposition.",
+    "Beginne die Bewegung, indem du Hüfte und Knie kraftvoll streckst und die Stange nach oben beschleunigst. Stelle sicher, dass deine Arme während dieses Teils der Bewegung gestreckt bleiben.",
+    "Nach vollständiger Streckung beuge Hüfte und Knie erneut, um in deine Fangposition zu gehen.",
+    "Lasse die Arme an diesem Punkt beugen, rotiere die Ellbogen um die Stange, um sie auf deinen Schultern aufzufangen.",
+    "Strecke Hüfte und Knie, um in eine stehende Position zu gelangen, mit der Stange auf deinen Schultern abgelegt, um die Bewegung abzuschließen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Musculus quadriceps femoris",
+    "Deltamuskel",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

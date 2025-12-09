@@ -1,0 +1,47 @@
+{
+  "name": "EZ-Bar Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position.",
+    "Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms.",
+    "Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps.",
+    "Then inhale and slowly lower the bar back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Uginanie ramion ze sztangą łamaną EZ",
+  "instructions_pl": [
+    "Stań prosto, trzymając sztangę łamaną EZ szerokim chwytem zewnętrznym. Dłonie powinny być skierowane do przodu i lekko przechylone do wewnątrz ze względu na kształt sztangi. Trzymaj łokcie blisko tułowia. To będzie twoja pozycja wyjściowa.",
+    "Teraz, utrzymując ramiona nieruchomo, wykonaj wydech i uginaj ciężar do przodu, jednocześnie napinając mięsień dwugłowy ramienia. Skup się wyłącznie na ruchu przedramion.",
+    "Kontynuuj podnoszenie ciężaru, aż mięsień dwugłowy ramienia będzie w pełnym skurczu, a sztanga znajdzie się na wysokości barków. Przytrzymaj przez chwilę pozycję maksymalnego skurczu i mocno napnij mięsień dwugłowy ramienia.",
+    "Następnie wykonaj wdech i powoli opuść sztangę do pozycji wyjściowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "EZ-Stangen-Bizepscurl",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht hin, während Sie eine EZ-Curlstange an den breiten äußeren Griffen halten. Ihre Handflächen sollten nach vorne zeigen und aufgrund der Form der Stange leicht nach innen geneigt sein. Halten Sie Ihre Ellbogen eng am Oberkörper. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie nun Ihre Oberarme unbewegt, atmen Sie aus und curlen Sie die Gewichte nach vorne, während Sie den Musculus biceps brachii kontrahieren. Konzentrieren Sie sich darauf, nur Ihre Unterarme zu bewegen.",
+    "Heben Sie das Gewicht weiter an, bis Ihr Musculus biceps brachii vollständig kontrahiert ist und die Stange sich auf Schulterhöhe befindet. Halten Sie die oberste kontrahierte Position für einen Moment und spannen Sie den Musculus biceps brachii an.",
+    "Atmen Sie dann ein und senken Sie die Stange langsam zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

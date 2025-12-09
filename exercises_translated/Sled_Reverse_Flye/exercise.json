@@ -1,0 +1,44 @@
+{
+  "name": "Sled Reverse Flye",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
+    "Face the sled, backing up until there is some tension in the line. Take both handles at arms length at about waist level. Bend the knees slightly and keep your chest and head up. This will be your starting position.",
+    "Without flexing the elbow, pull the handles upward and apart, performing a reverse fly with some external rotation. Your palms should be facing forward as you do this.",
+    "Return to the starting position, taking a couple steps back to take the slack out of the line."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Rozpiętki odwrotne z sankami",
+  "instructions_pl": [
+    "Przymocuj podwójne uchwyty do sanek połączonych liną lub łańcuchem. Obciąż sanki niewielkim ciężarem.",
+    "Stań przodem do sanek, cofając się, aż lina będzie napięta. Chwyć oba uchwyty na wyprostowanych ramionach, na wysokości talii. Lekko ugnij kolana i trzymaj klatkę piersiową oraz głowę uniesione. Będzie to Twoja pozycja wyjściowa.",
+    "Nie zginając łokci, pociągnij uchwyty w górę i na boki, wykonując odwrotne rozpiętki z pewną rotacją zewnętrzną. Twoje dłonie powinny być skierowane do przodu podczas wykonywania ruchu.",
+    "Wróć do pozycji wyjściowej, cofając się o kilka kroków, aby ponownie napiąć linę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Schlitten Reverse Fly",
+  "instructions_de": [
+    "Befestigen Sie zwei Griffe an einem Schlitten, der mit einem Seil oder einer Kette verbunden ist. Beladen Sie den Schlitten mit einem leichten Gewicht.",
+    "Stellen Sie sich mit dem Gesicht zum Schlitten und gehen Sie rückwärts, bis eine gewisse Spannung im Seil ist. Fassen Sie beide Griffe mit ausgestreckten Armen auf etwa Hüfthöhe. Beugen Sie die Knie leicht und halten Sie Brust und Kopf aufrecht. Dies ist Ihre Ausgangsposition.",
+    "Ohne die Ellbogen zu beugen, ziehen Sie die Griffe nach oben und auseinander, wobei Sie eine Reverse Fly-Bewegung mit einer gewissen Außenrotation ausführen. Ihre Handflächen sollten dabei nach vorne zeigen.",
+    "Kehren Sie in die Ausgangsposition zurück, indem Sie ein paar Schritte zurücktreten, um das Seil wieder zu straffen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

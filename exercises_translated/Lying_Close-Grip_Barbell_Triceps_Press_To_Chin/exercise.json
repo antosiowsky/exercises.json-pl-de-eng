@@ -1,0 +1,47 @@
+{
+  "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head off the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
+    "Extend your arms in front of you as you hold the barbell over your chest. The arms should be perpendicular to your torso (90-degree angle). This will be your starting position.",
+    "As you inhale, lower the bar in a semi-circular motion by bending at the elbows and while keeping the upper arm stationary and elbows in. Keep lowering the bar until it lightly touches your chin.",
+    "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga łamana",
+  "equipment_de": "SZ-Stange",
+  "name_pl": "Wyciskanie francuskie sztangi leżąc wąskim chwytem do brody",
+  "instructions_pl": [
+    "Trzymając sztangę prostą lub łamaną (EZ) chwytem pronowanym (dłonie skierowane do przodu), połóż się na plecach na płaskiej ławce, z głową wystającą poza jej krawędź. Wskazówka: Jeśli używasz sztangi prostej, chwyć ją na szerokość barków, a jeśli używasz sztangi łamanej (EZ), chwyć ją za wewnętrzne uchwyty.",
+    "Wyprostuj ramiona przed sobą, trzymając sztangę nad klatką piersiową. Ramiona powinny być prostopadłe do tułowia (kąt 90 stopni). Będzie to Twoja pozycja początkowa.",
+    "Podczas wdechu opuść sztangę ruchem półkolistym, zginając łokcie i utrzymując ramię nieruchomo oraz łokcie blisko ciała. Kontynuuj opuszczanie sztangi, aż lekko dotknie Twojej brody.",
+    "Podczas wydechu unieś sztangę z powrotem do pozycji początkowej, wypychając ją w górę ruchem półkolistym. Mocno napnij mięsień trójgłowy ramienia (triceps) w górnej fazie ruchu na sekundę. Wskazówka: Ponownie, poruszać powinny się tylko przedramiona. Ramiona powinny pozostać nieruchome przez cały czas.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Liegendes Langhantel-Trizepsstrecken mit engem Griff zum Kinn",
+  "instructions_de": [
+    "Während Sie eine Langhantel oder SZ-Stange im Obergriff (Handflächen zeigen nach vorne) halten, legen Sie sich mit dem Rücken auf eine Flachbank, wobei Ihr Kopf über das Ende der Bank hinausragt. Tipp: Wenn Sie eine Langhantel verwenden, fassen Sie diese schulterbreit; wenn Sie eine SZ-Stange verwenden, fassen Sie sie an den inneren Griffen.",
+    "Strecken Sie Ihre Arme nach vorne aus, während Sie die Langhantel über Ihrer Brust halten. Die Arme sollten senkrecht zu Ihrem Oberkörper stehen (90-Grad-Winkel). Dies ist Ihre Ausgangsposition.",
+    "Während Sie einatmen, senken Sie die Stange in einer halbkreisförmigen Bewegung ab, indem Sie die Ellenbogen beugen und dabei die Oberarme stationär und die Ellenbogen eng am Körper halten. Senken Sie die Stange weiter ab, bis sie leicht Ihr Kinn berührt.",
+    "Während Sie ausatmen, führen Sie die Stange in einer halbkreisförmigen Bewegung zurück in die Ausgangsposition. Spannen Sie den Trizeps am oberen Punkt der Bewegung für eine Sekunde kräftig an. Tipp: Auch hier sollten sich nur die Unterarme bewegen. Die Oberarme sollten jederzeit stationär bleiben.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

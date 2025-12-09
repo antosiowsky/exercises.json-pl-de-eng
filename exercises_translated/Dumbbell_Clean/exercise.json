@@ -1,0 +1,71 @@
+{
+  "name": "Dumbbell Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Begin standing with a dumbbell in each hand with your feet shoulder width apart.",
+    "Lower the weights to the floor by flexing at the hips and knees, pushing your hips back until the dumbbells reach the floor. This will be your starting position.",
+    "To initiate the movement, violently jump upward by extending the hips, knees, and ankles to acclerate the weights upward. Maintaining a neutral grip on the dumbbells, keep the arms straight until full extension is reached.",
+    "After full extension, rebend the hips and knees to receive the weight in a squat position. Allow the arms to bend, guiding the dumbbells to your shoulders.",
+    "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Zarzut hantlami",
+  "instructions_pl": [
+    "Rozpocznij, stojąc z hantlą w każdej dłoni, ze stopami rozstawionymi na szerokość barków.",
+    "Opuść ciężary do podłogi, zginając stawy biodrowe i kolanowe oraz cofając biodra, aż hantle dotkną podłogi. Będzie to Twoja pozycja początkowa.",
+    "Aby rozpocząć ruch, dynamicznie wyskocz w górę, prostując stawy biodrowe, kolanowe i skokowe, aby przyspieszyć ciężary ku górze. Utrzymując neutralny chwyt na hantlach, trzymaj ramiona prosto aż do pełnego wyprostu.",
+    "Po pełnym wyproście, ponownie zegnij stawy biodrowe i kolanowe, aby przyjąć ciężar w pozycji przysiadu. Pozwól ramionom się ugiąć, prowadząc hantle do barków.",
+    "Po przyjęciu ciężaru w pozycji przysiadu, wyprostuj stawy biodrowe i kolanowe, aby zakończyć w pozycji stojącej z ciężarami na barkach."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu",
+    "mięsień czworogłowy uda",
+    "mięśnie naramienne",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "siłowy",
+  "name_de": "Kurzhantel-Umsetzen",
+  "instructions_de": [
+    "Beginnen Sie im Stehen, mit einer Kurzhantel in jeder Hand und den Füßen schulterbreit auseinander.",
+    "Senken Sie die Gewichte zum Boden ab, indem Sie in Hüft- und Kniegelenken beugen und die Hüften nach hinten schieben, bis die Kurzhanteln den Boden erreichen. Dies ist Ihre Ausgangsposition.",
+    "Um die Bewegung einzuleiten, springen Sie explosiv nach oben, indem Sie Hüft-, Knie- und Sprunggelenke strecken, um die Gewichte nach oben zu beschleunigen. Halten Sie dabei einen neutralen Griff an den Kurzhanteln und die Arme gestreckt, bis die vollständige Streckung erreicht ist.",
+    "Nach vollständiger Streckung beugen Sie die Hüften und Knie erneut, um das Gewicht in einer Kniebeugenposition aufzunehmen. Lassen Sie die Arme beugen und führen Sie die Kurzhanteln zu Ihren Schultern.",
+    "Nachdem Sie das Gewicht in der Kniebeugenposition aufgenommen haben, strecken Sie die Hüften und Knie, um in einer stehenden Position mit den Gewichten auf Ihren Schultern zu enden."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Rückenstrecker",
+    "Musculus quadriceps femoris",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "Kraft"
+}

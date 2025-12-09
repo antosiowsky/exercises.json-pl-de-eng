@@ -1,0 +1,56 @@
+{
+  "name": "Standing Barbell Press Behind Neck",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "This exercise is best performed inside a squat rack for easier pick up of the bar. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Your back should be kept straight while performing this exercise. This will be your starting position.",
+    "Elevate the barbell overhead by fully extending your arms while breathing out.",
+    "Hold the contraction for a second and lower the barbell back down to the starting position by inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi zza karku stojąc",
+  "instructions_pl": [
+    "To ćwiczenie najlepiej wykonywać wewnątrz klatki do przysiadów, aby ułatwić podniesienie sztangi. Aby rozpocząć, najpierw ustaw sztangę na stojaku, który najlepiej odpowiada Twojemu wzrostowi. Po wybraniu odpowiedniej wysokości i załadowaniu sztangi, wejdź pod nią i umieść tylną część barków (nieco poniżej karku) na sztandze.",
+    "Chwyć sztangę obiema rękami po obu stronach i zdejmij ją ze stojaka, najpierw pchając nogami i jednocześnie prostując tułów.",
+    "Odejdź od stojaka i ustaw nogi w rozkroku na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Plecy powinny być proste podczas wykonywania tego ćwiczenia. Będzie to Twoja pozycja wyjściowa.",
+    "Unieś sztangę nad głowę, całkowicie prostując ramiona, jednocześnie wykonując wydech.",
+    "Przytrzymaj skurcz przez sekundę i opuść sztangę z powrotem do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehendes Langhantel-Nackendrücken",
+  "instructions_de": [
+    "Diese Übung wird am besten in einem Kniebeugenständer ausgeführt, um das Aufnehmen der Stange zu erleichtern. Stellen Sie zu Beginn die Langhantel auf einem Ständer ab, der Ihrer Körpergröße am besten entspricht. Sobald die richtige Höhe gewählt und die Stange beladen ist, treten Sie unter die Stange und legen Sie den hinteren Teil Ihrer Schultern (leicht unterhalb des Nackens) darauf ab.",
+    "Fassen Sie die Stange mit beiden Armen seitlich an und heben Sie sie vom Ständer, indem Sie zuerst mit den Beinen drücken und gleichzeitig Ihren Oberkörper aufrichten.",
+    "Treten Sie vom Ständer zurück und stellen Sie Ihre Beine in einem schulterbreiten, mittleren Stand auf, wobei die Zehen leicht nach außen zeigen. Ihr Rücken sollte während der Ausführung dieser Übung gerade gehalten werden. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie die Langhantel über Kopf, indem Sie Ihre Arme vollständig strecken, während Sie ausatmen.",
+    "Halten Sie die Kontraktion für eine Sekunde und senken Sie die Langhantel durch Einatmen wieder in die Ausgangsposition ab.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

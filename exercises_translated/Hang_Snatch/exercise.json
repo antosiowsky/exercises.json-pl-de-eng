@@ -1,0 +1,71 @@
+{
+  "name": "Hang Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be at the hips. This will be your starting position.",
+    "Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+    "Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Rwanie z zawieszenia",
+  "instructions_pl": [
+    "Rozpocznij z szerokim chwytem sztangi, nachwytem lub chwytem zamkowym (hakowym). Stopy powinny znajdować się bezpośrednio pod biodrami, skierowane na zewnątrz. Kolana powinny być lekko ugięte, a tułów pochylony do przodu. Kręgosłup powinien być w pełni wyprostowany, a głowa skierowana do przodu. Sztanga powinna znajdować się na wysokości bioder. Będzie to Twoja pozycja początkowa.",
+    "Agresywnie wyprostuj nogi i biodra. W szczytowym momencie wyprostu wzrusz ramionami i pozwól łokciom ugiąć się na boki.",
+    "Przenosząc stopy do pozycji odbioru, dynamicznie wciągnij się pod sztangę, jednocześnie unosząc ją nad głowę. Odbierz sztangę z ciałem w jak najniższej pozycji i ramionami w pełni wyprostowanymi nad głową.",
+    "Wróć do pozycji stojącej z ciężarem nad głową. Następnie opuść ciężar na ziemię w kontrolowany sposób."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "prostowniki grzbietu",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Hang Reißen",
+  "instructions_de": [
+    "Beginnen Sie mit einem weiten Griff an der Stange, entweder mit Obergriff oder Haken-/Klemmgriff. Die Füße sollten direkt unter den Hüften platziert sein, wobei die Füße leicht nach außen gedreht sind. Ihre Knie sollten leicht gebeugt und der Rumpf nach vorne geneigt sein. Die Wirbelsäule sollte vollständig gestreckt und der Kopf nach vorne gerichtet sein. Die Stange sollte sich auf Hüfthöhe befinden. Dies ist Ihre Ausgangsposition.",
+    "Strecken Sie Beine und Hüfte explosiv durch. Am höchsten Punkt der Streckung ziehen Sie die Schultern hoch und lassen die Ellbogen seitlich beugen.",
+    "Während Sie Ihre Füße in die Fangposition bewegen, ziehen Sie sich kraftvoll unter die Stange, während Sie diese über Kopf heben. Fangen Sie die Stange mit dem Körper so tief wie möglich ab und den Armen vollständig über Kopf gestreckt.",
+    "Kehren Sie in eine stehende Position zurück, wobei das Gewicht über Kopf gehalten wird. Anschließend führen Sie das Gewicht kontrolliert zum Boden zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Rückenstrecker",
+    "Quadrizeps",
+    "Schultermuskulatur",
+    "Trapezmuskel"
+  ],
+  "category_de": "olympisches Gewichtheben"
+}

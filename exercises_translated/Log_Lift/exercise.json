@@ -1,0 +1,71 @@
+{
+  "name": "Log Lift",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin standing with the log in front of you. Grasp the handles, and begin to clean the log. As you are bent over to start the clean, attempt to get the log as high as possible, pulling it into your chest. Extend through the hips and knees to bring it up to complete the clean.",
+    "Push your head back and look up, creating a shelf on your chest to rest the log. Begin the press by dipping, flexing slightly through the knees and reversing the motion. This push press will generate momentum to start the log moving vertically. Continue by extending through the elbows to press the log above your head. There are no strict rules on form, so use whatever techniques you are most efficient with. As the log is pressed, ensure that you push your head through on each repetition, looking forward.",
+    "Repeat as many times as possible. Attempt to control the descent of the log as it is returned to the ground."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Podrzut kłody",
+  "instructions_pl": [
+    "Rozpocznij stojąc z kłodą przed sobą. Chwyć uchwyty i rozpocznij zarzut kłody. Gdy jesteś pochylony, aby rozpocząć zarzut, spróbuj unieść kłodę jak najwyżej, przyciągając ją do klatki piersiowej. Wyprostuj biodra i kolana, aby unieść ją i zakończyć zarzut.",
+    "Odepchnij głowę do tyłu i spójrz w górę, tworząc 'półkę' na klatce piersiowej, aby oprzeć kłodę. Rozpocznij wyciskanie od dipu, lekko uginając kolana i odwracając ruch. To wyciskanie z wybiciem (push press) wygeneruje pęd, aby rozpocząć pionowy ruch kłody. Kontynuuj, prostując łokcie, aby wycisnąć kłodę nad głowę. Nie ma ścisłych zasad dotyczących techniki, więc użyj tych, które są dla Ciebie najbardziej efektywne. Podczas wyciskania kłody upewnij się, że na każdym powtórzeniu przepychasz głowę do przodu, patrząc przed siebie.",
+    "Powtórz tyle razy, ile to możliwe. Staraj się kontrolować opuszczanie kłody, gdy wraca ona na ziemię."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie klatki piersiowej",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie dolnego odcinka pleców",
+    "mięśnie środkowego odcinka pleców",
+    "mięśnie czworogłowe uda",
+    "mięśnie czworoboczne",
+    "mięśnie trójgłowe ramienia"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Loglift",
+  "instructions_de": [
+    "Stellen Sie sich aufrecht vor den Log. Fassen Sie die Griffe und beginnen Sie mit dem Umsetzen des Logs. Während Sie sich zum Beginn des Umsetzens vorbeugen, versuchen Sie, den Log so hoch wie möglich zu ziehen und ihn an Ihre Brust zu bringen. Strecken Sie Hüften und Knie, um den Log nach oben zu bringen und das Umsetzen abzuschließen.",
+    "Drücken Sie den Kopf nach hinten und blicken Sie nach oben, um eine Ablagefläche auf Ihrer Brust zu schaffen, auf der der Log ruhen kann. Beginnen Sie das Drücken mit einem Dip, indem Sie die Knie leicht beugen und die Bewegung explosiv umkehren. Dieser Push Press erzeugt Schwung, um den Log vertikal nach oben zu bewegen. Fahren Sie fort, indem Sie die Ellbogen strecken, um den Log über Ihren Kopf zu drücken. Es gibt keine strengen Formvorschriften, nutzen Sie daher die Techniken, mit denen Sie am effizientesten sind. Während der Log gedrückt wird, stellen Sie sicher, dass Sie bei jeder Wiederholung den Kopf nach vorne durchschieben und geradeaus blicken.",
+    "Wiederholen Sie dies so oft wie möglich. Versuchen Sie, die Abwärtsbewegung des Logs zu kontrollieren, während er auf den Boden zurückgeführt wird."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Brustmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Muskulatur des mittleren Rückens",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Strongman"
+}

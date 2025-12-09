@@ -1,0 +1,47 @@
+{
+  "name": "Lying One-Arm Lateral Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While holding a dumbbell in one hand, lay with your chest down on a flat bench. The other hand can be used to hold to the leg of the bench for stability.",
+    "Position the palm of the hand that is holding the dumbbell in a neutral manner (palms facing your torso) as you keep the arm extended with the elbow slightly bent. This will be your starting position.",
+    "Now raise the arm with the dumbbell to the side until your elbow is at shoulder height and your arm is roughly parallel to the floor as you exhale. Tip: Maintain your arm perpendicular to the torso while keeping your arm extended throughout the movement. Also, keep the contraction at the top for a second.",
+    "Slowly lower the dumbbell to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Unoszenie boczne ramienia jednorącz leżąc",
+  "instructions_pl": [
+    "Trzymając hantlę w jednej dłoni, połóż się klatką piersiową w dół na płaskiej ławce. Drugą ręką możesz chwycić nogę ławki dla stabilizacji.",
+    "Ustaw dłoń ręki trzymającej hantlę w pozycji neutralnej (dłoń skierowana w stronę tułowia), utrzymując ramię wyprostowane z lekko ugiętym łokciem. Będzie to Twoja pozycja początkowa.",
+    "Teraz unieś ramię z hantlą na bok, aż łokieć znajdzie się na wysokości barku, a ramię będzie mniej więcej równoległe do podłogi, wykonując wydech. Wskazówka: Utrzymuj ramię prostopadle do tułowia, jednocześnie trzymając je wyprostowane przez cały ruch. Dodatkowo, utrzymaj skurcz w górnej fazie przez sekundę.",
+    "Powoli opuść hantlę do pozycji początkowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Seitheben in Bauchlage",
+  "instructions_de": [
+    "Halten Sie eine Kurzhantel in einer Hand und legen Sie sich in Bauchlage auf eine Flachbank. Die andere Hand kann zur Stabilisierung am Bein der Bank festgehalten werden.",
+    "Positionieren Sie die Handfläche der Hand, die die Kurzhantel hält, neutral (Handfläche zeigt zum Rumpf), während Sie den Arm gestreckt halten, wobei der Ellbogen leicht gebeugt ist. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie nun den Arm mit der Kurzhantel seitlich an, bis Ihr Ellbogen auf Schulterhöhe ist und Ihr Arm ungefähr parallel zum Boden verläuft, während Sie ausatmen. Tipp: Halten Sie Ihren Arm während der gesamten Bewegung senkrecht zum Rumpf und gestreckt. Halten Sie die Kontraktion oben für eine Sekunde.",
+    "Senken Sie die Kurzhantel langsam in die Ausgangsposition ab, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

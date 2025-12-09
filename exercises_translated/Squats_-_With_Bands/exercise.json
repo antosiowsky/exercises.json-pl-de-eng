@@ -1,0 +1,62 @@
+{
+  "name": "Squats - With Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "To start out, make sure that the exercise band is at an even split between both the left and right side of the body. To do this, use your hands to grab both sides of the band and place both feet in the middle of the band. Your feet should be shoulder width apart from each other.",
+    "When holding the bands, they should be the same height on each side. You should be using a pronated grip (palms facing forward) and have the handles of the bands next to your face for this exercise. This is the starting position.",
+    "Slowly start to bend the knees and lower the legs so that your thighs are parallel to the floor while exhaling.",
+    "Use the heel of your feet to push your body up to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Przysiady - Z gumami oporowymi",
+  "instructions_pl": [
+    "Na początek upewnij się, że guma oporowa jest równomiernie rozłożona po obu stronach ciała, lewej i prawej. Aby to zrobić, chwyć obiema rękami końce gumy i umieść obie stopy na środku gumy. Stopy powinny być rozstawione na szerokość barków.",
+    "Trzymając gumy, powinny one znajdować się na tej samej wysokości po każdej stronie. Powinieneś używać nachwytu (dłonie skierowane do przodu) i trzymać uchwyty gum obok twarzy podczas tego ćwiczenia. Jest to pozycja początkowa.",
+    "Powoli zacznij zginać kolana i obniżać ciało, tak aby uda były równoległe do podłogi, wykonując wydech.",
+    "Użyj pięt, aby wypchnąć ciało z powrotem do pozycji początkowej, wykonując wydech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie trójgłowe łydki",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu (odcinek lędźwiowy)"
+  ],
+  "category_pl": "Siła",
+  "name_de": "Kniebeugen mit Widerstandsbändern",
+  "instructions_de": [
+    "Stellen Sie zu Beginn sicher, dass das Widerstandsband gleichmäßig auf die linke und rechte Körperseite verteilt ist. Fassen Sie dazu das Band mit beiden Händen an den Seiten und stellen Sie beide Füße mittig auf das Band. Ihre Füße sollten schulterbreit auseinander stehen.",
+    "Beim Halten der Bänder sollten diese auf jeder Seite die gleiche Höhe aufweisen. Verwenden Sie einen Pronationsgriff (Handflächen zeigen nach vorne) und halten Sie die Griffe der Bänder für diese Übung neben Ihrem Gesicht. Dies ist die Ausgangsposition.",
+    "Beginnen Sie langsam, die Knie zu beugen und die Beine zu senken, sodass Ihre Oberschenkel beim Ausatmen parallel zum Boden verlaufen.",
+    "Drücken Sie sich mit den Fersen Ihrer Füße zurück in die Ausgangsposition, während Sie ausatmen.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Glutäen",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraft"
+}

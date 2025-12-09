@@ -1,0 +1,44 @@
+{
+  "name": "Suspended Reverse Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure a set of suspension straps with the handles hanging about a foot off of the ground. Move yourself into a pushup plank position facing away from the rack.",
+    "Place your feet into the handles. You should maintain a straight posture, not allowing the hips to sag. This will be your starting position.",
+    "Begin the movement by flexing the knees and hips, drawing the knees to your torso. As you do so, anteriorly tilt your pelvis, allowing your spine to flex.",
+    "At the top of the controlled motion, return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Odwrócone spięcie brzucha w zwisie",
+  "instructions_pl": [
+    "Zamocuj zestaw taśm podwieszanych tak, aby uchwyty znajdowały się około stopy nad ziemią. Przyjmij pozycję deski, jak do pompki, tyłem do stojaka/konstrukcji.",
+    "Umieść stopy w uchwytach. Utrzymuj prostą sylwetkę, nie pozwalając biodrom opadać. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij ruch, zginając kolana i biodra, przyciągając je do tułowia. Jednocześnie wykonaj przodopochylenie miednicy, pozwalając na zgięcie kręgosłupa.",
+    "W szczytowym punkcie kontrolowanego ruchu wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Schlingen-Reverser Crunch",
+  "instructions_de": [
+    "Befestigen Sie einen Schlingentrainer so, dass die Griffe etwa einen Fuß über dem Boden hängen. Begeben Sie sich in eine Liegestütz-Plank-Position, mit dem Rücken vom Gestell weg.",
+    "Platzieren Sie Ihre Füße in den Griffen. Halten Sie eine gerade Körperhaltung bei und lassen Sie die Hüften nicht durchhängen. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie die Bewegung, indem Sie Knie und Hüftgelenke beugen und die Knie zum Rumpf ziehen. Dabei kippen Sie das Becken nach vorne (anterior) und beugen gleichzeitig die Wirbelsäule.",
+    "Am höchsten Punkt der kontrollierten Bewegung kehren Sie in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

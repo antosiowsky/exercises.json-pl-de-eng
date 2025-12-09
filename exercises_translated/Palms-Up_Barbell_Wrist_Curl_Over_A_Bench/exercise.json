@@ -1,0 +1,53 @@
+{
+  "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by placing a barbell on one side of a flat bench.",
+    "Kneel down on both of your knees so that your body is facing the flat bench.",
+    "Use your arms to grab the barbell with a supinated grip (palms up) and bring them up so that your forearms are resting against the flat bench. Your wrists should be hanging over the edge.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Uginanie nadgarstków ze sztangą podchwytem, przedramiona na ławce",
+  "instructions_pl": [
+    "Rozpocznij od położenia sztangi z jednej strony płaskiej ławki.",
+    "Uklęknij na obu kolanach tak, aby Twoje ciało było zwrócone w stronę płaskiej ławki.",
+    "Użyj rąk, aby chwycić sztangę podchwytem (dłonie skierowane w górę) i unieś ją tak, aby przedramiona spoczywały na płaskiej ławce. Nadgarstki powinny zwisać poza krawędź.",
+    "Rozpocznij od uginania nadgarstków w górę, wykonując wydech.",
+    "Powoli opuść nadgarstki z powrotem do pozycji początkowej, wykonując wdech.",
+    "Twoje przedramiona powinny pozostać nieruchome, ponieważ ruch nadgarstków jest jedynym wymaganym do wykonania tego ćwiczenia.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Langhantel-Handgelenkscurl mit supiniertem Griff über eine Flachbank",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie eine Langhantel auf einer Seite einer Flachbank platzieren.",
+    "Knien Sie sich auf beide Knie, sodass Ihr Körper der Flachbank zugewandt ist.",
+    "Greifen Sie die Langhantel mit einem supinierten Griff (Handflächen nach oben) und legen Sie Ihre Unterarme auf der Flachbank ab. Ihre Handgelenke sollten über die Kante hängen.",
+    "Beginnen Sie, indem Sie Ihr Handgelenk nach oben beugen und dabei ausatmen.",
+    "Senken Sie Ihre Handgelenke langsam wieder in die Ausgangsposition ab, während Sie einatmen.",
+    "Ihre Unterarme sollten stationär bleiben, da nur das Handgelenk bewegt werden muss, um diese Übung auszuführen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

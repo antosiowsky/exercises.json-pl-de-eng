@@ -1,0 +1,56 @@
+{
+  "name": "Dip Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
+    "Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.",
+    "As you contract the triceps, extend your arms downwards as you exhale. Tip: At the bottom of the movement, focus on keeping a little bend in your arms to keep tension on the triceps muscle.",
+    "Now slowly let your arms come back up to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Maszyna do dipów",
+  "instructions_pl": [
+    "Usiądź stabilnie w maszynie do dipów, wybierz obciążenie i pewnie chwyć uchwyty.",
+    "Trzymaj łokcie blisko tułowia, aby skupić pracę na mięśniu trójgłowym ramienia. Łokcie powinny być zgięte pod kątem 90 stopni.",
+    "Wraz ze skurczem mięśnia trójgłowego ramienia, wyprostuj ramiona w dół, wykonując wydech. Wskazówka: W dolnej fazie ruchu, skup się na utrzymaniu lekkiego zgięcia w ramionach, aby zachować napięcie w mięśniu trójgłowym ramienia.",
+    "Następnie powoli pozwól ramionom wrócić do pozycji początkowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień piersiowy",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "Dip-Maschine",
+  "instructions_de": [
+    "Nehmen Sie sicher in der Dip-Maschine Platz, wählen Sie das Gewicht aus und fassen Sie die Griffe fest an.",
+    "Halten Sie nun Ihre Ellbogen eng am Körper, um den Fokus auf den Musculus triceps brachii zu legen. Die Ellbogen sollten in einem 90-Grad-Winkel gebeugt sein.",
+    "Während Sie den Musculus triceps brachii kontrahieren, strecken Sie Ihre Arme beim Ausatmen nach unten aus. Tipp: Am unteren Punkt der Bewegung achten Sie darauf, die Arme leicht gebeugt zu lassen, um die Spannung auf dem Musculus triceps brachii aufrechtzuerhalten.",
+    "Führen Sie nun Ihre Arme langsam wieder nach oben in die Ausgangsposition, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus pectoralis",
+    "Musculus deltoideus"
+  ],
+  "category_de": "Kraft"
+}

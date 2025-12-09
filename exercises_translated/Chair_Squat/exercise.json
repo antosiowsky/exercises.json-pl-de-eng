@@ -1,0 +1,62 @@
+{
+  "name": "Chair Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",
+    "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",
+    "Move your feet forward about 18 inches in front of the bar. Position your legs using a shoulder width stance with the toes slightly pointed out. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
+    "Slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper and lower leg breaks 90 degrees.",
+    "Begin to raise the bar as you exhale by pushing the floor with the heels of your feet, extending the knees and returning to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Przysiad krzesłowy",
+  "instructions_pl": [
+    "Na początek, ustaw sztangę na wysokości najlepiej dopasowanej do Twojego wzrostu. Po załadowaniu sztangi, wejdź pod nią i umieść ją na tylnej części barków.",
+    "Chwyć sztangę rękami skierowanymi do przodu, odblokuj ją i unieś ze stojaka, prostując nogi.",
+    "Przesuń stopy do przodu o około 18 cali (45 cm) przed sztangę. Ustaw nogi w rozkroku na szerokość barków, ze stopami lekko skierowanymi na zewnątrz. Przez cały czas patrz przed siebie i utrzymuj neutralną lub lekko wygiętą w łuk pozycję kręgosłupa. Będzie to Twoja pozycja wyjściowa.",
+    "Powoli opuść sztangę, uginając kolana, jednocześnie utrzymując prostą postawę z głową uniesioną. Kontynuuj ruch w dół, aż kąt między udem a podudziem przekroczy 90 stopni.",
+    "Rozpocznij podnoszenie sztangi, wydychając powietrze, odpychając się od podłogi piętami stóp, prostując kolana i wracając do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stuhlkniebeuge",
+  "instructions_de": [
+    "Zuerst stellen Sie die Langhantel auf eine Höhe ein, die Ihrer Körpergröße am besten entspricht. Sobald die Langhantel beladen ist, treten Sie darunter und positionieren Sie sie auf dem oberen Rücken.",
+    "Fassen Sie die Langhantel mit den Händen nach vorne gerichtet, entriegeln Sie sie und heben Sie sie durch Strecken der Beine aus dem Rack.",
+    "Stellen Sie Ihre Füße etwa 45 cm (18 Zoll) vor der Langhantel nach vorne. Positionieren Sie Ihre Beine schulterbreit mit leicht nach außen zeigenden Zehen. Blicken Sie stets nach vorne und halten Sie die Wirbelsäule neutral oder leicht im Hohlkreuz. Dies ist Ihre Ausgangsposition.",
+    "Senken Sie die Langhantel langsam ab, indem Sie die Knie beugen, während Sie eine gerade Haltung mit erhobenem Kopf beibehalten. Fahren Sie fort, bis der Winkel zwischen Ober- und Unterschenkel 90 Grad unterschreitet.",
+    "Beginnen Sie, die Langhantel beim Ausatmen anzuheben, indem Sie sich mit den Fersen vom Boden abstoßen, die Knie strecken und in die Ausgangsposition zurückkehren.",
+    "Wiederholen Sie die Übung für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

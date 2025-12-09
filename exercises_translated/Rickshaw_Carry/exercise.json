@@ -1,0 +1,62 @@
+{
+  "name": "Rickshaw Carry",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",
+    "Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Przedramiona"
+  ],
+  "primaryMuscles_de": [
+    "Unterarme"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Przenoszenie ramy typu Rickshaw",
+  "instructions_pl": [
+    "Ustaw ramę w punkcie startowym i załaduj odpowiednim ciężarem. Stojąc na środku ramy, zacznij od chwycenia uchwytów i unieś ramę, napierając na pięty. Upewnij się, że klatka piersiowa i głowa są uniesione, a plecy proste.",
+    "Natychmiast rozpocznij szybki marsz szybkimi, kontrolowanymi krokami. Utrzymuj klatkę piersiową uniesioną i głowę skierowaną do przodu, i pamiętaj o ciągłym oddychaniu. Opuść ramę na ziemię po osiągnięciu punktu końcowego."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie odcinka lędźwiowego",
+    "mięśnie czworogłowe uda",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Rikscha-Tragen",
+  "instructions_de": [
+    "Positionieren Sie den Rahmen am Startpunkt und beladen Sie ihn mit dem entsprechenden Gewicht. Stellen Sie sich mittig in den Rahmen, fassen Sie die Griffe und heben Sie den Rahmen durch Drücken aus den Fersen an. Achten Sie darauf, dass Brust und Kopf oben sind und Ihr Rücken gerade ist.",
+    "Beginnen Sie unverzüglich, zügig mit schnellen, kontrollierten Schritten zu gehen. Halten Sie die Brust aufrecht und den Kopf nach vorne gerichtet und achten Sie darauf, dass Sie weiteratmen. Stellen Sie den Rahmen am Endpunkt wieder ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi abdominis",
+    "Musculus triceps surae",
+    "Musculi glutei",
+    "Ischiocrurale Muskulatur",
+    "Musculi erector spinae",
+    "Musculus quadriceps femoris",
+    "Musculus trapezius"
+  ],
+  "category_de": "Strongman"
+}

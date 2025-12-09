@@ -1,0 +1,65 @@
+{
+  "name": "Box Squat with Bands",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin in a power rack with a box at the appropriate height behind you. Set up the bands on the sleeves, secured to either band pegs, the rack, or dumbbells so that there is appropriate tension. If dumbbells are used, secure them so that they don't move. Also, ensure that the dumbbells you are using are heavy enough for the bands that you are using. Additional plates can be used to hold the dumbbells down. If more tension is needed, you can either widen the base on the floor or choke the bands. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe. Use care to return the barbell to the rack."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad na skrzynię z gumami oporowymi",
+  "instructions_pl": [
+    "Rozpocznij w stojaku do przysiadów (power rack) ze skrzynią ustawioną na odpowiedniej wysokości za Tobą. Zamocuj gumy oporowe na tulejach sztangi, zabezpieczając je do kołków na gumy, stojaka lub hantli, tak aby zapewnić odpowiednie napięcie. Jeśli używasz hantli, zabezpiecz je tak, aby się nie przesuwały. Upewnij się również, że używane hantle są wystarczająco ciężkie w stosunku do używanych gum. Dodatkowe obciążenie (talerze) można użyć do dociśnięcia hantli. Jeśli potrzebne jest większe napięcie, możesz poszerzyć podstawę na podłodze (rozstaw gum) lub skrócić gumy. Zazwyczaj dąży się do wysokości skrzyni, która pozwala na przysiad równoległy, ale możesz trenować wyżej lub niżej, jeśli chcesz.",
+    "Rozpocznij od wejścia pod sztangę i ułożenia jej na tylnej części barków. Ściśnij łopatki razem i obróć łokcie do przodu, próbując 'złamać' sztangę na barkach. Zdejmij sztangę ze stojaka, tworząc mocne wygięcie (łuk) w dolnej części pleców, i cofnij się do pozycji wyjściowej. Ustaw stopy szerzej, aby bardziej zaangażować mięśnie grzbietu, pośladkowe, przywodziciele i kulszowo-goleniowe, lub bliżej siebie dla większego rozwoju mięśni czworogłowych uda. Trzymaj głowę skierowaną do przodu.",
+    "Mając napięte plecy, barki i mięśnie głębokie (core), wypchnij kolana i pośladki na zewnątrz, rozpoczynając opuszczanie. Cofnij biodra, aż usiądziesz na skrzyni. Idealnie, Twoje piszczele powinny być prostopadłe do podłoża. Zatrzymaj się po dotknięciu skrzyni i rozluźnij zginacze bioder. Nigdy nie odbijaj się od skrzyni.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, wypchnij się w górę ze skrzyni, prowadząc ruch głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głowy. Zachowaj ostrożność podczas odkładania sztangi na stojak."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie przywodziciele",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie dolnego odcinka grzbietu"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Box-Kniebeuge mit Bändern",
+  "instructions_de": [
+    "Beginnen Sie in einem Power Rack mit einer Box in der passenden Höhe hinter sich. Befestigen Sie die Bänder an den Hantelstangenhülsen und sichern Sie sie entweder an Band-Pegs, dem Rack oder Hanteln, um eine angemessene Spannung zu gewährleisten. Werden Hanteln verwendet, sichern Sie diese so, dass sie sich nicht bewegen. Stellen Sie außerdem sicher, dass die verwendeten Hanteln schwer genug für die verwendeten Bänder sind. Zusätzliche Hantelscheiben können verwendet werden, um die Hanteln zu beschweren. Wird mehr Spannung benötigt, können Sie entweder die Basis am Boden verbreitern oder die Bänder verkürzen. Typischerweise streben Sie eine Boxhöhe an, die Sie in eine parallele Kniebeuge bringt, aber Sie können bei Bedarf auch höher oder tiefer trainieren.",
+    "Beginnen Sie, indem Sie unter die Langhantel treten und diese auf dem oberen Rücken (Trapezmuskeln) ablegen. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Langhantel über Ihren Schultern zu beugen. Heben Sie die Langhantel aus dem Rack, bilden Sie ein leichtes Hohlkreuz im unteren Rücken und treten Sie in die Ausgangsposition zurück. Stellen Sie Ihre Füße breiter, um den Fokus stärker auf den Rücken, die Gesäßmuskulatur, die Adduktoren und die ischiocrurale Muskulatur zu legen, oder enger zusammen für eine stärkere Entwicklung der Quadrizepsmuskulatur. Halten Sie Ihren Kopf nach vorne gerichtet.",
+    "Mit angespanntem Rücken, Schultern und Rumpf drücken Sie Ihre Knie und Ihr Gesäß nach außen, während Sie die Abwärtsbewegung beginnen. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Pausieren Sie, sobald Sie die Box erreichen, und entspannen Sie die Hüftbeuger. Federn Sie niemals von der Box ab.",
+    "Halten Sie das Gewicht auf den Fersen und drücken Sie Ihre Füße und Knie nach außen, während Sie sich von der Box nach oben drücken und die Bewegung mit dem Kopf führen. Setzen Sie die Aufwärtsbewegung fort und bewahren Sie die Ganzkörperspannung. Achten Sie darauf, die Langhantel sicher ins Rack zurückzulegen."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Adduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur"
+  ],
+  "category_de": "Kraftdreikampf"
+}

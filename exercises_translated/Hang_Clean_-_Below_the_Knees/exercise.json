@@ -1,0 +1,68 @@
+{
+  "name": "Hang Clean - Below the Knees",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging just below the knees. Your back should be straight and inclined slightly forward.",
+    "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears. As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out.",
+    "At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut z zwisu - poniżej kolan",
+  "instructions_pl": [
+    "Rozpocznij z chwytem na szerokość barków, nachwytem podwójnym lub chwytem zamkowym (hakowym), ze sztangą zwisającą tuż poniżej kolan. Plecy powinny być proste i lekko pochylone do przodu.",
+    "Rozpocznij od dynamicznego wyprostu w stawach biodrowych, kolanowych i skokowych, unosząc ciężar w górę. Jednocześnie wzrusz barkami w kierunku uszu. Po osiągnięciu pełnego wyprostu przejdź do trzeciej fazy podciągnięcia, dynamicznie wzruszając barkami i zginając ramiona, z łokciami skierowanymi w górę i na zewnątrz.",
+    "W szczytowym punkcie wyprostu dynamicznie wciągnij się pod sztangę, jednocześnie obracając łokcie pod nią. Przyjmij sztangę w pozycji przysiadu przedniego, którego głębokość zależy od wysokości sztangi na końcu trzeciej fazy podciągnięcia. Sztanga powinna spoczywać na wysuniętych (protrakcja) barkach, lekko dotykając gardła, z rozluźnionymi dłońmi. Kontynuuj schodzenie do najniższej pozycji przysiadu, co pomoże w fazie odzyskiwania.",
+    "Natychmiast wykonaj fazę odzyskiwania, wypychając się przez pięty, utrzymując tułów w pozycji pionowej i łokcie skierowane w górę. Kontynuuj, aż osiągniesz pozycję stojącą."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięsień trójgłowy łydki",
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu",
+    "Mięśnie naramienne",
+    "Mięsień czworoboczny"
+  ],
+  "category_pl": "Podnoszenie ciężarów",
+  "name_de": "Hangumsetzen - Unterhalb der Knie",
+  "instructions_de": [
+    "Beginnen Sie mit einem schulterbreiten, doppelten Obergriff oder Haken-/Ristgriff, wobei die Stange direkt unterhalb der Knie hängt. Ihr Rücken sollte gerade und leicht nach vorne geneigt sein.",
+    "Beginnen Sie mit einer aggressiven Streckung durch Hüften, Knie und Sprunggelenke, wobei Sie das Gewicht nach oben treiben. Dabei ziehen Sie die Schultern zu den Ohren hoch. Sobald die vollständige Streckung erreicht ist, gehen Sie in den dritten Zug über, indem Sie die Schultern aggressiv hochziehen und die Arme beugen, wobei die Ellbogen hoch und nach außen zeigen.",
+    "Am Höhepunkt der Streckung ziehen Sie sich aggressiv nach unten, wobei Sie gleichzeitig Ihre Ellbogen unter die Stange rotieren. Empfangen Sie die Stange in einer Frontkniebeugeposition, deren Tiefe von der Höhe der Stange am Ende des dritten Zugs abhängt. Die Stange sollte auf den proktrahierten Schultern abgelegt werden, wobei sie leicht den Hals berührt und die Hände entspannt sind. Fahren Sie fort, in die unterste Kniebeugeposition abzusteigen, was die Erholung unterstützt.",
+    "Erholen Sie sich sofort, indem Sie sich durch die Fersen abdrücken, wobei der Rumpf aufrecht und die Ellbogen oben bleiben. Fahren Sie fort, bis Sie eine stehende Position erreicht haben."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi antebrachii",
+    "Musculus gluteus maximus",
+    "Musculi ischiocrurales",
+    "Musculi erector spinae",
+    "Musculus deltoideus",
+    "Musculus trapezius"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

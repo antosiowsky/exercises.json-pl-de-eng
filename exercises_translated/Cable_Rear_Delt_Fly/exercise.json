@@ -1,0 +1,44 @@
+{
+  "name": "Cable Rear Delt Fly",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
+    "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
+    "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
+    "Pause at the end of the motion before returning the handles to the start position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Rozpiętki na wyciągu na tylne aktony mięśni naramiennych",
+  "instructions_pl": [
+    "Ustaw bloczki wyciągu na odpowiedniej wysokości i dostosuj obciążenie. Bloczyki powinny znajdować się powyżej Twojej głowy.",
+    "Chwyć lewy uchwyt wyciągu prawą ręką, a prawy uchwyt lewą ręką, krzyżując je przed sobą. Będzie to Twoja pozycja początkowa.",
+    "Rozpocznij ruch, odciągając ramiona do tyłu i na zewnątrz, utrzymując je proste podczas wykonywania ćwiczenia.",
+    "Zatrzymaj się na chwilę w końcowej fazie ruchu, zanim powrócisz uchwytami do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Kabelzug Reverse Fly für den Musculus deltoideus pars posterior",
+  "instructions_de": [
+    "Stellen Sie die Kabelzüge auf die passende Höhe ein und wählen Sie das Gewicht. Die Kabelzüge sollten sich über Ihrem Kopf befinden.",
+    "Greifen Sie den linken Kabelzug mit Ihrer rechten Hand und den rechten Kabelzug mit Ihrer linken Hand, sodass sich die Kabel vor Ihrem Körper kreuzen. Dies ist Ihre Ausgangsposition.",
+    "Leiten Sie die Bewegung ein, indem Sie Ihre Arme nach hinten und außen bewegen. Halten Sie Ihre Arme während der gesamten Ausführung gestreckt.",
+    "Halten Sie am Ende der Bewegung kurz inne, bevor Sie die Griffe kontrolliert in die Ausgangsposition zurückführen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

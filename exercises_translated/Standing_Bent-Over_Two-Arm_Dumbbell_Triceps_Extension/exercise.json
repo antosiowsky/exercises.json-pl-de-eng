@@ -1,0 +1,44 @@
+{
+  "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
+    "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.",
+    "After a second contraction at the top, slowly lower the dumbbells back to their starting position as you inhale.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyprosty ramion na triceps z hantlami oburącz w opadzie tułowia stojąc",
+  "instructions_pl": [
+    "Z hantlą w każdej dłoni i dłońmi skierowanymi do tułowia, lekko ugnij kolana i pochyl tułów do przodu, zginając się w pasie, utrzymując proste plecy, aż tułów będzie niemal równoległy do podłogi. Upewnij się, że głowa jest uniesiona. Ramiona powinny być blisko tułowia i równoległe do podłogi, podczas gdy przedramiona są skierowane w stronę podłogi, a dłonie trzymają ciężarki. Wskazówka: Między przedramionami a ramionami powinien być kąt 90 stopni. To jest pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, użyj mięśni trójgłowych ramienia (tricepsów) do uniesienia ciężarków podczas wydechu, aż przedramiona będą równoległe do podłogi, a całe ramiona wyprostowane. Podobnie jak w wielu innych ćwiczeniach na ramiona, poruszają się tylko przedramiona.",
+    "Po sekundowej kontrakcji w górnej fazie ruchu, powoli opuść hantle z powrotem do pozycji wyjściowej podczas wdechu.",
+    "Powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Stehende vorgebeugte beidarmige Kurzhantel-Trizepsextension",
+  "instructions_de": [
+    "Nimm in jede Hand eine Kurzhantel und drehe die Handflächen zum Oberkörper. Beuge die Knie leicht und neige deinen Oberkörper aus der Hüfte nach vorne, während du den Rücken gerade hältst, bis er fast parallel zum Boden ist. Achte darauf, den Kopf oben zu halten. Die Oberarme sollten nah am Oberkörper und parallel zum Boden sein, während die Unterarme mit den Händen, die die Gewichte halten, zum Boden zeigen. Tipp: Zwischen Unterarmen und Oberarmen sollte ein 90-Grad-Winkel bestehen. Dies ist deine Ausgangsposition.",
+    "Halte die Oberarme unbewegt und nutze den Trizeps, um die Gewichte beim Ausatmen anzuheben, bis die Unterarme parallel zum Boden und die gesamten Arme gestreckt sind. Wie bei vielen anderen Armübungen bewegt sich nur der Unterarm.",
+    "Nach einer kurzen Kontraktion in der oberen Position senke die Kurzhanteln beim Einatmen langsam zurück in die Ausgangsposition.",
+    "Wiederhole die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Dumbbell Lying Rear Lateral Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "While holding a dumbbell in each hand, lay with your chest down on a slightly inclined (around 15 degrees when measured from the floor) adjustable bench.",
+    "Position the palms of the hands in a neutral manner (palms facing your torso) as you keep the arms extended with the elbows slightly bent. This will be your starting position.",
+    "Now raise the arms to the side until your elbows are at shoulder height and your arms are roughly parallel to the floor as you exhale. Tip: Maintain your arms perpendicular to the torso while keeping them extended throughout the movement. Also, keep the contraction at the top for a second.",
+    "Slowly lower the dumbbells to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions and then switch to the other arm."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wznosy boczne hantlami w leżeniu na ławce (na tylny akton mięśnia naramiennego)",
+  "instructions_pl": [
+    "Trzymając hantlę w każdej dłoni, połóż się klatką piersiową w dół na lekko nachylonej (około 15 stopni mierzone od podłogi) regulowanej ławce.",
+    "Ustaw dłonie w pozycji neutralnej (dłonie skierowane w stronę tułowia), utrzymując ramiona wyprostowane z lekko ugiętymi łokciami. Będzie to Twoja pozycja wyjściowa.",
+    "Teraz unieś ramiona na boki, aż łokcie znajdą się na wysokości barków, a ramiona będą mniej więcej równoległe do podłogi, wykonując wydech. Wskazówka: Utrzymuj ramiona prostopadle do tułowia, utrzymując je wyprostowane przez cały ruch. Ponadto, utrzymaj skurcz w górnej fazie ruchu przez sekundę.",
+    "Powoli opuść hantle do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Liegendes Kurzhantel-Seitheben für die hintere Schulter",
+  "instructions_de": [
+    "Halten Sie je eine Kurzhantel in jeder Hand und legen Sie sich mit dem Brustkorb nach unten auf eine leicht geneigte (ca. 15 Grad vom Boden gemessen) verstellbare Hantelbank.",
+    "Positionieren Sie die Handflächen neutral (Handflächen zeigen zum Rumpf), während Sie die Arme mit leicht gebeugten Ellbogen gestreckt halten. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie nun die Arme seitlich an, bis Ihre Ellbogen auf Schulterhöhe und Ihre Arme annähernd parallel zum Boden sind, während Sie ausatmen. Tipp: Halten Sie Ihre Arme während der gesamten Bewegung senkrecht zum Rumpf und gestreckt. Halten Sie die Kontraktion am höchsten Punkt für eine Sekunde.",
+    "Senken Sie die Kurzhanteln langsam in die Ausgangsposition ab, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen und wechseln Sie dann zum anderen Arm."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

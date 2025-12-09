@@ -1,0 +1,62 @@
+{
+  "name": "Snatch Balance",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",
+    "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",
+    "Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.",
+    "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Balans rwaniowy",
+  "instructions_pl": [
+    "Rozpocznij ze stopami w pozycji startowej do rwania, sztangą ułożoną na karku (na górnej części pleców) i dłońmi w szerokim chwycie rwaniowym.",
+    "Wybij sztangę dynamicznym ugięciem i wybiciem z kolan, a następnie dynamicznie wejdź pod sztangę, jednocześnie ustawiając stopy w pozycji odbioru.",
+    "Odbierz sztangę z zablokowanymi ramionami nad głową, w dolnej fazie przysiadu. Tułów powinien pozostać pionowo, a biodra opuszczone pomiędzy nogi.",
+    "Kontynuuj schodzenie do pełnej głębokości przysiadu, a następnie wróć do pozycji stojącej. Ostrożnie odłóż sztangę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "podnoszenie ciężarów",
+  "name_de": "Reißbalance",
+  "instructions_de": [
+    "Beginnen Sie mit den Füßen in der Zugposition, der Langhantel auf dem oberen Rücken abgelegt und den Händen im weiten Reißen-Griff positioniert.",
+    "Leiten Sie die Bewegung mit einem abrupten Absenken und Strecken der Knie ein, tauchen Sie aggressiv unter die Hantel, wobei Sie die Füße in die Fangposition bringen.",
+    "Fangen Sie die Hantel mit gestreckten Armen über Kopf nahe dem tiefsten Punkt der Kniebeuge. Der Oberkörper sollte vertikal bleiben, während Sie die Hüften zwischen die Beine absenken.",
+    "Fahren Sie fort, bis zur vollen Tiefe abzusenken, und kehren Sie in eine stehende Position zurück. Senken Sie das Gewicht vorsichtig ab."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculus gluteus maximus",
+    "Musculi ischiocrurales",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

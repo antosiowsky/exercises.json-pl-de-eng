@@ -1,0 +1,44 @@
+{
+  "name": "Reverse Machine Flyes",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
+    "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
+    "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
+    "Pause at the rear of the movement, and slowly return the weight to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Odwrotne rozpiętki na maszynie",
+  "instructions_pl": [
+    "Ustaw uchwyty tak, aby były całkowicie cofnięte do tyłu. Wybierz odpowiednie obciążenie i wyreguluj wysokość siedziska tak, aby uchwyty znajdowały się na wysokości barków. Chwyć uchwyty dłońmi skierowanymi do wewnątrz. Będzie to Twoja pozycja początkowa.",
+    "Półkolistym ruchem odciągnij ręce na boki i do tyłu, napinając tylne aktony mięśni naramiennych.",
+    "Utrzymuj ramiona lekko ugięte przez cały ruch, przy czym cały ruch powinien odbywać się w stawie ramiennym.",
+    "Zatrzymaj ruch w jego tylnej fazie i powoli wróć z obciążeniem do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Reverses Butterfly an der Maschine",
+  "instructions_de": [
+    "Stellen Sie die Griffe so ein, dass sie vollständig nach hinten ausgerichtet sind. Wählen Sie ein passendes Gewicht und stellen Sie die Sitzhöhe so ein, dass sich die Griffe auf Schulterhöhe befinden. Fassen Sie die Griffe mit den Handflächen zueinander. Dies ist Ihre Ausgangsposition.",
+    "In einer halbkreisförmigen Bewegung ziehen Sie Ihre Hände seitlich und nach hinten, wobei Sie Ihre hinteren Deltamuskeln anspannen.",
+    "Halten Sie Ihre Arme während der gesamten Bewegung leicht gebeugt, wobei die gesamte Bewegung im Schultergelenk stattfindet.",
+    "Halten Sie am hintersten Punkt der Bewegung kurz inne und führen Sie das Gewicht langsam in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

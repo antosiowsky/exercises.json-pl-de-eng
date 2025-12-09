@@ -1,0 +1,50 @@
+{
+  "name": "One-Arm Kettlebell Clean and Jerk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a kettlebell by the handle.",
+    "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
+    "Dip your body by bending the knees, keeping your torso upright.",
+    "Immediately reverse direction, driving through the heels, in essence jumping to create momentum. As you do so, press the kettlebell overhead to lockout by extending the arms, using your body's momentum to move the weight.",
+    "Receive the weight overhead by returning to a squat position underneath the weight.",
+    "Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Jednoręczny podrzut kettlebellem",
+  "instructions_pl": [
+    "Trzymaj kettlebell za uchwyt.",
+    "Zarzuć kettlebell na bark, prostując nogi i biodra, jednocześnie przyciągając kettlebell do barku. Obróć nadgarstek w trakcie ruchu, tak aby dłoń była skierowana do przodu.",
+    "Ugnij ciało, uginając kolana i utrzymując tułów w pozycji pionowej.",
+    "Natychmiast zmień kierunek ruchu, wypychając się z pięt, w zasadzie podskakując, aby wytworzyć pęd. Jednocześnie wyciśnij kettlebell nad głowę do pełnego wyprostu, prostując ramiona i wykorzystując pęd ciała do uniesienia ciężaru.",
+    "Przyjmij ciężar nad głową, wracając do pozycji przysiadu pod ciężarem.",
+    "Utrzymując ciężar nad głową, wróć do pozycji stojącej. Opuść ciężar na podłogę, aby wykonać kolejne powtórzenie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Kettlebell-Umsetzen und Ausstoßen",
+  "instructions_de": [
+    "Halten Sie eine Kettlebell am Griff.",
+    "Setzen Sie die Kettlebell zur Schulter um, indem Sie Beine und Hüfte strecken, während Sie die Kettlebell zur Schulter ziehen. Drehen Sie dabei Ihr Handgelenk, sodass die Handfläche nach vorne zeigt.",
+    "Senken Sie Ihren Körper ab, indem Sie die Knie beugen und den Rumpf aufrecht halten.",
+    "Kehren Sie sofort die Bewegung um, indem Sie sich über die Fersen abstoßen und im Wesentlichen springen, um Schwung zu erzeugen. Drücken Sie dabei die Kettlebell durch Strecken der Arme über Kopf bis zur Arretierung (Lockout), wobei Sie den Schwung Ihres Körpers nutzen, um das Gewicht zu bewegen.",
+    "Empfangen Sie das Gewicht über Kopf, indem Sie in eine Kniebeugenposition unter dem Gewicht zurückkehren.",
+    "Halten Sie das Gewicht über Kopf und kehren Sie in eine stehende Position zurück. Senken Sie das Gewicht zum Boden ab, um die nächste Wiederholung auszuführen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Rope Straight-Arm Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
+    "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",
+    "Pause at the bottom of the motion, squeezing your lats.",
+    "Return to the starting position without allowing the weight to fully rest on the stack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Najszersze grzbietu"
+  ],
+  "primaryMuscles_de": [
+    "Latissimus"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Ściąganie linki wyciągu górnego prostymi ramionami",
+  "instructions_pl": [
+    "Przymocuj linkę do wyciągu górnego i wybierz odpowiednie obciążenie. Stań kilka kroków za wyciągiem, przyjmij pozycję wykroczną i chwyć linkę obiema rękami. Pochyl się do przodu w biodrach, utrzymując proste plecy i ramiona wyprostowane przed sobą. To będzie twoja pozycja początkowa.",
+    "Utrzymując ramiona proste, wykonaj wyprost w stawie ramiennym, aby ściągnąć linkę w dół do ud.",
+    "Zatrzymaj ruch w dolnej fazie, mocno spinając mięśnie najszersze grzbietu.",
+    "Wróć do pozycji początkowej, nie pozwalając, aby obciążenie całkowicie opadło na stos obciążników."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowy",
+  "name_de": "Seilzug mit gestreckten Armen",
+  "instructions_de": [
+    "Befestigen Sie ein Seil an einem hohen Kabelzug und wählen Sie Ihr Gewicht. Stellen Sie sich einige Schritte hinter den Kabelzug, nehmen Sie eine Schrittstellung ein und fassen Sie das Seil mit beiden Händen. Lehnen Sie sich aus der Hüfte nach vorne, halten Sie Ihren Rücken gerade und strecken Sie Ihre Arme nach vorne oben aus. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Arme gestreckt und führen Sie die Schulter in die Extension, um das Seil bis zu Ihren Oberschenkeln zu ziehen.",
+    "Halten Sie am Ende der Bewegung kurz inne und spannen Sie Ihren Latissimus an.",
+    "Kehren Sie in die Ausgangsposition zurück, ohne das Gewicht vollständig auf dem Gewichtsblock abzulegen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

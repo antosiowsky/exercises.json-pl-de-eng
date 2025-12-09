@@ -1,0 +1,38 @@
+{
+  "name": "Standing Soleus And Achilles Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
+    "Bend both knees, keeping your back heel on the floor. Switch sides."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Łydki"
+  ],
+  "primaryMuscles_de": [
+    "Waden"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie mięśnia płaszczkowatego i ścięgna Achillesa w pozycji stojącej",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość bioder, jedną stopą nieco przed drugą.",
+    "Ugnij oba kolana, utrzymując piętę tylnej stopy na podłodze. Zmień strony."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Stehende Soleus- und Achillessehnendehnung",
+  "instructions_de": [
+    "Stellen Sie sich mit den Füßen hüftbreit auseinander hin, ein Fuß leicht vor dem anderen.",
+    "Beugen Sie beide Knie, wobei die hintere Ferse auf dem Boden bleibt. Wechseln Sie die Seiten."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnen"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Quick Leap",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "You will need a box for this exerise.",
+    "Begin facing the box standing 1-2 feet from its edge.",
+    "By utilizing your hips, hop onto the box, landing on both legs. Ensure that you land with your legs bent and your feet flat.",
+    "Immediately upon landing, fully extend through the entire body and swing your arms overhead to explode off of the box. Use your legs to absorb the impact of landing."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Szybki Wyskok",
+  "instructions_pl": [
+    "Do tego ćwiczenia będziesz potrzebować skrzyni.",
+    "Rozpocznij, stojąc przodem do skrzyni, w odległości 30-60 cm od jej krawędzi.",
+    "Wykorzystując biodra, wskocz na skrzynię, lądując na obu nogach. Upewnij się, że lądujesz z ugiętymi nogami i stopami płasko na powierzchni.",
+    "Natychmiast po wylądowaniu, wyprostuj całe ciało i zamachnij ramionami nad głowę, aby dynamicznie odbić się od skrzyni. Użyj nóg, aby zamortyzować uderzenie podczas lądowania."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Schneller Sprung",
+  "instructions_de": [
+    "Für diese Übung benötigen Sie eine Box.",
+    "Beginnen Sie mit Blick zur Box, 30-60 cm von deren Kante entfernt stehend.",
+    "Nutzen Sie Ihre Hüften, um auf die Box zu springen und auf beiden Beinen zu landen. Achten Sie darauf, mit gebeugten Beinen und flachen Füßen zu landen.",
+    "Unmittelbar nach der Landung strecken Sie den gesamten Körper vollständig durch und schwingen die Arme über den Kopf, um explosiv von der Box abzuspringen. Nutzen Sie Ihre Beine, um den Aufprall der Landung zu absorbieren."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus triceps surae",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Plyometrie"
+}

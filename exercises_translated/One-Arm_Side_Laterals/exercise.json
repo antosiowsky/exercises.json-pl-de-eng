@@ -1,0 +1,50 @@
+{
+  "name": "One-Arm Side Laterals",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pick a dumbbell and place it in one of your hands. Your non lifting hand should be used to grab something steady such as an incline bench press. Lean towards your lifting arm and away from the hand that is gripping the incline bench as this will allow you to keep your balance.",
+    "Stand with a straight torso and have the dumbbell by your side at arm's length with the palm of the hand facing you. This will be your starting position.",
+    "While maintaining the torso stationary (no swinging), lift the dumbbell to your side with a slight bend on the elbow and your hand slightly tilted forward as if pouring water in a glass. Continue to go up until you arm is parallel to the floor. Exhale as you execute this movement and pause for a second at the top.",
+    "Lower the dumbbell back down slowly to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Unoszenie ramion bokiem jednorącz",
+  "instructions_pl": [
+    "Chwyć hantlę jedną ręką. Wolną ręką chwyć stabilny punkt podparcia, np. ławkę do wyciskania skośnego. Pochyl się w stronę ramienia wykonującego ruch, odchylając się jednocześnie od ręki trzymającej ławkę, co pomoże utrzymać równowagę.",
+    "Stań z prostym tułowiem i trzymaj hantlę z boku, na wyprostowanym ramieniu, z dłonią skierowaną do siebie. To będzie Twoja pozycja początkowa.",
+    "Utrzymując tułów nieruchomo (bez kołysania), unieś hantlę bokiem, z lekko ugiętym łokciem i dłonią lekko pochyloną do przodu, jakbyś wylewał wodę ze szklanki. Kontynuuj ruch w górę, aż ramię będzie równoległe do podłogi. Wykonaj wydech podczas tego ruchu i zatrzymaj się na sekundę w najwyższym punkcie.",
+    "Powoli opuść hantlę do pozycji początkowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę razy.",
+    "Zmień ramię i powtórz ćwiczenie."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Einarmiges Seitheben",
+  "instructions_de": [
+    "Nimm eine Kurzhantel und halte sie in einer Hand. Deine nicht-trainierende Hand sollte dazu verwendet werden, etwas Stabiles zu greifen, wie zum Beispiel eine Schrägbank. Lehne dich zu deinem trainierenden Arm hin und von der Hand weg, die die Schrägbank greift, da dies dir hilft, das Gleichgewicht zu halten.",
+    "Stelle dich mit geradem Oberkörper hin und halte die Kurzhantel seitlich am ausgestreckten Arm, wobei die Handfläche zu dir zeigt. Dies ist deine Ausgangsposition.",
+    "Halte den Oberkörper stabil (ohne zu schwingen) und hebe die Kurzhantel seitlich nach oben, mit einer leichten Beugung im Ellenbogen und die Hand leicht nach vorne gekippt, als ob du Wasser in ein Glas gießt. Führe die Bewegung fort, bis dein Arm parallel zum Boden ist. Atme aus, während du diese Bewegung ausführst, und halte am höchsten Punkt eine Sekunde inne.",
+    "Senke die Kurzhantel langsam und kontrolliert zurück in die Ausgangsposition, während du einatmest.",
+    "Wiederhole dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechsle den Arm und wiederhole die Übung."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

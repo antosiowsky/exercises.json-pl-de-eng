@@ -1,0 +1,65 @@
+{
+  "name": "One Leg Barbell Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Start by standing about 2 to 3 feet in front of a flat bench with your back facing the bench. Have a barbell in front of you on the floor. Tip: Your feet should be shoulder width apart from each other.",
+    "Bend the knees and use a pronated grip with your hands being wider than shoulder width apart from each other to lift the barbell up until you can rest it on your chest.",
+    "Then lift the barbell over your head and rest it on the base of your neck. Move one foot back so that your toe is resting on the flat bench. Your other foot should be stationary in front of you. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. Tip: Make sure your back is straight and chest is out while performing this exercise.",
+    "As you inhale, slowly lower your leg until your thigh is parallel to the floor. At this point, your knee should be over your toes. Your chest should be directly above the middle of your thigh.",
+    "Leading with the chest and hips and contracting the quadriceps, elevate your leg back to the starting position as you exhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch legs and repeat the movement."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad jednonóż ze sztangą",
+  "instructions_pl": [
+    "Rozpocznij, stając około 60-90 cm przed płaską ławką, tyłem do niej. Sztanga powinna znajdować się przed tobą na podłodze. Wskazówka: Stopy powinny być rozstawione na szerokość barków.",
+    "Ugnij kolana i chwyć sztangę nachwytem, z dłońmi rozstawionymi szerzej niż szerokość barków, unieś sztangę, aż oprzesz ją na klatce piersiowej.",
+    "Następnie unieś sztangę nad głowę i oprzyj ją na karku. Przesuń jedną stopę do tyłu tak, aby palce spoczywały na płaskiej ławce. Druga stopa powinna pozostać nieruchomo przed tobą. Utrzymuj głowę uniesioną przez cały czas, ponieważ patrzenie w dół może spowodować utratę równowagi. Zachowaj również proste plecy. Wskazówka: Upewnij się, że plecy są proste, a klatka piersiowa wypięta podczas wykonywania tego ćwiczenia.",
+    "Podczas wdechu powoli opuszczaj nogę, aż udo znajdzie się równolegle do podłogi. W tym momencie kolano powinno znajdować się nad palcami stopy. Klatka piersiowa powinna znajdować się bezpośrednio nad środkiem uda.",
+    "Prowadząc ruch klatką piersiową i biodrami oraz napinając mięsień czworogłowy uda, unieś nogę z powrotem do pozycji początkowej podczas wydechu.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Zmień nogi i powtórz ruch."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einbeinige Langhantel-Kniebeuge",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie etwa 2 bis 3 Fuß vor einer Flachbank stehen, mit dem Rücken zur Bank. Eine Langhantel sollte vor Ihnen auf dem Boden liegen. Tipp: Ihre Füße sollten schulterbreit auseinander stehen.",
+    "Beugen Sie die Knie und verwenden Sie einen Pronationsgriff (Obergriff), wobei Ihre Hände weiter als schulterbreit auseinander liegen, um die Langhantel anzuheben, bis Sie sie auf Ihrer Brust ablegen können.",
+    "Heben Sie dann die Langhantel über Ihren Kopf und legen Sie sie auf dem Nacken ab. Bewegen Sie einen Fuß nach hinten, sodass Ihre Zehenspitze auf der Flachbank ruht. Ihr anderer Fuß sollte stationär vor Ihnen bleiben. Halten Sie Ihren Kopf jederzeit oben, da ein Blick nach unten Sie aus dem Gleichgewicht bringen würde, und halten Sie Ihren Rücken gerade. Tipp: Achten Sie darauf, dass Ihr Rücken gerade und Ihre Brust herausgestreckt ist, während Sie diese Übung ausführen.",
+    "Während Sie einatmen, senken Sie Ihr Bein langsam ab, bis Ihr Oberschenkel parallel zum Boden ist. Zu diesem Zeitpunkt sollte Ihr Knie über Ihren Zehen sein. Ihre Brust sollte sich direkt über der Mitte Ihres Oberschenkels befinden.",
+    "Führen Sie mit Brust und Hüften und kontrahieren Sie den Musculus quadriceps femoris, um Ihr Bein beim Ausatmen wieder in die Ausgangsposition zu heben.",
+    "Wiederholen Sie die Bewegung für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Beine und wiederholen Sie die Bewegung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi triceps surae",
+    "Musculi glutei",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Svend Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Begin in a standing position.",
+    "Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.",
+    "Squeeze the plates between your palms and extend your arms directly out in front of you in a controlled motion.",
+    "Pause at the top of the motion, and then slowly return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Wyciskanie Svenda",
+  "instructions_pl": [
+    "Rozpocznij w pozycji stojącej.",
+    "Ściśnij dwiema lekkimi talerzami dłońmi. Trzymaj talerze ściśnięte blisko klatki piersiowej, aby wywołać izometryczny skurcz w mięśniach piersiowych. Palce powinny być skierowane do przodu. To jest pozycja wyjściowa.",
+    "Ściskając talerze między dłońmi, wyprostuj ramiona bezpośrednio przed siebie kontrolowanym ruchem.",
+    "Zatrzymaj się na chwilę w szczytowym punkcie ruchu, a następnie powoli wróć do pozycji wyjściowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion",
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Svend Press",
+  "instructions_de": [
+    "Beginnen Sie im Stehen.",
+    "Drücken Sie zwei leichte Hantelscheiben mit den Händen zusammen. Halten Sie die Scheiben eng an Ihrer Brust zusammen, um eine isometrische Kontraktion in Ihrer Brustmuskulatur zu erzeugen. Ihre Finger sollten dabei nach vorne zeigen. Dies ist Ihre Ausgangsposition.",
+    "Drücken Sie die Scheiben fest zwischen Ihren Handflächen zusammen und strecken Sie Ihre Arme kontrolliert direkt vor sich aus.",
+    "Halten Sie am oberen Punkt der Bewegung kurz inne und kehren Sie dann langsam in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Unterarmmuskulatur",
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Box Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "The box squat allows you to squat to desired depth and develop explosive strength in the squat movement. Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Przysiad na skrzynię",
+  "instructions_pl": [
+    "Przysiad na skrzynię pozwala na przysiadanie do pożądanej głębokości i rozwój siły eksplozywnej w ruchu przysiadu. Rozpocznij w klatce mocy (power rack) ze skrzynią o odpowiedniej wysokości za tobą. Zazwyczaj dąży się do wysokości skrzyni, która pozwala na przysiad równoległy, ale można trenować wyżej lub niżej, jeśli jest to pożądane.",
+    "Rozpocznij, wchodząc pod sztangę i umieszczając ją na tylnej części barków. Złącz łopatki i obróć łokcie do przodu, próbując 'zginać' sztangę na barkach. Zdejmij sztangę ze stojaka, tworząc mocne wygięcie (łuk) w dolnej części pleców, i cofnij się do pozycji. Ustaw stopy szerzej, aby bardziej zaangażować mięśnie grzbietu, pośladkowe, przywodziciele i kulszowo-goleniowe, lub bliżej siebie dla większego rozwoju mięśni czworogłowych uda. Utrzymuj głowę skierowaną do przodu.",
+    "Mając napięte mięśnie grzbietu, barków i tułowia (core), wypchnij kolana i pośladki na zewnątrz, rozpoczynając opuszczanie. Usiądź biodrami do tyłu, aż znajdziesz się w pozycji siedzącej na skrzyni. Idealnie, twoje piszczele powinny być prostopadłe do podłoża. Zatrzymaj się, gdy dotkniesz skrzyni, i rozluźnij zginacze stawu biodrowego. Nigdy nie odbijaj się od skrzyni.",
+    "Utrzymując ciężar na piętach i wypychając stopy oraz kolana na zewnątrz, dynamicznie unieś się ze skrzyni, prowadząc ruch głową. Kontynuuj ruch w górę, utrzymując napięcie od stóp do głowy."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie przywodziciele",
+    "Mięśnie łydki",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "Trójbój siłowy",
+  "name_de": "Box-Kniebeuge",
+  "instructions_de": [
+    "Die Box-Kniebeuge ermöglicht es Ihnen, in die gewünschte Tiefe zu beugen und explosive Kraft in der Kniebeugenbewegung zu entwickeln. Beginnen Sie in einem Power Rack mit einer Box in der passenden Höhe hinter Ihnen. Typischerweise streben Sie eine Boxhöhe an, die Sie in eine parallele Kniebeuge bringt, aber Sie können bei Bedarf auch höher oder tiefer trainieren.",
+    "Beginnen Sie, indem Sie unter die Stange treten und diese über den oberen Rücken legen. Ziehen Sie Ihre Schulterblätter zusammen und drehen Sie Ihre Ellbogen nach vorne, als ob Sie versuchen würden, die Stange über Ihren Schultern zu biegen. Heben Sie die Stange aus dem Rack, bilden Sie ein festes Hohlkreuz im unteren Rücken und treten Sie in Position zurück. Stellen Sie Ihre Füße breiter, um den Rücken, die Glutealmuskulatur, die Adduktoren und die Ischiocrurale Muskulatur stärker zu betonen, oder enger zusammen für eine stärkere Entwicklung des Quadrizeps. Halten Sie Ihren Kopf nach vorne gerichtet.",
+    "Mit angespanntem Rücken, Schultern und Rumpf drücken Sie Ihre Knie und Ihr Gesäß nach außen, während Sie Ihre Abwärtsbewegung beginnen. Setzen Sie sich mit den Hüften nach hinten, bis Sie auf der Box sitzen. Idealerweise sollten Ihre Schienbeine senkrecht zum Boden stehen. Pausieren Sie, wenn Sie die Box erreichen, und entspannen Sie die Hüftbeuger. Federn Sie niemals von der Box ab.",
+    "Halten Sie das Gewicht auf Ihren Fersen und drücken Sie Ihre Füße und Knie nach außen, während Sie sich von der Box nach oben drücken und die Bewegung mit Ihrem Kopf führen. Setzen Sie die Aufwärtsbewegung fort und halten Sie die Spannung von Kopf bis Fuß aufrecht."
+  ],
+  "secondaryMuscles_de": [
+    "Adduktoren",
+    "Musculus triceps surae",
+    "Glutealmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Rückenstrecker"
+  ],
+  "category_de": "Kraftdreikampf"
+}

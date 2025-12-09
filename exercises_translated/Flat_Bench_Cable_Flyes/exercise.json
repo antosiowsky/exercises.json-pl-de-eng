@@ -1,0 +1,53 @@
+{
+  "name": "Flat Bench Cable Flyes",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
+    "Lay flat on the bench and keep your feet on the ground.",
+    "Have someone hand you the handles on each hand. You will grab each single handle attachment with a palms up grip.",
+    "Extend your arms by your side with a slight bend on your elbows. Tip: You will keep this bend constant through the whole movement. Your arms should be parallel to the floor. This is your starting position.",
+    "Now start lifting the arms in a semi-circle motion directly in front of you by pulling the cables together until both hands meet at the top of the movement. Squeeze your chest as you perform this motion and breathe out during this movement. Also, hold the contraction for a second at the top. Tip: When performed correctly, at the top position of this movement, your arms should be perpendicular to your torso and the floor touching above your chest.",
+    "Slowly come back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Rozpiętki na ławce płaskiej z wyciągiem",
+  "instructions_pl": [
+    "Ustaw ławkę płaską pomiędzy dwoma niskimi bloczkami wyciągu tak, aby leżąc na niej, klatka piersiowa była na wysokości bloczków wyciągu.",
+    "Połóż się płasko na ławce i trzymaj stopy na podłodze.",
+    "Poproś kogoś, aby podał Ci uchwyty do każdej ręki. Chwyć pojedyncze uchwyty chwytem z dłońmi skierowanymi ku górze.",
+    "Wyprostuj ramiona na boki z lekkim zgięciem w łokciach. Wskazówka: Utrzymuj to zgięcie stałe przez cały ruch. Twoje ramiona powinny być równoległe do podłogi. To jest Twoja pozycja początkowa.",
+    "Teraz zacznij unosić ramiona ruchem półkolistym bezpośrednio przed sobą, ściągając linki razem, aż obie dłonie spotkają się na szczycie ruchu. Ściśnij klatkę piersiową wykonując ten ruch i wydychaj powietrze podczas tego ruchu. Ponadto, przytrzymaj skurcz przez sekundę na szczycie. Wskazówka: Przy prawidłowym wykonaniu, w górnej pozycji tego ruchu, Twoje ramiona powinny być prostopadłe do tułowia, a dłonie powinny stykać się nad klatką piersiową.",
+    "Powoli wróć do pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kabel-Fliegende auf der Flachbank",
+  "instructions_de": [
+    "Positionieren Sie eine Flachbank zwischen zwei tiefen Kabelzügen, sodass Ihre Brust, wenn Sie darauf liegen, auf einer Linie mit den Kabelrollen ist.",
+    "Legen Sie sich flach auf die Bank und halten Sie Ihre Füße auf dem Boden.",
+    "Lassen Sie sich die Griffe in jede Hand geben. Greifen Sie jeden einzelnen Griffaufsatz mit einem Unterhandgriff.",
+    "Strecken Sie Ihre Arme seitlich mit einer leichten Beugung in den Ellbogen aus. Tipp: Halten Sie diese Beugung während der gesamten Bewegung konstant. Ihre Arme sollten parallel zum Boden sein. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie nun die Arme in einer halbkreisförmigen Bewegung direkt vor Ihrem Körper an, indem Sie die Kabel zusammenführen, bis sich beide Hände am höchsten Punkt der Bewegung treffen. Spannen Sie Ihre Brust an, während Sie diese Bewegung ausführen, und atmen Sie dabei aus. Halten Sie die Kontraktion am höchsten Punkt für eine Sekunde. Tipp: Bei korrekter Ausführung sollten Ihre Arme am höchsten Punkt dieser Bewegung senkrecht zu Ihrem Oberkörper sein und sich Ihre Hände über Ihrer Brust berühren.",
+    "Kehren Sie langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

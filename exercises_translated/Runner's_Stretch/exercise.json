@@ -1,0 +1,47 @@
+{
+  "name": "Runner's Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.",
+    "Keep the front heel on the floor (if it lifts up, scoot your other leg further back).",
+    "Place your hands on either side of your front leg. To get more out of this stretch, push your butt up toward the ceiling, and then gradually lower it back toward the floor. You'll Stretch the hip flexor of the back leg and the hamstring and buttocks of the front."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie biegacza",
+  "instructions_pl": [
+    "Najłatwiej wykonać to rozciąganie, zaczynając od pozycji stojącej, następnie jedną nogę odstawiając do tyłu i powoli opuszczając tułów w kierunku podłogi.",
+    "Utrzymuj przednią piętę na podłodze (jeśli się unosi, przesuń drugą nogę dalej do tyłu).",
+    "Umieść dłonie po obu stronach przedniej nogi. Aby pogłębić rozciąganie, unieś pośladki w kierunku sufitu, a następnie stopniowo opuść je z powrotem w kierunku podłogi. Rozciągniesz zginacz biodra nogi zakrocznej oraz mięśnie kulszowo-goleniowe i mięśnie pośladkowe nogi wykrocznej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek"
+  ],
+  "category_pl": "rozciąganie",
+  "name_de": "Läufer-Dehnung",
+  "instructions_de": [
+    "Am einfachsten gelangen Sie in diese Dehnung, indem Sie aufrecht stehen, ein Bein nach hinten stellen und Ihren Oberkörper langsam zum Boden absenken.",
+    "Halten Sie die vordere Ferse am Boden (falls sie sich anhebt, schieben Sie Ihr hinteres Bein weiter zurück).",
+    "Platzieren Sie Ihre Hände auf beiden Seiten Ihres vorderen Beins. Um die Dehnung zu intensivieren, schieben Sie Ihr Gesäß nach oben zur Decke und senken Sie es dann allmählich wieder zum Boden ab. Dabei dehnen Sie den Hüftbeuger des hinteren Beins sowie die Ischiocrurale Muskulatur und die Gesäßmuskulatur des vorderen Beins."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur"
+  ],
+  "category_de": "Dehnung"
+}

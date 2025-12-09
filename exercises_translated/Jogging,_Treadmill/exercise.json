@@ -1,0 +1,47 @@
+{
+  "name": "Jogging, Treadmill",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than jogging outside. A 150 lb person will burn almost 250 calories jogging for 30 minutes, compared to more than 450 calories running. Maintain proper posture as you jog, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Trucht, Bieżnia",
+  "instructions_pl": [
+    "Aby rozpocząć, wejdź na bieżnię i wybierz pożądaną opcję z menu. Większość bieżni posiada ustawienie manualne lub możesz wybrać program do biegania. Zazwyczaj możesz wprowadzić swój wiek i wagę, aby oszacować ilość spalonych kalorii podczas ćwiczeń. Nachylenie można regulować, aby zmienić intensywność treningu.",
+    "Bieżnie oferują wygodę, korzyści sercowo-naczyniowe i zazwyczaj mniejsze obciążenie stawów niż jogging na zewnątrz. Osoba ważąca 150 funtów (ok. 68 kg) spali prawie 250 kalorii podczas 30-minutowego truchtu, w porównaniu do ponad 450 kalorii podczas biegu. Utrzymuj prawidłową postawę podczas truchtu i trzymaj się uchwytów tylko wtedy, gdy jest to konieczne, np. podczas schodzenia z bieżni lub sprawdzania tętna."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "Trening kardio",
+  "name_de": "Joggen, Laufband",
+  "instructions_de": [
+    "Um zu beginnen, steigen Sie auf das Laufband und wählen Sie die gewünschte Option aus dem Menü. Die meisten Laufbänder verfügen über eine manuelle Einstellung, oder Sie können ein Laufprogramm auswählen. Typischerweise können Sie Ihr Alter und Gewicht eingeben, um die Menge der während des Trainings verbrannten Kalorien zu schätzen. Die Steigung kann angepasst werden, um die Intensität des Trainings zu variieren.",
+    "Laufbänder bieten Komfort, kardiovaskuläre Vorteile und haben in der Regel eine geringere Stoßbelastung als Joggen im Freien. Eine Person mit 150 lb verbrennt beim 30-minütigen Joggen fast 250 Kalorien, verglichen mit über 450 Kalorien beim Laufen. Achten Sie beim Joggen auf eine korrekte Körperhaltung und halten Sie sich nur bei Bedarf an den Griffen fest, z. B. beim Absteigen oder zur Herzfrequenzmessung."
+  ],
+  "secondaryMuscles_de": [
+    "Glutealmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Ausdauertraining"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Band Good Morning (Pull Through)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Loop the band around a post. Standing a little ways away, loop the opposite end around the neck. Your hands can help hold the band in position.",
+    "Begin by bending at the hips, getting your butt back as far as possible. Keep your back flat and bend forward to about 90 degrees. Your knees should be only slightly bent.",
+    "Return to the starting position be driving through with the hips to come back to a standing position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "gumy oporowe",
+  "equipment_de": "Widerstandsbänder",
+  "name_pl": "Skłon dzień dobry z gumą oporową (Przeciąganie)",
+  "instructions_pl": [
+    "Owiń gumę oporową wokół słupka. Stojąc w pewnej odległości, drugi koniec gumy załóż na kark. Dłonie mogą pomóc utrzymać gumę w odpowiedniej pozycji.",
+    "Rozpocznij, uginając się w stawach biodrowych i cofając pośladki jak najdalej. Utrzymuj proste plecy i pochyl się do przodu do około 90 stopni. Kolana powinny być tylko lekko ugięte.",
+    "Wróć do pozycji początkowej, napędzając ruch biodrami, aby powrócić do pozycji stojącej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Band Good Morning (Pull Through)",
+  "instructions_de": [
+    "Schlingen Sie das Band um einen Pfosten. Stellen Sie sich ein Stück entfernt hin und schlingen Sie das andere Ende um Ihren Nacken. Ihre Hände können dabei helfen, das Band in Position zu halten.",
+    "Beginnen Sie, indem Sie sich aus der Hüfte beugen und Ihr Gesäß so weit wie möglich nach hinten schieben. Halten Sie Ihren Rücken flach und beugen Sie sich etwa 90 Grad nach vorne. Ihre Knie sollten dabei nur leicht gebeugt sein.",
+    "Kehren Sie in die Ausgangsposition zurück, indem Sie durch eine kraftvolle Hüftstreckung wieder in eine stehende Position kommen."
+  ],
+  "secondaryMuscles_de": [
+    "Gesäßmuskulatur",
+    "Rückenstrecker"
+  ],
+  "category_de": "Kraftdreikampf"
+}

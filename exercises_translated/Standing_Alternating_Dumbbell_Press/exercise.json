@@ -1,0 +1,50 @@
+{
+  "name": "Standing Alternating Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Stand with a dumbbell in each hand. Raise the dumbbells to your shoulders with your palms facing forward and your elbows pointed out. This will be your starting position.",
+    "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
+    "After a brief pause, return the weight to the starting position.",
+    "Repeat for the opposite side, continuing to alternate between arms."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Wyciskanie hantli naprzemiennie stojąc",
+  "instructions_pl": [
+    "Stań z hantlą w każdej dłoni. Unieś hantle do wysokości barków, z dłońmi skierowanymi do przodu i łokciami na zewnątrz. Będzie to Twoja pozycja wyjściowa.",
+    "Wyprostuj jedno ramię, wyciskając hantlę prosto w górę, utrzymując drugą rękę w miejscu. Nie pochylaj się ani nie szarp ciężaru podczas ruchu.",
+    "Po krótkiej pauzie opuść ciężar do pozycji wyjściowej.",
+    "Powtórz na drugą stronę, kontynuując naprzemiennie ramionami."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Stehendes alternierendes Kurzhanteldrücken",
+  "instructions_de": [
+    "Stellen Sie sich mit einer Kurzhantel in jeder Hand hin. Heben Sie die Kurzhanteln zu Ihren Schultern, wobei die Handflächen nach vorne zeigen und die Ellbogen nach außen gerichtet sind. Dies ist Ihre Ausgangsposition.",
+    "Strecken Sie einen Arm aus, um die Kurzhantel gerade nach oben zu drücken, während die andere Hand in Position bleibt. Lehnen oder reißen Sie das Gewicht während der Bewegung nicht.",
+    "Nach einer kurzen Pause führen Sie das Gewicht in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die gegenüberliegende Seite, indem Sie weiterhin zwischen den Armen abwechseln."
+  ],
+  "secondaryMuscles_de": [
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

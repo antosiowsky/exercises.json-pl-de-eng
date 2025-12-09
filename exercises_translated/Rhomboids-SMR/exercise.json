@@ -1,0 +1,44 @@
+{
+  "name": "Rhomboids-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Lay down with your back on the floor. Place a foam roll underneath your upper back, and cross your arms in front of you, protracting your shoulders. This will be your starting position.",
+    "Raise your hips off of the ground, placing your weight onto the foam roll. Shift your weight to one side at a time, rolling over your middle and upper back. Pause at points of tension for 10-30 seconds."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Automasaż Mięśni Równoległobocznych (SMR)",
+  "instructions_pl": [
+    "Połóż się na plecach na podłodze. Umieść wałek piankowy pod górną częścią pleców i skrzyżuj ramiona przed sobą, wysuwając barki do przodu. To będzie Twoja pozycja wyjściowa.",
+    "Unieś biodra z podłogi, przenosząc ciężar ciała na wałek piankowy. Przesuwaj ciężar ciała raz na jedną, raz na drugą stronę, przetaczając się po środkowej i górnej części pleców. Zatrzymaj się w punktach napięcia na 10-30 sekund."
+  ],
+  "secondaryMuscles_pl": [
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "Rozciąganie",
+  "name_de": "Selbst-Myofasziale Entspannung der Rhomboidei",
+  "instructions_de": [
+    "Legen Sie sich mit dem Rücken auf den Boden. Platzieren Sie eine Faszienrolle unter Ihrem oberen Rücken und verschränken Sie Ihre Arme vor sich, wobei Sie Ihre Schultern protrahieren. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie Ihre Hüften vom Boden ab, wobei Sie Ihr Gewicht auf die Faszienrolle verlagern. Verlagern Sie Ihr Gewicht abwechselnd auf eine Seite und rollen Sie über Ihren mittleren und oberen Rücken. Halten Sie an Spannungspunkten für 10-30 Sekunden inne."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus trapezius"
+  ],
+  "category_de": "Dehnung"
+}

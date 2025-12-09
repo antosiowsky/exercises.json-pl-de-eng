@@ -1,0 +1,38 @@
+{
+  "name": "Lower Back-SMR",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.",
+    "Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Lędźwie"
+  ],
+  "primaryMuscles_de": [
+    "Lenden"
+  ],
+  "equipment_pl": "roller",
+  "equipment_de": "Faszienrolle",
+  "name_pl": "Automasaż mięśniowo-powięziowy dolnej części pleców",
+  "instructions_pl": [
+    "W pozycji siedzącej umieść wałek piankowy pod odcinkiem lędźwiowym kręgosłupa. Skrzyżuj ramiona przed sobą i wysuń barki do przodu. Będzie to twoja pozycja wyjściowa.",
+    "Unieś biodra z podłogi i odchyl się do tyłu, utrzymując ciężar ciała na odcinku lędźwiowym kręgosłupa. Następnie przenieś ciężar ciała lekko na jedną stronę, nie obciążając kręgosłupa, a opierając się na mięśniach przykręgosłupowych. Przetaczaj się po odcinku lędźwiowym kręgosłupa, zatrzymując się na punktach napięcia na 10-30 sekund. Powtórz na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "rozciąganie",
+  "name_de": "Unterer Rücken - SMR",
+  "instructions_de": [
+    "In sitzender Position platziere eine Faszienrolle unter deinem unteren Rücken. Verschränke deine Arme vor dem Körper und prothrahiere deine Schultern. Dies ist deine Ausgangsposition.",
+    "Hebe deine Hüften vom Boden ab und lehne dich zurück, wobei du dein Gewicht auf deinem unteren Rücken hältst. Verlagere nun dein Gewicht leicht zu einer Seite, halte dabei das Gewicht von der Wirbelsäule fern und auf den seitlich davon liegenden Muskeln. Rolle über deinen unteren Rücken und verweile 10-30 Sekunden auf den Spannungspunkten. Wiederhole dies auf der anderen Seite."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Dehnung"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Trail Running/Walking",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
+    "A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
+  ],
+  "category": "cardio",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Bieganie/Marsz po szlakach",
+  "instructions_pl": [
+    "Bieganie lub wędrówki po szlakach niemal natychmiast przyspieszą krążenie krwi i bicie serca. Upewnij się, że masz odpowiednie obuwie. Podczas gdy używasz mięśni łydek i pośladkowych do wspinania się pod górę, kolana, stawy i kostki absorbują większość wstrząsów podczas schodzenia w dół. Stawiaj mniejsze kroki podczas schodzenia, trzymaj kolana ugięte, aby zmniejszyć obciążenie, i zwolnij, aby uniknąć upadku.",
+    "Osoba ważąca 150 funtów może spalić ponad 200 kalorii podczas 30 minut marszu pod górę, w porównaniu do 175 kalorii na płaskiej powierzchni. Jeśli biegnie po szlaku, osoba ważąca 150 funtów może spalić znacznie ponad 500 kalorii w ciągu 30 minut."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "trening kardio",
+  "name_de": "Trailrunning/Wandern",
+  "instructions_de": [
+    "Laufen oder Wandern auf Trails bringt den Kreislauf und das Herz fast sofort in Schwung. Achten Sie auf gutes Schuhwerk. Während Sie die Waden- und Gesäßmuskulatur nutzen, um sich bergauf zu ziehen, absorbieren Knie, Gelenke und Sprunggelenke den Großteil der Belastung beim Bergabgehen. Machen Sie beim Bergabgehen kleinere Schritte, halten Sie Ihre Knie gebeugt, um den Aufprall zu reduzieren, und verlangsamen Sie das Tempo, um Stürze zu vermeiden.",
+    "Eine Person mit 150 Pfund kann beim 30-minütigen Bergaufgehen über 200 Kalorien verbrennen, verglichen mit 175 Kalorien auf einer ebenen Fläche. Beim Trailrunning kann eine Person mit 150 Pfund in 30 Minuten weit über 500 Kalorien verbrennen."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Ausdauertraining"
+}

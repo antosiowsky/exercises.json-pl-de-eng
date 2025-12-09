@@ -1,0 +1,50 @@
+{
+  "name": "Middle Back Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lats",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand so your feet are shoulder width apart and your hands are on your hips.",
+    "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
+  ],
+  "category": "stretching",
+  "primaryMuscles_pl": [
+    "Środkowe pleców"
+  ],
+  "primaryMuscles_de": [
+    "mittlerer Rücken"
+  ],
+  "equipment_pl": "",
+  "equipment_de": "",
+  "name_pl": "Rozciąganie środkowego odcinka pleców",
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i dłońmi opartymi na biodrach.",
+    "Wykonaj skręt tułowia w talii, aż poczujesz rozciąganie. Utrzymaj pozycję przez 10 do 15 sekund, a następnie wykonaj skręt w drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie brzucha",
+    "Mięśnie najszersze grzbietu",
+    "Mięśnie grzbietu (odcinek lędźwiowy)"
+  ],
+  "category_pl": "Rozciąganie",
+  "name_de": "Dehnung des mittleren Rückens",
+  "instructions_de": [
+    "Stellen Sie sich so hin, dass Ihre Füße schulterbreit auseinander stehen und Ihre Hände auf Ihren Hüften liegen.",
+    "Rotieren Sie im Rumpf, bis Sie eine Dehnung spüren. Halten Sie die Position für 10 bis 15 Sekunden, drehen Sie sich dann zur anderen Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Musculus latissimus dorsi",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Dehnung"
+}

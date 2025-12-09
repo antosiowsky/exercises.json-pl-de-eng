@@ -1,0 +1,44 @@
+{
+  "name": "Lying Leg Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.",
+    "Keeping the torso flat on the bench, ensure your legs are fully stretched and grab the side handles of the machine. Position your toes straight (or you can also use any of the other two stances described on the foot positioning section). This will be your starting position.",
+    "As you exhale, curl your legs up as far as possible without lifting the upper legs from the pad. Once you hit the fully contracted position, hold it for a second.",
+    "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Uginanie nóg leżąc",
+  "instructions_pl": [
+    "Dostosuj dźwignię maszyny do swojego wzrostu i połóż się twarzą w dół na maszynie do uginania nóg tak, aby poduszka dźwigni znajdowała się na tylnej części nóg (kilka centymetrów poniżej łydek). Wskazówka: Preferuj maszynę do uginania nóg z pochyłym oparciem zamiast płaskiego, ponieważ pozycja pod kątem jest bardziej sprzyjająca dla aktywacji mięśni kulszowo-goleniowych.",
+    "Utrzymując tułów płasko na ławce, upewnij się, że nogi są w pełni wyprostowane i chwyć boczne uchwyty maszyny. Ustaw palce stóp prosto (lub możesz również zastosować jedną z dwóch pozostałych pozycji opisanych w sekcji dotyczącej ustawienia stóp). Będzie to Twoja pozycja początkowa.",
+    "Podczas wydechu uginaj nogi w górę tak daleko, jak to możliwe, nie odrywając ud od poduszki. Po osiągnięciu pełnego skurczu, przytrzymaj pozycję przez sekundę.",
+    "Podczas wdechu opuść nogi z powrotem do pozycji początkowej. Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Liegendes Beincurlen",
+  "instructions_de": [
+    "Stellen Sie den Hebel der Maschine auf Ihre Körpergröße ein und legen Sie sich bäuchlings auf die Beincurl-Maschine, wobei das Polster des Hebels auf der Rückseite Ihrer Beine (wenige Zentimeter unterhalb der Waden) aufliegt. Tipp: Verwenden Sie vorzugsweise eine schräge Beincurl-Maschine anstelle einer flachen, da eine schräge Position die Aktivierung der ischiocruralen Muskulatur (Hamstrings) begünstigt.",
+    "Halten Sie den Rumpf flach auf der Bank, stellen Sie sicher, dass Ihre Beine vollständig gestreckt sind, und fassen Sie die seitlichen Griffe der Maschine. Positionieren Sie Ihre Zehen gerade (oder Sie können auch eine der beiden anderen Stellungen verwenden, die im Abschnitt zur Fußpositionierung beschrieben sind). Dies ist Ihre Ausgangsposition.",
+    "Während Sie ausatmen, beugen Sie Ihre Beine so weit wie möglich nach oben, ohne die Oberschenkel vom Polster abzuheben. Sobald Sie die vollständig kontrahierte Position erreicht haben, halten Sie diese für eine Sekunde.",
+    "Während Sie einatmen, führen Sie die Beine in die Ausgangsposition zurück. Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Hang Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+    "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "category": "olympic weightlifting",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut z zwisu",
+  "instructions_pl": [
+    "Rozpocznij z chwytem na szerokość barków, podwójnym nachwytem lub chwytem zamkowym, ze sztangą zwisającą na wysokości środka uda. Plecy powinny być proste i lekko pochylone do przodu.",
+    "Rozpocznij od dynamicznego wyprostu bioder, kolan i stawów skokowych, unosząc ciężar w górę. Jednocześnie wzrusz barkami w kierunku uszu.",
+    "Natychmiast wykonaj odbiór sztangi, wypychając się z pięt, utrzymując tułów w pozycji pionowej i łokcie wysoko. Kontynuuj, aż znajdziesz się w pozycji stojącej."
+  ],
+  "secondaryMuscles_pl": [
+    "Mięśnie łydek",
+    "Mięśnie przedramion",
+    "Mięśnie pośladkowe",
+    "Mięśnie kulszowo-goleniowe",
+    "Prostowniki grzbietu",
+    "Mięśnie naramienne",
+    "Mięśnie czworoboczne"
+  ],
+  "category_pl": "Dwubój olimpijski",
+  "name_de": "Umsetzen aus dem Hang",
+  "instructions_de": [
+    "Beginnen Sie mit einem schulterbreiten, doppelten Obergriff oder Haken-Griff, wobei die Langhantel auf mittlerer Oberschenkelhöhe hängt. Ihr Rücken sollte gerade und leicht nach vorne geneigt sein.",
+    "Beginnen Sie mit einer explosiven Streckung aus Hüfte, Knien und Sprunggelenken, um das Gewicht nach oben zu treiben. Ziehen Sie dabei die Schultern in Richtung der Ohren.",
+    "Fangen Sie das Gewicht sofort ab, indem Sie sich über die Fersen nach oben drücken, den Oberkörper aufrecht und die Ellenbogen hoch halten. Führen Sie die Bewegung fort, bis Sie eine aufrechte Standposition erreicht haben."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenmuskulatur",
+    "Schultermuskulatur",
+    "Trapezmuskel"
+  ],
+  "category_de": "Olympisches Gewichtheben"
+}

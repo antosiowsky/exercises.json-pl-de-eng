@@ -1,0 +1,56 @@
+{
+  "name": "One-Legged Cable Kickback",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle.",
+    "Face the weight stack from a distance of about two feet, grasping the steel frame for support.",
+    "While keeping your knees and hips bent slightly and your abs tight, contract your glutes to slowly \"kick\" the working leg back in a semicircular arc as high as it will comfortably go as you breathe out. Tip: At full extension, squeeze your glutes for a second in order to achieve a peak contraction.",
+    "Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch legs and repeat the movement for the other side."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Pośladki"
+  ],
+  "primaryMuscles_de": [
+    "Gesäßmuskeln"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Odwodzenie nogi w tył na wyciągu jednonożnie",
+  "instructions_pl": [
+    "Zaczep skórzany mankiet na kostkę do dolnego bloczka wyciągu, a następnie przymocuj mankiet do swojej kostki.",
+    "Stań przodem do stosu obciążeń w odległości około dwóch stóp, chwytając stalową ramę dla podparcia.",
+    "Utrzymując lekko ugięte kolana i biodra oraz napięte mięśnie brzucha, napnij mięśnie pośladkowe, aby powoli odwieść nogę roboczą w tył po półkolistym łuku, tak wysoko, jak to komfortowo możliwe, wykonując wydech. Wskazówka: W pełnym wyproście, ściśnij mięśnie pośladkowe na sekundę, aby osiągnąć szczytowe napięcie.",
+    "Teraz powoli przyciągnij nogę roboczą do przodu, opierając się ciągnięciu linki wyciągu, aż do osiągnięcia pozycji początkowej.",
+    "Powtórz zalecaną liczbę powtórzeń.",
+    "Zmień nogę i powtórz ruch na drugą stronę."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einbeiniges Kabelzug-Beinrückführen",
+  "instructions_de": [
+    "Befestigen Sie eine Leder-Fußmanschette an einem tiefen Kabelzug und dann die Manschette an Ihrem Knöchel.",
+    "Stellen Sie sich in einem Abstand von etwa zwei Fuß mit dem Gesicht zum Gewichtsturm und fassen Sie den Stahlrahmen zur Unterstützung.",
+    "Halten Sie Ihre Knie und Hüften leicht gebeugt und Ihre Bauchmuskeln angespannt. Spannen Sie Ihre Gesäßmuskulatur an, um das Arbeitsbein langsam in einem halbkreisförmigen Bogen so hoch wie bequem möglich nach hinten zu führen, während Sie ausatmen. Tipp: Bei voller Streckung spannen Sie Ihre Gesäßmuskulatur für eine Sekunde fest an, um eine Spitzenkontraktion zu erzielen.",
+    "Führen Sie nun Ihr Arbeitsbein langsam nach vorne, dem Zug des Kabels widerstehend, bis Sie die Ausgangsposition erreichen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen.",
+    "Wechseln Sie die Beine und wiederholen Sie die Bewegung für die andere Seite."
+  ],
+  "secondaryMuscles_de": [
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jackknife Sit-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on the floor (or exercise mat) on your back with your arms extended straight back behind your head and your legs extended also. This will be your starting position.",
+    "As you exhale, bend at the waist while simultaneously raising your legs and arms to meet in a jackknife position. Tip: The legs should be extended and lifted at approximately a 35-45 degree angle from the floor and the arms should be extended and parallel to your legs. The upper torso should be off the floor.",
+    "While inhaling, lower your arms and legs back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia brzucha scyzorykowe",
+  "instructions_pl": [
+    "Połóż się płasko na plecach na podłodze (lub macie do ćwiczeń) z ramionami wyciągniętymi prosto za głowę i nogami wyprostowanymi. To będzie Twoja pozycja początkowa.",
+    "Podczas wydechu zegnij się w pasie, jednocześnie unosząc nogi i ramiona, aby spotkały się w pozycji scyzorykowej. Wskazówka: Nogi powinny być wyprostowane i uniesione pod kątem około 35-45 stopni od podłogi, a ramiona powinny być wyprostowane i równoległe do nóg. Górna część tułowia powinna być oderwana od podłogi.",
+    "Podczas wdechu opuść ramiona i nogi z powrotem do pozycji początkowej.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siła",
+  "name_de": "Klappmesser-Sit-up",
+  "instructions_de": [
+    "Legen Sie sich flach auf den Rücken auf den Boden (oder eine Trainingsmatte), die Arme gerade nach hinten über den Kopf und die Beine ebenfalls ausgestreckt. Dies ist Ihre Ausgangsposition.",
+    "Beim Ausatmen beugen Sie sich in der Hüfte, während Sie gleichzeitig Beine und Arme anheben, sodass sie sich in einer Klappmesserposition treffen. Tipp: Die Beine sollten gestreckt und in einem Winkel von etwa 35-45 Grad vom Boden angehoben sein, und die Arme sollten gestreckt und parallel zu den Beinen sein. Der obere Rumpf sollte sich vom Boden abheben.",
+    "Beim Einatmen senken Sie Arme und Beine zurück in die Ausgangsposition.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

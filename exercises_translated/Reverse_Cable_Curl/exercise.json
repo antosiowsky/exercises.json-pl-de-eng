@@ -1,0 +1,50 @@
+{
+  "name": "Reverse Cable Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up with your torso upright while holding a bar attachment that is attached to a low pulley using a pronated (palms down) and shoulder width grip. Make sure also that you keep the elbows close to the torso. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "wyciąg",
+  "equipment_de": "Kabelzug",
+  "name_pl": "Uginanie przedramion z linką wyciągu dolnego (nachwytem)",
+  "instructions_pl": [
+    "Stań prosto z wyprostowanym tułowiem, trzymając drążek przymocowany do wyciągu dolnego nachwytem (dłonie skierowane w dół) na szerokość barków. Upewnij się, że łokcie są blisko tułowia. To będzie Twoja pozycja wyjściowa.",
+    "Utrzymując ramiona nieruchomo, uginaj przedramiona, jednocześnie napinając mięsień dwugłowy ramienia, wykonując wydech. Poruszają się tylko przedramiona. Kontynuuj ruch, aż mięsień dwugłowy ramienia będzie w pełni napięty, a drążek znajdzie się na wysokości barków. Przytrzymaj pozycję maksymalnego napięcia przez sekundę, mocno ściskając mięsień.",
+    "Powoli opuszczaj drążek do pozycji wyjściowej, wykonując wdech.",
+    "Powtórz ćwiczenie zalecaną liczbę razy."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie przedramion"
+  ],
+  "category_pl": "siła",
+  "name_de": "Umgekehrter Kabelzug-Curl",
+  "instructions_de": [
+    "Stellen Sie sich mit aufrechtem Oberkörper hin und halten Sie einen an einem tiefen Kabelzug befestigten Stangenaufsatz mit einem Obergriff (Handflächen nach unten) und schulterbreitem Griff. Achten Sie darauf, dass die Ellbogen eng am Oberkörper bleiben. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme stationär und beugen Sie das Gewicht, während Sie die Musculus biceps brachii kontrahieren und ausatmen. Nur die Unterarme sollten sich bewegen. Führen Sie die Bewegung fort, bis Ihre Musculus biceps brachii vollständig kontrahiert sind und die Stange sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Muskel anspannen.",
+    "Beginnen Sie langsam, die Stange in die Ausgangsposition zurückzuführen, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Musculi antebrachii"
+  ],
+  "category_de": "Kraft"
+}

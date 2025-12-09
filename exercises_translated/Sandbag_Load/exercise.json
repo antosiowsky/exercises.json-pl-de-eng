@@ -1,0 +1,77 @@
+{
+  "name": "Sandbag Load",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.",
+    "Begin by lifting the sandbag. Sandbags are extremely awkward, and the manner of lifting them can vary depending on the particular sandbag used. Reach as far around it as possible, extending through the hips and knees to pull it up high. Shouldering is usually not allowed.",
+    "Move as quickly as possible to the platform, and load it, extending through your hips, knees, and ankles to get it as high as possible. Place it onto the platform, ensuring it doesn't fall off.",
+    "Return to the starting position to retrieve the next sandbag, and repeat until the event is completed."
+  ],
+  "category": "strongman",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Załadunek worka z piaskiem",
+  "instructions_pl": [
+    "Aby załadować worki z piaskiem lub inne przedmioty, rozpocznij z przyrządami umieszczonymi w pewnej odległości od platformy załadunkowej, zazwyczaj 50 stóp.",
+    "Rozpocznij od podniesienia worka z piaskiem. Worki z piaskiem są niezwykle nieporęczne, a sposób ich podnoszenia może się różnić w zależności od konkretnego użytego worka. Sięgnij jak najdalej wokół niego, prostując biodra i kolana, aby podciągnąć go wysoko. Zazwyczaj zarzucanie na barki nie jest dozwolone.",
+    "Przemieść się jak najszybciej do platformy i załaduj worek, prostując biodra, kolana i stawy skokowe, aby umieścić go jak najwyżej. Połóż go na platformie, upewniając się, że nie spadnie.",
+    "Wróć do pozycji startowej, aby pobrać kolejny worek z piaskiem, i powtarzaj, aż wydarzenie zostanie zakończone."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięsień dwugłowy ramienia",
+    "mięsień trójgłowy łydki",
+    "mięśnie przedramion",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "prostowniki grzbietu",
+    "mięśnie środkowego odcinka pleców",
+    "mięśnie naramienne",
+    "mięsień czworoboczny"
+  ],
+  "category_pl": "strongman",
+  "name_de": "Sandsack Verladen",
+  "instructions_de": [
+    "Um Sandsäcke oder andere Objekte zu verladen, beginnen Sie mit den Geräten, die in einem bestimmten Abstand zur Ladeplattform platziert sind, typischerweise 15 Meter (ca. 50 Fuß).",
+    "Beginnen Sie, indem Sie den Sandsack anheben. Sandsäcke sind äußerst unhandlich, und die Art des Anhebens kann je nach verwendetem Sandsack variieren. Greifen Sie so weit wie möglich um ihn herum und strecken Sie sich durch Hüften und Knie, um ihn hochzuziehen. Das Schultern ist in der Regel nicht erlaubt.",
+    "Bewegen Sie sich so schnell wie möglich zur Plattform und verladen Sie ihn, indem Sie sich durch Hüften, Knie und Sprunggelenke strecken, um ihn so hoch wie möglich zu bekommen. Legen Sie ihn auf die Plattform und stellen Sie sicher, dass er nicht herunterfällt.",
+    "Kehren Sie zur Startposition zurück, um den nächsten Sandsack zu holen, und wiederholen Sie dies, bis das Event abgeschlossen ist."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Bizeps",
+    "Wadenmuskulatur",
+    "Unterarmmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Lendenmuskulatur",
+    "Muskeln des mittleren Rückens",
+    "Deltamuskel",
+    "Trapezmuskel"
+  ],
+  "category_de": "Strongman"
+}

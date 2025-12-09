@@ -1,0 +1,56 @@
+{
+  "name": "JM Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start the exercise the same way you would a close grip bench press. You will lie on a flat bench while holding a barbell at arms length (fully extended) with the elbows in. However, instead of having the arms perpendicular to the torso, make sure the bar is set in a direct line above the upper chest. This will be your starting position.",
+    "Now beginning from a fully extended position lower the bar down as if performing a lying triceps extension. Inhale as you perform this movement. When you reach the half way point, let the bar roll back about one inch by moving the upper arms towards your legs until they are perpendicular to the torso. Tip: Keep the bend at the elbows constant as you bring the upper arms forward.",
+    "As you exhale, press the bar back up by using the triceps to perform a close grip bench press.",
+    "Now go back to the starting position and start over.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Triceps"
+  ],
+  "primaryMuscles_de": [
+    "Trizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie JM",
+  "instructions_pl": [
+    "Rozpocznij ćwiczenie w ten sam sposób, co wyciskanie sztangi wąskim chwytem. Połóż się na płaskiej ławce, trzymając sztangę na wyprostowanych ramionach (w pełnym wyproście), z łokciami skierowanymi do wewnątrz. Jednakże, zamiast trzymać ramiona prostopadle do tułowia, upewnij się, że sztanga znajduje się w linii prostej nad górną częścią klatki piersiowej. Będzie to Twoja pozycja początkowa.",
+    "Teraz, zaczynając z pozycji pełnego wyprostu, opuść sztangę w dół, jakbyś wykonywał francuskie wyciskanie leżąc. Wykonując ten ruch, zrób wdech. Gdy osiągniesz połowę ruchu, pozwól sztandze cofnąć się o około jeden cal, przesuwając ramiona w kierunku nóg, aż znajdą się prostopadle do tułowia. Wskazówka: Utrzymuj stałe zgięcie w stawach łokciowych, przesuwając ramiona do przodu.",
+    "Podczas wydechu, wyciśnij sztangę z powrotem w górę, używając mięśni trójgłowych ramienia do wykonania wyciskania sztangi wąskim chwytem.",
+    "Teraz wróć do pozycji początkowej i rozpocznij od nowa.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie klatki piersiowej",
+    "mięśnie naramienne"
+  ],
+  "category_pl": "siła",
+  "name_de": "JM Press",
+  "instructions_de": [
+    "Beginnen Sie die Übung auf die gleiche Weise wie beim engen Bankdrücken. Sie liegen auf einer Flachbank, während Sie eine Langhantel mit ausgestreckten Armen (vollständig gestreckt) und eng am Körper gehaltenen Ellbogen halten. Anstatt die Arme senkrecht zum Rumpf zu halten, stellen Sie sicher, dass sich die Stange direkt über dem oberen Brustbereich befindet. Dies ist Ihre Ausgangsposition.",
+    "Beginnend aus der vollständig gestreckten Position senken Sie die Stange ab, als würden Sie eine liegende Trizepsstreckung ausführen. Atmen Sie während dieser Bewegung ein. Wenn Sie den halben Weg erreicht haben, lassen Sie die Stange etwa einen Zoll (ca. 2,5 cm) zurückrollen, indem Sie die Oberarme in Richtung Ihrer Beine bewegen, bis sie senkrecht zum Rumpf stehen. Tipp: Halten Sie die Beugung in den Ellbogen konstant, während Sie die Oberarme nach vorne bewegen.",
+    "Während Sie ausatmen, drücken Sie die Stange mithilfe des Trizeps wieder nach oben, um ein enges Bankdrücken auszuführen.",
+    "Kehren Sie nun zur Ausgangsposition zurück und beginnen Sie von Neuem.",
+    "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+  ],
+  "secondaryMuscles_de": [
+    "Brustmuskulatur",
+    "Schultermuskulatur"
+  ],
+  "category_de": "Kraft"
+}

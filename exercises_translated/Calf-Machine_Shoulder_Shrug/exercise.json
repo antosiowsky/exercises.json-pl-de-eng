@@ -1,0 +1,44 @@
+{
+  "name": "Calf-Machine Shoulder Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Position yourself on the calf machine so that the shoulder pads are above your shoulders. Your torso should be straight with the arms extended normally by your side. This will be your starting position.",
+    "Raise your shoulders up towards your ears as you exhale and hold the contraction for a full second.",
+    "Slowly return to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Kaptury"
+  ],
+  "primaryMuscles_de": [
+    "Trapezmuskeln"
+  ],
+  "equipment_pl": "maszyna",
+  "equipment_de": "Maschine",
+  "name_pl": "Unoszenie barków na maszynie do łydek",
+  "instructions_pl": [
+    "Ustaw się na maszynie do łydek tak, aby poduszki naramienne znajdowały się nad Twoimi barkami. Twój tułów powinien być wyprostowany, a ramiona swobodnie opuszczone wzdłuż tułowia. Będzie to Twoja pozycja początkowa.",
+    "Unieś barki w kierunku uszu podczas wydechu i utrzymaj skurcz przez pełną sekundę.",
+    "Powoli wróć do pozycji początkowej podczas wdechu.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "Siłowy",
+  "name_de": "Schulterheben an der Wadenmaschine",
+  "instructions_de": [
+    "Stellen Sie sich an die Wadenmaschine, sodass die Schulterpolster über Ihren Schultern liegen. Ihr Oberkörper sollte gerade sein, die Arme locker an den Seiten ausgestreckt. Dies ist Ihre Ausgangsposition.",
+    "Ziehen Sie beim Ausatmen Ihre Schultern nach oben in Richtung Ihrer Ohren und halten Sie die Kontraktion für eine volle Sekunde.",
+    "Kehren Sie beim Einatmen langsam in die Ausgangsposition zurück.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

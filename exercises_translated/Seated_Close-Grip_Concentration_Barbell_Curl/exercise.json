@@ -1,0 +1,47 @@
+{
+  "name": "Seated Close-Grip Concentration Barbell Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit down on a flat bench with a barbell or E-Z Bar in front of you in between your legs. Your legs should be spread with the knees bent and the feet on the floor.",
+    "Use your arms to pick the barbell up and place the back of your upper arms on top of your inner thighs (around three and a half inches away from the front of the knee). A supinated grip closer than shoulder width is needed to perform this exercise. Tip: Your arm should be extended at arms length and the barbell should be above the floor. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the barbell back to starting position as your breathe in. Tip: Avoid swinging motions at any time.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Biceps"
+  ],
+  "primaryMuscles_de": [
+    "Bizeps"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Koncentryczne uginanie ramion ze sztangą w siadzie z wąskim chwytem",
+  "instructions_pl": [
+    "Usiądź na płaskiej ławce ze sztangą lub gryfem łamanym (E-Z Bar) przed sobą, między nogami. Nogi powinny być rozstawione, kolana ugięte, a stopy oparte o podłogę.",
+    "Użyj ramion, aby podnieść sztangę i oprzyj tylną część ramion na wewnętrznych stronach ud (około trzy i pół cala od przodu kolana). Do wykonania tego ćwiczenia wymagany jest chwyt supinacyjny (podchwyt) węższy niż szerokość barków. Wskazówka: Twoje ramię powinno być wyprostowane, a sztanga powinna znajdować się nad podłogą. Będzie to Twoja pozycja początkowa.",
+    "Utrzymując ramiona nieruchomo, uginaj ciężar do przodu, jednocześnie napinając mięśnie dwugłowe ramion (biceps) podczas wydechu. Poruszać powinny się tylko przedramiona. Kontynuuj ruch, aż mięśnie dwugłowe ramion będą w pełni napięte, a sztanga znajdzie się na wysokości barków. Przytrzymaj pozycję maksymalnego napięcia przez sekundę, mocno ściskając mięśnie dwugłowe ramion.",
+    "Powoli zacznij opuszczać sztangę do pozycji początkowej podczas wdechu. Wskazówka: Unikaj ruchów wahadłowych (kołysania) w każdym momencie.",
+    "Powtórz ćwiczenie zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Sitzendes Konzentrations-Langhantelcurlen mit engem Griff",
+  "instructions_de": [
+    "Setzen Sie sich auf eine Flachbank, mit einer Langhantel oder E-Z-Stange vor sich zwischen Ihren Beinen. Ihre Beine sollten gespreizt sein, die Knie gebeugt und die Füße auf dem Boden.",
+    "Nehmen Sie die Langhantel mit den Armen auf und legen Sie die Rückseite Ihrer Oberarme auf Ihre inneren Oberschenkel (etwa dreieinhalb Zoll von der Vorderseite des Knies entfernt). Für diese Übung ist ein Supinationsgriff erforderlich, der enger als Schulterbreite ist. Tipp: Ihr Arm sollte vollständig gestreckt sein und die Langhantel sollte über dem Boden schweben. Dies ist Ihre Ausgangsposition.",
+    "Halten Sie die Oberarme stationär und curlen Sie das Gewicht nach vorne, während Sie beim Ausatmen den Bizeps anspannen. Nur die Unterarme sollten sich bewegen. Führen Sie die Bewegung fort, bis Ihr Bizeps vollständig kontrahiert ist und die Langhantel sich auf Schulterhöhe befindet. Halten Sie die kontrahierte Position für eine Sekunde, während Sie den Bizeps anspannen.",
+    "Beginnen Sie langsam, die Langhantel in die Ausgangsposition zurückzuführen, während Sie einatmen. Tipp: Vermeiden Sie zu jeder Zeit schwingende Bewegungen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Krafttraining"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Good Morning",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.",
+    "Begin by bending at the hips, moving them back as you bend over to near parallel. Keep your back arched and your cervical spine in proper alignment.",
+    "Reverse the motion by extending through the hips with your glutes and hamstrings. Continue until you have returned to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Skłon dzień dobry ze sztangą",
+  "instructions_pl": [
+    "Rozpocznij ze sztangą na stojaku na wysokości barków. Umieść sztangę na tylnej części barków, tak jak do przysiadu ze sztangą na plecach (power squat), a nie na górnej części barków/karku. Utrzymuj napięte plecy, ściągnięte łopatki i lekko ugięte kolana. Odejdź od stojaka.",
+    "Rozpocznij ruch, zginając się w stawach biodrowych, cofając biodra i pochylając się do pozycji niemal równoległej do podłoża. Utrzymuj wygięte plecy (naturalną krzywiznę kręgosłupa) i kręgosłup szyjny w prawidłowym ułożeniu.",
+    "Odwróć ruch, prostując się w stawach biodrowych, angażując mięśnie pośladkowe i mięśnie kulszowo-goleniowe. Kontynuuj, aż wrócisz do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie pośladkowe",
+    "mięśnie prostowniki grzbietu"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Good Morning",
+  "instructions_de": [
+    "Beginnen Sie mit einer Langhantel auf einem Rack in Schulterhöhe. Legen Sie die Langhantel wie bei einem Power Squat über den hinteren Teil Ihrer Schultern, nicht auf den oberen Teil Ihrer Schultern. Halten Sie Ihren Rücken angespannt, die Schulterblätter zusammengezogen und Ihre Knie leicht gebeugt. Treten Sie vom Rack zurück.",
+    "Beginnen Sie, indem Sie sich aus den Hüften beugen, diese nach hinten bewegen, während Sie sich bis fast parallel zum Boden beugen. Halten Sie Ihren Rücken gewölbt und Ihre Halswirbelsäule in korrekter Ausrichtung.",
+    "Kehren Sie die Bewegung um, indem Sie sich durch die Hüften strecken, unter Einsatz Ihrer Gesäßmuskulatur und Oberschenkelrückseite. Fahren Sie fort, bis Sie die Ausgangsposition erreicht haben."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Gesäßmuskulatur",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraftdreikampf"
+}

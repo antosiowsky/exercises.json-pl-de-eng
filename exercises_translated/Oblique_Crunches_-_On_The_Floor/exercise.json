@@ -1,0 +1,47 @@
+{
+  "name": "Oblique Crunches - On The Floor",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
+    "Place your left hand behind your head.",
+    "Once you are in this set position, begin by moving your left elbow up as you would perform a normal crunch except this time the main emphasis is on your obliques.",
+    "Crunch as high as you can, hold the contraction for a second and then slowly drop back down into the starting position.",
+    "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (elevation) part of the exercise."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Spięcia skośne brzucha - na podłodze",
+  "instructions_pl": [
+    "Połóż się na prawym boku, układając nogi jedna na drugiej. Upewnij się, że kolana są lekko ugięte.",
+    "Umieść lewą dłoń za głową.",
+    "Będąc w tej pozycji wyjściowej, zacznij unosić lewy łokieć do góry, tak jak podczas wykonywania zwykłego spięcia, z tą różnicą, że tym razem główny nacisk kładziony jest na mięśnie skośne brzucha.",
+    "Wykonaj spięcie tak wysoko, jak potrafisz, przytrzymaj skurcz przez sekundę, a następnie powoli opuść się z powrotem do pozycji wyjściowej.",
+    "Pamiętaj, aby wykonać wdech podczas ekscentrycznej (opuszczania) fazy ćwiczenia i wydech podczas koncentrycznej (unoszenia) fazy ćwiczenia."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siłowe",
+  "name_de": "Schräge Crunches – Auf dem Boden",
+  "instructions_de": [
+    "Beginnen Sie, indem Sie sich auf Ihre rechte Seite legen, mit übereinander liegenden Beinen. Achten Sie darauf, dass Ihre Knie leicht gebeugt sind.",
+    "Legen Sie Ihre linke Hand hinter Ihren Kopf.",
+    "Sobald Sie diese Ausgangsposition eingenommen haben, beginnen Sie, Ihren linken Ellbogen nach oben zu bewegen, wie Sie einen normalen Crunch ausführen würden, außer dass dieses Mal der Hauptfokus auf Ihren schrägen Bauchmuskeln liegt.",
+    "Führen Sie den Crunch so hoch wie möglich aus, halten Sie die Kontraktion für eine Sekunde und kehren Sie dann langsam in die Ausgangsposition zurück.",
+    "Denken Sie daran, während des exzentrischen (Absenk-)Teils der Übung einzuatmen und während des konzentrischen (Anheb-)Teils der Übung auszuatmen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

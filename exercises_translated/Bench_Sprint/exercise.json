@@ -1,0 +1,56 @@
+{
+  "name": "Bench Sprint",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",
+    "Push off with your foot on top of the bench, extending through the hip and knee.",
+    "Land with the opposite foot on top of the box, returning your other foot back to the start position.",
+    "Continue alternating from one foot to another to complete the set."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Sprint na ławce/skrzyni",
+  "instructions_pl": [
+    "Stań na podłożu, opierając jedną stopę na ławce lub skrzyni, z piętą blisko krawędzi.",
+    "Wybij się stopą opartą na ławce, wykonując wyprost w stawie biodrowym i kolanowym.",
+    "Wyląduj przeciwną stopą na skrzyni, jednocześnie wracając drugą stopą do pozycji początkowej.",
+    "Kontynuuj naprzemienne zmiany stóp, aby wykonać serię."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Bank-Sprint",
+  "instructions_de": [
+    "Stellen Sie sich auf den Boden und platzieren Sie einen Fuß mit der Ferse nah am Rand auf einer Bank oder einem Kasten.",
+    "Stoßen Sie sich mit dem auf der Bank befindlichen Fuß ab, indem Sie Hüfte und Knie strecken.",
+    "Landen Sie mit dem entgegengesetzten Fuß auf dem Kasten und führen Sie dabei den anderen Fuß in die Ausgangsposition zurück.",
+    "Fahren Sie fort, abwechselnd von einem Fuß zum anderen zu wechseln, um den Satz zu beenden."
+  ],
+  "secondaryMuscles_de": [
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur"
+  ],
+  "category_de": "Plyometrie"
+}

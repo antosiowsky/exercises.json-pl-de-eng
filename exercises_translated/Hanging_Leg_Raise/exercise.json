@@ -1,0 +1,44 @@
+{
+  "name": "Hanging Leg Raise",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.",
+    "Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.",
+    "Go back slowly to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Brzuch"
+  ],
+  "primaryMuscles_de": [
+    "Bauchmuskeln"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Wznosy nóg w zwisie",
+  "instructions_pl": [
+    "Zawiś na drążku do podciągania na wyprostowanych rękach, używając chwytu szerokiego lub średniego. Nogi powinny być wyprostowane w dół, z miednicą lekko podwiniętą do tyłu. Będzie to Twoja pozycja wyjściowa.",
+    "Unieś nogi, aż tułów utworzy kąt 90 stopni z nogami. Wykonując ten ruch, zrób wydech i przytrzymaj skurcz przez około sekundę.",
+    "Powoli wróć do pozycji wyjściowej, robiąc wdech.",
+    "Powtórz zalecaną liczbę powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Beinheben im Hang",
+  "instructions_de": [
+    "Hängen Sie sich mit beiden Armen vollständig ausgestreckt über dem Kopf an eine Klimmzugstange, wobei Sie entweder einen weiten oder einen mittleren Griff verwenden. Die Beine sollten gerade nach unten hängen, wobei das Becken leicht nach hinten gekippt ist. Dies ist Ihre Ausgangsposition.",
+    "Heben Sie Ihre Beine an, bis der Oberkörper mit den Beinen einen 90-Grad-Winkel bildet. Atmen Sie aus, während Sie diese Bewegung ausführen, und halten Sie die Kontraktion für etwa eine Sekunde.",
+    "Kehren Sie langsam in die Ausgangsposition zurück, während Sie einatmen.",
+    "Wiederholen Sie dies für die empfohlene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

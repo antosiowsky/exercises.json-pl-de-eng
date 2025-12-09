@@ -1,0 +1,47 @@
+{
+  "name": "Extended Range One-Arm Kettlebell Floor Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Lie on the floor and position a kettlebell for one arm to press. The kettlebell should be held by the handle. The leg on the same side that you are pressing should be bent, with the knee crossing over the midline of the body.",
+    "Press the kettlebell by extending the elbow and adducting the arm, pressing it above your body. Return to the starting position."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "kettlebells",
+  "equipment_de": "Kettlebell",
+  "name_pl": "Wyciskanie kettlebell jednorącz z podłogi w pełnym zakresie ruchu",
+  "instructions_pl": [
+    "Połóż się na podłodze i ustaw kettlebell do wyciskania jedną ręką. Kettlebell powinien być trzymany za uchwyt. Noga po tej samej stronie, którą wyciskasz, powinna być zgięta, z kolanem przekraczającym linię środkową ciała.",
+    "Wyciśnij kettlebell, prostując łokieć i przywodząc ramię, wyciskając go nad ciałem. Wróć do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Einarmige Kettlebell-Bodenpresse mit erweitertem Bewegungsumfang",
+  "instructions_de": [
+    "Lege dich auf den Boden und positioniere eine Kettlebell für das einarmige Drücken. Die Kettlebell sollte am Griff gehalten werden. Das gleichseitige Bein sollte angewinkelt sein, wobei das Knie die Mittellinie des Körpers überkreuzt.",
+    "Drücke die Kettlebell, indem du den Ellbogen streckst und den Arm adduzierst, sodass sie sich über deinem Körper befindet. Kehre in die Ausgangsposition zurück."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus deltoideus",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

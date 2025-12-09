@@ -1,0 +1,65 @@
+{
+  "name": "Lateral Box Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Assume a comfortable standing position, with a short box positioned next to you. This will be your starting position.",
+    "Quickly dip into a quarter squat to initiate the stretch reflex, and immediately reverse direction to jump up and to the side.",
+    "Bring your knees high enough to ensure your feet have good clearance over the box.",
+    "Land on the center of the box, using your legs to absorb the impact.",
+    "Carefully jump down to the other side of the box, and continue going back and forth for several repetitions."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Przywodziciele"
+  ],
+  "primaryMuscles_de": [
+    "Adduktoren"
+  ],
+  "equipment_pl": "inne",
+  "equipment_de": "Sonstiges",
+  "name_pl": "Boczny Wskok na Skrzynię",
+  "instructions_pl": [
+    "Przyjmij wygodną pozycję stojącą, z niewysoką skrzynią ustawioną obok ciebie. Będzie to twoja pozycja startowa.",
+    "Szybko zejdź do przysiadu ćwierćgłębokiego, aby zainicjować odruch rozciągania, a następnie natychmiast zmień kierunek, aby wyskoczyć w górę i w bok.",
+    "Unieś kolana wystarczająco wysoko, aby zapewnić stopom odpowiedni prześwit nad skrzynią.",
+    "Wyląduj na środku skrzyni, używając nóg do amortyzacji uderzenia.",
+    "Ostrożnie zeskocz na drugą stronę skrzyni i kontynuuj przeskakiwanie z jednej strony na drugą przez kilka powtórzeń."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie odwodziciele",
+    "mięśnie trójgłowe łydki",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie czworogłowe uda"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Seitlicher Boxsprung",
+  "instructions_de": [
+    "Nehmen Sie eine bequeme Standposition ein, wobei eine niedrige Box neben Ihnen platziert ist. Dies ist Ihre Ausgangsposition.",
+    "Gehen Sie schnell in eine Viertelhocke, um den Dehnungsreflex einzuleiten, und kehren Sie die Bewegung sofort um, um nach oben und zur Seite zu springen.",
+    "Ziehen Sie Ihre Knie hoch genug, um sicherzustellen, dass Ihre Füße genügend Abstand zur Box haben.",
+    "Landen Sie in der Mitte der Box, indem Sie den Aufprall mit den Beinen abfedern.",
+    "Springen Sie vorsichtig auf die andere Seite der Box hinunter und fahren Sie für mehrere Wiederholungen mit dem Hin- und Herspringen fort."
+  ],
+  "secondaryMuscles_de": [
+    "Abduktoren",
+    "Wadenmuskulatur",
+    "Gesäßmuskulatur",
+    "Ischiocrurale Muskulatur",
+    "Musculus quadriceps femoris"
+  ],
+  "category_de": "Plyometrie"
+}

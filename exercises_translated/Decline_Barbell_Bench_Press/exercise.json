@@ -1,0 +1,59 @@
+{
+  "name": "Decline Barbell Bench Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+    "Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack.",
+    "As you breathe in, come down slowly until you feel the bar on your lower chest.",
+    "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up).",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Wyciskanie sztangi na ławce ze skosem ujemnym",
+  "instructions_pl": [
+    "Zabezpiecz nogi na końcu ławki ze skosem ujemnym i powoli połóż się na ławce.",
+    "Używając chwytu o średniej szerokości (chwyt, który tworzy kąt 90 stopni w połowie ruchu między przedramionami a ramionami), podnieś sztangę ze stojaka i trzymaj ją prosto nad sobą z zablokowanymi ramionami. Ramiona powinny być prostopadłe do podłogi. Będzie to Twoja pozycja wyjściowa. Wskazówka: Aby chronić stożek rotatorów, najlepiej jest, jeśli masz asekuranta, który pomoże Ci zdjąć sztangę ze stojaka.",
+    "Wraz z wdechem, opuszczaj sztangę powoli, aż poczujesz ją na dolnej części klatki piersiowej.",
+    "Po sekundowej pauzie, wróć ze sztangą do pozycji wyjściowej, wykonując wydech i wypychając sztangę mięśniami klatki piersiowej. Zablokuj ramiona i mocno ściśnij klatkę piersiową w pozycji skurczonej, przytrzymaj przez sekundę, a następnie zacznij ponownie powoli opuszczać sztangę. Wskazówka: Faza opuszczania powinna trwać co najmniej dwa razy dłużej niż faza podnoszenia.",
+    "Powtórz ruch przez zalecaną liczbę powtórzeń.",
+    "Po zakończeniu, odłóż sztangę z powrotem na stojak."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie naramienne",
+    "mięsień trójgłowy ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Negativbankdrücken mit der Langhantel",
+  "instructions_de": [
+    "Fixieren Sie Ihre Beine am Ende der Negativbank und legen Sie sich langsam auf die Bank.",
+    "Fassen Sie die Stange mit einem mittelbreiten Griff an (ein Griff, der in der Mitte der Bewegung einen 90-Grad-Winkel zwischen Unterarmen und Oberarmen bildet), heben Sie die Stange aus der Ablage und halten Sie sie mit gestreckten Armen gerade über sich. Die Arme sollten senkrecht zum Boden stehen. Dies ist Ihre Ausgangsposition. Tipp: Um Ihre Rotatorenmanschette zu schützen, ist es am besten, wenn ein Trainingspartner Ihnen hilft, die Langhantel aus der Ablage zu heben.",
+    "Während Sie einatmen, senken Sie die Stange langsam ab, bis Sie die Stange auf Ihrem unteren Brustbereich spüren.",
+    "Nach einer kurzen Pause bringen Sie die Stange in die Ausgangsposition zurück, während Sie ausatmen und die Stange mit Ihrer Brustmuskulatur nach oben drücken. Strecken Sie Ihre Arme durch und spannen Sie die Brust in der kontrahierten Position an, halten Sie diese für eine Sekunde und beginnen Sie dann erneut, die Stange langsam abzusenken. Tipp: Die Abwärtsbewegung sollte mindestens doppelt so lange dauern wie die Aufwärtsbewegung.",
+    "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen.",
+    "Wenn Sie fertig sind, legen Sie die Stange zurück in die Ablage."
+  ],
+  "secondaryMuscles_de": [
+    "Schultern",
+    "Trizeps"
+  ],
+  "category_de": "Kraft"
+}

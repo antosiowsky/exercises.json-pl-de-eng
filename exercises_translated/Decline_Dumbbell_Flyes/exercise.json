@@ -1,0 +1,47 @@
+{
+  "name": "Decline Dumbbell Flyes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
+    "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",
+    "With a slight bend on your elbows in order to prevent stress at the biceps tendon, lower your arms out at both sides in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the arms should remain stationary; the movement should only occur at the shoulder joint.",
+    "Return your arms back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights.",
+    "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Klatka piersiowa"
+  ],
+  "primaryMuscles_de": [
+    "Brust"
+  ],
+  "equipment_pl": "hantle",
+  "equipment_de": "Kurzhantel",
+  "name_pl": "Rozpiętki hantlami na ławce ze skosem ujemnym",
+  "instructions_pl": [
+    "Zahacz stopy o uchwyty ławki ze skosem ujemnym i połóż się, trzymając hantel w każdej dłoni, opierając je na udach. Dłonie będą skierowane do siebie.",
+    "Po przyjęciu pozycji leżącej, przenieś hantle przed siebie na szerokość barków. Dłonie powinny być skierowane do siebie, a ramiona prostopadłe do podłogi i w pełni wyprostowane. Będzie to Twoja pozycja początkowa.",
+    "Z lekko ugiętymi łokciami, aby zapobiec nadmiernemu obciążeniu ścięgna mięśnia dwugłowego ramienia, opuść ramiona na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej. Wykonując tę część ruchu, wykonaj wdech. Wskazówka: Pamiętaj, że przez cały ruch ramiona powinny pozostać nieruchome; ruch powinien odbywać się wyłącznie w stawie ramiennym.",
+    "Wróć ramionami do pozycji początkowej, jednocześnie napinając mięśnie klatki piersiowej i wykonując wydech. Wskazówka: Upewnij się, że używasz tego samego łuku ruchu, co podczas opuszczania ciężarów.",
+    "Przytrzymaj przez sekundę w pozycji maksymalnego skurczu i powtórz ruch dla zalecanej liczby powtórzeń."
+  ],
+  "secondaryMuscles_pl": [],
+  "category_pl": "siła",
+  "name_de": "Kurzhantel-Fliegende auf der Negativbank",
+  "instructions_de": [
+    "Fixieren Sie Ihre Beine am Ende der Negativbank und legen Sie sich mit einer Kurzhantel in jeder Hand auf Ihren Oberschenkeln ab. Die Handflächen zeigen zueinander.",
+    "Sobald Sie liegen, führen Sie die Kurzhanteln schulterbreit vor sich zusammen. Die Handflächen sollten zueinander zeigen und die Arme senkrecht zum Boden und vollständig gestreckt sein. Dies ist Ihre Ausgangsposition.",
+    "Mit einer leichten Beugung in den Ellenbogen, um eine Belastung der Bizepssehne zu vermeiden, senken Sie Ihre Arme seitlich in einem weiten Bogen ab, bis Sie eine Dehnung in Ihrer Brustmuskulatur spüren. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen. Tipp: Beachten Sie, dass die Arme während der gesamten Bewegung stationär bleiben sollten; die Bewegung sollte ausschließlich im Schultergelenk stattfinden.",
+    "Führen Sie Ihre Arme in die Ausgangsposition zurück, während Sie Ihre Brustmuskulatur anspannen und ausatmen. Tipp: Achten Sie darauf, denselben Bewegungsbogen zu verwenden, den Sie zum Absenken der Gewichte genutzt haben.",
+    "Halten Sie die kontrahierte Position für eine Sekunde und wiederholen Sie die Bewegung für die vorgeschriebene Anzahl an Wiederholungen."
+  ],
+  "secondaryMuscles_de": [],
+  "category_de": "Kraft"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Scissors Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
+    "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
+  ],
+  "category": "plyometrics",
+  "primaryMuscles_pl": [
+    "Czworogłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Quadrizeps"
+  ],
+  "equipment_pl": "masa własnego ciała",
+  "equipment_de": "Körpergewicht",
+  "name_pl": "Skok nożycowy",
+  "instructions_pl": [
+    "Przyjmij pozycję wykroku z jedną stopą z przodu i ugiętym kolanem, oraz tylnym kolanem niemal dotykającym podłoża.",
+    "Upewnij się, że przednie kolano znajduje się nad śródstopiem. Wyprostowując obie nogi, wyskocz jak najwyżej, wspomagając się zamachem ramion w celu uzyskania wysokości.",
+    "W szczytowym momencie skoku zmień pozycję nóg, przenosząc przednią nogę do tyłu, a tylną do przodu.",
+    "Lądując, zamortyzuj uderzenie nogami, przyjmując pozycję wykroku, i powtórz."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe"
+  ],
+  "category_pl": "plyometria",
+  "name_de": "Scherensprung",
+  "instructions_de": [
+    "Begib dich in eine Ausfallschrittposition, wobei ein Fuß nach vorne gestellt und das Knie gebeugt ist, und das hintere Knie fast den Boden berührt.",
+    "Stelle sicher, dass das vordere Knie über der Mittellinie des Fußes positioniert ist. Stoße dich mit beiden Beinen ab und springe so hoch wie möglich, wobei du die Arme schwingst, um Auftrieb zu gewinnen.",
+    "Während du so hoch wie möglich springst, wechsle die Position deiner Beine, indem du dein vorderes Bein nach hinten und dein hinteres Bein nach vorne bewegst.",
+    "Beim Landen federe den Aufprall mit den Beinen ab, indem du wieder die Ausfallschrittposition einnimmst, und wiederhole die Übung."
+  ],
+  "secondaryMuscles_de": [
+    "Musculus gluteus maximus",
+    "Musculi ischiocrurales"
+  ],
+  "category_de": "Plyometrie"
+}

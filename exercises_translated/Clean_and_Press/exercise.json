@@ -1,0 +1,86 @@
+{
+  "name": "Clean and Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Assume a shoulder-width stance, with knees inside the arms. Now while keeping the back flat, bend at the knees and hips so that you can grab the bar with the arms fully extended and a pronated grip that is slightly wider than shoulder width. Point the elbows out to sides. The bar should be close to the shins. Position the shoulders over or slightly ahead of the bar. Establish a flat back posture. This will be your starting position.",
+    "Begin to pull the bar by extending the knees. Move your hips forward and raise the shoulders at the same rate while keeping the angle of the back constant; continue to lift the bar straight up while keeping it close to your body.",
+    "As the bar passes the knee, extend at the ankles, knees, and hips forcefully, similar to a jumping motion. As you do so, continue to guide the bar with your hands, shrugging your shoulders and using the momentum from your movement to pull the bar as high as possible. The bar should travel close to your body, and you should keep your elbows out.",
+    "At maximum elevation, your feet should clear the floor and you should start to pull yourself under the bar. The mechanics of this could change slightly, depending on the weight used. You should descend into a squatting position as you pull yourself under the bar.",
+    "As the bar hits terminal height, rotate your elbows around and under the bar. Rack the bar across the front of the shoulders while keeping the torso erect and flexing the hips and knees to absorb the weight of the bar.",
+    "Stand to full height, holding the bar in the clean position.",
+    "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
+  ],
+  "category": "strength",
+  "primaryMuscles_pl": [
+    "Barki"
+  ],
+  "primaryMuscles_de": [
+    "Schultern"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Zarzut i wyciśnięcie sztangi",
+  "instructions_pl": [
+    "Przyjmij rozstaw stóp na szerokość barków, z kolanami wewnątrz ramion. Zachowując proste plecy, ugnij kolana i biodra tak, aby móc chwycić sztangę całkowicie wyprostowanymi ramionami, nachwytem nieco szerszym niż szerokość barków. Skieruj łokcie na zewnątrz. Sztanga powinna znajdować się blisko piszczeli. Ustaw barki nad sztangą lub nieco przed nią. Przyjmij postawę z prostymi plecami. Będzie to Twoja pozycja wyjściowa.",
+    "Rozpocznij podciąganie sztangi, prostując kolana. Przesuń biodra do przodu i unieś barki w tym samym tempie, zachowując stały kąt nachylenia pleców; kontynuuj podnoszenie sztangi prosto w górę, utrzymując ją blisko ciała.",
+    "Gdy sztanga minie kolana, wyprostuj się dynamicznie w stawach skokowych, kolanowych i biodrowych, podobnie jak podczas skoku. Kontynuuj prowadzenie sztangi rękami, unosząc barki i wykorzystując pęd ruchu do podciągnięcia sztangi jak najwyżej. Sztanga powinna poruszać się blisko ciała, a łokcie powinny być skierowane na zewnątrz.",
+    "W punkcie maksymalnego uniesienia stopy powinny oderwać się od podłoża i powinieneś zacząć wciągać się pod sztangę. Mechanika tego ruchu może się nieznacznie różnić w zależności od użytego ciężaru. Powinieneś zejść do pozycji przysiadu, wciągając się pod sztangę.",
+    "Gdy sztanga osiągnie maksymalną wysokość, obróć łokcie wokół i pod sztangę. Umieść sztangę na przedniej części barków, zachowując wyprostowany tułów i uginając biodra i kolana, aby zaabsorbować ciężar sztangi.",
+    "Wstań do pełnego wyprostu, trzymając sztangę w pozycji zarzutu.",
+    "Nie ruszając stopami, wyciśnij sztangę nad głowę, wydychając powietrze. Opuść sztangę w kontrolowany sposób."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie łydek",
+    "mięśnie pośladkowe",
+    "mięśnie kulszowo-goleniowe",
+    "mięśnie prostowniki grzbietu (odcinek lędźwiowy)",
+    "mięśnie grzbietu (odcinek piersiowy)",
+    "mięśnie czworogłowe uda",
+    "mięśnie naramienne",
+    "mięśnie czworoboczne grzbietu",
+    "mięśnie trójgłowe ramienia"
+  ],
+  "category_pl": "siła",
+  "name_de": "Umsetzen und Drücken",
+  "instructions_de": [
+    "Nehmen Sie einen schulterbreiten Stand ein, wobei die Knie innerhalb der Arme positioniert sind. Halten Sie den Rücken flach und beugen Sie Knie und Hüften, sodass Sie die Langhantel mit vollständig gestreckten Armen und einem leicht über schulterbreiten Obergriff greifen können. Die Ellbogen zeigen nach außen. Die Hantel sollte nah an den Schienbeinen liegen. Positionieren Sie die Schultern über oder leicht vor der Hantel. Nehmen Sie eine gerade Rückenhaltung ein. Dies ist Ihre Ausgangsposition.",
+    "Beginnen Sie, die Hantel durch Strecken der Knie zu ziehen. Bewegen Sie Ihre Hüften nach vorne und heben Sie die Schultern gleichzeitig an, wobei der Rückenwinkel konstant bleibt; heben Sie die Hantel weiterhin gerade nach oben und halten Sie sie nah am Körper.",
+    "Sobald die Hantel die Knie passiert, strecken Sie Knöchel, Knie und Hüften kraftvoll, ähnlich einer Sprungbewegung. Führen Sie dabei die Hantel weiterhin mit den Händen, ziehen Sie die Schultern hoch und nutzen Sie den Schwung Ihrer Bewegung, um die Hantel so hoch wie möglich zu ziehen. Die Hantel sollte nah am Körper geführt werden, und Ihre Ellbogen sollten nach außen zeigen.",
+    "Bei maximaler Höhe sollten Ihre Füße den Boden verlassen, und Sie sollten beginnen, sich unter die Hantel zu ziehen. Die Mechanik kann sich je nach verwendetem Gewicht leicht ändern. Sie sollten in eine Kniebeugenposition gehen, während Sie sich unter die Hantel ziehen.",
+    "Sobald die Hantel die Endhöhe erreicht, drehen Sie Ihre Ellbogen um und unter die Hantel. Legen Sie die Hantel quer über die Vorderseite der Schultern ab, wobei der Oberkörper aufrecht bleibt und Sie Hüften und Knie beugen, um das Gewicht der Hantel abzufedern.",
+    "Richten Sie sich vollständig auf und halten Sie die Hantel in der Umsetzposition.",
+    "Ohne die Füße zu bewegen, drücken Sie die Hantel über Kopf, während Sie ausatmen. Senken Sie die Hantel kontrolliert ab."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskeln",
+    "Wadenmuskeln",
+    "Gesäßmuskeln",
+    "Ischiocrurale Muskulatur",
+    "Lendenwirbelsäulenmuskulatur",
+    "Mittlere Rückenmuskulatur",
+    "Musculus quadriceps femoris",
+    "Deltamuskel",
+    "Musculus trapezius",
+    "Musculus triceps brachii"
+  ],
+  "category_de": "Kraft"
+}

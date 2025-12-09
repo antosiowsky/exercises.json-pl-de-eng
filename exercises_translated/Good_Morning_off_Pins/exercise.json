@@ -1,0 +1,50 @@
+{
+  "name": "Good Morning off Pins",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin with a bar on a rack at about the same height as your stomach. Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",
+    "Begin the motion by extending through the hips with your glutes and hamstrings, and you are standing with the weight. Slowly lower the weight back to the pins returning to the starting position."
+  ],
+  "category": "powerlifting",
+  "primaryMuscles_pl": [
+    "Dwugłowe ud"
+  ],
+  "primaryMuscles_de": [
+    "Hamstrings"
+  ],
+  "equipment_pl": "sztanga",
+  "equipment_de": "Langhantel",
+  "name_pl": "Skłon dzień dobry ze sztangą z podpór",
+  "instructions_pl": [
+    "Rozpocznij ze sztangą umieszczoną na stojaku na wysokości mniej więcej Twojego brzucha. Pochyl się pod sztangą i umieść ją na tylnej części barków, tak jak do przysiadu ze sztangą na plecach (tzw. power squat), a nie na górnej części barków/karku. Na odpowiedniej wysokości, po pochyleniu, powinieneś być niemal równolegle do podłogi. Utrzymuj napięte plecy, ściągnięte łopatki i lekko ugięte kolana. Utrzymuj plecy w naturalnym łuku (lordozie lędźwiowej) i kręgosłup szyjny w prawidłowym ułożeniu.",
+    "Rozpocznij ruch, prostując biodra, angażując mięśnie pośladkowe wielkie i mięśnie kulszowo-goleniowe, aż do pozycji stojącej ze sztangą. Powoli opuść ciężar z powrotem na podpory, wracając do pozycji początkowej."
+  ],
+  "secondaryMuscles_pl": [
+    "mięśnie brzucha",
+    "mięśnie pośladkowe",
+    "mięśnie grzbietu (odcinek lędźwiowy)"
+  ],
+  "category_pl": "trójbój siłowy",
+  "name_de": "Good Morning von den Sicherheitsablagen",
+  "instructions_de": [
+    "Beginnen Sie mit einer Langhantel in einem Rack auf etwa Bauchnabelhöhe. Beugen Sie sich unter die Langhantel und positionieren Sie diese über dem oberen Rücken/Trapezmuskel, ähnlich wie bei einer Kniebeuge (Power Squat), nicht direkt auf den Schultern. Bei korrekter Höhe sollten Sie in der vornübergebeugten Position annähernd parallel zum Boden sein. Halten Sie Ihren Rücken angespannt, die Schulterblätter zusammengezogen und die Knie leicht gebeugt. Halten Sie Ihren Rücken in einer leichten Lordose (natürliche Wölbung) und Ihre Halswirbelsäule in korrekter Ausrichtung.",
+    "Beginnen Sie die Bewegung, indem Sie sich aus den Hüften strecken, unter Einsatz Ihrer Gesäßmuskulatur und der ischiocruralen Muskulatur (Oberschenkelrückseite), bis Sie mit dem Gewicht aufrecht stehen. Senken Sie das Gewicht langsam zurück auf die Sicherheitsablagen, um in die Ausgangsposition zurückzukehren."
+  ],
+  "secondaryMuscles_de": [
+    "Bauchmuskulatur",
+    "Gesäßmuskulatur",
+    "Musculi erector spinae"
+  ],
+  "category_de": "Kraftdreikampf"
+}
