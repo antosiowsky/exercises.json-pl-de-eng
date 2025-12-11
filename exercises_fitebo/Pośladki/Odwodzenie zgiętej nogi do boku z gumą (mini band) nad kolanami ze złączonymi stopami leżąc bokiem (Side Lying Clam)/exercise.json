@@ -1,0 +1,26 @@
+{
+  "id": "1209",
+  "name_pl": "Odwodzenie zgiętej nogi do boku z gumą (mini band) nad kolanami ze złączonymi stopami leżąc bokiem (Side Lying Clam)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7251",
+    "7252"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej nogi do boku z gumą (mini band) nad kolanami ze złączonymi stopami leżąc bokiem (Side Lying Clam)",
+    "gym": false,
+    "home": true,
+    "id": "1209",
+    "iso": true,
+    "photo_1": "7251",
+    "photo_2": "7252",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2184",
+  "name_pl": "Dowolne cardio",
+  "name_en": null,
+  "muscle_group_id": "99",
+  "muscle_group_name": "Cardio",
+  "photos": [
+    "4753",
+    "6875",
+    "4752",
+    "4756"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Dowolne cardio",
+    "gym": true,
+    "home": false,
+    "id": "2184",
+    "iso": false,
+    "photo_1": "4753",
+    "photo_2": "6875",
+    "photo_3": "4752",
+    "photo_4": "4756",
+    "stat": false,
+    "use": false
+  }
+}

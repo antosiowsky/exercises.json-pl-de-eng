@@ -1,0 +1,26 @@
+{
+  "id": "192",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci na TRX w podporze przodem (TRX Mountain Climber)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3200",
+    "3201"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci na TRX w podporze przodem (TRX Mountain Climber)",
+    "gym": false,
+    "home": true,
+    "id": "192",
+    "iso": true,
+    "photo_1": "3200",
+    "photo_2": "3201",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

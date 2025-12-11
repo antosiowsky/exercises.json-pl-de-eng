@@ -1,0 +1,26 @@
+{
+  "id": "1787",
+  "name_pl": "Wyciskanie sztangi zza głowy siedząc (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4453",
+    "4454"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi zza głowy siedząc (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "1787",
+    "iso": false,
+    "photo_1": "4453",
+    "photo_2": "4454",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

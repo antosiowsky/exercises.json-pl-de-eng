@@ -1,3 +1,13 @@
 exercises_before/
 .venv
 translation_progress.json
+fitebo_example.py
+fitebo_scraper.py
+exercises_fitebo_unique/
+fitebib_example.py
+fitebib_scraper.py
+translation/
+fitebo_download/
+exercises_fitebo_zdjecia/
+unique/
+

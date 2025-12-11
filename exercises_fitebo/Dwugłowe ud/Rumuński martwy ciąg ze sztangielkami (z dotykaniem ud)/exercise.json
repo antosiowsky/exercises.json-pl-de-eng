@@ -1,0 +1,26 @@
+{
+  "id": "1292",
+  "name_pl": "Rumuński martwy ciąg ze sztangielkami (z dotykaniem ud)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8116",
+    "8117"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rumuński martwy ciąg ze sztangielkami (z dotykaniem ud)",
+    "gym": false,
+    "home": true,
+    "id": "1292",
+    "iso": false,
+    "photo_1": "8116",
+    "photo_2": "8117",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

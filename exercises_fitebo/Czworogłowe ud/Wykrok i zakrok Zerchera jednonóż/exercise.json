@@ -1,0 +1,27 @@
+{
+  "id": "1453",
+  "name_pl": "Wykrok i zakrok Zerchera jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5428",
+    "5429",
+    "5430"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok Zerchera jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1453",
+    "iso": false,
+    "photo_1": "5428",
+    "photo_2": "5429",
+    "photo_3": "5430",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

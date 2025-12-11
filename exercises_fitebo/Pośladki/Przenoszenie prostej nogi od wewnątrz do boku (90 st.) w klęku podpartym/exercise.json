@@ -1,0 +1,27 @@
+{
+  "id": "1191",
+  "name_pl": "Przenoszenie prostej nogi od wewnątrz do boku (90 st.) w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8012",
+    "8013",
+    "8014"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie prostej nogi od wewnątrz do boku (90 st.) w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1191",
+    "iso": true,
+    "photo_1": "8012",
+    "photo_2": "8013",
+    "photo_3": "8014",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

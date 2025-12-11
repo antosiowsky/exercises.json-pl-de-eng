@@ -1,0 +1,26 @@
+{
+  "id": "403",
+  "name_pl": "Wiosłowanie na suwnicy Smitha jednorącz w opadzie tułowia (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7081",
+    "7082"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na suwnicy Smitha jednorącz w opadzie tułowia (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "403",
+    "iso": false,
+    "photo_1": "7081",
+    "photo_2": "7082",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

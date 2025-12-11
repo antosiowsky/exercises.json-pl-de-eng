@@ -1,0 +1,26 @@
+{
+  "id": "331",
+  "name_pl": "Odwrotne wiosłowanie na suwnicy Smitha (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7056",
+    "7057"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Odwrotne wiosłowanie na suwnicy Smitha (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "331",
+    "iso": false,
+    "photo_1": "7056",
+    "photo_2": "7057",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

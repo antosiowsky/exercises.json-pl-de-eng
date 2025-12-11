@@ -1,0 +1,26 @@
+{
+  "id": "2101",
+  "name_pl": "Wyciskanie sztangi prostej leżąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4967",
+    "4969"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie sztangi prostej leżąc",
+    "gym": true,
+    "home": false,
+    "id": "2101",
+    "iso": true,
+    "photo_1": "4967",
+    "photo_2": "4969",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

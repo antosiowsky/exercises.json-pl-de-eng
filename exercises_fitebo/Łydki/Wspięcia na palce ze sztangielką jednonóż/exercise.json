@@ -1,0 +1,26 @@
+{
+  "id": "618",
+  "name_pl": "Wspięcia na palce ze sztangielką jednonóż",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "6052",
+    "6053"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce ze sztangielką jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "618",
+    "iso": true,
+    "photo_1": "6052",
+    "photo_2": "6053",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

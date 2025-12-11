@@ -1,0 +1,26 @@
+{
+  "id": "238",
+  "name_pl": "Spięcie odwrotne na piłce szwajcarskiej (Reverse Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4739",
+    "4740"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie odwrotne na piłce szwajcarskiej (Reverse Crunch)",
+    "gym": true,
+    "home": false,
+    "id": "238",
+    "iso": true,
+    "photo_1": "4739",
+    "photo_2": "4740",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1175",
+  "name_pl": "Odwodzenie uniesionych nóg z gumą (mini band) nad kolanami do boku leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7990",
+    "7991"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie uniesionych nóg z gumą (mini band) nad kolanami do boku leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1175",
+    "iso": true,
+    "photo_1": "7990",
+    "photo_2": "7991",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

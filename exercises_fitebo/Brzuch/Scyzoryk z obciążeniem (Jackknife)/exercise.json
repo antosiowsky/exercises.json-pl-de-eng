@@ -1,0 +1,26 @@
+{
+  "id": "208",
+  "name_pl": "Scyzoryk z obciążeniem (Jackknife)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2756",
+    "2757"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Scyzoryk z obciążeniem (Jackknife)",
+    "gym": false,
+    "home": true,
+    "id": "208",
+    "iso": true,
+    "photo_1": "2756",
+    "photo_2": "2757",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

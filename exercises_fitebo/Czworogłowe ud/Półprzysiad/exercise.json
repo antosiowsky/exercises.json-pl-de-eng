@@ -1,0 +1,26 @@
+{
+  "id": "1591",
+  "name_pl": "Półprzysiad",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9510",
+    "9511"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Półprzysiad",
+    "gym": false,
+    "home": true,
+    "id": "1591",
+    "iso": false,
+    "photo_1": "9510",
+    "photo_2": "9511",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

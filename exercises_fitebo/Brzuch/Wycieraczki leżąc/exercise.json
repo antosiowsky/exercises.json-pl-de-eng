@@ -1,0 +1,27 @@
+{
+  "id": "127",
+  "name_pl": "Wycieraczki leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3413",
+    "3414",
+    "3415"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wycieraczki leżąc",
+    "gym": false,
+    "home": true,
+    "id": "127",
+    "iso": true,
+    "photo_1": "3413",
+    "photo_2": "3414",
+    "photo_3": "3415",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

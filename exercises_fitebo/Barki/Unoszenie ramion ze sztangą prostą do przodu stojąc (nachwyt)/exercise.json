@@ -1,0 +1,26 @@
+{
+  "id": "1932",
+  "name_pl": "Unoszenie ramion ze sztangą prostą do przodu stojąc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4687",
+    "4688"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangą prostą do przodu stojąc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "1932",
+    "iso": true,
+    "photo_1": "4687",
+    "photo_2": "4688",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

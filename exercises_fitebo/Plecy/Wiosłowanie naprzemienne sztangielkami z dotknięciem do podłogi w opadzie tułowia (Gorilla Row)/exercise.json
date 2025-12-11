@@ -1,0 +1,26 @@
+{
+  "id": "387",
+  "name_pl": "Wiosłowanie naprzemienne sztangielkami z dotknięciem do podłogi w opadzie tułowia (Gorilla Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9498",
+    "9500"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie naprzemienne sztangielkami z dotknięciem do podłogi w opadzie tułowia (Gorilla Row)",
+    "gym": false,
+    "home": true,
+    "id": "387",
+    "iso": false,
+    "photo_1": "9498",
+    "photo_2": "9500",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2148",
+  "name_pl": "Prostowanie ramion z wyciągu dolnego zza głowy stojąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7921",
+    "7922"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z wyciągu dolnego zza głowy stojąc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2148",
+    "iso": true,
+    "photo_1": "7921",
+    "photo_2": "7922",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "130",
+  "name_pl": "Wycieraczki ze zgiętymi nogami z piłką lekarską leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2669",
+    "2670",
+    "2671"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wycieraczki ze zgiętymi nogami z piłką lekarską leżąc",
+    "gym": true,
+    "home": false,
+    "id": "130",
+    "iso": true,
+    "photo_1": "2669",
+    "photo_2": "2670",
+    "photo_3": "2671",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

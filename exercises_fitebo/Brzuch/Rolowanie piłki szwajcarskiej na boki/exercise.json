@@ -1,0 +1,27 @@
+{
+  "id": "232",
+  "name_pl": "Rolowanie piłki szwajcarskiej na boki",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3040",
+    "3043",
+    "3044"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rolowanie piłki szwajcarskiej na boki",
+    "gym": true,
+    "home": false,
+    "id": "232",
+    "iso": true,
+    "photo_1": "3040",
+    "photo_2": "3043",
+    "photo_3": "3044",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

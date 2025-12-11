@@ -1,0 +1,26 @@
+{
+  "id": "597",
+  "name_pl": "Uginanie ramion na TRX (TRX Bicep Curl)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3623",
+    "3624"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion na TRX (TRX Bicep Curl)",
+    "gym": false,
+    "home": true,
+    "id": "597",
+    "iso": true,
+    "photo_1": "3623",
+    "photo_2": "3624",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1589",
+  "name_pl": "Przysiad z gumą (mini band) nad kolanami z pulsowaniem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6856",
+    "6858",
+    "6857",
+    "6858"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z gumą (mini band) nad kolanami z pulsowaniem",
+    "gym": false,
+    "home": true,
+    "id": "1589",
+    "iso": false,
+    "photo_1": "6856",
+    "photo_2": "6858",
+    "photo_3": "6857",
+    "photo_4": "6858",
+    "stat": false,
+    "use": false
+  }
+}

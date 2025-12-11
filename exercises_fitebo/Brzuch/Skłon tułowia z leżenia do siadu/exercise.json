@@ -1,0 +1,26 @@
+{
+  "id": "52",
+  "name_pl": "Skłon tułowia z leżenia do siadu",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2562",
+    "2563"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon tułowia z leżenia do siadu",
+    "gym": false,
+    "home": true,
+    "id": "52",
+    "iso": true,
+    "photo_1": "2562",
+    "photo_2": "2563",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

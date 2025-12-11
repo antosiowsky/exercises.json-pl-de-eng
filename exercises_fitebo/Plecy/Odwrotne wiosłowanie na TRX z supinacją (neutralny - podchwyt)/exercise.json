@@ -1,0 +1,26 @@
+{
+  "id": "326",
+  "name_pl": "Odwrotne wiosłowanie na TRX z supinacją (neutralny - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3599",
+    "3597"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Odwrotne wiosłowanie na TRX z supinacją (neutralny - podchwyt)",
+    "gym": false,
+    "home": true,
+    "id": "326",
+    "iso": false,
+    "photo_1": "3599",
+    "photo_2": "3597",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

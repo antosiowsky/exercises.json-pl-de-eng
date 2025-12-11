@@ -1,0 +1,27 @@
+{
+  "id": "725",
+  "name_pl": "Wyciskanie naprzemienne kettli na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4043",
+    "4045",
+    "4046"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne kettli na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "725",
+    "iso": false,
+    "photo_1": "4043",
+    "photo_2": "4045",
+    "photo_3": "4046",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

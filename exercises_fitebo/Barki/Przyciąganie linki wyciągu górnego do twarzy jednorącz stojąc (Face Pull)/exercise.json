@@ -1,0 +1,26 @@
+{
+  "id": "2052",
+  "name_pl": "Przyciąganie linki wyciągu górnego do twarzy jednorącz stojąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7912",
+    "7913"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu górnego do twarzy jednorącz stojąc (Face Pull)",
+    "gym": true,
+    "home": false,
+    "id": "2052",
+    "iso": false,
+    "photo_1": "7912",
+    "photo_2": "7913",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

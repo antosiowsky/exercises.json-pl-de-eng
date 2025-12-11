@@ -1,0 +1,26 @@
+{
+  "id": "1495",
+  "name_pl": "Zakrok ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5412",
+    "5414"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "1495",
+    "iso": false,
+    "photo_1": "5412",
+    "photo_2": "5414",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

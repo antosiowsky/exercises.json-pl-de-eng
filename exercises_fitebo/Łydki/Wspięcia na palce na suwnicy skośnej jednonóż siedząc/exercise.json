@@ -1,0 +1,26 @@
+{
+  "id": "615",
+  "name_pl": "Wspięcia na palce na suwnicy skośnej jednonóż siedząc",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "7892",
+    "7893"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce na suwnicy skośnej jednonóż siedząc",
+    "gym": true,
+    "home": false,
+    "id": "615",
+    "iso": true,
+    "photo_1": "7892",
+    "photo_2": "7893",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

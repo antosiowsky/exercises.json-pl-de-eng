@@ -1,0 +1,26 @@
+{
+  "id": "1355",
+  "name_pl": "Martwy ciąg walizkowy jednorącz",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8132",
+    "8133"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg walizkowy jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "1355",
+    "iso": false,
+    "photo_1": "8132",
+    "photo_2": "8133",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

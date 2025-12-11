@@ -1,0 +1,26 @@
+{
+  "id": "941",
+  "name_pl": "Uderzenie z linami (Battle Rope Slams)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8510",
+    "8515"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uderzenie z linami (Battle Rope Slams)",
+    "gym": true,
+    "home": false,
+    "id": "941",
+    "iso": false,
+    "photo_1": "8510",
+    "photo_2": "8515",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

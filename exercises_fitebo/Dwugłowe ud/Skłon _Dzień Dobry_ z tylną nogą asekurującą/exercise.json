@@ -1,0 +1,26 @@
+{
+  "id": "1381",
+  "name_pl": "Skłon \"Dzień Dobry\" z tylną nogą asekurującą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "7371",
+    "7372"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" z tylną nogą asekurującą",
+    "gym": false,
+    "home": true,
+    "id": "1381",
+    "iso": true,
+    "photo_1": "7371",
+    "photo_2": "7372",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1983",
+  "name_pl": "Unoszenie ramion ze sztangielkami w kształcie litery Y na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4911",
+    "4912"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielkami w kształcie litery Y na ławce skośnej w górę leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1983",
+    "iso": true,
+    "photo_1": "4911",
+    "photo_2": "4912",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

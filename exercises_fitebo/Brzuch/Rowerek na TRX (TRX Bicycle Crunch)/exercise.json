@@ -1,0 +1,26 @@
+{
+  "id": "191",
+  "name_pl": "Rowerek na TRX (TRX Bicycle Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3241",
+    "3242"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rowerek na TRX (TRX Bicycle Crunch)",
+    "gym": false,
+    "home": true,
+    "id": "191",
+    "iso": true,
+    "photo_1": "3241",
+    "photo_2": "3242",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

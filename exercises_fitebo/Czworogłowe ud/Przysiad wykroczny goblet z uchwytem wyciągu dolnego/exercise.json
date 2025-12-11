@@ -1,0 +1,26 @@
+{
+  "id": "1554",
+  "name_pl": "Przysiad wykroczny goblet z uchwytem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8759",
+    "8757"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny goblet z uchwytem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1554",
+    "iso": false,
+    "photo_1": "8759",
+    "photo_2": "8757",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

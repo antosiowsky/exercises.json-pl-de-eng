@@ -1,0 +1,26 @@
+{
+  "id": "1216",
+  "name_pl": "Unoszenie zgiętej nogi do boku z opaską wyciągu dolnego pod kolanem w klęku podpartym (Fire Hydrant)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8990",
+    "8991"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi do boku z opaską wyciągu dolnego pod kolanem w klęku podpartym (Fire Hydrant)",
+    "gym": true,
+    "home": false,
+    "id": "1216",
+    "iso": true,
+    "photo_1": "8990",
+    "photo_2": "8991",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

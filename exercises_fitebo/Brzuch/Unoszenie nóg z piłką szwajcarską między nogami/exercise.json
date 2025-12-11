@@ -1,0 +1,26 @@
+{
+  "id": "235",
+  "name_pl": "Unoszenie nóg z piłką szwajcarską między nogami",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3056",
+    "3057"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg z piłką szwajcarską między nogami",
+    "gym": true,
+    "home": false,
+    "id": "235",
+    "iso": true,
+    "photo_1": "3056",
+    "photo_2": "3057",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

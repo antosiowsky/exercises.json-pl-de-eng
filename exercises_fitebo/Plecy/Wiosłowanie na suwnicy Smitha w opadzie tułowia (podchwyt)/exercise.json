@@ -1,0 +1,26 @@
+{
+  "id": "402",
+  "name_pl": "Wiosłowanie na suwnicy Smitha w opadzie tułowia (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7072",
+    "7071"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na suwnicy Smitha w opadzie tułowia (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "402",
+    "iso": false,
+    "photo_1": "7072",
+    "photo_2": "7071",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

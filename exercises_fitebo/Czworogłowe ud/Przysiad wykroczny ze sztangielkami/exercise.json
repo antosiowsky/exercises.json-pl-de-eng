@@ -1,0 +1,26 @@
+{
+  "id": "1546",
+  "name_pl": "Przysiad wykroczny ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5500",
+    "5501"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1546",
+    "iso": false,
+    "photo_1": "5500",
+    "photo_2": "5501",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2195",
+  "name_pl": "Wchodzenie na podwyższenie",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9280",
+    "9279"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wchodzenie na podwyższenie",
+    "gym": false,
+    "home": true,
+    "id": "2195",
+    "iso": false,
+    "photo_1": "9280",
+    "photo_2": "9279",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

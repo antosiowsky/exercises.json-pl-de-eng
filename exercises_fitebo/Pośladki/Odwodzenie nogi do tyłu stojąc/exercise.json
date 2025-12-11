@@ -1,0 +1,26 @@
+{
+  "id": "1069",
+  "name_pl": "Odwodzenie nogi do tyłu stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7149",
+    "7150"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nogi do tyłu stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1069",
+    "iso": true,
+    "photo_1": "7149",
+    "photo_2": "7150",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

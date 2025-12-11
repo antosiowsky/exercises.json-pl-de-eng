@@ -1,0 +1,26 @@
+{
+  "id": "111",
+  "name_pl": "Martwy robak (Dead Bug)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2629",
+    "2630"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Martwy robak (Dead Bug)",
+    "gym": false,
+    "home": true,
+    "id": "111",
+    "iso": false,
+    "photo_1": "2629",
+    "photo_2": "2630",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

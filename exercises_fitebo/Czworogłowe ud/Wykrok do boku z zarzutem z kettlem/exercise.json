@@ -1,0 +1,27 @@
+{
+  "id": "1443",
+  "name_pl": "Wykrok do boku z zarzutem z kettlem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5456",
+    "5455",
+    "5457"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z zarzutem z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1443",
+    "iso": false,
+    "photo_1": "5456",
+    "photo_2": "5455",
+    "photo_3": "5457",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

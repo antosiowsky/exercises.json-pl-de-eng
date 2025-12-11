@@ -1,0 +1,26 @@
+{
+  "id": "1526",
+  "name_pl": "Wykrok z linką wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8762",
+    "8765"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok z linką wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1526",
+    "iso": false,
+    "photo_1": "8762",
+    "photo_2": "8765",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

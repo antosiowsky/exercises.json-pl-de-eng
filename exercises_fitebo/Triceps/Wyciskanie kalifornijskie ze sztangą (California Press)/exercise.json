@@ -1,0 +1,27 @@
+{
+  "id": "2209",
+  "name_pl": "Wyciskanie kalifornijskie ze sztangą (California Press)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "14276",
+    "14277",
+    "14278"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kalifornijskie ze sztangą (California Press)",
+    "gym": true,
+    "home": false,
+    "id": "2209",
+    "iso": false,
+    "photo_1": "14276",
+    "photo_2": "14277",
+    "photo_3": "14278",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

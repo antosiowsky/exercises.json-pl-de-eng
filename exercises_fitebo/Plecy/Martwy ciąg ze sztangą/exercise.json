@@ -1,0 +1,26 @@
+{
+  "id": "313",
+  "name_pl": "Martwy ciąg ze sztangą",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8802",
+    "8803"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg ze sztangą",
+    "gym": true,
+    "home": false,
+    "id": "313",
+    "iso": false,
+    "photo_1": "8802",
+    "photo_2": "8803",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

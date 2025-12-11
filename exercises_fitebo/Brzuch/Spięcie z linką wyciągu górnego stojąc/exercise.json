@@ -1,0 +1,26 @@
+{
+  "id": "65",
+  "name_pl": "Spięcie z linką wyciągu górnego stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7379",
+    "7380"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z linką wyciągu górnego stojąc",
+    "gym": true,
+    "home": false,
+    "id": "65",
+    "iso": true,
+    "photo_1": "7379",
+    "photo_2": "7380",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1302",
+  "name_pl": "Klasyczny martwy ciąg z kettlami",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8169",
+    "8170",
+    "8171"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Klasyczny martwy ciąg z kettlami",
+    "gym": true,
+    "home": false,
+    "id": "1302",
+    "iso": false,
+    "photo_1": "8169",
+    "photo_2": "8170",
+    "photo_3": "8171",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

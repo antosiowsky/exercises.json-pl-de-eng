@@ -1,0 +1,26 @@
+{
+  "id": "1500",
+  "name_pl": "Zakrok na TRX",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8473",
+    "8474"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok na TRX",
+    "gym": false,
+    "home": true,
+    "id": "1500",
+    "iso": false,
+    "photo_1": "8473",
+    "photo_2": "8474",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

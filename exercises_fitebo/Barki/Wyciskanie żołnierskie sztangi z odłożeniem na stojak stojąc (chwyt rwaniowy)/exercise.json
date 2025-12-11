@@ -1,0 +1,26 @@
+{
+  "id": "1790",
+  "name_pl": "Wyciskanie żołnierskie sztangi z odłożeniem na stojak stojąc (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9030",
+    "9031"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie żołnierskie sztangi z odłożeniem na stojak stojąc (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "1790",
+    "iso": false,
+    "photo_1": "9030",
+    "photo_2": "9031",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

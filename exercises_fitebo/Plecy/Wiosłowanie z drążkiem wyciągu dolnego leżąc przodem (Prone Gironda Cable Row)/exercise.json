@@ -1,0 +1,26 @@
+{
+  "id": "421",
+  "name_pl": "Wiosłowanie z drążkiem wyciągu dolnego leżąc przodem (Prone Gironda Cable Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7439",
+    "7440"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z drążkiem wyciągu dolnego leżąc przodem (Prone Gironda Cable Row)",
+    "gym": true,
+    "home": false,
+    "id": "421",
+    "iso": false,
+    "photo_1": "7439",
+    "photo_2": "7440",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

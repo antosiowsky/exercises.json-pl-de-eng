@@ -1,0 +1,26 @@
+{
+  "id": "450",
+  "name_pl": "Przenoszenie sztangi łamanej zza głowy z łokciami szeroko",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6278",
+    "6280"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangi łamanej zza głowy z łokciami szeroko",
+    "gym": true,
+    "home": false,
+    "id": "450",
+    "iso": true,
+    "photo_1": "6278",
+    "photo_2": "6280",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

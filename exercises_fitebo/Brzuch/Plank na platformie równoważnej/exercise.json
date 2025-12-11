@@ -1,0 +1,25 @@
+{
+  "id": "31",
+  "name_pl": "Plank na platformie równoważnej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2930"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank na platformie równoważnej",
+    "gym": true,
+    "home": false,
+    "id": "31",
+    "iso": false,
+    "photo_1": "2930",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

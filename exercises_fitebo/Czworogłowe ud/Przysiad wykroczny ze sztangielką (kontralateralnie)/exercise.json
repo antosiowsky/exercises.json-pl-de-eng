@@ -1,0 +1,26 @@
+{
+  "id": "1548",
+  "name_pl": "Przysiad wykroczny ze sztangielką (kontralateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5505",
+    "5506"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny ze sztangielką (kontralateralnie)",
+    "gym": false,
+    "home": true,
+    "id": "1548",
+    "iso": false,
+    "photo_1": "5505",
+    "photo_2": "5506",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

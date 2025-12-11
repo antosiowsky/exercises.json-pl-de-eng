@@ -1,0 +1,26 @@
+{
+  "id": "1966",
+  "name_pl": "Odwrotne rozpiętki w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5076",
+    "5077"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1966",
+    "iso": true,
+    "photo_1": "5076",
+    "photo_2": "5077",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

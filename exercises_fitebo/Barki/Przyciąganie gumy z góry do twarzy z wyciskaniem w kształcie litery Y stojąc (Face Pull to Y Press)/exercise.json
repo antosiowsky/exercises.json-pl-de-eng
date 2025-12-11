@@ -1,0 +1,27 @@
+{
+  "id": "2029",
+  "name_pl": "Przyciąganie gumy z góry do twarzy z wyciskaniem w kształcie litery Y stojąc (Face Pull to Y Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6007",
+    "6008",
+    "6009"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie gumy z góry do twarzy z wyciskaniem w kształcie litery Y stojąc (Face Pull to Y Press)",
+    "gym": false,
+    "home": true,
+    "id": "2029",
+    "iso": false,
+    "photo_1": "6007",
+    "photo_2": "6008",
+    "photo_3": "6009",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

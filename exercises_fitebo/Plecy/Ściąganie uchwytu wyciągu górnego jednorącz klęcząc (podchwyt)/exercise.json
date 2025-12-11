@@ -1,0 +1,26 @@
+{
+  "id": "283",
+  "name_pl": "Ściąganie uchwytu wyciągu górnego jednorącz klęcząc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9458",
+    "9459"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu wyciągu górnego jednorącz klęcząc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "283",
+    "iso": false,
+    "photo_1": "9458",
+    "photo_2": "9459",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

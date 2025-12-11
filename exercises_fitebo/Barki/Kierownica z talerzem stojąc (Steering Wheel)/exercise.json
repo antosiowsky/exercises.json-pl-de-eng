@@ -1,0 +1,26 @@
+{
+  "id": "1933",
+  "name_pl": "Kierownica z talerzem stojąc (Steering Wheel)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4617",
+    "4618"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Kierownica z talerzem stojąc (Steering Wheel)",
+    "gym": false,
+    "home": true,
+    "id": "1933",
+    "iso": true,
+    "photo_1": "4617",
+    "photo_2": "4618",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

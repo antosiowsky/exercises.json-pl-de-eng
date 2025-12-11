@@ -1,0 +1,27 @@
+{
+  "id": "254",
+  "name_pl": "Krążenie nogami jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3146",
+    "3147",
+    "3148"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Krążenie nogami jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "254",
+    "iso": true,
+    "photo_1": "3146",
+    "photo_2": "3147",
+    "photo_3": "3148",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1325",
+  "name_pl": "Martwy ciąg z uchwytem wyciągu dolnego z dotknięciem do podłogi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8901",
+    "8900"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z uchwytem wyciągu dolnego z dotknięciem do podłogi",
+    "gym": true,
+    "home": false,
+    "id": "1325",
+    "iso": false,
+    "photo_1": "8901",
+    "photo_2": "8900",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

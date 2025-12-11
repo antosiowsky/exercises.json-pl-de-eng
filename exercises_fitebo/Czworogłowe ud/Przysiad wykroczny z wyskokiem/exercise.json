@@ -1,0 +1,27 @@
+{
+  "id": "1771",
+  "name_pl": "Przysiad wykroczny z wyskokiem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6717",
+    "6718",
+    "6717"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny z wyskokiem",
+    "gym": false,
+    "home": true,
+    "id": "1771",
+    "iso": false,
+    "photo_1": "6717",
+    "photo_2": "6718",
+    "photo_3": "6717",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

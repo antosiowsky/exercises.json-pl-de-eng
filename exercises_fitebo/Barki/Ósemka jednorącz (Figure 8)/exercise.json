@@ -1,0 +1,28 @@
+{
+  "id": "2012",
+  "name_pl": "Ósemka jednorącz (Figure 8)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4677",
+    "4678",
+    "4679",
+    "4680"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ósemka jednorącz (Figure 8)",
+    "gym": false,
+    "home": true,
+    "id": "2012",
+    "iso": true,
+    "photo_1": "4677",
+    "photo_2": "4678",
+    "photo_3": "4679",
+    "photo_4": "4680",
+    "stat": false,
+    "use": false
+  }
+}

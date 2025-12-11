@@ -1,0 +1,25 @@
+{
+  "id": "32",
+  "name_pl": "Niedźwiedź (Bear Plank)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2934"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Niedźwiedź (Bear Plank)",
+    "gym": false,
+    "home": true,
+    "id": "32",
+    "iso": false,
+    "photo_1": "2934",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

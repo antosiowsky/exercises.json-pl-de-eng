@@ -1,0 +1,26 @@
+{
+  "id": "1816",
+  "name_pl": "Wyciskanie nad głowę z rotacją",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4471",
+    "4472"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie nad głowę z rotacją",
+    "gym": false,
+    "home": true,
+    "id": "1816",
+    "iso": false,
+    "photo_1": "4471",
+    "photo_2": "4472",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

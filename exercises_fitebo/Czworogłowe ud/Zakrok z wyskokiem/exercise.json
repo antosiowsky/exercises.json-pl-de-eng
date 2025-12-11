@@ -1,0 +1,26 @@
+{
+  "id": "1444",
+  "name_pl": "Zakrok z wyskokiem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5466",
+    "5467"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z wyskokiem",
+    "gym": false,
+    "home": true,
+    "id": "1444",
+    "iso": false,
+    "photo_1": "5466",
+    "photo_2": "5467",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

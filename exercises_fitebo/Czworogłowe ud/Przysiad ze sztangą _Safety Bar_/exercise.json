@@ -1,0 +1,26 @@
+{
+  "id": "1601",
+  "name_pl": "Przysiad ze sztangą \"Safety Bar\"",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8838",
+    "8839"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangą \"Safety Bar\"",
+    "gym": true,
+    "home": false,
+    "id": "1601",
+    "iso": false,
+    "photo_1": "8838",
+    "photo_2": "8839",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

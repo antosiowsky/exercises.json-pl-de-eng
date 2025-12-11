@@ -1,0 +1,26 @@
+{
+  "id": "819",
+  "name_pl": "Rozpiętki z uchwytami wyciągu poziomo jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5355",
+    "5356"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki z uchwytami wyciągu poziomo jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "819",
+    "iso": true,
+    "photo_1": "5355",
+    "photo_2": "5356",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

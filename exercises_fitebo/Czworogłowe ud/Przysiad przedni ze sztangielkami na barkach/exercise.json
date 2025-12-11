@@ -1,0 +1,26 @@
+{
+  "id": "1604",
+  "name_pl": "Przysiad przedni ze sztangielkami na barkach",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5810",
+    "5811"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad przedni ze sztangielkami na barkach",
+    "gym": false,
+    "home": true,
+    "id": "1604",
+    "iso": false,
+    "photo_1": "5810",
+    "photo_2": "5811",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

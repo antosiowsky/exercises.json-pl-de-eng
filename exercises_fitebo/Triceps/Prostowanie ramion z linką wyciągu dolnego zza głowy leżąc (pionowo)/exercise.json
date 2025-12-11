@@ -1,0 +1,26 @@
+{
+  "id": "2151",
+  "name_pl": "Prostowanie ramion z linką wyciągu dolnego zza głowy leżąc (pionowo)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7473",
+    "7474"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu dolnego zza głowy leżąc (pionowo)",
+    "gym": true,
+    "home": false,
+    "id": "2151",
+    "iso": true,
+    "photo_1": "7473",
+    "photo_2": "7474",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

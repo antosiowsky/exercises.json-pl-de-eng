@@ -1,0 +1,26 @@
+{
+  "id": "1663",
+  "name_pl": "Przysiad z ramionami nad głową z gumą (mini band) nad kolanami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6860",
+    "6861"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z ramionami nad głową z gumą (mini band) nad kolanami",
+    "gym": false,
+    "home": true,
+    "id": "1663",
+    "iso": false,
+    "photo_1": "6860",
+    "photo_2": "6861",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

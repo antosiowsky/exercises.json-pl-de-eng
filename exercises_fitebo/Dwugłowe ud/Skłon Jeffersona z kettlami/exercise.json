@@ -1,0 +1,28 @@
+{
+  "id": "1420",
+  "name_pl": "Skłon Jeffersona z kettlami",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8219",
+    "8220",
+    "8221",
+    "8222"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon Jeffersona z kettlami",
+    "gym": true,
+    "home": false,
+    "id": "1420",
+    "iso": false,
+    "photo_1": "8219",
+    "photo_2": "8220",
+    "photo_3": "8221",
+    "photo_4": "8222",
+    "stat": false,
+    "use": false
+  }
+}

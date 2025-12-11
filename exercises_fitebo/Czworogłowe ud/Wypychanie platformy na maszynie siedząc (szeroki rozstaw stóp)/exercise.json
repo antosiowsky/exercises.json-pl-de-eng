@@ -1,0 +1,26 @@
+{
+  "id": "1746",
+  "name_pl": "Wypychanie platformy na maszynie siedząc (szeroki rozstaw stóp)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5948",
+    "5949"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie platformy na maszynie siedząc (szeroki rozstaw stóp)",
+    "gym": true,
+    "home": false,
+    "id": "1746",
+    "iso": false,
+    "photo_1": "5948",
+    "photo_2": "5949",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

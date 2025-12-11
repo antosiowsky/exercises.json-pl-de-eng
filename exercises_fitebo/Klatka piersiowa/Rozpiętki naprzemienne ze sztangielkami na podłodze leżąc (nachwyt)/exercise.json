@@ -1,0 +1,27 @@
+{
+  "id": "837",
+  "name_pl": "Rozpiętki naprzemienne ze sztangielkami na podłodze leżąc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4028",
+    "4029",
+    "4030"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki naprzemienne ze sztangielkami na podłodze leżąc (nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "837",
+    "iso": false,
+    "photo_1": "4028",
+    "photo_2": "4029",
+    "photo_3": "4030",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

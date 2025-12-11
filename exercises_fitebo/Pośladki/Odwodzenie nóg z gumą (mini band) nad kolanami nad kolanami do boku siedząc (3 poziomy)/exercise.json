@@ -1,0 +1,27 @@
+{
+  "id": "1171",
+  "name_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami nad kolanami do boku siedząc (3 poziomy)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7842",
+    "7840",
+    "7838"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami nad kolanami do boku siedząc (3 poziomy)",
+    "gym": false,
+    "home": true,
+    "id": "1171",
+    "iso": true,
+    "photo_1": "7842",
+    "photo_2": "7840",
+    "photo_3": "7838",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

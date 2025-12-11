@@ -1,0 +1,26 @@
+{
+  "id": "1273",
+  "name_pl": "Amerykański martwy ciąg",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8085",
+    "8086"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański martwy ciąg",
+    "gym": false,
+    "home": true,
+    "id": "1273",
+    "iso": false,
+    "photo_1": "8085",
+    "photo_2": "8086",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

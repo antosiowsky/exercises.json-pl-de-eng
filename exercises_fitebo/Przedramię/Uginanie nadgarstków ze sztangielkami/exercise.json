@@ -1,0 +1,26 @@
+{
+  "id": "922",
+  "name_pl": "Uginanie nadgarstków ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "4286",
+    "4287"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "922",
+    "iso": true,
+    "photo_1": "4286",
+    "photo_2": "4287",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2206",
+  "name_pl": "Wyciskanie sztangielek typu Y",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "14267",
+    "14266"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek typu Y",
+    "gym": false,
+    "home": true,
+    "id": "2206",
+    "iso": false,
+    "photo_1": "14267",
+    "photo_2": "14266",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

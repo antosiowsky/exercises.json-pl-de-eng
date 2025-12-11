@@ -1,0 +1,26 @@
+{
+  "id": "260",
+  "name_pl": "Podciąganie na drążku z obciążeniem (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6690",
+    "6693"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie na drążku z obciążeniem (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "260",
+    "iso": false,
+    "photo_1": "6690",
+    "photo_2": "6693",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

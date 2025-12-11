@@ -1,0 +1,26 @@
+{
+  "id": "109",
+  "name_pl": "Chód niedźwiedzia (Bear Crawl)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2627",
+    "2628"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Chód niedźwiedzia (Bear Crawl)",
+    "gym": false,
+    "home": true,
+    "id": "109",
+    "iso": false,
+    "photo_1": "2627",
+    "photo_2": "2628",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

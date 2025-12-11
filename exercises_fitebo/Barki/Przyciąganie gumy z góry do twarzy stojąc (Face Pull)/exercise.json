@@ -1,0 +1,26 @@
+{
+  "id": "2025",
+  "name_pl": "Przyciąganie gumy z góry do twarzy stojąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6013",
+    "6014"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie gumy z góry do twarzy stojąc (Face Pull)",
+    "gym": false,
+    "home": true,
+    "id": "2025",
+    "iso": false,
+    "photo_1": "6013",
+    "photo_2": "6014",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

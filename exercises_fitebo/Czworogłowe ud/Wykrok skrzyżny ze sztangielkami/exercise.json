@@ -1,0 +1,26 @@
+{
+  "id": "1476",
+  "name_pl": "Wykrok skrzyżny ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9640",
+    "9642"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skrzyżny ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1476",
+    "iso": false,
+    "photo_1": "9640",
+    "photo_2": "9642",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

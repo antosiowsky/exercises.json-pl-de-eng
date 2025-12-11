@@ -1,0 +1,27 @@
+{
+  "id": "87",
+  "name_pl": "Spięcie naprzemienne ze stopami na podłodze",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2590",
+    "2591",
+    "2592"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie naprzemienne ze stopami na podłodze",
+    "gym": false,
+    "home": true,
+    "id": "87",
+    "iso": true,
+    "photo_1": "2590",
+    "photo_2": "2591",
+    "photo_3": "2592",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

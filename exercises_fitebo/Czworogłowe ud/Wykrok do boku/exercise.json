@@ -1,0 +1,26 @@
+{
+  "id": "1728",
+  "name_pl": "Wykrok do boku",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6400",
+    "6401"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku",
+    "gym": false,
+    "home": true,
+    "id": "1728",
+    "iso": false,
+    "photo_1": "6400",
+    "photo_2": "6401",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

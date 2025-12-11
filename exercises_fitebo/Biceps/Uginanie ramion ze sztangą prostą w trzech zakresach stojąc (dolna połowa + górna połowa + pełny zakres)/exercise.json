@@ -1,0 +1,27 @@
+{
+  "id": "510",
+  "name_pl": "Uginanie ramion ze sztangą prostą w trzech zakresach stojąc (dolna połowa + górna połowa + pełny zakres)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3448",
+    "3451",
+    "3453"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą prostą w trzech zakresach stojąc (dolna połowa + górna połowa + pełny zakres)",
+    "gym": true,
+    "home": false,
+    "id": "510",
+    "iso": true,
+    "photo_1": "3448",
+    "photo_2": "3451",
+    "photo_3": "3453",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

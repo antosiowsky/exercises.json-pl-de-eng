@@ -1,0 +1,26 @@
+{
+  "id": "706",
+  "name_pl": "Wyciskanie sztangielek z rotacją jednorącz 180 st. na ławce płaskiej (podchwyt - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3833",
+    "3830"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją jednorącz 180 st. na ławce płaskiej (podchwyt - nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "706",
+    "iso": false,
+    "photo_1": "3833",
+    "photo_2": "3830",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

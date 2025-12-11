@@ -1,0 +1,26 @@
+{
+  "id": "1077",
+  "name_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z opaską wyciągu dolnego stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8949",
+    "8948"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z opaską wyciągu dolnego stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1077",
+    "iso": true,
+    "photo_1": "8949",
+    "photo_2": "8948",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1246",
+  "name_pl": "Unoszenie tułowia z odwodzeniem nogi do boku ze sztangielką na przedramieniu w podporze bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9614",
+    "9616"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z odwodzeniem nogi do boku ze sztangielką na przedramieniu w podporze bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1246",
+    "iso": true,
+    "photo_1": "9614",
+    "photo_2": "9616",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

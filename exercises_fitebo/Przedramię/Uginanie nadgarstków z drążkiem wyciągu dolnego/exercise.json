@@ -1,0 +1,26 @@
+{
+  "id": "927",
+  "name_pl": "Uginanie nadgarstków z drążkiem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "7441",
+    "7442"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków z drążkiem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "927",
+    "iso": true,
+    "photo_1": "7441",
+    "photo_2": "7442",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

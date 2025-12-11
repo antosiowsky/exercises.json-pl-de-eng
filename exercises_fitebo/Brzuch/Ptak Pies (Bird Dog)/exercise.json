@@ -1,0 +1,28 @@
+{
+  "id": "38",
+  "name_pl": "Ptak Pies (Bird Dog)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3412",
+    "3409",
+    "3412",
+    "3411"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ptak Pies (Bird Dog)",
+    "gym": false,
+    "home": true,
+    "id": "38",
+    "iso": false,
+    "photo_1": "3412",
+    "photo_2": "3409",
+    "photo_3": "3412",
+    "photo_4": "3411",
+    "stat": true,
+    "use": false
+  }
+}

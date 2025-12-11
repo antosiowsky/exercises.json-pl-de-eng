@@ -1,0 +1,26 @@
+{
+  "id": "1480",
+  "name_pl": "Wykroki chodzone",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5438",
+    "5439"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki chodzone",
+    "gym": false,
+    "home": true,
+    "id": "1480",
+    "iso": false,
+    "photo_1": "5438",
+    "photo_2": "5439",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

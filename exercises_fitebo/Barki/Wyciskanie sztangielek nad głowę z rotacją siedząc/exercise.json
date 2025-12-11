@@ -1,0 +1,26 @@
+{
+  "id": "1820",
+  "name_pl": "Wyciskanie sztangielek nad głowę z rotacją siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4534",
+    "4535"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę z rotacją siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1820",
+    "iso": false,
+    "photo_1": "4534",
+    "photo_2": "4535",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

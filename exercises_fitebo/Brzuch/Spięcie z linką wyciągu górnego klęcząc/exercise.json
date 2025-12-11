@@ -1,0 +1,26 @@
+{
+  "id": "67",
+  "name_pl": "Spięcie z linką wyciągu górnego klęcząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7403",
+    "7404"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z linką wyciągu górnego klęcząc",
+    "gym": true,
+    "home": false,
+    "id": "67",
+    "iso": true,
+    "photo_1": "7403",
+    "photo_2": "7404",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

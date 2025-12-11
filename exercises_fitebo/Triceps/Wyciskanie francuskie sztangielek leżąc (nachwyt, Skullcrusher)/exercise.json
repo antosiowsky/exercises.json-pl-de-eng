@@ -1,0 +1,26 @@
+{
+  "id": "2089",
+  "name_pl": "Wyciskanie francuskie sztangielek leżąc (nachwyt, Skullcrusher)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "9336",
+    "9333"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangielek leżąc (nachwyt, Skullcrusher)",
+    "gym": false,
+    "home": true,
+    "id": "2089",
+    "iso": true,
+    "photo_1": "9336",
+    "photo_2": "9333",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

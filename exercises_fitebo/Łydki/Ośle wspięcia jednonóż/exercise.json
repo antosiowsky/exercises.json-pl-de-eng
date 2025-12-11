@@ -1,0 +1,26 @@
+{
+  "id": "621",
+  "name_pl": "Ośle wspięcia jednonóż",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "6473",
+    "6474"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ośle wspięcia jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "621",
+    "iso": true,
+    "photo_1": "6473",
+    "photo_2": "6474",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

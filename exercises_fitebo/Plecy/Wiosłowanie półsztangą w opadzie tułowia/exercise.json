@@ -1,0 +1,26 @@
+{
+  "id": "408",
+  "name_pl": "Wiosłowanie półsztangą w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9130",
+    "9131"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie półsztangą w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "408",
+    "iso": false,
+    "photo_1": "9130",
+    "photo_2": "9131",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

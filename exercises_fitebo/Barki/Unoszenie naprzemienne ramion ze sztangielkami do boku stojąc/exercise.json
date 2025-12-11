@@ -1,0 +1,27 @@
+{
+  "id": "1941",
+  "name_pl": "Unoszenie naprzemienne ramion ze sztangielkami do boku stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4606",
+    "4608",
+    "4609"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion ze sztangielkami do boku stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1941",
+    "iso": true,
+    "photo_1": "4606",
+    "photo_2": "4608",
+    "photo_3": "4609",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

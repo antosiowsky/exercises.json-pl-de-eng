@@ -1,0 +1,26 @@
+{
+  "id": "2080",
+  "name_pl": "Wyciskanie sztangi z odłożeniem na stojak leżąc (wąski chwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "8777",
+    "8778"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi z odłożeniem na stojak leżąc (wąski chwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2080",
+    "iso": false,
+    "photo_1": "8777",
+    "photo_2": "8778",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

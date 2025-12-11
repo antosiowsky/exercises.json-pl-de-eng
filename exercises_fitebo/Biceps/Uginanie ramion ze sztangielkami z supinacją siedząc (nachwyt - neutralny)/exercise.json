@@ -1,0 +1,26 @@
+{
+  "id": "501",
+  "name_pl": "Uginanie ramion ze sztangielkami z supinacją siedząc (nachwyt - neutralny)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3534",
+    "3537"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami z supinacją siedząc (nachwyt - neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "501",
+    "iso": true,
+    "photo_1": "3534",
+    "photo_2": "3537",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

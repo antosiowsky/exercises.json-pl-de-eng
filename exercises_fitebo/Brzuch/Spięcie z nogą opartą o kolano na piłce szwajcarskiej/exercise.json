@@ -1,0 +1,26 @@
+{
+  "id": "228",
+  "name_pl": "Spięcie z nogą opartą o kolano na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3017",
+    "3018"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z nogą opartą o kolano na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "228",
+    "iso": true,
+    "photo_1": "3017",
+    "photo_2": "3018",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

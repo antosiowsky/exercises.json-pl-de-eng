@@ -1,0 +1,26 @@
+{
+  "id": "1271",
+  "name_pl": "Wznosy bioder na prostej nodze opartej o ławkę jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6311",
+    "6312"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wznosy bioder na prostej nodze opartej o ławkę jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1271",
+    "iso": true,
+    "photo_1": "6311",
+    "photo_2": "6312",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

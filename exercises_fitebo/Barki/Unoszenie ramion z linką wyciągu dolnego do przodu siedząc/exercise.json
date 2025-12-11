@@ -1,0 +1,26 @@
+{
+  "id": "1913",
+  "name_pl": "Unoszenie ramion z linką wyciągu dolnego do przodu siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7950",
+    "7951"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z linką wyciągu dolnego do przodu siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1913",
+    "iso": true,
+    "photo_1": "7950",
+    "photo_2": "7951",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

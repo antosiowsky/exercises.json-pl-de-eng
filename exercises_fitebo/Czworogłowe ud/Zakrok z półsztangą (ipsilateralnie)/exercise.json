@@ -1,0 +1,26 @@
+{
+  "id": "1505",
+  "name_pl": "Zakrok z półsztangą (ipsilateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9156",
+    "9157"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z półsztangą (ipsilateralnie)",
+    "gym": true,
+    "home": false,
+    "id": "1505",
+    "iso": false,
+    "photo_1": "9156",
+    "photo_2": "9157",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

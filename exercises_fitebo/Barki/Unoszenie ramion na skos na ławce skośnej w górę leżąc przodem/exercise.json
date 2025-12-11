@@ -1,0 +1,28 @@
+{
+  "id": "1938",
+  "name_pl": "Unoszenie ramion na skos na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5053",
+    "5054",
+    "5053",
+    "5056"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion na skos na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1938",
+    "iso": true,
+    "photo_1": "5053",
+    "photo_2": "5054",
+    "photo_3": "5053",
+    "photo_4": "5056",
+    "stat": false,
+    "use": false
+  }
+}

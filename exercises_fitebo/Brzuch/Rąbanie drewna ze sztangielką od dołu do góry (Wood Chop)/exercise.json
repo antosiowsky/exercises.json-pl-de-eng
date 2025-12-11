@@ -1,0 +1,26 @@
+{
+  "id": "123",
+  "name_pl": "Rąbanie drewna ze sztangielką od dołu do góry (Wood Chop)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2972",
+    "2973"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rąbanie drewna ze sztangielką od dołu do góry (Wood Chop)",
+    "gym": false,
+    "home": true,
+    "id": "123",
+    "iso": false,
+    "photo_1": "2972",
+    "photo_2": "2973",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1449",
+  "name_pl": "Wykrok i zakrok goblet ze sztangielką jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5419",
+    "5420",
+    "5421"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok goblet ze sztangielką jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1449",
+    "iso": false,
+    "photo_1": "5419",
+    "photo_2": "5420",
+    "photo_3": "5421",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

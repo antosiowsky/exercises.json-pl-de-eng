@@ -1,0 +1,26 @@
+{
+  "id": "884",
+  "name_pl": "Pompka szwedzka na poręczach z obciążeniem",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6664",
+    "6665"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na poręczach z obciążeniem",
+    "gym": true,
+    "home": false,
+    "id": "884",
+    "iso": false,
+    "photo_1": "6664",
+    "photo_2": "6665",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

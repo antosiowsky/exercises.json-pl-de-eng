@@ -1,0 +1,26 @@
+{
+  "id": "902",
+  "name_pl": "Przenoszenie z gumą zza głowy w poprzek ławki leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4239",
+    "4240"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie z gumą zza głowy w poprzek ławki leżąc",
+    "gym": true,
+    "home": false,
+    "id": "902",
+    "iso": true,
+    "photo_1": "4239",
+    "photo_2": "4240",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "697",
+  "name_pl": "Wyciskanie sztangielek z rotacją jednorącz na ławce skośnej w dół (podchwyt - neutralny)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3984",
+    "3983"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją jednorącz na ławce skośnej w dół (podchwyt - neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "697",
+    "iso": false,
+    "photo_1": "3984",
+    "photo_2": "3983",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "913",
+  "name_pl": "Unoszenie barków ze sztangielkami w górze na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4282",
+    "4283"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie barków ze sztangielkami w górze na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "913",
+    "iso": true,
+    "photo_1": "4282",
+    "photo_2": "4283",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

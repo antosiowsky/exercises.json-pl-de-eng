@@ -1,0 +1,26 @@
+{
+  "id": "1801",
+  "name_pl": "Wyciskanie sztangielek nad głowę stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4457",
+    "4458"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1801",
+    "iso": false,
+    "photo_1": "4457",
+    "photo_2": "4458",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

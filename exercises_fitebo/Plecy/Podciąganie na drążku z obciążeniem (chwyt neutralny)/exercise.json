@@ -1,0 +1,26 @@
+{
+  "id": "261",
+  "name_pl": "Podciąganie na drążku z obciążeniem (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6697",
+    "6698"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie na drążku z obciążeniem (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "261",
+    "iso": false,
+    "photo_1": "6697",
+    "photo_2": "6698",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

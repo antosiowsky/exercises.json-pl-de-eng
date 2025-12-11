@@ -1,0 +1,26 @@
+{
+  "id": "1251",
+  "name_pl": "Unoszenie tułowia z odwodzeniem nogi z talerzem do boku na podwyższeniu w podporze bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8055",
+    "8057"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z odwodzeniem nogi z talerzem do boku na podwyższeniu w podporze bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1251",
+    "iso": true,
+    "photo_1": "8055",
+    "photo_2": "8057",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

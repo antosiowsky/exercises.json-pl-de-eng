@@ -1,0 +1,26 @@
+{
+  "id": "1287",
+  "name_pl": "Rzymski martwy ciąg z uchwytem wyciągu dolnego (bez dotykania ud)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8985",
+    "8984"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rzymski martwy ciąg z uchwytem wyciągu dolnego (bez dotykania ud)",
+    "gym": true,
+    "home": false,
+    "id": "1287",
+    "iso": false,
+    "photo_1": "8985",
+    "photo_2": "8984",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

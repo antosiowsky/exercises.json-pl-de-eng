@@ -1,0 +1,26 @@
+{
+  "id": "23",
+  "name_pl": "Plank boczny z odwodzeniem nogi",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2920",
+    "2921"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny z odwodzeniem nogi",
+    "gym": false,
+    "home": true,
+    "id": "23",
+    "iso": false,
+    "photo_1": "2920",
+    "photo_2": "2921",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

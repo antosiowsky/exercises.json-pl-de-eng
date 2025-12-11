@@ -1,0 +1,27 @@
+{
+  "id": "2047",
+  "name_pl": "Przyciąganie linki wyciągu górnego do twarzy z wyciskaniem nad głowę stojąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7902",
+    "7903",
+    "7904"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu górnego do twarzy z wyciskaniem nad głowę stojąc (Face Pull)",
+    "gym": true,
+    "home": false,
+    "id": "2047",
+    "iso": false,
+    "photo_1": "7902",
+    "photo_2": "7903",
+    "photo_3": "7904",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1094",
+  "name_pl": "Odwodzenie zgiętej do prostej nogi do tyłu w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7171",
+    "7172"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej do prostej nogi do tyłu w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1094",
+    "iso": true,
+    "photo_1": "7171",
+    "photo_2": "7172",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

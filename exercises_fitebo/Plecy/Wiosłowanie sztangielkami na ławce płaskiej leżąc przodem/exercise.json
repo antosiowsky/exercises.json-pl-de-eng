@@ -1,0 +1,26 @@
+{
+  "id": "373",
+  "name_pl": "Wiosłowanie sztangielkami na ławce płaskiej leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3310",
+    "3311"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami na ławce płaskiej leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "373",
+    "iso": false,
+    "photo_1": "3310",
+    "photo_2": "3311",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

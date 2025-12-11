@@ -1,0 +1,26 @@
+{
+  "id": "80",
+  "name_pl": "Wyciskanie Pallofa z uchwytem wyciągu stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4161",
+    "4162"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie Pallofa z uchwytem wyciągu stojąc",
+    "gym": true,
+    "home": false,
+    "id": "80",
+    "iso": false,
+    "photo_1": "4161",
+    "photo_2": "4162",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

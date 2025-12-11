@@ -1,0 +1,26 @@
+{
+  "id": "1635",
+  "name_pl": "Przysiad Jeffersona na suwnicy Smitha",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9250",
+    "9251"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Jeffersona na suwnicy Smitha",
+    "gym": true,
+    "home": false,
+    "id": "1635",
+    "iso": false,
+    "photo_1": "9250",
+    "photo_2": "9251",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

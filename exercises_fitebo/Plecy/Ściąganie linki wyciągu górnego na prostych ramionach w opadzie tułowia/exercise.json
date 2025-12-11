@@ -1,0 +1,26 @@
+{
+  "id": "309",
+  "name_pl": "Ściąganie linki wyciągu górnego na prostych ramionach w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4799",
+    "4800"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie linki wyciągu górnego na prostych ramionach w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "309",
+    "iso": true,
+    "photo_1": "4799",
+    "photo_2": "4800",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

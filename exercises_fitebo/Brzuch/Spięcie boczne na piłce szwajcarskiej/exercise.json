@@ -1,0 +1,26 @@
+{
+  "id": "240",
+  "name_pl": "Spięcie boczne na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3093",
+    "3095"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie boczne na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "240",
+    "iso": true,
+    "photo_1": "3093",
+    "photo_2": "3095",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

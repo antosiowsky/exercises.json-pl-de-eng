@@ -1,0 +1,26 @@
+{
+  "id": "1645",
+  "name_pl": "Przysiad ze sztangą z tyłu jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5849",
+    "5848"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangą z tyłu jednonóż (Pistol Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1645",
+    "iso": false,
+    "photo_1": "5849",
+    "photo_2": "5848",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

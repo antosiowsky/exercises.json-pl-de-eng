@@ -1,0 +1,26 @@
+{
+  "id": "91",
+  "name_pl": "Spięcie z obciążeniem nad głową",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2598",
+    "2599"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z obciążeniem nad głową",
+    "gym": false,
+    "home": true,
+    "id": "91",
+    "iso": true,
+    "photo_1": "2598",
+    "photo_2": "2599",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

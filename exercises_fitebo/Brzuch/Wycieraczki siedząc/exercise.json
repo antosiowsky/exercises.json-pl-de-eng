@@ -1,0 +1,27 @@
+{
+  "id": "129",
+  "name_pl": "Wycieraczki siedząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2982",
+    "2986",
+    "2985"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wycieraczki siedząc",
+    "gym": false,
+    "home": true,
+    "id": "129",
+    "iso": true,
+    "photo_1": "2982",
+    "photo_2": "2986",
+    "photo_3": "2985",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

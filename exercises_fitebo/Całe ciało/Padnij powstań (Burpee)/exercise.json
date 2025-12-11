@@ -1,0 +1,28 @@
+{
+  "id": "965",
+  "name_pl": "Padnij powstań (Burpee)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6771",
+    "6772",
+    "6773",
+    "6774"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Padnij powstań (Burpee)",
+    "gym": false,
+    "home": true,
+    "id": "965",
+    "iso": false,
+    "photo_1": "6771",
+    "photo_2": "6772",
+    "photo_3": "6773",
+    "photo_4": "6774",
+    "stat": false,
+    "use": false
+  }
+}

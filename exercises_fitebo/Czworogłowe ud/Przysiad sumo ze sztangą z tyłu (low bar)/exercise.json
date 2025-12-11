@@ -1,0 +1,26 @@
+{
+  "id": "1669",
+  "name_pl": "Przysiad sumo ze sztangą z tyłu (low bar)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7297",
+    "7298"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo ze sztangą z tyłu (low bar)",
+    "gym": true,
+    "home": false,
+    "id": "1669",
+    "iso": false,
+    "photo_1": "7297",
+    "photo_2": "7298",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

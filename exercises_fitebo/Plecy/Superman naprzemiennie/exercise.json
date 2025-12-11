@@ -1,0 +1,27 @@
+{
+  "id": "462",
+  "name_pl": "Superman naprzemiennie",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3378",
+    "3380",
+    "3381"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Superman naprzemiennie",
+    "gym": false,
+    "home": true,
+    "id": "462",
+    "iso": true,
+    "photo_1": "3378",
+    "photo_2": "3380",
+    "photo_3": "3381",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

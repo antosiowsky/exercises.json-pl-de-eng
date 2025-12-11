@@ -1,0 +1,28 @@
+{
+  "id": "1238",
+  "name_pl": "Przysiad do martwego ciągu pomiędzy ławkami ze sztangielką (Straddle Squat to Lift)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8076",
+    "8075",
+    "8077",
+    "8075"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad do martwego ciągu pomiędzy ławkami ze sztangielką (Straddle Squat to Lift)",
+    "gym": true,
+    "home": false,
+    "id": "1238",
+    "iso": false,
+    "photo_1": "8076",
+    "photo_2": "8075",
+    "photo_3": "8077",
+    "photo_4": "8075",
+    "stat": false,
+    "use": false
+  }
+}

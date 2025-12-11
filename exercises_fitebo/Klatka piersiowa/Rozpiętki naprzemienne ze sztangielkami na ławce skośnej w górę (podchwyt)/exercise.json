@@ -1,0 +1,27 @@
+{
+  "id": "789",
+  "name_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce skośnej w górę (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3949",
+    "3951",
+    "3952"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce skośnej w górę (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "789",
+    "iso": true,
+    "photo_1": "3949",
+    "photo_2": "3951",
+    "photo_3": "3952",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1807",
+  "name_pl": "Wyciskanie sztangielki nad głowę jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4519",
+    "4521"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielki nad głowę jednorącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1807",
+    "iso": false,
+    "photo_1": "4519",
+    "photo_2": "4521",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "117",
+  "name_pl": "Ptak Pies na BOSU (Bird Dog)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2640",
+    "2643"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ptak Pies na BOSU (Bird Dog)",
+    "gym": true,
+    "home": false,
+    "id": "117",
+    "iso": false,
+    "photo_1": "2640",
+    "photo_2": "2643",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

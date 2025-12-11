@@ -1,0 +1,27 @@
+{
+  "id": "939",
+  "name_pl": "Tęcze z linami (Battle Rope Rainbows)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8520",
+    "8522",
+    "8523"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Tęcze z linami (Battle Rope Rainbows)",
+    "gym": true,
+    "home": false,
+    "id": "939",
+    "iso": false,
+    "photo_1": "8520",
+    "photo_2": "8522",
+    "photo_3": "8523",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "891",
+  "name_pl": "Wypychanie talerza sprzed klatki siedząc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4212",
+    "4213"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie talerza sprzed klatki siedząc",
+    "gym": false,
+    "home": true,
+    "id": "891",
+    "iso": false,
+    "photo_1": "4212",
+    "photo_2": "4213",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

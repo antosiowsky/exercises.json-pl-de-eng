@@ -1,0 +1,26 @@
+{
+  "id": "466",
+  "name_pl": "Unoszenie tułowia z ramionami wzdłuż tułowia (Cobra Back Extension)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3393",
+    "3394"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z ramionami wzdłuż tułowia (Cobra Back Extension)",
+    "gym": false,
+    "home": true,
+    "id": "466",
+    "iso": true,
+    "photo_1": "3393",
+    "photo_2": "3394",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

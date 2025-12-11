@@ -1,0 +1,26 @@
+{
+  "id": "1169",
+  "name_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku siedząc prosto",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7839",
+    "7840"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku siedząc prosto",
+    "gym": false,
+    "home": true,
+    "id": "1169",
+    "iso": true,
+    "photo_1": "7839",
+    "photo_2": "7840",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

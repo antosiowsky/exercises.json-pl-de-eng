@@ -1,0 +1,26 @@
+{
+  "id": "1365",
+  "name_pl": "Żuraw (GHR) z gumą (długą)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8885",
+    "8886"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) z gumą (długą)",
+    "gym": true,
+    "home": false,
+    "id": "1365",
+    "iso": true,
+    "photo_1": "8885",
+    "photo_2": "8886",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

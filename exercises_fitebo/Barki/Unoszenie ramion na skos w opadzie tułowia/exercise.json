@@ -1,0 +1,28 @@
+{
+  "id": "1937",
+  "name_pl": "Unoszenie ramion na skos w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4640",
+    "4641",
+    "4640",
+    "4642"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion na skos w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1937",
+    "iso": true,
+    "photo_1": "4640",
+    "photo_2": "4641",
+    "photo_3": "4640",
+    "photo_4": "4642",
+    "stat": false,
+    "use": false
+  }
+}

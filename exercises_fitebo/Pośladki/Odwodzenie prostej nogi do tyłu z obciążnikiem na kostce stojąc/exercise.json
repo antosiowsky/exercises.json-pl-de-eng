@@ -1,0 +1,26 @@
+{
+  "id": "1074",
+  "name_pl": "Odwodzenie prostej nogi do tyłu z obciążnikiem na kostce stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7132",
+    "7133"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do tyłu z obciążnikiem na kostce stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1074",
+    "iso": true,
+    "photo_1": "7132",
+    "photo_2": "7133",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

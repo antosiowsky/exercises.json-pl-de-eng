@@ -1,0 +1,27 @@
+{
+  "id": "2199",
+  "name_pl": "Spacer rąk do przodu w podporze przodem",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "14244",
+    "14245",
+    "14246"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spacer rąk do przodu w podporze przodem",
+    "gym": false,
+    "home": true,
+    "id": "2199",
+    "iso": false,
+    "photo_1": "14244",
+    "photo_2": "14245",
+    "photo_3": "14246",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

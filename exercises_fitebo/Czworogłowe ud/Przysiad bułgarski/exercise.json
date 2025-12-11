@@ -1,0 +1,26 @@
+{
+  "id": "1563",
+  "name_pl": "Przysiad bułgarski",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9277",
+    "9278"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski",
+    "gym": false,
+    "home": true,
+    "id": "1563",
+    "iso": false,
+    "photo_1": "9277",
+    "photo_2": "9278",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

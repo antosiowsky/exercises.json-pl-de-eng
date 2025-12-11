@@ -1,0 +1,25 @@
+{
+  "id": "112",
+  "name_pl": "Plank na prostych ramionach na BOSU",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2634"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank na prostych ramionach na BOSU",
+    "gym": true,
+    "home": false,
+    "id": "112",
+    "iso": false,
+    "photo_1": "2634",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

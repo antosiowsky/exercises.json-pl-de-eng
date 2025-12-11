@@ -1,0 +1,26 @@
+{
+  "id": "1851",
+  "name_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha stojąc (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7009",
+    "7010"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha stojąc (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "1851",
+    "iso": false,
+    "photo_1": "7009",
+    "photo_2": "7010",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

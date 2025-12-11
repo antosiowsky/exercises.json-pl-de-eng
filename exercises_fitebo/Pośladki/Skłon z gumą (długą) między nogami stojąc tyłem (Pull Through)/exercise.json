@@ -1,0 +1,26 @@
+{
+  "id": "1054",
+  "name_pl": "Skłon z gumą (długą) między nogami stojąc tyłem (Pull Through)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8352",
+    "8353"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon z gumą (długą) między nogami stojąc tyłem (Pull Through)",
+    "gym": false,
+    "home": true,
+    "id": "1054",
+    "iso": false,
+    "photo_1": "8352",
+    "photo_2": "8353",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

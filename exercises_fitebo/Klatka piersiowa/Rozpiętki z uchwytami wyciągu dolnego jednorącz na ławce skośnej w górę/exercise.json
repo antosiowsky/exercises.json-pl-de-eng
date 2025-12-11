@@ -1,0 +1,26 @@
+{
+  "id": "816",
+  "name_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5304",
+    "5305"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "816",
+    "iso": true,
+    "photo_1": "5304",
+    "photo_2": "5305",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

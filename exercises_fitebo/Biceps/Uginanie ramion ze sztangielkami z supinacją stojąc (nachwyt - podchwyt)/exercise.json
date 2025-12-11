@@ -1,0 +1,26 @@
+{
+  "id": "490",
+  "name_pl": "Uginanie ramion ze sztangielkami z supinacją stojąc (nachwyt - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3493",
+    "3490"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami z supinacją stojąc (nachwyt - podchwyt)",
+    "gym": false,
+    "home": true,
+    "id": "490",
+    "iso": true,
+    "photo_1": "3493",
+    "photo_2": "3490",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

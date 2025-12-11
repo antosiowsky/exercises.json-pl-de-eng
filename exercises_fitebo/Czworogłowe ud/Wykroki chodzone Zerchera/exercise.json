@@ -1,0 +1,26 @@
+{
+  "id": "1487",
+  "name_pl": "Wykroki chodzone Zerchera",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5428",
+    "5429"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki chodzone Zerchera",
+    "gym": true,
+    "home": false,
+    "id": "1487",
+    "iso": false,
+    "photo_1": "5428",
+    "photo_2": "5429",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

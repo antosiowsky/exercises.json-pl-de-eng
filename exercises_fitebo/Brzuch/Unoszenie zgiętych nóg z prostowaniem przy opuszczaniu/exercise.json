@@ -1,0 +1,26 @@
+{
+  "id": "137",
+  "name_pl": "Unoszenie zgiętych nóg z prostowaniem przy opuszczaniu",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2701",
+    "2702"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg z prostowaniem przy opuszczaniu",
+    "gym": false,
+    "home": true,
+    "id": "137",
+    "iso": true,
+    "photo_1": "2701",
+    "photo_2": "2702",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

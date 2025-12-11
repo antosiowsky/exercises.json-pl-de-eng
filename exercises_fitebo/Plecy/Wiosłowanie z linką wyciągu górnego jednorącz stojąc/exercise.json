@@ -1,0 +1,26 @@
+{
+  "id": "354",
+  "name_pl": "Wiosłowanie z linką wyciągu górnego jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4803",
+    "4804"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu górnego jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "354",
+    "iso": false,
+    "photo_1": "4803",
+    "photo_2": "4804",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

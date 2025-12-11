@@ -1,0 +1,27 @@
+{
+  "id": "584",
+  "name_pl": "Uginanie naprzemienne ramion ze sztangielkami w poprzek tułowia (chwyt neutralny, Pinwheel Curl)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3479",
+    "3484",
+    "3485"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie naprzemienne ramion ze sztangielkami w poprzek tułowia (chwyt neutralny, Pinwheel Curl)",
+    "gym": false,
+    "home": true,
+    "id": "584",
+    "iso": true,
+    "photo_1": "3479",
+    "photo_2": "3484",
+    "photo_3": "3485",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

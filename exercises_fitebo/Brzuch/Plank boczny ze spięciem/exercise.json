@@ -1,0 +1,26 @@
+{
+  "id": "22",
+  "name_pl": "Plank boczny ze spięciem",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2913",
+    "2914"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny ze spięciem",
+    "gym": false,
+    "home": true,
+    "id": "22",
+    "iso": false,
+    "photo_1": "2913",
+    "photo_2": "2914",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

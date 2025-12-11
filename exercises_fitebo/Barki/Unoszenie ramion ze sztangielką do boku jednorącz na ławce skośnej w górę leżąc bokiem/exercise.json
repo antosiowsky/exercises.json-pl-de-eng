@@ -1,0 +1,26 @@
+{
+  "id": "1957",
+  "name_pl": "Unoszenie ramion ze sztangielką do boku jednorącz na ławce skośnej w górę leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4889",
+    "4890"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielką do boku jednorącz na ławce skośnej w górę leżąc bokiem",
+    "gym": true,
+    "home": false,
+    "id": "1957",
+    "iso": true,
+    "photo_1": "4889",
+    "photo_2": "4890",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

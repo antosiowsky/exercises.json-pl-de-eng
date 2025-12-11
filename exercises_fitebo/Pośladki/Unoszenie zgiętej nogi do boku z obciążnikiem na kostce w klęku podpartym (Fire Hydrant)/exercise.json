@@ -1,0 +1,26 @@
+{
+  "id": "1214",
+  "name_pl": "Unoszenie zgiętej nogi do boku z obciążnikiem na kostce w klęku podpartym (Fire Hydrant)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8021",
+    "8022"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi do boku z obciążnikiem na kostce w klęku podpartym (Fire Hydrant)",
+    "gym": false,
+    "home": true,
+    "id": "1214",
+    "iso": true,
+    "photo_1": "8021",
+    "photo_2": "8022",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

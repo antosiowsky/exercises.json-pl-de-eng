@@ -1,0 +1,25 @@
+{
+  "id": "1625",
+  "name_pl": "Przysiad izometryczny w oparciu o ścianę",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6457"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przysiad izometryczny w oparciu o ścianę",
+    "gym": false,
+    "home": true,
+    "id": "1625",
+    "iso": false,
+    "photo_1": "6457",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

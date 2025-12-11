@@ -1,0 +1,26 @@
+{
+  "id": "429",
+  "name_pl": "Szrugsy ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3260",
+    "3261"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "429",
+    "iso": true,
+    "photo_1": "3260",
+    "photo_2": "3261",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

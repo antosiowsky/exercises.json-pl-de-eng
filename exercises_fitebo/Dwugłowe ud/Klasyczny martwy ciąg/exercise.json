@@ -1,0 +1,27 @@
+{
+  "id": "1298",
+  "name_pl": "Klasyczny martwy ciąg",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8112",
+    "8113",
+    "8114"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Klasyczny martwy ciąg",
+    "gym": false,
+    "home": true,
+    "id": "1298",
+    "iso": false,
+    "photo_1": "8112",
+    "photo_2": "8113",
+    "photo_3": "8114",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

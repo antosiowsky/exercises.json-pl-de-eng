@@ -1,0 +1,26 @@
+{
+  "id": "1333",
+  "name_pl": "Martwy ciąg na prostych nogach z kettlami",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8174",
+    "8175"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na prostych nogach z kettlami",
+    "gym": true,
+    "home": false,
+    "id": "1333",
+    "iso": false,
+    "photo_1": "8174",
+    "photo_2": "8175",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

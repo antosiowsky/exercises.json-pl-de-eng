@@ -1,0 +1,28 @@
+{
+  "id": "1979",
+  "name_pl": "Unoszenie naprzemienne ramion w kształcie litery Y w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4661",
+    "4663",
+    "4661",
+    "4662"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion w kształcie litery Y w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1979",
+    "iso": true,
+    "photo_1": "4661",
+    "photo_2": "4663",
+    "photo_3": "4661",
+    "photo_4": "4662",
+    "stat": false,
+    "use": false
+  }
+}

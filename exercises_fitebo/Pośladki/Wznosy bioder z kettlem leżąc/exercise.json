@@ -1,0 +1,26 @@
+{
+  "id": "1001",
+  "name_pl": "Wznosy bioder z kettlem leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5689",
+    "5690"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z kettlem leżąc",
+    "gym": true,
+    "home": false,
+    "id": "1001",
+    "iso": false,
+    "photo_1": "5689",
+    "photo_2": "5690",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "142",
+  "name_pl": "Unoszenie nóg w podporze na poręczach",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2818",
+    "2820"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg w podporze na poręczach",
+    "gym": true,
+    "home": false,
+    "id": "142",
+    "iso": true,
+    "photo_1": "2818",
+    "photo_2": "2820",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

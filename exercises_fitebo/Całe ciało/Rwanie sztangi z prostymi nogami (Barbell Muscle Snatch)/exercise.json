@@ -1,0 +1,27 @@
+{
+  "id": "976",
+  "name_pl": "Rwanie sztangi z prostymi nogami (Barbell Muscle Snatch)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8363",
+    "8364",
+    "8369"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rwanie sztangi z prostymi nogami (Barbell Muscle Snatch)",
+    "gym": true,
+    "home": false,
+    "id": "976",
+    "iso": false,
+    "photo_1": "8363",
+    "photo_2": "8364",
+    "photo_3": "8369",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

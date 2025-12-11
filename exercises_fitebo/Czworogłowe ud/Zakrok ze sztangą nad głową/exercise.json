@@ -1,0 +1,26 @@
+{
+  "id": "1509",
+  "name_pl": "Zakrok ze sztangą nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5432",
+    "5434"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok ze sztangą nad głową",
+    "gym": true,
+    "home": false,
+    "id": "1509",
+    "iso": false,
+    "photo_1": "5432",
+    "photo_2": "5434",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

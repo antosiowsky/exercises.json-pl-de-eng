@@ -1,0 +1,26 @@
+{
+  "id": "1517",
+  "name_pl": "Wykrok skośny",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5742",
+    "5743"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skośny",
+    "gym": false,
+    "home": true,
+    "id": "1517",
+    "iso": false,
+    "photo_1": "5742",
+    "photo_2": "5743",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

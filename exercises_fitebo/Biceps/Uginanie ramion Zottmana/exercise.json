@@ -1,0 +1,28 @@
+{
+  "id": "596",
+  "name_pl": "Uginanie ramion Zottmana",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3489",
+    "3490",
+    "3494",
+    "3493"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion Zottmana",
+    "gym": false,
+    "home": true,
+    "id": "596",
+    "iso": true,
+    "photo_1": "3489",
+    "photo_2": "3490",
+    "photo_3": "3494",
+    "photo_4": "3493",
+    "stat": false,
+    "use": false
+  }
+}

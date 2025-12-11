@@ -1,0 +1,27 @@
+{
+  "id": "165",
+  "name_pl": "Unoszenie naprzemienne kolan do łokci stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2694",
+    "2697",
+    "2700"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne kolan do łokci stojąc",
+    "gym": false,
+    "home": true,
+    "id": "165",
+    "iso": true,
+    "photo_1": "2694",
+    "photo_2": "2697",
+    "photo_3": "2700",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

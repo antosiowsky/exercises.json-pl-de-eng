@@ -1,0 +1,26 @@
+{
+  "id": "303",
+  "name_pl": "Ściągnie linki wyciągu dolnego do klatki leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3776",
+    "3777"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściągnie linki wyciągu dolnego do klatki leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "303",
+    "iso": false,
+    "photo_1": "3776",
+    "photo_2": "3777",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2210",
+  "name_pl": "Wyciskanie kalifornijskie ze sztangielkami (California Press)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "14279",
+    "14280",
+    "14281"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kalifornijskie ze sztangielkami (California Press)",
+    "gym": false,
+    "home": true,
+    "id": "2210",
+    "iso": false,
+    "photo_1": "14279",
+    "photo_2": "14280",
+    "photo_3": "14281",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

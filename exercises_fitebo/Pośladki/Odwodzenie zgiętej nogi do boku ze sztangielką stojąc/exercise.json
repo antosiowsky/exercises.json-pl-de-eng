@@ -1,0 +1,26 @@
+{
+  "id": "1203",
+  "name_pl": "Odwodzenie zgiętej nogi do boku ze sztangielką stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7222",
+    "7221"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej nogi do boku ze sztangielką stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1203",
+    "iso": true,
+    "photo_1": "7222",
+    "photo_2": "7221",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

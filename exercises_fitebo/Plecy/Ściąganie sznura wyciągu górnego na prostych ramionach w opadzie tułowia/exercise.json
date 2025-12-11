@@ -1,0 +1,26 @@
+{
+  "id": "305",
+  "name_pl": "Ściąganie sznura wyciągu górnego na prostych ramionach w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7417",
+    "7418"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie sznura wyciągu górnego na prostych ramionach w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "305",
+    "iso": true,
+    "photo_1": "7417",
+    "photo_2": "7418",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

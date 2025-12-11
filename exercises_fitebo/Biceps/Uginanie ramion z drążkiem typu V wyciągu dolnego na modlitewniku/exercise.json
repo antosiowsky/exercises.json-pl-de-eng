@@ -1,0 +1,26 @@
+{
+  "id": "528",
+  "name_pl": "Uginanie ramion z drążkiem typu V wyciągu dolnego na modlitewniku",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3810",
+    "3811"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z drążkiem typu V wyciągu dolnego na modlitewniku",
+    "gym": true,
+    "home": false,
+    "id": "528",
+    "iso": true,
+    "photo_1": "3810",
+    "photo_2": "3811",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

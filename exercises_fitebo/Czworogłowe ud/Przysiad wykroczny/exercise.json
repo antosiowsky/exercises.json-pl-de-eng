@@ -1,0 +1,26 @@
+{
+  "id": "1542",
+  "name_pl": "Przysiad wykroczny",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5513",
+    "5514"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny",
+    "gym": false,
+    "home": true,
+    "id": "1542",
+    "iso": false,
+    "photo_1": "5513",
+    "photo_2": "5514",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

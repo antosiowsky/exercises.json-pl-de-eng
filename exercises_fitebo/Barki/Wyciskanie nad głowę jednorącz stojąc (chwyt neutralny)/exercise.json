@@ -1,0 +1,26 @@
+{
+  "id": "1833",
+  "name_pl": "Wyciskanie nad głowę jednorącz stojąc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4496",
+    "4497"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie nad głowę jednorącz stojąc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "1833",
+    "iso": false,
+    "photo_1": "4496",
+    "photo_2": "4497",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

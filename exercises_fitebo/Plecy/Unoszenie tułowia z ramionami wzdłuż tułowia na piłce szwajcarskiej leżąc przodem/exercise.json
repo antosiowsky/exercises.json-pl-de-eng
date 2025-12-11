@@ -1,0 +1,26 @@
+{
+  "id": "467",
+  "name_pl": "Unoszenie tułowia z ramionami wzdłuż tułowia na piłce szwajcarskiej leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3397",
+    "3398"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z ramionami wzdłuż tułowia na piłce szwajcarskiej leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "467",
+    "iso": true,
+    "photo_1": "3397",
+    "photo_2": "3398",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

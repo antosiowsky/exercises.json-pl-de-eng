@@ -1,0 +1,26 @@
+{
+  "id": "928",
+  "name_pl": "Uginanie nadgarstków ze sztangą z tyłu stojąc",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "4304",
+    "4305"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków ze sztangą z tyłu stojąc",
+    "gym": true,
+    "home": false,
+    "id": "928",
+    "iso": true,
+    "photo_1": "4304",
+    "photo_2": "4305",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

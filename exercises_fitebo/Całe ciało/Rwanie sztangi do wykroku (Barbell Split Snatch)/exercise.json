@@ -1,0 +1,28 @@
+{
+  "id": "979",
+  "name_pl": "Rwanie sztangi do wykroku (Barbell Split Snatch)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "9680",
+    "9681",
+    "9688",
+    "9690"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rwanie sztangi do wykroku (Barbell Split Snatch)",
+    "gym": true,
+    "home": false,
+    "id": "979",
+    "iso": false,
+    "photo_1": "9680",
+    "photo_2": "9681",
+    "photo_3": "9688",
+    "photo_4": "9690",
+    "stat": false,
+    "use": false
+  }
+}

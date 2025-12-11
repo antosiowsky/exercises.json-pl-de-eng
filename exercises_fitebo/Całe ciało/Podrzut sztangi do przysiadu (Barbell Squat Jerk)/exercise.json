@@ -1,0 +1,27 @@
+{
+  "id": "984",
+  "name_pl": "Podrzut sztangi do przysiadu (Barbell Squat Jerk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8375-8376",
+    "8380-8381",
+    "8383-8382"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podrzut sztangi do przysiadu (Barbell Squat Jerk)",
+    "gym": true,
+    "home": false,
+    "id": "984",
+    "iso": false,
+    "photo_1": "8375-8376",
+    "photo_2": "8380-8381",
+    "photo_3": "8383-8382",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

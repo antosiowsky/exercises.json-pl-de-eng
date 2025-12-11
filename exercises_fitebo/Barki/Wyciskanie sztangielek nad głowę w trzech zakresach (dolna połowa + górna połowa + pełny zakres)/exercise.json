@@ -1,0 +1,27 @@
+{
+  "id": "1886",
+  "name_pl": "Wyciskanie sztangielek nad głowę w trzech zakresach (dolna połowa + górna połowa + pełny zakres)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4579",
+    "4582",
+    "4581"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę w trzech zakresach (dolna połowa + górna połowa + pełny zakres)",
+    "gym": false,
+    "home": true,
+    "id": "1886",
+    "iso": false,
+    "photo_1": "4579",
+    "photo_2": "4582",
+    "photo_3": "4581",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

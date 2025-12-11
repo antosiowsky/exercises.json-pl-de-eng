@@ -1,0 +1,26 @@
+{
+  "id": "557",
+  "name_pl": "Uginanie ramion ze sztangielkami na modlitewniku (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6137",
+    "6138"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami na modlitewniku (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "557",
+    "iso": true,
+    "photo_1": "6137",
+    "photo_2": "6138",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2146",
+  "name_pl": "Prostowanie ramion z linką wyciągu dolnego zza głowy siedząc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7497",
+    "7498"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu dolnego zza głowy siedząc",
+    "gym": true,
+    "home": false,
+    "id": "2146",
+    "iso": true,
+    "photo_1": "7497",
+    "photo_2": "7498",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

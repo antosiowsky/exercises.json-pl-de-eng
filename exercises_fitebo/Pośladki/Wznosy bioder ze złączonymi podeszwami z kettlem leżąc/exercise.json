@@ -1,0 +1,26 @@
+{
+  "id": "994",
+  "name_pl": "Wznosy bioder ze złączonymi podeszwami z kettlem leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5678",
+    "5680"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze złączonymi podeszwami z kettlem leżąc",
+    "gym": true,
+    "home": false,
+    "id": "994",
+    "iso": false,
+    "photo_1": "5678",
+    "photo_2": "5680",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

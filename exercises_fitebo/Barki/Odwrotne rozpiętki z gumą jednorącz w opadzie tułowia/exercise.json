@@ -1,0 +1,26 @@
+{
+  "id": "1993",
+  "name_pl": "Odwrotne rozpiętki z gumą jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5083",
+    "5084"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z gumą jednorącz w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1993",
+    "iso": true,
+    "photo_1": "5083",
+    "photo_2": "5084",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

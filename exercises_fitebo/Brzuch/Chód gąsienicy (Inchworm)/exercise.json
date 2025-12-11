@@ -1,0 +1,27 @@
+{
+  "id": "107",
+  "name_pl": "Chód gąsienicy (Inchworm)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2963",
+    "2964",
+    "2965"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Chód gąsienicy (Inchworm)",
+    "gym": false,
+    "home": true,
+    "id": "107",
+    "iso": false,
+    "photo_1": "2963",
+    "photo_2": "2964",
+    "photo_3": "2965",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

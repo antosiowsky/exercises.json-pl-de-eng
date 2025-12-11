@@ -1,0 +1,26 @@
+{
+  "id": "1620",
+  "name_pl": "Przysiad goblet z kettlem w oparciu o piłkę szwajcarską",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6453",
+    "6454"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad goblet z kettlem w oparciu o piłkę szwajcarską",
+    "gym": true,
+    "home": false,
+    "id": "1620",
+    "iso": false,
+    "photo_1": "6453",
+    "photo_2": "6454",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

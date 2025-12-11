@@ -1,0 +1,25 @@
+{
+  "id": "948",
+  "name_pl": "Pchanie sanek obciążeniowych (Sled Push)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6527"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pchanie sanek obciążeniowych (Sled Push)",
+    "gym": true,
+    "home": false,
+    "id": "948",
+    "iso": false,
+    "photo_1": "6527",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

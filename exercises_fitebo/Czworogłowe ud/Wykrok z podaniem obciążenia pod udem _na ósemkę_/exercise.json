@@ -1,0 +1,28 @@
+{
+  "id": "1441",
+  "name_pl": "Wykrok z podaniem obciążenia pod udem \"na ósemkę\"",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5447",
+    "5448",
+    "5449",
+    "5450"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok z podaniem obciążenia pod udem \"na ósemkę\"",
+    "gym": false,
+    "home": true,
+    "id": "1441",
+    "iso": false,
+    "photo_1": "5447",
+    "photo_2": "5448",
+    "photo_3": "5449",
+    "photo_4": "5450",
+    "stat": false,
+    "use": false
+  }
+}

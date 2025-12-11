@@ -1,0 +1,26 @@
+{
+  "id": "454",
+  "name_pl": "Skłon \"Dzień Dobry\" ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3293",
+    "3294"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "454",
+    "iso": true,
+    "photo_1": "3293",
+    "photo_2": "3294",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

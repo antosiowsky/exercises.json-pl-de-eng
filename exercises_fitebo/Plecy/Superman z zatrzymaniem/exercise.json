@@ -1,0 +1,25 @@
+{
+  "id": "460",
+  "name_pl": "Superman z zatrzymaniem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3379"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Superman z zatrzymaniem",
+    "gym": false,
+    "home": true,
+    "id": "460",
+    "iso": false,
+    "photo_1": "3379",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1994",
+  "name_pl": "Odwrotne rozpiętki z gumą poziomo stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6870",
+    "6871"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z gumą poziomo stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1994",
+    "iso": true,
+    "photo_1": "6870",
+    "photo_2": "6871",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

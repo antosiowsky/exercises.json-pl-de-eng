@@ -1,0 +1,26 @@
+{
+  "id": "1676",
+  "name_pl": "Przysiad sumo goblet z kettlem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7318",
+    "7316"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo goblet z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1676",
+    "iso": false,
+    "photo_1": "7318",
+    "photo_2": "7316",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

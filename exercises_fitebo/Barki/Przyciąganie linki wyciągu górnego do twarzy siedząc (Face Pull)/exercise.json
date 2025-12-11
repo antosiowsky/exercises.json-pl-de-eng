@@ -1,0 +1,26 @@
+{
+  "id": "2050",
+  "name_pl": "Przyciąganie linki wyciągu górnego do twarzy siedząc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7918",
+    "7919"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu górnego do twarzy siedząc (Face Pull)",
+    "gym": true,
+    "home": false,
+    "id": "2050",
+    "iso": false,
+    "photo_1": "7918",
+    "photo_2": "7919",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

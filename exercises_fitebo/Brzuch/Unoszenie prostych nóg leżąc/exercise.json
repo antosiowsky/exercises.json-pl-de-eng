@@ -1,0 +1,26 @@
+{
+  "id": "133",
+  "name_pl": "Unoszenie prostych nóg leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2674",
+    "2675"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostych nóg leżąc",
+    "gym": false,
+    "home": true,
+    "id": "133",
+    "iso": true,
+    "photo_1": "2674",
+    "photo_2": "2675",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "590",
+  "name_pl": "Uginanie ramion z gumą siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3538",
+    "3539"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z gumą siedząc",
+    "gym": false,
+    "home": true,
+    "id": "590",
+    "iso": true,
+    "photo_1": "3538",
+    "photo_2": "3539",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

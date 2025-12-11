@@ -1,0 +1,26 @@
+{
+  "id": "809",
+  "name_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3876",
+    "3875"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "809",
+    "iso": true,
+    "photo_1": "3876",
+    "photo_2": "3875",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

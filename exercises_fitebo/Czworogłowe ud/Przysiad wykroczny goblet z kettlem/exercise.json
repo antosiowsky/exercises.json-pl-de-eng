@@ -1,0 +1,26 @@
+{
+  "id": "1551",
+  "name_pl": "Przysiad wykroczny goblet z kettlem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5511",
+    "5512"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny goblet z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1551",
+    "iso": false,
+    "photo_1": "5511",
+    "photo_2": "5512",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

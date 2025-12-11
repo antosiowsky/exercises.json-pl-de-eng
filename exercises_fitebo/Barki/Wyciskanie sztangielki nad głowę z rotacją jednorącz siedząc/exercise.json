@@ -1,0 +1,26 @@
+{
+  "id": "1821",
+  "name_pl": "Wyciskanie sztangielki nad głowę z rotacją jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4549",
+    "4550"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielki nad głowę z rotacją jednorącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1821",
+    "iso": false,
+    "photo_1": "4549",
+    "photo_2": "4550",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

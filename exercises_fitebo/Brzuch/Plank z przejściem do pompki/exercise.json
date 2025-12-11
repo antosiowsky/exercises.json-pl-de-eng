@@ -1,0 +1,27 @@
+{
+  "id": "5",
+  "name_pl": "Plank z przejściem do pompki",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2877",
+    "2876",
+    "2875"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Plank z przejściem do pompki",
+    "gym": false,
+    "home": true,
+    "id": "5",
+    "iso": false,
+    "photo_1": "2877",
+    "photo_2": "2876",
+    "photo_3": "2875",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

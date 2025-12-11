@@ -1,0 +1,26 @@
+{
+  "id": "1039",
+  "name_pl": "Wznosy bioder z gumą (mini band) nad kolanami ze stopami na podwyższeniu w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5228",
+    "5229"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z gumą (mini band) nad kolanami ze stopami na podwyższeniu w oparciu o ławkę",
+    "gym": false,
+    "home": true,
+    "id": "1039",
+    "iso": false,
+    "photo_1": "5228",
+    "photo_2": "5229",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

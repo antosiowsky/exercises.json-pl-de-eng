@@ -1,0 +1,26 @@
+{
+  "id": "126",
+  "name_pl": "Rąbanie drewna z gumą od góry do dołu (Wood Chop)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3666",
+    "3668"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rąbanie drewna z gumą od góry do dołu (Wood Chop)",
+    "gym": false,
+    "home": true,
+    "id": "126",
+    "iso": false,
+    "photo_1": "3666",
+    "photo_2": "3668",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

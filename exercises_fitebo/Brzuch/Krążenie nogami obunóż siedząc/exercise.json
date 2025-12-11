@@ -1,0 +1,27 @@
+{
+  "id": "256",
+  "name_pl": "Krążenie nogami obunóż siedząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3152",
+    "3153",
+    "3154"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Krążenie nogami obunóż siedząc",
+    "gym": false,
+    "home": true,
+    "id": "256",
+    "iso": true,
+    "photo_1": "3152",
+    "photo_2": "3153",
+    "photo_3": "3154",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

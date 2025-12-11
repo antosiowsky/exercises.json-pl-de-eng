@@ -1,0 +1,26 @@
+{
+  "id": "1776",
+  "name_pl": "Wyciskanie żołnierskie sztangi stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4431",
+    "4432"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie żołnierskie sztangi stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1776",
+    "iso": false,
+    "photo_1": "4431",
+    "photo_2": "4432",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

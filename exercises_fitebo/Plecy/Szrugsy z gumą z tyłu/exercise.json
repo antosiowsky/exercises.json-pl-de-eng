@@ -1,0 +1,26 @@
+{
+  "id": "440",
+  "name_pl": "Szrugsy z gumą z tyłu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3279",
+    "3280"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy z gumą z tyłu",
+    "gym": false,
+    "home": true,
+    "id": "440",
+    "iso": true,
+    "photo_1": "3279",
+    "photo_2": "3280",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

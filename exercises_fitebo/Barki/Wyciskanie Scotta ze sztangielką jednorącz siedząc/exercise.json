@@ -1,0 +1,26 @@
+{
+  "id": "1881",
+  "name_pl": "Wyciskanie Scotta ze sztangielką jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4547",
+    "4548"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie Scotta ze sztangielką jednorącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1881",
+    "iso": false,
+    "photo_1": "4547",
+    "photo_2": "4548",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1559",
+  "name_pl": "Przysiad wykroczny z ramionami nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9311",
+    "9312"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny z ramionami nad głową",
+    "gym": false,
+    "home": true,
+    "id": "1559",
+    "iso": false,
+    "photo_1": "9311",
+    "photo_2": "9312",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1404",
+  "name_pl": "Ślizganie naprzemienne nóg na piętach pod pośladki leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6151",
+    "6153",
+    "6151",
+    "6154"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ślizganie naprzemienne nóg na piętach pod pośladki leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1404",
+    "iso": true,
+    "photo_1": "6151",
+    "photo_2": "6153",
+    "photo_3": "6151",
+    "photo_4": "6154",
+    "stat": false,
+    "use": false
+  }
+}

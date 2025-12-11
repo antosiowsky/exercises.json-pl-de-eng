@@ -1,0 +1,26 @@
+{
+  "id": "544",
+  "name_pl": "Uginanie ramion na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6890",
+    "6891"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "544",
+    "iso": true,
+    "photo_1": "6890",
+    "photo_2": "6891",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

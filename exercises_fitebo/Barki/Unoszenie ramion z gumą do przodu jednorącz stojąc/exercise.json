@@ -1,0 +1,26 @@
+{
+  "id": "1904",
+  "name_pl": "Unoszenie ramion z gumą do przodu jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4694",
+    "4695"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z gumą do przodu jednorącz stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1904",
+    "iso": true,
+    "photo_1": "4694",
+    "photo_2": "4695",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2003",
+  "name_pl": "Wiosłowanie półsztangą szeroko jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9162",
+    "9161"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie półsztangą szeroko jednorącz w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "2003",
+    "iso": false,
+    "photo_1": "9162",
+    "photo_2": "9161",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "16",
+  "name_pl": "Plank z rotacją bioder",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2899",
+    "2905",
+    "2906"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z rotacją bioder",
+    "gym": false,
+    "home": true,
+    "id": "16",
+    "iso": false,
+    "photo_1": "2899",
+    "photo_2": "2905",
+    "photo_3": "2906",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

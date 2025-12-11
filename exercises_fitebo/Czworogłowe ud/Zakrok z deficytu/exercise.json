@@ -1,0 +1,26 @@
+{
+  "id": "1507",
+  "name_pl": "Zakrok z deficytu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5576",
+    "5577"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z deficytu",
+    "gym": false,
+    "home": true,
+    "id": "1507",
+    "iso": false,
+    "photo_1": "5576",
+    "photo_2": "5577",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "128",
+  "name_pl": "Wycieraczki ze zgiętymi nogami leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2981",
+    "2979",
+    "2980"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wycieraczki ze zgiętymi nogami leżąc",
+    "gym": false,
+    "home": true,
+    "id": "128",
+    "iso": true,
+    "photo_1": "2981",
+    "photo_2": "2979",
+    "photo_3": "2980",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

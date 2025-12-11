@@ -1,0 +1,26 @@
+{
+  "id": "76",
+  "name_pl": "Skręt tułowia ze sztangą stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2578",
+    "2579"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skręt tułowia ze sztangą stojąc",
+    "gym": false,
+    "home": true,
+    "id": "76",
+    "iso": true,
+    "photo_1": "2578",
+    "photo_2": "2579",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

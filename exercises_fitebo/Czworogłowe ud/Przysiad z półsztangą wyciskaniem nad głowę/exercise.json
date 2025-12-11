@@ -1,0 +1,27 @@
+{
+  "id": "1436",
+  "name_pl": "Przysiad z półsztangą wyciskaniem nad głowę",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7731",
+    "7732",
+    "7733"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z półsztangą wyciskaniem nad głowę",
+    "gym": true,
+    "home": false,
+    "id": "1436",
+    "iso": false,
+    "photo_1": "7731",
+    "photo_2": "7732",
+    "photo_3": "7733",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

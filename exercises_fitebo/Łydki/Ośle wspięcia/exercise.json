@@ -1,0 +1,26 @@
+{
+  "id": "611",
+  "name_pl": "Ośle wspięcia",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "6471",
+    "6472"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ośle wspięcia",
+    "gym": false,
+    "home": true,
+    "id": "611",
+    "iso": true,
+    "photo_1": "6471",
+    "photo_2": "6472",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

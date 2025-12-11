@@ -1,0 +1,26 @@
+{
+  "id": "140",
+  "name_pl": "Spięcie odwrotne z piłką lekarską (Reverse Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2990",
+    "2991"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie odwrotne z piłką lekarską (Reverse Crunch)",
+    "gym": true,
+    "home": false,
+    "id": "140",
+    "iso": true,
+    "photo_1": "2990",
+    "photo_2": "2991",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

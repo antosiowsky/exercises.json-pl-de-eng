@@ -1,0 +1,26 @@
+{
+  "id": "1071",
+  "name_pl": "Odwodzenie prostej nogi do tyłu z gumą stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9563",
+    "9565"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do tyłu z gumą stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1071",
+    "iso": true,
+    "photo_1": "9563",
+    "photo_2": "9565",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

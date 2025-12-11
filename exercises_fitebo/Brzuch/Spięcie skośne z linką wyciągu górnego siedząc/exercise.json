@@ -1,0 +1,26 @@
+{
+  "id": "64",
+  "name_pl": "Spięcie skośne z linką wyciągu górnego siedząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "9469",
+    "9471"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie skośne z linką wyciągu górnego siedząc",
+    "gym": true,
+    "home": false,
+    "id": "64",
+    "iso": true,
+    "photo_1": "9469",
+    "photo_2": "9471",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

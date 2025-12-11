@@ -1,0 +1,26 @@
+{
+  "id": "1644",
+  "name_pl": "Przysiad z ramionami na biodrach jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5847",
+    "5846"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z ramionami na biodrach jednonóż (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1644",
+    "iso": false,
+    "photo_1": "5847",
+    "photo_2": "5846",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

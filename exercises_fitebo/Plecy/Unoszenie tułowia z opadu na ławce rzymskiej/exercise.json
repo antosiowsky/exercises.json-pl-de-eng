@@ -1,0 +1,26 @@
+{
+  "id": "459",
+  "name_pl": "Unoszenie tułowia z opadu na ławce rzymskiej",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "5247",
+    "5248"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z opadu na ławce rzymskiej",
+    "gym": true,
+    "home": false,
+    "id": "459",
+    "iso": true,
+    "photo_1": "5247",
+    "photo_2": "5248",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

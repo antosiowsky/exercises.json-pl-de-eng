@@ -1,0 +1,27 @@
+{
+  "id": "565",
+  "name_pl": "Uginanie ramion z wyciskaniem ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3498",
+    "3499",
+    "3500"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uginanie ramion z wyciskaniem ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "565",
+    "iso": false,
+    "photo_1": "3498",
+    "photo_2": "3499",
+    "photo_3": "3500",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

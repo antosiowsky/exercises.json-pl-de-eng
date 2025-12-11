@@ -1,0 +1,26 @@
+{
+  "id": "2062",
+  "name_pl": "Pompka szwedzka na poręczach",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "6662",
+    "6663"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na poręczach",
+    "gym": true,
+    "home": false,
+    "id": "2062",
+    "iso": false,
+    "photo_1": "6662",
+    "photo_2": "6663",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

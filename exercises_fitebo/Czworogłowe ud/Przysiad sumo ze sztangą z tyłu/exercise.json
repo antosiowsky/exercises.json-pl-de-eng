@@ -1,0 +1,26 @@
+{
+  "id": "1667",
+  "name_pl": "Przysiad sumo ze sztangą z tyłu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7279",
+    "7281"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo ze sztangą z tyłu",
+    "gym": true,
+    "home": false,
+    "id": "1667",
+    "iso": false,
+    "photo_1": "7279",
+    "photo_2": "7281",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

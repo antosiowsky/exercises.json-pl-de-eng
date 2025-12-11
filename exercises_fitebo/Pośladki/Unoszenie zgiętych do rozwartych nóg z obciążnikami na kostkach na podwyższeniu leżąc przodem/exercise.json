@@ -1,0 +1,26 @@
+{
+  "id": "1141",
+  "name_pl": "Unoszenie zgiętych do rozwartych nóg z obciążnikami na kostkach na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7594",
+    "7606"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych do rozwartych nóg z obciążnikami na kostkach na podwyższeniu leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1141",
+    "iso": true,
+    "photo_1": "7594",
+    "photo_2": "7606",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

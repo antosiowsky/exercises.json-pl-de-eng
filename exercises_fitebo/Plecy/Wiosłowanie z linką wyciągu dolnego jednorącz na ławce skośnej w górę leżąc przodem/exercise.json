@@ -1,0 +1,26 @@
+{
+  "id": "384",
+  "name_pl": "Wiosłowanie z linką wyciągu dolnego jednorącz na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8934",
+    "8935"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu dolnego jednorącz na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "384",
+    "iso": false,
+    "photo_1": "8934",
+    "photo_2": "8935",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

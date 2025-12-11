@@ -1,0 +1,27 @@
+{
+  "id": "1875",
+  "name_pl": "Arnoldki naprzemienne ze sztangielkami siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4515",
+    "4517",
+    "4518"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Arnoldki naprzemienne ze sztangielkami siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1875",
+    "iso": false,
+    "photo_1": "4515",
+    "photo_2": "4517",
+    "photo_3": "4518",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

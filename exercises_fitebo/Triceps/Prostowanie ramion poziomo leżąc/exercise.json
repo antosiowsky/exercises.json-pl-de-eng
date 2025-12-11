@@ -1,0 +1,26 @@
+{
+  "id": "2100",
+  "name_pl": "Prostowanie ramion poziomo leżąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4964",
+    "4965"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion poziomo leżąc",
+    "gym": true,
+    "home": false,
+    "id": "2100",
+    "iso": true,
+    "photo_1": "4964",
+    "photo_2": "4965",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

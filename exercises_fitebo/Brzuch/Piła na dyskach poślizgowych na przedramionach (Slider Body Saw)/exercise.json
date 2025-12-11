@@ -1,0 +1,26 @@
+{
+  "id": "169",
+  "name_pl": "Piła na dyskach poślizgowych na przedramionach (Slider Body Saw)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2715",
+    "2716"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Piła na dyskach poślizgowych na przedramionach (Slider Body Saw)",
+    "gym": false,
+    "home": true,
+    "id": "169",
+    "iso": true,
+    "photo_1": "2715",
+    "photo_2": "2716",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

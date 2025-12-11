@@ -1,0 +1,28 @@
+{
+  "id": "988",
+  "name_pl": "Zarzut sztangi ze zwisu (Barbell Hang Clean)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8393",
+    "8396-8401",
+    "8403",
+    "8401"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zarzut sztangi ze zwisu (Barbell Hang Clean)",
+    "gym": true,
+    "home": false,
+    "id": "988",
+    "iso": false,
+    "photo_1": "8393",
+    "photo_2": "8396-8401",
+    "photo_3": "8403",
+    "photo_4": "8401",
+    "stat": false,
+    "use": false
+  }
+}

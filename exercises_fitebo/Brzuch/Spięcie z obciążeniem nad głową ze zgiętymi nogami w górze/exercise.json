@@ -1,0 +1,26 @@
+{
+  "id": "93",
+  "name_pl": "Spięcie z obciążeniem nad głową ze zgiętymi nogami w górze",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2764",
+    "2765"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z obciążeniem nad głową ze zgiętymi nogami w górze",
+    "gym": false,
+    "home": true,
+    "id": "93",
+    "iso": true,
+    "photo_1": "2764",
+    "photo_2": "2765",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1946",
+  "name_pl": "Unoszenie ramion ze sztangielkami do boku siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5091",
+    "5092"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielkami do boku siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1946",
+    "iso": true,
+    "photo_1": "5091",
+    "photo_2": "5092",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

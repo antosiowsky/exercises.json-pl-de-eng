@@ -1,0 +1,26 @@
+{
+  "id": "2058",
+  "name_pl": "Pompka szczupak (Pike Push Up)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4714",
+    "4715"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szczupak (Pike Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "2058",
+    "iso": false,
+    "photo_1": "4714",
+    "photo_2": "4715",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

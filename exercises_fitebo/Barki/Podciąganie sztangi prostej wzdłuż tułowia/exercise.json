@@ -1,0 +1,26 @@
+{
+  "id": "2018",
+  "name_pl": "Podciąganie sztangi prostej wzdłuż tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4708",
+    "4709"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangi prostej wzdłuż tułowia",
+    "gym": true,
+    "home": false,
+    "id": "2018",
+    "iso": false,
+    "photo_1": "4708",
+    "photo_2": "4709",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

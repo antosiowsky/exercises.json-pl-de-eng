@@ -1,0 +1,26 @@
+{
+  "id": "1827",
+  "name_pl": "Wyciskanie kettla nad głowę z rotacją jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4568",
+    "4569"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kettla nad głowę z rotacją jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1827",
+    "iso": false,
+    "photo_1": "4568",
+    "photo_2": "4569",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

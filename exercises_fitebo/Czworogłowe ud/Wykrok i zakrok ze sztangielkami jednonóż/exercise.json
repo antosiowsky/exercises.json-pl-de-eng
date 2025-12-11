@@ -1,0 +1,27 @@
+{
+  "id": "1448",
+  "name_pl": "Wykrok i zakrok ze sztangielkami jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5416",
+    "5417",
+    "5418"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok ze sztangielkami jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1448",
+    "iso": false,
+    "photo_1": "5416",
+    "photo_2": "5417",
+    "photo_3": "5418",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

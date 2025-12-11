@@ -1,0 +1,26 @@
+{
+  "id": "1030",
+  "name_pl": "Wznosy bioder na suwnicy Smitha jednonóż w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8703",
+    "8704"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder na suwnicy Smitha jednonóż w oparciu o ławkę",
+    "gym": true,
+    "home": false,
+    "id": "1030",
+    "iso": false,
+    "photo_1": "8703",
+    "photo_2": "8704",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

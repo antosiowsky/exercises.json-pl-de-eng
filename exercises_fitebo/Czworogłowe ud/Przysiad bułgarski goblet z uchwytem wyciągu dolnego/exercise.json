@@ -1,0 +1,26 @@
+{
+  "id": "1575",
+  "name_pl": "Przysiad bułgarski goblet z uchwytem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8912",
+    "8913"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski goblet z uchwytem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1575",
+    "iso": false,
+    "photo_1": "8912",
+    "photo_2": "8913",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

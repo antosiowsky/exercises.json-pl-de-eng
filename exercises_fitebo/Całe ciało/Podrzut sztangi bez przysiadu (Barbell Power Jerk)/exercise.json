@@ -1,0 +1,28 @@
+{
+  "id": "982",
+  "name_pl": "Podrzut sztangi bez przysiadu (Barbell Power Jerk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8375",
+    "8376-8380",
+    "8381",
+    "8382"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podrzut sztangi bez przysiadu (Barbell Power Jerk)",
+    "gym": true,
+    "home": false,
+    "id": "982",
+    "iso": false,
+    "photo_1": "8375",
+    "photo_2": "8376-8380",
+    "photo_3": "8381",
+    "photo_4": "8382",
+    "stat": false,
+    "use": false
+  }
+}

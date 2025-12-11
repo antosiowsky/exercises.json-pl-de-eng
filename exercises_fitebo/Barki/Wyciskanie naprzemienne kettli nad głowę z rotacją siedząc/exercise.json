@@ -1,0 +1,27 @@
+{
+  "id": "1826",
+  "name_pl": "Wyciskanie naprzemienne kettli nad głowę z rotacją siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4559",
+    "4562",
+    "4563"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne kettli nad głowę z rotacją siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1826",
+    "iso": false,
+    "photo_1": "4559",
+    "photo_2": "4562",
+    "photo_3": "4563",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

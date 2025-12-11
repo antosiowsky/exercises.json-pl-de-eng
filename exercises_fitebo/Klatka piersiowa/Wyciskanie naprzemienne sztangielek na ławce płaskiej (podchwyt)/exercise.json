@@ -1,0 +1,27 @@
+{
+  "id": "645",
+  "name_pl": "Wyciskanie naprzemienne sztangielek na ławce płaskiej (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3825",
+    "3827",
+    "3828"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne sztangielek na ławce płaskiej (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "645",
+    "iso": false,
+    "photo_1": "3825",
+    "photo_2": "3827",
+    "photo_3": "3828",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

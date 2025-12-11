@@ -1,0 +1,26 @@
+{
+  "id": "1782",
+  "name_pl": "Wyciskanie sztangi nad głowę stojąc (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4436",
+    "4437"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi nad głowę stojąc (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "1782",
+    "iso": false,
+    "photo_1": "4436",
+    "photo_2": "4437",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

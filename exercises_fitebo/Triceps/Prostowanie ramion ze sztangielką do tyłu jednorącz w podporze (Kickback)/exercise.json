@@ -1,0 +1,26 @@
+{
+  "id": "2178",
+  "name_pl": "Prostowanie ramion ze sztangielką do tyłu jednorącz w podporze (Kickback)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "9752",
+    "9753"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion ze sztangielką do tyłu jednorącz w podporze (Kickback)",
+    "gym": false,
+    "home": true,
+    "id": "2178",
+    "iso": true,
+    "photo_1": "9752",
+    "photo_2": "9753",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1549",
+  "name_pl": "Przysiad wykroczny ze sztangielką (ipsilateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5507",
+    "5508"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny ze sztangielką (ipsilateralnie)",
+    "gym": false,
+    "home": true,
+    "id": "1549",
+    "iso": false,
+    "photo_1": "5507",
+    "photo_2": "5508",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

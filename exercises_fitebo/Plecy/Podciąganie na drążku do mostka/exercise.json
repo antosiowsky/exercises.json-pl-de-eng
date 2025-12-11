@@ -1,0 +1,26 @@
+{
+  "id": "271",
+  "name_pl": "Podciąganie na drążku do mostka",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9019",
+    "9021"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie na drążku do mostka",
+    "gym": true,
+    "home": false,
+    "id": "271",
+    "iso": false,
+    "photo_1": "9019",
+    "photo_2": "9021",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

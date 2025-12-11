@@ -1,0 +1,26 @@
+{
+  "id": "143",
+  "name_pl": "Unoszenie kolan z rotacją tułowia w podporze na poręczach",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2818",
+    "2822"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie kolan z rotacją tułowia w podporze na poręczach",
+    "gym": true,
+    "home": false,
+    "id": "143",
+    "iso": true,
+    "photo_1": "2818",
+    "photo_2": "2822",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

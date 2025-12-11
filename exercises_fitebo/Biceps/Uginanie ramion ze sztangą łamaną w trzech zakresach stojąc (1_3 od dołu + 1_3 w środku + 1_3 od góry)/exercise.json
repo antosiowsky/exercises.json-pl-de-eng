@@ -1,0 +1,27 @@
+{
+  "id": "518",
+  "name_pl": "Uginanie ramion ze sztangą łamaną w trzech zakresach stojąc (1/3 od dołu + 1/3 w środku + 1/3 od góry)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3436",
+    "3438",
+    "3437"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą łamaną w trzech zakresach stojąc (1/3 od dołu + 1/3 w środku + 1/3 od góry)",
+    "gym": true,
+    "home": false,
+    "id": "518",
+    "iso": true,
+    "photo_1": "3436",
+    "photo_2": "3438",
+    "photo_3": "3437",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

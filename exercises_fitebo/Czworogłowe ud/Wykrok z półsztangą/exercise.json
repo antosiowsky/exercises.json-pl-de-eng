@@ -1,0 +1,26 @@
+{
+  "id": "1467",
+  "name_pl": "Wykrok z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9144",
+    "9145"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1467",
+    "iso": false,
+    "photo_1": "9144",
+    "photo_2": "9145",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

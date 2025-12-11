@@ -1,0 +1,26 @@
+{
+  "id": "1888",
+  "name_pl": "Wyciskanie sztangielek nad głowę w siadzie prostym (Z Press / Savickas Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9382",
+    "9383"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę w siadzie prostym (Z Press / Savickas Press)",
+    "gym": false,
+    "home": true,
+    "id": "1888",
+    "iso": false,
+    "photo_1": "9382",
+    "photo_2": "9383",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1454",
+  "name_pl": "Wykrok i zakrok z deficytu jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5771",
+    "5772"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok z deficytu jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1454",
+    "iso": false,
+    "photo_1": "5771",
+    "photo_2": "5772",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

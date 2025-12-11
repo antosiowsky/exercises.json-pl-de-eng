@@ -1,0 +1,26 @@
+{
+  "id": "1139",
+  "name_pl": "Unoszenie zgiętej nogi z obciążnikiem na kostce leżąc przodem na ławce",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7598",
+    "7599"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi z obciążnikiem na kostce leżąc przodem na ławce",
+    "gym": false,
+    "home": true,
+    "id": "1139",
+    "iso": true,
+    "photo_1": "7598",
+    "photo_2": "7599",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

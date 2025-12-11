@@ -1,0 +1,26 @@
+{
+  "id": "1195",
+  "name_pl": "Odwodzenie prostej nogi z opaską wyciągu dolnego do boku w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8992",
+    "8993"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi z opaską wyciągu dolnego do boku w klęku podpartym",
+    "gym": true,
+    "home": false,
+    "id": "1195",
+    "iso": true,
+    "photo_1": "8992",
+    "photo_2": "8993",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

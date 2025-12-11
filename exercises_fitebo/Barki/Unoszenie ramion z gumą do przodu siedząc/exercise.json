@@ -1,0 +1,26 @@
+{
+  "id": "1914",
+  "name_pl": "Unoszenie ramion z gumą do przodu siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4736",
+    "4737"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z gumą do przodu siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1914",
+    "iso": true,
+    "photo_1": "4736",
+    "photo_2": "4737",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "29",
+  "name_pl": "Plank boczny ze stopami na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3405"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny ze stopami na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "29",
+    "iso": false,
+    "photo_1": "3405",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

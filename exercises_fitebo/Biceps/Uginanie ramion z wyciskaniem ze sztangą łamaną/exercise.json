@@ -1,0 +1,27 @@
+{
+  "id": "564",
+  "name_pl": "Uginanie ramion z wyciskaniem ze sztangą łamaną",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3501",
+    "3502",
+    "3503"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uginanie ramion z wyciskaniem ze sztangą łamaną",
+    "gym": true,
+    "home": false,
+    "id": "564",
+    "iso": false,
+    "photo_1": "3501",
+    "photo_2": "3502",
+    "photo_3": "3503",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

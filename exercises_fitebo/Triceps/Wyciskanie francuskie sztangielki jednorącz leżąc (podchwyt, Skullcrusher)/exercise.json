@@ -1,0 +1,26 @@
+{
+  "id": "2088",
+  "name_pl": "Wyciskanie francuskie sztangielki jednorącz leżąc (podchwyt, Skullcrusher)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "9328",
+    "9329"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangielki jednorącz leżąc (podchwyt, Skullcrusher)",
+    "gym": false,
+    "home": true,
+    "id": "2088",
+    "iso": true,
+    "photo_1": "9328",
+    "photo_2": "9329",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

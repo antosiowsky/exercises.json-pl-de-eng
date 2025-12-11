@@ -1,0 +1,27 @@
+{
+  "id": "1452",
+  "name_pl": "Wykrok i zakrok na TRX jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8473",
+    "8474",
+    "8475"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok na TRX jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1452",
+    "iso": false,
+    "photo_1": "8473",
+    "photo_2": "8474",
+    "photo_3": "8475",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

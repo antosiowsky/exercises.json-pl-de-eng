@@ -1,0 +1,26 @@
+{
+  "id": "383",
+  "name_pl": "Wiosłowanie z linką wyciągu dolnego na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8936",
+    "8937"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu dolnego na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "383",
+    "iso": false,
+    "photo_1": "8936",
+    "photo_2": "8937",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

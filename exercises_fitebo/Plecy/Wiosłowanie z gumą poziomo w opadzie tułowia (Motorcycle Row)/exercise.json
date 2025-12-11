@@ -1,0 +1,26 @@
+{
+  "id": "419",
+  "name_pl": "Wiosłowanie z gumą poziomo w opadzie tułowia (Motorcycle Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "5990",
+    "5991"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą poziomo w opadzie tułowia (Motorcycle Row)",
+    "gym": false,
+    "home": true,
+    "id": "419",
+    "iso": false,
+    "photo_1": "5990",
+    "photo_2": "5991",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

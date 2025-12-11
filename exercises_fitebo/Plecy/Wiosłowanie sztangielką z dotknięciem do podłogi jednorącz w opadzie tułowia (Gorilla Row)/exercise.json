@@ -1,0 +1,26 @@
+{
+  "id": "388",
+  "name_pl": "Wiosłowanie sztangielką z dotknięciem do podłogi jednorącz w opadzie tułowia (Gorilla Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9496",
+    "9497"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką z dotknięciem do podłogi jednorącz w opadzie tułowia (Gorilla Row)",
+    "gym": false,
+    "home": true,
+    "id": "388",
+    "iso": false,
+    "photo_1": "9496",
+    "photo_2": "9497",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1170",
+  "name_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w pochyleniu do przodu siedząc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7837",
+    "7838"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w pochyleniu do przodu siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1170",
+    "iso": true,
+    "photo_1": "7837",
+    "photo_2": "7838",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

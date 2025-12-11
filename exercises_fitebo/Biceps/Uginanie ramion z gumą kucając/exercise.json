@@ -1,0 +1,26 @@
+{
+  "id": "592",
+  "name_pl": "Uginanie ramion z gumą kucając",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3675",
+    "3676"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z gumą kucając",
+    "gym": false,
+    "home": true,
+    "id": "592",
+    "iso": true,
+    "photo_1": "3675",
+    "photo_2": "3676",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

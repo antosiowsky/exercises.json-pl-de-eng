@@ -1,0 +1,26 @@
+{
+  "id": "1687",
+  "name_pl": "Przysiad sumo z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9115",
+    "9116"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1687",
+    "iso": false,
+    "photo_1": "9115",
+    "photo_2": "9116",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

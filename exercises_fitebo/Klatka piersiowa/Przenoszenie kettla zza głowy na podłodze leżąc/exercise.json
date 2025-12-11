@@ -1,0 +1,26 @@
+{
+  "id": "907",
+  "name_pl": "Przenoszenie kettla zza głowy na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4265",
+    "4266"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie kettla zza głowy na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "907",
+    "iso": true,
+    "photo_1": "4265",
+    "photo_2": "4266",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

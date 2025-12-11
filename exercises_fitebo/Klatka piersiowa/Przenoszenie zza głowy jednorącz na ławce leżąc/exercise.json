@@ -1,0 +1,26 @@
+{
+  "id": "899",
+  "name_pl": "Przenoszenie zza głowy jednorącz na ławce leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4222",
+    "4223"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie zza głowy jednorącz na ławce leżąc",
+    "gym": true,
+    "home": false,
+    "id": "899",
+    "iso": true,
+    "photo_1": "4222",
+    "photo_2": "4223",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

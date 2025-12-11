@@ -1,0 +1,26 @@
+{
+  "id": "1103",
+  "name_pl": "Unoszenie tułowia z opadu z ramionami za głową na ławce rzymskiej (dominacja m. pośladkowych)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9097",
+    "9099"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z opadu z ramionami za głową na ławce rzymskiej (dominacja m. pośladkowych)",
+    "gym": true,
+    "home": false,
+    "id": "1103",
+    "iso": true,
+    "photo_1": "9097",
+    "photo_2": "9099",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

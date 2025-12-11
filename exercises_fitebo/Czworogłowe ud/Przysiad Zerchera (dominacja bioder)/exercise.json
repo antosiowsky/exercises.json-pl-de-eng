@@ -1,0 +1,26 @@
+{
+  "id": "1631",
+  "name_pl": "Przysiad Zerchera (dominacja bioder)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7308",
+    "7309"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Zerchera (dominacja bioder)",
+    "gym": true,
+    "home": false,
+    "id": "1631",
+    "iso": false,
+    "photo_1": "7308",
+    "photo_2": "7309",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

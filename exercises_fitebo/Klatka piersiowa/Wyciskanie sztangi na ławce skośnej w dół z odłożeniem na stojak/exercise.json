@@ -1,0 +1,26 @@
+{
+  "id": "633",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej w dół z odłożeniem na stojak",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "8791",
+    "8792"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na ławce skośnej w dół z odłożeniem na stojak",
+    "gym": true,
+    "home": false,
+    "id": "633",
+    "iso": false,
+    "photo_1": "8791",
+    "photo_2": "8792",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

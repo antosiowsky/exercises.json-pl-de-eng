@@ -1,0 +1,26 @@
+{
+  "id": "193",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci na skos na TRX w podporze przodem (TRX Drunken Mountain Climber)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3204",
+    "3205"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci na skos na TRX w podporze przodem (TRX Drunken Mountain Climber)",
+    "gym": false,
+    "home": true,
+    "id": "193",
+    "iso": true,
+    "photo_1": "3204",
+    "photo_2": "3205",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2094",
+  "name_pl": "Wyciskanie francuskie sztangi łamanej na ławce skośnej w dół leżąc (Skullcrusher)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4988",
+    "4989"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangi łamanej na ławce skośnej w dół leżąc (Skullcrusher)",
+    "gym": true,
+    "home": false,
+    "id": "2094",
+    "iso": true,
+    "photo_1": "4988",
+    "photo_2": "4989",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

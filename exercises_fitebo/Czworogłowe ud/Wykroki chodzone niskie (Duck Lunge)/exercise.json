@@ -1,0 +1,27 @@
+{
+  "id": "1541",
+  "name_pl": "Wykroki chodzone niskie (Duck Lunge)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5773",
+    "5775",
+    "5776"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki chodzone niskie (Duck Lunge)",
+    "gym": false,
+    "home": true,
+    "id": "1541",
+    "iso": false,
+    "photo_1": "5773",
+    "photo_2": "5775",
+    "photo_3": "5776",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

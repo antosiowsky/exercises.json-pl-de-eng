@@ -1,0 +1,26 @@
+{
+  "id": "1850",
+  "name_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7007",
+    "7008"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1850",
+    "iso": false,
+    "photo_1": "7007",
+    "photo_2": "7008",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

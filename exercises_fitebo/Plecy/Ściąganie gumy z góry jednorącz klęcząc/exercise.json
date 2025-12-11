@@ -1,0 +1,26 @@
+{
+  "id": "285",
+  "name_pl": "Ściąganie gumy z góry jednorącz klęcząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3652",
+    "3653"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie gumy z góry jednorącz klęcząc",
+    "gym": false,
+    "home": true,
+    "id": "285",
+    "iso": false,
+    "photo_1": "3652",
+    "photo_2": "3653",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

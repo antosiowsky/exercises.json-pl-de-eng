@@ -1,0 +1,26 @@
+{
+  "id": "1183",
+  "name_pl": "Unoszenie prostej nogi ze sztangielką do tyłu sprzed ciała na ławce płaskiej leżąc bokiem (spoza ławki)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8295",
+    "8297"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostej nogi ze sztangielką do tyłu sprzed ciała na ławce płaskiej leżąc bokiem (spoza ławki)",
+    "gym": false,
+    "home": true,
+    "id": "1183",
+    "iso": true,
+    "photo_1": "8295",
+    "photo_2": "8297",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

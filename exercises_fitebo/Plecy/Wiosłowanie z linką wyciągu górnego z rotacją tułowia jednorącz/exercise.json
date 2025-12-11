@@ -1,0 +1,26 @@
+{
+  "id": "425",
+  "name_pl": "Wiosłowanie z linką wyciągu górnego z rotacją tułowia jednorącz",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7437",
+    "7438"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu górnego z rotacją tułowia jednorącz",
+    "gym": true,
+    "home": false,
+    "id": "425",
+    "iso": false,
+    "photo_1": "7437",
+    "photo_2": "7438",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

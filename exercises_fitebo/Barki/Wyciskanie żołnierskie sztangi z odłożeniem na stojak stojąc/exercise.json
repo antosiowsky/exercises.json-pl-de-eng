@@ -1,0 +1,26 @@
+{
+  "id": "1788",
+  "name_pl": "Wyciskanie żołnierskie sztangi z odłożeniem na stojak stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9028",
+    "9029"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie żołnierskie sztangi z odłożeniem na stojak stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1788",
+    "iso": false,
+    "photo_1": "9028",
+    "photo_2": "9029",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

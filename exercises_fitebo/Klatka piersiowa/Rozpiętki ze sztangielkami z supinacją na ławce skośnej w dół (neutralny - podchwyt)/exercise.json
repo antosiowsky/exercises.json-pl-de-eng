@@ -1,0 +1,26 @@
+{
+  "id": "776",
+  "name_pl": "Rozpiętki ze sztangielkami z supinacją na ławce skośnej w dół (neutralny - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3987",
+    "3993"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami z supinacją na ławce skośnej w dół (neutralny - podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "776",
+    "iso": true,
+    "photo_1": "3987",
+    "photo_2": "3993",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

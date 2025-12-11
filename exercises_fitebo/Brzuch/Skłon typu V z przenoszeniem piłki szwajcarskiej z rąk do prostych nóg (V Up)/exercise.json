@@ -1,0 +1,27 @@
+{
+  "id": "242",
+  "name_pl": "Skłon typu V z przenoszeniem piłki szwajcarskiej z rąk do prostych nóg (V Up)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3098",
+    "3099",
+    "3100"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon typu V z przenoszeniem piłki szwajcarskiej z rąk do prostych nóg (V Up)",
+    "gym": true,
+    "home": false,
+    "id": "242",
+    "iso": true,
+    "photo_1": "3098",
+    "photo_2": "3099",
+    "photo_3": "3100",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

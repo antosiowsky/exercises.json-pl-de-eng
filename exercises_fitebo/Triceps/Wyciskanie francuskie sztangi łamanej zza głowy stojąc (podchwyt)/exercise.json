@@ -1,0 +1,26 @@
+{
+  "id": "2111",
+  "name_pl": "Wyciskanie francuskie sztangi łamanej zza głowy stojąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5066",
+    "5067"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangi łamanej zza głowy stojąc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2111",
+    "iso": true,
+    "photo_1": "5066",
+    "photo_2": "5067",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

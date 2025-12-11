@@ -1,0 +1,27 @@
+{
+  "id": "2193",
+  "name_pl": "Martwy ciąg rwaniowy",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "5622",
+    "5623",
+    "5624"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg rwaniowy",
+    "gym": true,
+    "home": false,
+    "id": "2193",
+    "iso": false,
+    "photo_1": "5622",
+    "photo_2": "5623",
+    "photo_3": "5624",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

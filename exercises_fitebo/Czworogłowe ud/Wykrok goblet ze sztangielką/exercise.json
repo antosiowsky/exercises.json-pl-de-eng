@@ -1,0 +1,26 @@
+{
+  "id": "1461",
+  "name_pl": "Wykrok goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5419",
+    "5420"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1461",
+    "iso": false,
+    "photo_1": "5419",
+    "photo_2": "5420",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

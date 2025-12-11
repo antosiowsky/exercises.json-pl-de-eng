@@ -1,0 +1,26 @@
+{
+  "id": "1428",
+  "name_pl": "Swing z kettlem jednorącz z tylną nogą asekurującą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6174",
+    "6175"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Swing z kettlem jednorącz z tylną nogą asekurującą",
+    "gym": true,
+    "home": false,
+    "id": "1428",
+    "iso": false,
+    "photo_1": "6174",
+    "photo_2": "6175",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

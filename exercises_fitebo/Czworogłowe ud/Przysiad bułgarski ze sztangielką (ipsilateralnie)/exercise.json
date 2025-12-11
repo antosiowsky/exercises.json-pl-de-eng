@@ -1,0 +1,26 @@
+{
+  "id": "1570",
+  "name_pl": "Przysiad bułgarski ze sztangielką (ipsilateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9305",
+    "9306"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski ze sztangielką (ipsilateralnie)",
+    "gym": false,
+    "home": true,
+    "id": "1570",
+    "iso": false,
+    "photo_1": "9305",
+    "photo_2": "9306",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "675",
+  "name_pl": "Wyciskanie sztangielek z rotacją jednorącz na ławce płaskiej (neutralny - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3831",
+    "3830"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją jednorącz na ławce płaskiej (neutralny - nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "675",
+    "iso": false,
+    "photo_1": "3831",
+    "photo_2": "3830",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

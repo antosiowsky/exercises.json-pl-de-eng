@@ -1,0 +1,26 @@
+{
+  "id": "741",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha z odłożeniem na blokady na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "7045",
+    "7044"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha z odłożeniem na blokady na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "741",
+    "iso": false,
+    "photo_1": "7045",
+    "photo_2": "7044",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

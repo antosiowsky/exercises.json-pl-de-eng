@@ -1,0 +1,26 @@
+{
+  "id": "279",
+  "name_pl": "Ściąganie uchwytu typu V wyciągu górnego do klatki (wąski chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4758",
+    "4759"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu typu V wyciągu górnego do klatki (wąski chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "279",
+    "iso": false,
+    "photo_1": "4758",
+    "photo_2": "4759",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1654",
+  "name_pl": "Przysiad na TRX jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8482",
+    "8483"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad na TRX jednonóż (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1654",
+    "iso": false,
+    "photo_1": "8482",
+    "photo_2": "8483",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

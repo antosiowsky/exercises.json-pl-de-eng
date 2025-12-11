@@ -1,0 +1,26 @@
+{
+  "id": "582",
+  "name_pl": "Podciąganie sztangi na suwnicy Smitha wzdłuż tułowia stojąc (podchwyt, Drag Curl)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "8732",
+    "8733"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangi na suwnicy Smitha wzdłuż tułowia stojąc (podchwyt, Drag Curl)",
+    "gym": true,
+    "home": false,
+    "id": "582",
+    "iso": false,
+    "photo_1": "8732",
+    "photo_2": "8733",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

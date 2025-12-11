@@ -1,0 +1,26 @@
+{
+  "id": "1510",
+  "name_pl": "Zakrok skrzyżny",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5780",
+    "5781"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok skrzyżny",
+    "gym": false,
+    "home": true,
+    "id": "1510",
+    "iso": false,
+    "photo_1": "5780",
+    "photo_2": "5781",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1415",
+  "name_pl": "Opad nordycki do połowy",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8254",
+    "8255"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opad nordycki do połowy",
+    "gym": true,
+    "home": false,
+    "id": "1415",
+    "iso": true,
+    "photo_1": "8254",
+    "photo_2": "8255",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

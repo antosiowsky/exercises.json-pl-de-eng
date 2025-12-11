@@ -1,0 +1,26 @@
+{
+  "id": "1903",
+  "name_pl": "Unoszenie ramion z linką wyciągu dolnego do przodu jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5266",
+    "5267"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z linką wyciągu dolnego do przodu jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1903",
+    "iso": true,
+    "photo_1": "5266",
+    "photo_2": "5267",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

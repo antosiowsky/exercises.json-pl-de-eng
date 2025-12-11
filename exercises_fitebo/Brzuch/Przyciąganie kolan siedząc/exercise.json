@@ -1,0 +1,26 @@
+{
+  "id": "209",
+  "name_pl": "Przyciąganie kolan siedząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2758",
+    "2759"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie kolan siedząc",
+    "gym": false,
+    "home": true,
+    "id": "209",
+    "iso": true,
+    "photo_1": "2758",
+    "photo_2": "2759",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

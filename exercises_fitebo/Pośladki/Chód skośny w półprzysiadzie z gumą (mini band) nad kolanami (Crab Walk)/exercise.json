@@ -1,0 +1,27 @@
+{
+  "id": "1228",
+  "name_pl": "Chód skośny w półprzysiadzie z gumą (mini band) nad kolanami (Crab Walk)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6837",
+    "6838",
+    "6840"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Chód skośny w półprzysiadzie z gumą (mini band) nad kolanami (Crab Walk)",
+    "gym": false,
+    "home": true,
+    "id": "1228",
+    "iso": true,
+    "photo_1": "6837",
+    "photo_2": "6838",
+    "photo_3": "6840",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

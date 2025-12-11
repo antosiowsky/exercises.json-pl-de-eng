@@ -1,0 +1,26 @@
+{
+  "id": "921",
+  "name_pl": "Uginanie nadgarstków ze sztangą siedząc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "4293",
+    "4294"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków ze sztangą siedząc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "921",
+    "iso": true,
+    "photo_1": "4293",
+    "photo_2": "4294",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "300",
+  "name_pl": "Ściąganie uchwytu wyciągu górnego do klatki (szeroki chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4779",
+    "4780"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu wyciągu górnego do klatki (szeroki chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "300",
+    "iso": false,
+    "photo_1": "4779",
+    "photo_2": "4780",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

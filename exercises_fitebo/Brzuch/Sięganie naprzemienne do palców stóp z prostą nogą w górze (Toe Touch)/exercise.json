@@ -1,0 +1,26 @@
+{
+  "id": "104",
+  "name_pl": "Sięganie naprzemienne do palców stóp z prostą nogą w górze (Toe Touch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2961",
+    "2962"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Sięganie naprzemienne do palców stóp z prostą nogą w górze (Toe Touch)",
+    "gym": false,
+    "home": true,
+    "id": "104",
+    "iso": true,
+    "photo_1": "2961",
+    "photo_2": "2962",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

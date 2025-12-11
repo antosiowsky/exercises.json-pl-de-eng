@@ -1,0 +1,26 @@
+{
+  "id": "1058",
+  "name_pl": "Unoszenie zgiętej nogi w górę w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7100",
+    "7101"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1058",
+    "iso": true,
+    "photo_1": "7100",
+    "photo_2": "7101",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

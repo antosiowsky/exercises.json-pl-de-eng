@@ -1,0 +1,26 @@
+{
+  "id": "844",
+  "name_pl": "Rozpiętki z kettlem jednorącz na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4056",
+    "4055"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki z kettlem jednorącz na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "844",
+    "iso": false,
+    "photo_1": "4056",
+    "photo_2": "4055",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

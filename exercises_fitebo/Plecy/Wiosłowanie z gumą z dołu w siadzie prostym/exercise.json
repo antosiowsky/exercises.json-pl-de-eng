@@ -1,0 +1,26 @@
+{
+  "id": "351",
+  "name_pl": "Wiosłowanie z gumą z dołu w siadzie prostym",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3688",
+    "3689"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą z dołu w siadzie prostym",
+    "gym": false,
+    "home": true,
+    "id": "351",
+    "iso": false,
+    "photo_1": "3688",
+    "photo_2": "3689",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

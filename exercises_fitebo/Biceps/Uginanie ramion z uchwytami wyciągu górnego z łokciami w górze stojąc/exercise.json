@@ -1,0 +1,26 @@
+{
+  "id": "540",
+  "name_pl": "Uginanie ramion z uchwytami wyciągu górnego z łokciami w górze stojąc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "5367",
+    "5368"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z uchwytami wyciągu górnego z łokciami w górze stojąc",
+    "gym": true,
+    "home": false,
+    "id": "540",
+    "iso": true,
+    "photo_1": "5367",
+    "photo_2": "5368",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1870",
+  "name_pl": "Arnoldki ze sztangielkami stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4498",
+    "4499"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Arnoldki ze sztangielkami stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1870",
+    "iso": false,
+    "photo_1": "4498",
+    "photo_2": "4499",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1612",
+  "name_pl": "Przysiad kolarski (Cyclist Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6329",
+    "6330"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kolarski (Cyclist Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1612",
+    "iso": false,
+    "photo_1": "6329",
+    "photo_2": "6330",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

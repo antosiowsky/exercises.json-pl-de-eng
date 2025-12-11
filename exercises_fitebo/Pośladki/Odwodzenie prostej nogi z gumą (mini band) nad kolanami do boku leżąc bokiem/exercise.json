@@ -1,0 +1,26 @@
+{
+  "id": "1179",
+  "name_pl": "Odwodzenie prostej nogi z gumą (mini band) nad kolanami do boku leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7197",
+    "7198"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi z gumą (mini band) nad kolanami do boku leżąc bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1179",
+    "iso": true,
+    "photo_1": "7197",
+    "photo_2": "7198",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

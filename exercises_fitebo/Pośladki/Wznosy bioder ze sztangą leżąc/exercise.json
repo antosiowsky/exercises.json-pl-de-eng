@@ -1,0 +1,26 @@
+{
+  "id": "999",
+  "name_pl": "Wznosy bioder ze sztangą leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5683",
+    "5684"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze sztangą leżąc",
+    "gym": true,
+    "home": false,
+    "id": "999",
+    "iso": false,
+    "photo_1": "5683",
+    "photo_2": "5684",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

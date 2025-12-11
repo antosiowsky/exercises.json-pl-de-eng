@@ -1,0 +1,26 @@
+{
+  "id": "420",
+  "name_pl": "Wiosłowanie sztangielką jednorącz w podporze na BOSU",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3371",
+    "3372"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką jednorącz w podporze na BOSU",
+    "gym": true,
+    "home": false,
+    "id": "420",
+    "iso": false,
+    "photo_1": "3371",
+    "photo_2": "3372",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

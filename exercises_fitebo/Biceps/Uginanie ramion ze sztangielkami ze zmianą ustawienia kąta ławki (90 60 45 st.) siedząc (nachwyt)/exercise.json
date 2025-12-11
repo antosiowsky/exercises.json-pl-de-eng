@@ -1,0 +1,27 @@
+{
+  "id": "570",
+  "name_pl": "Uginanie ramion ze sztangielkami ze zmianą ustawienia kąta ławki (90 60 45 st.) siedząc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3547-3548",
+    "3554-3555",
+    "3560"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami ze zmianą ustawienia kąta ławki (90 60 45 st.) siedząc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "570",
+    "iso": true,
+    "photo_1": "3547-3548",
+    "photo_2": "3554-3555",
+    "photo_3": "3560",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

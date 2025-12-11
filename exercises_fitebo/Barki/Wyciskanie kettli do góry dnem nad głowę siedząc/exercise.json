@@ -1,0 +1,26 @@
+{
+  "id": "1811",
+  "name_pl": "Wyciskanie kettli do góry dnem nad głowę siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4551",
+    "4552"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kettli do góry dnem nad głowę siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1811",
+    "iso": false,
+    "photo_1": "4551",
+    "photo_2": "4552",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

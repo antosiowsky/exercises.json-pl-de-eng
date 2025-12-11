@@ -1,0 +1,26 @@
+{
+  "id": "2117",
+  "name_pl": "Wyciskanie francuskie sztangielki zza głowy jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5034",
+    "5036"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangielki zza głowy jednorącz stojąc",
+    "gym": false,
+    "home": true,
+    "id": "2117",
+    "iso": true,
+    "photo_1": "5034",
+    "photo_2": "5036",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

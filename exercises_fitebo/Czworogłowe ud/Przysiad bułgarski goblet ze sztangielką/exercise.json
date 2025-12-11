@@ -1,0 +1,26 @@
+{
+  "id": "1568",
+  "name_pl": "Przysiad bułgarski goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9300",
+    "9301"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1568",
+    "iso": false,
+    "photo_1": "9300",
+    "photo_2": "9301",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

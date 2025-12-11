@@ -1,0 +1,26 @@
+{
+  "id": "1650",
+  "name_pl": "Przysiad z kettlami jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5862",
+    "5863"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z kettlami jednonóż (Pistol Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1650",
+    "iso": false,
+    "photo_1": "5862",
+    "photo_2": "5863",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

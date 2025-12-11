@@ -1,0 +1,26 @@
+{
+  "id": "702",
+  "name_pl": "Wyciskanie sztangielek z rotacją 180 st. na podłodze leżąc (podchwyt - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4037",
+    "4028"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją 180 st. na podłodze leżąc (podchwyt - nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "702",
+    "iso": false,
+    "photo_1": "4037",
+    "photo_2": "4028",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

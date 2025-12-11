@@ -1,0 +1,26 @@
+{
+  "id": "306",
+  "name_pl": "Ściąganie gumy z góry na prostych ramionach w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3639",
+    "3641"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie gumy z góry na prostych ramionach w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "306",
+    "iso": true,
+    "photo_1": "3639",
+    "photo_2": "3641",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

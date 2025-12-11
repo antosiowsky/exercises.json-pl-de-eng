@@ -1,0 +1,26 @@
+{
+  "id": "181",
+  "name_pl": "Przyciąganie kolan na TRX w podporze przodem na rękach (TRX Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3228",
+    "3229"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie kolan na TRX w podporze przodem na rękach (TRX Crunch)",
+    "gym": false,
+    "home": true,
+    "id": "181",
+    "iso": true,
+    "photo_1": "3228",
+    "photo_2": "3229",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

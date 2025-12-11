@@ -1,0 +1,26 @@
+{
+  "id": "2162",
+  "name_pl": "Prostowanie ramion z linką wyciągu górnego jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7503",
+    "7504"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu górnego jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "2162",
+    "iso": true,
+    "photo_1": "7503",
+    "photo_2": "7504",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

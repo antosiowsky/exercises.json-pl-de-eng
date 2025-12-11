@@ -1,0 +1,26 @@
+{
+  "id": "202",
+  "name_pl": "Unoszenie bioder z prostymi nogami w podporze przodem na rękach (TRX Pike)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3230",
+    "3231"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie bioder z prostymi nogami w podporze przodem na rękach (TRX Pike)",
+    "gym": false,
+    "home": true,
+    "id": "202",
+    "iso": true,
+    "photo_1": "3230",
+    "photo_2": "3231",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

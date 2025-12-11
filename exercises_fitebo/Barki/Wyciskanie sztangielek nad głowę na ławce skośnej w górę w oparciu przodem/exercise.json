@@ -1,0 +1,26 @@
+{
+  "id": "1876",
+  "name_pl": "Wyciskanie sztangielek nad głowę na ławce skośnej w górę w oparciu przodem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9363",
+    "9364"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę na ławce skośnej w górę w oparciu przodem",
+    "gym": true,
+    "home": false,
+    "id": "1876",
+    "iso": false,
+    "photo_1": "9363",
+    "photo_2": "9364",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

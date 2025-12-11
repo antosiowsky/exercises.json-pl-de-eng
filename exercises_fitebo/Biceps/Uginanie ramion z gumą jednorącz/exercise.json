@@ -1,0 +1,26 @@
+{
+  "id": "588",
+  "name_pl": "Uginanie ramion z gumą jednorącz",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3543",
+    "3544"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z gumą jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "588",
+    "iso": true,
+    "photo_1": "3543",
+    "photo_2": "3544",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

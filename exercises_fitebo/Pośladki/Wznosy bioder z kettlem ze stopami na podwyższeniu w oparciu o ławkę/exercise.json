@@ -1,0 +1,26 @@
+{
+  "id": "1036",
+  "name_pl": "Wznosy bioder z kettlem ze stopami na podwyższeniu w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5221",
+    "5222"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z kettlem ze stopami na podwyższeniu w oparciu o ławkę",
+    "gym": true,
+    "home": false,
+    "id": "1036",
+    "iso": false,
+    "photo_1": "5221",
+    "photo_2": "5222",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

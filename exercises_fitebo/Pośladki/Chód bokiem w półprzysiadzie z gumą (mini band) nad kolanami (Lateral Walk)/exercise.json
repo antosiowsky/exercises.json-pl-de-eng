@@ -1,0 +1,27 @@
+{
+  "id": "1225",
+  "name_pl": "Chód bokiem w półprzysiadzie z gumą (mini band) nad kolanami (Lateral Walk)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6824",
+    "6825",
+    "6826"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Chód bokiem w półprzysiadzie z gumą (mini band) nad kolanami (Lateral Walk)",
+    "gym": false,
+    "home": true,
+    "id": "1225",
+    "iso": true,
+    "photo_1": "6824",
+    "photo_2": "6825",
+    "photo_3": "6826",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "160",
+  "name_pl": "Unoszenie nóg i bioder na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2814",
+    "2816"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg i bioder na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "160",
+    "iso": true,
+    "photo_1": "2814",
+    "photo_2": "2816",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

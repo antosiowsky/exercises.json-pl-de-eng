@@ -1,0 +1,26 @@
+{
+  "id": "1981",
+  "name_pl": "Unoszenie ramion ze sztangielką w kształcie litery Y jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4658",
+    "4659"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielką w kształcie litery Y jednorącz w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1981",
+    "iso": true,
+    "photo_1": "4658",
+    "photo_2": "4659",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

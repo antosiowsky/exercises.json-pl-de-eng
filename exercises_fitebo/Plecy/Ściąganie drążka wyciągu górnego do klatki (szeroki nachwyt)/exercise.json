@@ -1,0 +1,26 @@
+{
+  "id": "274",
+  "name_pl": "Ściąganie drążka wyciągu górnego do klatki (szeroki nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3797",
+    "3798"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie drążka wyciągu górnego do klatki (szeroki nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "274",
+    "iso": false,
+    "photo_1": "3797",
+    "photo_2": "3798",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

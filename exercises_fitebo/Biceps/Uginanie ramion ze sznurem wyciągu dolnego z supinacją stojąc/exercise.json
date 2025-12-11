@@ -1,0 +1,26 @@
+{
+  "id": "520",
+  "name_pl": "Uginanie ramion ze sznurem wyciągu dolnego z supinacją stojąc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3753",
+    "3754"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sznurem wyciągu dolnego z supinacją stojąc",
+    "gym": true,
+    "home": false,
+    "id": "520",
+    "iso": true,
+    "photo_1": "3753",
+    "photo_2": "3754",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "189",
+  "name_pl": "Unoszenie zgiętych nóg trzymając TRX (TRX Bent Leg Raise)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3213",
+    "3214"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg trzymając TRX (TRX Bent Leg Raise)",
+    "gym": false,
+    "home": true,
+    "id": "189",
+    "iso": true,
+    "photo_1": "3213",
+    "photo_2": "3214",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

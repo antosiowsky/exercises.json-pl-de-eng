@@ -1,0 +1,26 @@
+{
+  "id": "1147",
+  "name_pl": "Unoszenie prostych rozwartych nóg z gumą (mini band) nad kolanami na podwyższeniu leżąc przodem (nogi szeroko w dole i w górze)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7629",
+    "7628"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostych rozwartych nóg z gumą (mini band) nad kolanami na podwyższeniu leżąc przodem (nogi szeroko w dole i w górze)",
+    "gym": false,
+    "home": true,
+    "id": "1147",
+    "iso": true,
+    "photo_1": "7629",
+    "photo_2": "7628",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

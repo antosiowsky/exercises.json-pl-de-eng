@@ -1,0 +1,26 @@
+{
+  "id": "613",
+  "name_pl": "Wspięcia na palce obunóż",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "6047",
+    "6048"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce obunóż",
+    "gym": false,
+    "home": true,
+    "id": "613",
+    "iso": true,
+    "photo_1": "6047",
+    "photo_2": "6048",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

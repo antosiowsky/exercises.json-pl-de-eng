@@ -1,0 +1,26 @@
+{
+  "id": "25",
+  "name_pl": "Plank boczny na przedramieniu z uniesioną ręką i nogą",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2915",
+    "2917"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny na przedramieniu z uniesioną ręką i nogą",
+    "gym": false,
+    "home": true,
+    "id": "25",
+    "iso": false,
+    "photo_1": "2915",
+    "photo_2": "2917",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

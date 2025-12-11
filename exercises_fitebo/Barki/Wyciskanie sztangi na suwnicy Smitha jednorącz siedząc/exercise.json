@@ -1,0 +1,26 @@
+{
+  "id": "1856",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6984",
+    "6985"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1856",
+    "iso": false,
+    "photo_1": "6984",
+    "photo_2": "6985",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

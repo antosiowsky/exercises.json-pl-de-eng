@@ -1,0 +1,26 @@
+{
+  "id": "1524",
+  "name_pl": "Wykrok skośny na TRX",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8478",
+    "8479"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skośny na TRX",
+    "gym": false,
+    "home": true,
+    "id": "1524",
+    "iso": false,
+    "photo_1": "8478",
+    "photo_2": "8479",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

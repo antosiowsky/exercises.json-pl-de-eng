@@ -1,0 +1,26 @@
+{
+  "id": "947",
+  "name_pl": "Pajacyki z linami (Battle Rope Jumping Jacks)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8570",
+    "8575"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pajacyki z linami (Battle Rope Jumping Jacks)",
+    "gym": true,
+    "home": false,
+    "id": "947",
+    "iso": false,
+    "photo_1": "8570",
+    "photo_2": "8575",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

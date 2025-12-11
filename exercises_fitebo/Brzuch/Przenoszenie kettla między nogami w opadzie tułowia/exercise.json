@@ -1,0 +1,28 @@
+{
+  "id": "251",
+  "name_pl": "Przenoszenie kettla między nogami w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3164",
+    "3165",
+    "3166",
+    "3167"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przenoszenie kettla między nogami w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "251",
+    "iso": false,
+    "photo_1": "3164",
+    "photo_2": "3165",
+    "photo_3": "3166",
+    "photo_4": "3167",
+    "stat": false,
+    "use": false
+  }
+}

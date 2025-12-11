@@ -1,0 +1,28 @@
+{
+  "id": "469",
+  "name_pl": "Unoszenie ramion IYTW ze sztangielkami leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9596",
+    "9597",
+    "9598",
+    "9599"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion IYTW ze sztangielkami leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "469",
+    "iso": true,
+    "photo_1": "9596",
+    "photo_2": "9597",
+    "photo_3": "9598",
+    "photo_4": "9599",
+    "stat": false,
+    "use": false
+  }
+}

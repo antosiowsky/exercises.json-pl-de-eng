@@ -1,0 +1,26 @@
+{
+  "id": "1989",
+  "name_pl": "Odwrotne rozpiętki z linkami wyciągu poziomo stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5287",
+    "5288"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z linkami wyciągu poziomo stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1989",
+    "iso": true,
+    "photo_1": "5287",
+    "photo_2": "5288",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

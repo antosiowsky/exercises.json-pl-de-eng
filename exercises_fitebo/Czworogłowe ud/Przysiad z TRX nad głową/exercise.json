@@ -1,0 +1,26 @@
+{
+  "id": "1661",
+  "name_pl": "Przysiad z TRX nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8496",
+    "8495"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z TRX nad głową",
+    "gym": false,
+    "home": true,
+    "id": "1661",
+    "iso": false,
+    "photo_1": "8496",
+    "photo_2": "8495",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

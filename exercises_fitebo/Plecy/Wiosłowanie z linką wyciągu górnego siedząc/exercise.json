@@ -1,0 +1,26 @@
+{
+  "id": "346",
+  "name_pl": "Wiosłowanie z linką wyciągu górnego siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4815",
+    "4816"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu górnego siedząc",
+    "gym": true,
+    "home": false,
+    "id": "346",
+    "iso": false,
+    "photo_1": "4815",
+    "photo_2": "4816",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

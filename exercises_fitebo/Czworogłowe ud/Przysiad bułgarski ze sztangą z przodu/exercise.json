@@ -1,0 +1,26 @@
+{
+  "id": "1565",
+  "name_pl": "Przysiad bułgarski ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9291",
+    "9292"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "1565",
+    "iso": false,
+    "photo_1": "9291",
+    "photo_2": "9292",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

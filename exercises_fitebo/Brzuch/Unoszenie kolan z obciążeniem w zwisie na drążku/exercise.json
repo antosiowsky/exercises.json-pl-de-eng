@@ -1,0 +1,26 @@
+{
+  "id": "149",
+  "name_pl": "Unoszenie kolan z obciążeniem w zwisie na drążku",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2831",
+    "2832"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie kolan z obciążeniem w zwisie na drążku",
+    "gym": true,
+    "home": false,
+    "id": "149",
+    "iso": true,
+    "photo_1": "2831",
+    "photo_2": "2832",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "996",
+  "name_pl": "Wznosy bioder ze złączonymi podeszwami na podwyższeniu leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5731",
+    "5732"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze złączonymi podeszwami na podwyższeniu leżąc",
+    "gym": false,
+    "home": true,
+    "id": "996",
+    "iso": false,
+    "photo_1": "5731",
+    "photo_2": "5732",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

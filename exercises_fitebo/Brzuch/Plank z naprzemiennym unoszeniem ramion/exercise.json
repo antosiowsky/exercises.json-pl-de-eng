@@ -1,0 +1,26 @@
+{
+  "id": "6",
+  "name_pl": "Plank z naprzemiennym unoszeniem ramion",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2471",
+    "2472"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z naprzemiennym unoszeniem ramion",
+    "gym": false,
+    "home": true,
+    "id": "6",
+    "iso": false,
+    "photo_1": "2471",
+    "photo_2": "2472",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

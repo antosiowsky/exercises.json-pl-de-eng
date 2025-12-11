@@ -1,0 +1,26 @@
+{
+  "id": "888",
+  "name_pl": "Wypychanie sprzed klatki",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4206",
+    "4207"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie sprzed klatki",
+    "gym": false,
+    "home": true,
+    "id": "888",
+    "iso": false,
+    "photo_1": "4206",
+    "photo_2": "4207",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2143",
+  "name_pl": "Prostowanie ramion z linką wyciągu górnego zza głowy jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7464",
+    "7465"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu górnego zza głowy jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "2143",
+    "iso": true,
+    "photo_1": "7464",
+    "photo_2": "7465",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

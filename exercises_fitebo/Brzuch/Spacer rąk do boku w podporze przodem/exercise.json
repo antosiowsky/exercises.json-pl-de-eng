@@ -1,0 +1,26 @@
+{
+  "id": "2200",
+  "name_pl": "Spacer rąk do boku w podporze przodem",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "14247",
+    "14248"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spacer rąk do boku w podporze przodem",
+    "gym": false,
+    "home": true,
+    "id": "2200",
+    "iso": false,
+    "photo_1": "14247",
+    "photo_2": "14248",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

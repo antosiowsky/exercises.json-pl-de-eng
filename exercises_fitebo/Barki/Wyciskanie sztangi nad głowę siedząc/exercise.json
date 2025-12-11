@@ -1,0 +1,26 @@
+{
+  "id": "1784",
+  "name_pl": "Wyciskanie sztangi nad głowę siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4447",
+    "4448"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi nad głowę siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1784",
+    "iso": false,
+    "photo_1": "4447",
+    "photo_2": "4448",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1181",
+  "name_pl": "Odwodzenie prostej nogi z talerzem do boku leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7202",
+    "7203"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi z talerzem do boku leżąc bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1181",
+    "iso": true,
+    "photo_1": "7202",
+    "photo_2": "7203",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

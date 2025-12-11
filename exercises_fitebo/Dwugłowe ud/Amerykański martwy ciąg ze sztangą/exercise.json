@@ -1,0 +1,26 @@
+{
+  "id": "1274",
+  "name_pl": "Amerykański martwy ciąg ze sztangą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "5608",
+    "5610"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański martwy ciąg ze sztangą",
+    "gym": true,
+    "home": false,
+    "id": "1274",
+    "iso": false,
+    "photo_1": "5608",
+    "photo_2": "5610",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

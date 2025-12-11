@@ -1,0 +1,26 @@
+{
+  "id": "1359",
+  "name_pl": "Martwy ciąg walizkowy z półsztangą jednorącz",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9112",
+    "9111"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg walizkowy z półsztangą jednorącz",
+    "gym": true,
+    "home": false,
+    "id": "1359",
+    "iso": false,
+    "photo_1": "9112",
+    "photo_2": "9111",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

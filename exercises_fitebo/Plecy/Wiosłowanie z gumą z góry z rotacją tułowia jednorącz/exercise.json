@@ -1,0 +1,26 @@
+{
+  "id": "426",
+  "name_pl": "Wiosłowanie z gumą z góry z rotacją tułowia jednorącz",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9715",
+    "9716"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą z góry z rotacją tułowia jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "426",
+    "iso": false,
+    "photo_1": "9715",
+    "photo_2": "9716",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

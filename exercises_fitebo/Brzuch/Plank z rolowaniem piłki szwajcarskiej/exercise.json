@@ -1,0 +1,26 @@
+{
+  "id": "219",
+  "name_pl": "Plank z rolowaniem piłki szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2783",
+    "2785"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z rolowaniem piłki szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "219",
+    "iso": false,
+    "photo_1": "2783",
+    "photo_2": "2785",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

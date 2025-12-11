@@ -1,0 +1,26 @@
+{
+  "id": "1281",
+  "name_pl": "Rzymski martwy ciąg (bez dotykania ud)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8118",
+    "8119"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rzymski martwy ciąg (bez dotykania ud)",
+    "gym": false,
+    "home": true,
+    "id": "1281",
+    "iso": false,
+    "photo_1": "8118",
+    "photo_2": "8119",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1689",
+  "name_pl": "Przysiad ze sztangą z tyłu do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5883",
+    "5885"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangą z tyłu do podwyższenia",
+    "gym": true,
+    "home": false,
+    "id": "1689",
+    "iso": false,
+    "photo_1": "5883",
+    "photo_2": "5885",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

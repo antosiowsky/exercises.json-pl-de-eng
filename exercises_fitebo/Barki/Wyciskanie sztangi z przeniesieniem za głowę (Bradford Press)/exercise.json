@@ -1,0 +1,27 @@
+{
+  "id": "1889",
+  "name_pl": "Wyciskanie sztangi z przeniesieniem za głowę (Bradford Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4586",
+    "4587",
+    "4588"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi z przeniesieniem za głowę (Bradford Press)",
+    "gym": true,
+    "home": false,
+    "id": "1889",
+    "iso": false,
+    "photo_1": "4586",
+    "photo_2": "4587",
+    "photo_3": "4588",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

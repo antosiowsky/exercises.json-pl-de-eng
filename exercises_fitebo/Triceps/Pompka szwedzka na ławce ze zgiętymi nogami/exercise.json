@@ -1,0 +1,26 @@
+{
+  "id": "2067",
+  "name_pl": "Pompka szwedzka na ławce ze zgiętymi nogami",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4918",
+    "4920"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na ławce ze zgiętymi nogami",
+    "gym": false,
+    "home": true,
+    "id": "2067",
+    "iso": false,
+    "photo_1": "4918",
+    "photo_2": "4920",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

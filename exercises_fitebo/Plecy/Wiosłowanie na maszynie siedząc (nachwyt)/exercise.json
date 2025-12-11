@@ -1,0 +1,26 @@
+{
+  "id": "398",
+  "name_pl": "Wiosłowanie na maszynie siedząc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6600",
+    "6601"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na maszynie siedząc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "398",
+    "iso": false,
+    "photo_1": "6600",
+    "photo_2": "6601",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

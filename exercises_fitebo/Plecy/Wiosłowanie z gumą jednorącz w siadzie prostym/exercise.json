@@ -1,0 +1,26 @@
+{
+  "id": "370",
+  "name_pl": "Wiosłowanie z gumą jednorącz w siadzie prostym",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "5988",
+    "5989"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą jednorącz w siadzie prostym",
+    "gym": false,
+    "home": true,
+    "id": "370",
+    "iso": false,
+    "photo_1": "5988",
+    "photo_2": "5989",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

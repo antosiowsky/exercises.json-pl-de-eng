@@ -1,0 +1,28 @@
+{
+  "id": "1909",
+  "name_pl": "Unoszenie ramion z talerzem do przodu z naprzemienną rotacją stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4614",
+    "4617",
+    "4614",
+    "4618"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z talerzem do przodu z naprzemienną rotacją stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1909",
+    "iso": true,
+    "photo_1": "4614",
+    "photo_2": "4617",
+    "photo_3": "4614",
+    "photo_4": "4618",
+    "stat": false,
+    "use": false
+  }
+}

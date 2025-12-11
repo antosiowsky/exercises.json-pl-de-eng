@@ -1,0 +1,26 @@
+{
+  "id": "1962",
+  "name_pl": "Unoszenie ramion z gumą do boku jednorącz w pochyleniu do boku (guma z przodu)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6866",
+    "6867"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z gumą do boku jednorącz w pochyleniu do boku (guma z przodu)",
+    "gym": false,
+    "home": true,
+    "id": "1962",
+    "iso": true,
+    "photo_1": "6866",
+    "photo_2": "6867",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

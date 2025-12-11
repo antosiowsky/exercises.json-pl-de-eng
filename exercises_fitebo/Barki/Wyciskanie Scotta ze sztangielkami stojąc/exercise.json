@@ -1,0 +1,26 @@
+{
+  "id": "1877",
+  "name_pl": "Wyciskanie Scotta ze sztangielkami stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4570",
+    "4571"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie Scotta ze sztangielkami stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1877",
+    "iso": false,
+    "photo_1": "4570",
+    "photo_2": "4571",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

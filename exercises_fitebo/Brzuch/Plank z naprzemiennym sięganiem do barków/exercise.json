@@ -1,0 +1,27 @@
+{
+  "id": "17",
+  "name_pl": "Plank z naprzemiennym sięganiem do barków",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2899",
+    "2908",
+    "2907"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z naprzemiennym sięganiem do barków",
+    "gym": false,
+    "home": true,
+    "id": "17",
+    "iso": false,
+    "photo_1": "2899",
+    "photo_2": "2908",
+    "photo_3": "2907",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

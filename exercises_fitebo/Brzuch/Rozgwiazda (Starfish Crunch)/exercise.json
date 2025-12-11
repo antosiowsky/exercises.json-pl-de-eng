@@ -1,0 +1,27 @@
+{
+  "id": "213",
+  "name_pl": "Rozgwiazda (Starfish Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4177",
+    "4178",
+    "4179"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozgwiazda (Starfish Crunch)",
+    "gym": false,
+    "home": true,
+    "id": "213",
+    "iso": true,
+    "photo_1": "4177",
+    "photo_2": "4178",
+    "photo_3": "4179",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

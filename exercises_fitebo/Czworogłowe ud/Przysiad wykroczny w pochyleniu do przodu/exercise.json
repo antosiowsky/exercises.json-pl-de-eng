@@ -1,0 +1,26 @@
+{
+  "id": "1561",
+  "name_pl": "Przysiad wykroczny w pochyleniu do przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5518",
+    "5519"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny w pochyleniu do przodu",
+    "gym": false,
+    "home": true,
+    "id": "1561",
+    "iso": false,
+    "photo_1": "5518",
+    "photo_2": "5519",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

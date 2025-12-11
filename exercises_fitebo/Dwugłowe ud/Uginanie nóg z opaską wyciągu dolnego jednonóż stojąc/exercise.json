@@ -1,0 +1,26 @@
+{
+  "id": "1397",
+  "name_pl": "Uginanie nóg z opaską wyciągu dolnego jednonóż stojąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8767",
+    "8768"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg z opaską wyciągu dolnego jednonóż stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1397",
+    "iso": true,
+    "photo_1": "8767",
+    "photo_2": "8768",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

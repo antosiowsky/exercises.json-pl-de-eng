@@ -1,0 +1,28 @@
+{
+  "id": "276",
+  "name_pl": "Ściąganie naprzemienne drążka wyciągu górnego do klatki (Rocking Lat Pulldown)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3797",
+    "3799",
+    "3797",
+    "3800"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie naprzemienne drążka wyciągu górnego do klatki (Rocking Lat Pulldown)",
+    "gym": true,
+    "home": false,
+    "id": "276",
+    "iso": false,
+    "photo_1": "3797",
+    "photo_2": "3799",
+    "photo_3": "3797",
+    "photo_4": "3800",
+    "stat": false,
+    "use": false
+  }
+}

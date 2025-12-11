@@ -1,0 +1,27 @@
+{
+  "id": "311",
+  "name_pl": "Ściąganie linki wyciągu górnego na prostych ramionach na ławce skośnej w górę tyłem do wyciągu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7429",
+    "7430",
+    "7431"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie linki wyciągu górnego na prostych ramionach na ławce skośnej w górę tyłem do wyciągu",
+    "gym": true,
+    "home": false,
+    "id": "311",
+    "iso": true,
+    "photo_1": "7429",
+    "photo_2": "7430",
+    "photo_3": "7431",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

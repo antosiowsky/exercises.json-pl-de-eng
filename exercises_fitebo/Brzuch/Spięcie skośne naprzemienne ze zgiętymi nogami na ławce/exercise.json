@@ -1,0 +1,27 @@
+{
+  "id": "101",
+  "name_pl": "Spięcie skośne naprzemienne ze zgiętymi nogami na ławce",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "6503",
+    "6504",
+    "6505"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie skośne naprzemienne ze zgiętymi nogami na ławce",
+    "gym": false,
+    "home": true,
+    "id": "101",
+    "iso": true,
+    "photo_1": "6503",
+    "photo_2": "6504",
+    "photo_3": "6505",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

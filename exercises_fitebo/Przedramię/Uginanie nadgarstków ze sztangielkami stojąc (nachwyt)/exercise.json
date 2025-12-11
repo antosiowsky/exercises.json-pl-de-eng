@@ -1,0 +1,26 @@
+{
+  "id": "924",
+  "name_pl": "Uginanie nadgarstków ze sztangielkami stojąc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "4300",
+    "4301"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków ze sztangielkami stojąc (nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "924",
+    "iso": true,
+    "photo_1": "4300",
+    "photo_2": "4301",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

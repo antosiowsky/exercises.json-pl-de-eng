@@ -1,0 +1,26 @@
+{
+  "id": "1231",
+  "name_pl": "Skłon \"Dzień Dobry\" ze sztangielką siedząc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "3297",
+    "3298"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" ze sztangielką siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1231",
+    "iso": true,
+    "photo_1": "3297",
+    "photo_2": "3298",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "252",
+  "name_pl": "Nożyce pionowe",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3142",
+    "3143"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Nożyce pionowe",
+    "gym": false,
+    "home": true,
+    "id": "252",
+    "iso": true,
+    "photo_1": "3142",
+    "photo_2": "3143",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

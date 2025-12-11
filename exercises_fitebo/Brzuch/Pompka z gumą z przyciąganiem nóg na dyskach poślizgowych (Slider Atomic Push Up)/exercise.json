@@ -1,0 +1,26 @@
+{
+  "id": "167",
+  "name_pl": "Pompka z gumą z przyciąganiem nóg na dyskach poślizgowych (Slider Atomic Push Up)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2708",
+    "2711"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka z gumą z przyciąganiem nóg na dyskach poślizgowych (Slider Atomic Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "167",
+    "iso": false,
+    "photo_1": "2708",
+    "photo_2": "2711",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

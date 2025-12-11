@@ -1,0 +1,26 @@
+{
+  "id": "614",
+  "name_pl": "Wspięcia na palce na suwnicy Smitha jednonóż",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "8676",
+    "8675"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce na suwnicy Smitha jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "614",
+    "iso": true,
+    "photo_1": "8676",
+    "photo_2": "8675",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

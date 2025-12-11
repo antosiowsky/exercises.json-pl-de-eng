@@ -1,0 +1,26 @@
+{
+  "id": "1547",
+  "name_pl": "Przysiad wykroczny goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5503",
+    "5504"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1547",
+    "iso": false,
+    "photo_1": "5503",
+    "photo_2": "5504",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

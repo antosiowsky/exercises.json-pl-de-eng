@@ -1,0 +1,26 @@
+{
+  "id": "1695",
+  "name_pl": "Przysiad goblet z uchwytem wyciągu dolnego do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7974",
+    "7973"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad goblet z uchwytem wyciągu dolnego do podwyższenia",
+    "gym": true,
+    "home": false,
+    "id": "1695",
+    "iso": false,
+    "photo_1": "7974",
+    "photo_2": "7973",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

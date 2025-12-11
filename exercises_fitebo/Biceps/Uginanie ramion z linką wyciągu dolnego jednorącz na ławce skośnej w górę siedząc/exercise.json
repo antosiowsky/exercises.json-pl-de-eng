@@ -1,0 +1,26 @@
+{
+  "id": "535",
+  "name_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz na ławce skośnej w górę siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "5382",
+    "5383"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz na ławce skośnej w górę siedząc",
+    "gym": true,
+    "home": false,
+    "id": "535",
+    "iso": true,
+    "photo_1": "5382",
+    "photo_2": "5383",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

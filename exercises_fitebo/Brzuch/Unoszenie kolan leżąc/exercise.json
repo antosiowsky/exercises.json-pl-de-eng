@@ -1,0 +1,26 @@
+{
+  "id": "134",
+  "name_pl": "Unoszenie kolan leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2676",
+    "2677"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie kolan leżąc",
+    "gym": false,
+    "home": true,
+    "id": "134",
+    "iso": true,
+    "photo_1": "2676",
+    "photo_2": "2677",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

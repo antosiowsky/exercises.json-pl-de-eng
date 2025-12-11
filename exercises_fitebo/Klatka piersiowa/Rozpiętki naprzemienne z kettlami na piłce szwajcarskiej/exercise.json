@@ -1,0 +1,27 @@
+{
+  "id": "852",
+  "name_pl": "Rozpiętki naprzemienne z kettlami na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4199",
+    "4202",
+    "4203"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki naprzemienne z kettlami na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "852",
+    "iso": false,
+    "photo_1": "4199",
+    "photo_2": "4202",
+    "photo_3": "4203",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

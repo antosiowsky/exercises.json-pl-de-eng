@@ -1,0 +1,26 @@
+{
+  "id": "1112",
+  "name_pl": "Unoszenie zgiętych do prostych nóg z obciążnikami na kostkach na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7594",
+    "7602"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych do prostych nóg z obciążnikami na kostkach na podwyższeniu leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1112",
+    "iso": true,
+    "photo_1": "7594",
+    "photo_2": "7602",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2204",
+  "name_pl": "Pompka łopatkowa na przedramionach (Scapular Push Up)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "14256",
+    "14257"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Pompka łopatkowa na przedramionach (Scapular Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "2204",
+    "iso": true,
+    "photo_1": "14256",
+    "photo_2": "14257",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2110",
+  "name_pl": "Wyciskanie francuskie sztangi łamanej zza głowy siedząc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4996",
+    "4997"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangi łamanej zza głowy siedząc",
+    "gym": true,
+    "home": false,
+    "id": "2110",
+    "iso": true,
+    "photo_1": "4996",
+    "photo_2": "4997",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

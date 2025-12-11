@@ -1,0 +1,26 @@
+{
+  "id": "763",
+  "name_pl": "Rozpiętki na ławce płaskiej (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3848",
+    "3847"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki na ławce płaskiej (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "763",
+    "iso": true,
+    "photo_1": "3848",
+    "photo_2": "3847",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

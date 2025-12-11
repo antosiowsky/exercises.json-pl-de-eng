@@ -1,0 +1,26 @@
+{
+  "id": "1002",
+  "name_pl": "Wznosy bioder z gumą (mini band) nad kolanami leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5710",
+    "5711"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z gumą (mini band) nad kolanami leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1002",
+    "iso": false,
+    "photo_1": "5710",
+    "photo_2": "5711",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

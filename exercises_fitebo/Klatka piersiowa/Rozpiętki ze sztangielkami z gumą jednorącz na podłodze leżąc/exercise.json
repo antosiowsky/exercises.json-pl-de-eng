@@ -1,0 +1,26 @@
+{
+  "id": "846",
+  "name_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4085",
+    "4084"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "846",
+    "iso": false,
+    "photo_1": "4085",
+    "photo_2": "4084",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

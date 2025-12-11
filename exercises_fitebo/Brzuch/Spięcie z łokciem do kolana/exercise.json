@@ -1,0 +1,26 @@
+{
+  "id": "88",
+  "name_pl": "Spięcie z łokciem do kolana",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2594",
+    "2595"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z łokciem do kolana",
+    "gym": false,
+    "home": true,
+    "id": "88",
+    "iso": true,
+    "photo_1": "2594",
+    "photo_2": "2595",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

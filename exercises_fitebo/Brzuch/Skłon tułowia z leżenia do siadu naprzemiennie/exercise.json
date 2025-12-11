@@ -1,0 +1,27 @@
+{
+  "id": "2201",
+  "name_pl": "Skłon tułowia z leżenia do siadu naprzemiennie",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "14250",
+    "14252",
+    "14253"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon tułowia z leżenia do siadu naprzemiennie",
+    "gym": false,
+    "home": true,
+    "id": "2201",
+    "iso": true,
+    "photo_1": "14250",
+    "photo_2": "14252",
+    "photo_3": "14253",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

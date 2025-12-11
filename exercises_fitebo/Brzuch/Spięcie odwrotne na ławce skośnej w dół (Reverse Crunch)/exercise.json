@@ -1,0 +1,26 @@
+{
+  "id": "161",
+  "name_pl": "Spięcie odwrotne na ławce skośnej w dół (Reverse Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3172",
+    "3173"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie odwrotne na ławce skośnej w dół (Reverse Crunch)",
+    "gym": true,
+    "home": false,
+    "id": "161",
+    "iso": true,
+    "photo_1": "3172",
+    "photo_2": "3173",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

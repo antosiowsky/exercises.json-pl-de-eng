@@ -1,0 +1,26 @@
+{
+  "id": "616",
+  "name_pl": "Wspięcia na palce na suwnicy poziomej jednonóż siedząc",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "8872",
+    "8873"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce na suwnicy poziomej jednonóż siedząc",
+    "gym": true,
+    "home": false,
+    "id": "616",
+    "iso": true,
+    "photo_1": "8872",
+    "photo_2": "8873",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

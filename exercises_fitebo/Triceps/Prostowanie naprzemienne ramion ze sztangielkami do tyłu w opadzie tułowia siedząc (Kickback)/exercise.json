@@ -1,0 +1,28 @@
+{
+  "id": "2175",
+  "name_pl": "Prostowanie naprzemienne ramion ze sztangielkami do tyłu w opadzie tułowia siedząc (Kickback)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5008",
+    "5010",
+    "5008",
+    "5011"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie naprzemienne ramion ze sztangielkami do tyłu w opadzie tułowia siedząc (Kickback)",
+    "gym": false,
+    "home": true,
+    "id": "2175",
+    "iso": true,
+    "photo_1": "5008",
+    "photo_2": "5010",
+    "photo_3": "5008",
+    "photo_4": "5011",
+    "stat": false,
+    "use": false
+  }
+}

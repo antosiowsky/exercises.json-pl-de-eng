@@ -1,0 +1,26 @@
+{
+  "id": "2051",
+  "name_pl": "Przyciąganie linki wyciągu górnego do twarzy leżąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7894",
+    "7897"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu górnego do twarzy leżąc (Face Pull)",
+    "gym": true,
+    "home": false,
+    "id": "2051",
+    "iso": false,
+    "photo_1": "7894",
+    "photo_2": "7897",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

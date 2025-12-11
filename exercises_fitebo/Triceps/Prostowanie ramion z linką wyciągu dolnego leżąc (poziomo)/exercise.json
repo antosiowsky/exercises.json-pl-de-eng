@@ -1,0 +1,26 @@
+{
+  "id": "2150",
+  "name_pl": "Prostowanie ramion z linką wyciągu dolnego leżąc (poziomo)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7477",
+    "7478"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu dolnego leżąc (poziomo)",
+    "gym": true,
+    "home": false,
+    "id": "2150",
+    "iso": true,
+    "photo_1": "7477",
+    "photo_2": "7478",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1566",
+  "name_pl": "Hack przysiad bułgarski",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9293",
+    "9294"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Hack przysiad bułgarski",
+    "gym": true,
+    "home": false,
+    "id": "1566",
+    "iso": false,
+    "photo_1": "9293",
+    "photo_2": "9294",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

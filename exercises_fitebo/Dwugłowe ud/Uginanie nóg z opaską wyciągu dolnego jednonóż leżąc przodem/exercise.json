@@ -1,0 +1,26 @@
+{
+  "id": "1388",
+  "name_pl": "Uginanie nóg z opaską wyciągu dolnego jednonóż leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "7879",
+    "7880"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg z opaską wyciągu dolnego jednonóż leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1388",
+    "iso": true,
+    "photo_1": "7879",
+    "photo_2": "7880",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1438",
+  "name_pl": "Przysiad z dotknięciem do podłogi z wyskokiem ze złączonymi nogami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5475",
+    "5474",
+    "5477"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z dotknięciem do podłogi z wyskokiem ze złączonymi nogami",
+    "gym": false,
+    "home": true,
+    "id": "1438",
+    "iso": false,
+    "photo_1": "5475",
+    "photo_2": "5474",
+    "photo_3": "5477",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

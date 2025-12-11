@@ -1,0 +1,26 @@
+{
+  "id": "290",
+  "name_pl": "Ściąganie uchwytów z góry na maszynie (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6590",
+    "6591"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytów z góry na maszynie (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "290",
+    "iso": false,
+    "photo_1": "6590",
+    "photo_2": "6591",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "40",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci szeroko w podporze przodem (Creepy Crawler)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2539",
+    "2540"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci szeroko w podporze przodem (Creepy Crawler)",
+    "gym": false,
+    "home": true,
+    "id": "40",
+    "iso": false,
+    "photo_1": "2539",
+    "photo_2": "2540",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

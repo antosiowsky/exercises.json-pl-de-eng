@@ -1,0 +1,27 @@
+{
+  "id": "1908",
+  "name_pl": "Unoszenie naprzemienne ramion z talerzami do przodu stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4621",
+    "4622",
+    "4624"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion z talerzami do przodu stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1908",
+    "iso": true,
+    "photo_1": "4621",
+    "photo_2": "4622",
+    "photo_3": "4624",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

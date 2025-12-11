@@ -1,0 +1,26 @@
+{
+  "id": "864",
+  "name_pl": "Krzyżowanie linek wyciągu poziomo",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5350",
+    "5351"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Krzyżowanie linek wyciągu poziomo",
+    "gym": true,
+    "home": false,
+    "id": "864",
+    "iso": true,
+    "photo_1": "5350",
+    "photo_2": "5351",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

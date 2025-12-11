@@ -1,0 +1,27 @@
+{
+  "id": "507",
+  "name_pl": "Uginanie ramion ze sztangielkami w trzech zakresach stojąc (górna połowa + dolna połowa + pełny zakres)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3474",
+    "3472",
+    "3476"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami w trzech zakresach stojąc (górna połowa + dolna połowa + pełny zakres)",
+    "gym": false,
+    "home": true,
+    "id": "507",
+    "iso": true,
+    "photo_1": "3474",
+    "photo_2": "3472",
+    "photo_3": "3476",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

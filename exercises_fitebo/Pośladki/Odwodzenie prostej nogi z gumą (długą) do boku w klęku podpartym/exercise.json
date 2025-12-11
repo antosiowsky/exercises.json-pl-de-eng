@@ -1,0 +1,26 @@
+{
+  "id": "1194",
+  "name_pl": "Odwodzenie prostej nogi z gumą (długą) do boku w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8292",
+    "8294"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi z gumą (długą) do boku w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1194",
+    "iso": true,
+    "photo_1": "8292",
+    "photo_2": "8294",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

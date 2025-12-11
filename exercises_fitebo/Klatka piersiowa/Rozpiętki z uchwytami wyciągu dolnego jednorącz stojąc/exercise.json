@@ -1,0 +1,26 @@
+{
+  "id": "825",
+  "name_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5331",
+    "5332"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "825",
+    "iso": true,
+    "photo_1": "5331",
+    "photo_2": "5332",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

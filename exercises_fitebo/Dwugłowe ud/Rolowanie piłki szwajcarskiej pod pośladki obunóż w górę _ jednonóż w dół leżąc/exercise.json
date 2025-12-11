@@ -1,0 +1,28 @@
+{
+  "id": "1401",
+  "name_pl": "Rolowanie piłki szwajcarskiej pod pośladki obunóż w górę / jednonóż w dół leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6516",
+    "6518",
+    "6522",
+    "6516"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rolowanie piłki szwajcarskiej pod pośladki obunóż w górę / jednonóż w dół leżąc",
+    "gym": true,
+    "home": false,
+    "id": "1401",
+    "iso": true,
+    "photo_1": "6516",
+    "photo_2": "6518",
+    "photo_3": "6522",
+    "photo_4": "6516",
+    "stat": false,
+    "use": false
+  }
+}

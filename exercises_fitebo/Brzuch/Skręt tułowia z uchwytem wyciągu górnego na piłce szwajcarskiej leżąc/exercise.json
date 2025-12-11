@@ -1,0 +1,26 @@
+{
+  "id": "78",
+  "name_pl": "Skręt tułowia z uchwytem wyciągu górnego na piłce szwajcarskiej leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4147",
+    "4149"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skręt tułowia z uchwytem wyciągu górnego na piłce szwajcarskiej leżąc",
+    "gym": true,
+    "home": false,
+    "id": "78",
+    "iso": true,
+    "photo_1": "4147",
+    "photo_2": "4149",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

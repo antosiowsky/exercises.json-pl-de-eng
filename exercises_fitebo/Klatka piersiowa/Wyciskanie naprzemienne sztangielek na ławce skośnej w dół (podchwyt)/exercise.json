@@ -1,0 +1,27 @@
+{
+  "id": "651",
+  "name_pl": "Wyciskanie naprzemienne sztangielek na ławce skośnej w dół (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3975",
+    "3977",
+    "3987"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne sztangielek na ławce skośnej w dół (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "651",
+    "iso": false,
+    "photo_1": "3975",
+    "photo_2": "3977",
+    "photo_3": "3987",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

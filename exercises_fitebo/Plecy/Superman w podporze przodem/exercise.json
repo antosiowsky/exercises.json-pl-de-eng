@@ -1,0 +1,27 @@
+{
+  "id": "463",
+  "name_pl": "Superman w podporze przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3382",
+    "3389",
+    "3390"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Superman w podporze przodem",
+    "gym": false,
+    "home": true,
+    "id": "463",
+    "iso": true,
+    "photo_1": "3382",
+    "photo_2": "3389",
+    "photo_3": "3390",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1641",
+  "name_pl": "Przysiad z tylną nogą asekurującą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6862",
+    "6863"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z tylną nogą asekurującą",
+    "gym": false,
+    "home": true,
+    "id": "1641",
+    "iso": false,
+    "photo_1": "6862",
+    "photo_2": "6863",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

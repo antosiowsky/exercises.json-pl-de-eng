@@ -1,0 +1,26 @@
+{
+  "id": "457",
+  "name_pl": "Skłon \"Dzień Dobry\" ze sztangą siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3295",
+    "3296"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" ze sztangą siedząc",
+    "gym": true,
+    "home": false,
+    "id": "457",
+    "iso": true,
+    "photo_1": "3295",
+    "photo_2": "3296",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

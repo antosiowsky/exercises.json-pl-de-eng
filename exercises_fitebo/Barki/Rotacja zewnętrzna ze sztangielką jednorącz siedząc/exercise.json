@@ -1,0 +1,26 @@
+{
+  "id": "2059",
+  "name_pl": "Rotacja zewnętrzna ze sztangielką jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9404",
+    "9405"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rotacja zewnętrzna ze sztangielką jednorącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "2059",
+    "iso": false,
+    "photo_1": "9404",
+    "photo_2": "9405",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

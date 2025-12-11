@@ -1,0 +1,26 @@
+{
+  "id": "1571",
+  "name_pl": "Przysiad bułgarski z kettlami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9307",
+    "9308"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski z kettlami",
+    "gym": true,
+    "home": false,
+    "id": "1571",
+    "iso": false,
+    "photo_1": "9307",
+    "photo_2": "9308",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

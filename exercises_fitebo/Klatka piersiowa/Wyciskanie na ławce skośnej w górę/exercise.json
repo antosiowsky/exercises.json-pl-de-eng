@@ -1,0 +1,26 @@
+{
+  "id": "623",
+  "name_pl": "Wyciskanie na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3932",
+    "3933"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "623",
+    "iso": false,
+    "photo_1": "3932",
+    "photo_2": "3933",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

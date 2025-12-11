@@ -1,0 +1,26 @@
+{
+  "id": "1508",
+  "name_pl": "Zakrok z ramionami nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9257",
+    "9258"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z ramionami nad głową",
+    "gym": false,
+    "home": true,
+    "id": "1508",
+    "iso": false,
+    "photo_1": "9257",
+    "photo_2": "9258",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

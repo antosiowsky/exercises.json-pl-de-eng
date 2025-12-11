@@ -1,0 +1,26 @@
+{
+  "id": "451",
+  "name_pl": "Przenoszenie sztangielki zza głowy z łokciami szeroko",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3583",
+    "3584"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangielki zza głowy z łokciami szeroko",
+    "gym": false,
+    "home": true,
+    "id": "451",
+    "iso": true,
+    "photo_1": "3583",
+    "photo_2": "3584",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

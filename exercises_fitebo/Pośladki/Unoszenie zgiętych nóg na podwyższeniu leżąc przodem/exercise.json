@@ -1,0 +1,26 @@
+{
+  "id": "1128",
+  "name_pl": "Unoszenie zgiętych nóg na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7617",
+    "7618"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg na podwyższeniu leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1128",
+    "iso": true,
+    "photo_1": "7617",
+    "photo_2": "7618",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

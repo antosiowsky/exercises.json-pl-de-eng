@@ -1,0 +1,26 @@
+{
+  "id": "1336",
+  "name_pl": "Martwy ciąg na prostych nogach z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "7746",
+    "7742"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na prostych nogach z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1336",
+    "iso": false,
+    "photo_1": "7746",
+    "photo_2": "7742",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

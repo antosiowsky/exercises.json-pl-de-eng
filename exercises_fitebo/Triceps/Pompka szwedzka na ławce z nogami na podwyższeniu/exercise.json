@@ -1,0 +1,26 @@
+{
+  "id": "2069",
+  "name_pl": "Pompka szwedzka na ławce z nogami na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4923",
+    "4924"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na ławce z nogami na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "2069",
+    "iso": false,
+    "photo_1": "4923",
+    "photo_2": "4924",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

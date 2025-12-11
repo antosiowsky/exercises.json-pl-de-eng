@@ -1,0 +1,26 @@
+{
+  "id": "1440",
+  "name_pl": "Przysiad z unoszeniem pięt",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5482",
+    "5484"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z unoszeniem pięt",
+    "gym": false,
+    "home": true,
+    "id": "1440",
+    "iso": false,
+    "photo_1": "5482",
+    "photo_2": "5484",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

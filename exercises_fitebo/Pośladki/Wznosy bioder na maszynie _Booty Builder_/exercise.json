@@ -1,0 +1,26 @@
+{
+  "id": "2215",
+  "name_pl": "Wznosy bioder na maszynie \"Booty Builder\"",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "14297",
+    "14298"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder na maszynie \"Booty Builder\"",
+    "gym": true,
+    "home": false,
+    "id": "2215",
+    "iso": false,
+    "photo_1": "14297",
+    "photo_2": "14298",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

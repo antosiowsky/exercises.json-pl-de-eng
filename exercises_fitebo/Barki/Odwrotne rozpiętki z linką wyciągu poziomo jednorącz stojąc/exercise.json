@@ -1,0 +1,26 @@
+{
+  "id": "1991",
+  "name_pl": "Odwrotne rozpiętki z linką wyciągu poziomo jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5289",
+    "5290"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z linką wyciągu poziomo jednorącz stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1991",
+    "iso": true,
+    "photo_1": "5289",
+    "photo_2": "5290",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

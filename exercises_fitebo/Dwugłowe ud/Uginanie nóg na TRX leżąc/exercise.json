@@ -1,0 +1,26 @@
+{
+  "id": "1398",
+  "name_pl": "Uginanie nóg na TRX leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8413",
+    "8415"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg na TRX leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1398",
+    "iso": true,
+    "photo_1": "8413",
+    "photo_2": "8415",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

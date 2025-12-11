@@ -1,0 +1,26 @@
+{
+  "id": "481",
+  "name_pl": "Uginanie ramion ze sztangą w pochyleniu do przodu siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "9348",
+    "9349"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą w pochyleniu do przodu siedząc",
+    "gym": true,
+    "home": false,
+    "id": "481",
+    "iso": true,
+    "photo_1": "9348",
+    "photo_2": "9349",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

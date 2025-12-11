@@ -1,0 +1,26 @@
+{
+  "id": "1704",
+  "name_pl": "Przysiad ze sztangielkami jednonóż do podwyższenia (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5898",
+    "5899"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangielkami jednonóż do podwyższenia (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1704",
+    "iso": false,
+    "photo_1": "5898",
+    "photo_2": "5899",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

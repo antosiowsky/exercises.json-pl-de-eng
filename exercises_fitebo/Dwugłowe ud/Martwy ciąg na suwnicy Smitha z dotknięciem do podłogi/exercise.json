@@ -1,0 +1,26 @@
+{
+  "id": "1326",
+  "name_pl": "Martwy ciąg na suwnicy Smitha z dotknięciem do podłogi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8627",
+    "8625"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na suwnicy Smitha z dotknięciem do podłogi",
+    "gym": true,
+    "home": false,
+    "id": "1326",
+    "iso": false,
+    "photo_1": "8627",
+    "photo_2": "8625",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

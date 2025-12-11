@@ -1,0 +1,28 @@
+{
+  "id": "1753",
+  "name_pl": "Prostowanie naprzemienne nóg na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5965",
+    "5967",
+    "5965",
+    "5968"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie naprzemienne nóg na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1753",
+    "iso": true,
+    "photo_1": "5965",
+    "photo_2": "5967",
+    "photo_3": "5965",
+    "photo_4": "5968",
+    "stat": false,
+    "use": false
+  }
+}

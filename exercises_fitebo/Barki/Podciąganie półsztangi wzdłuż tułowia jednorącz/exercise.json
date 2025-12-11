@@ -1,0 +1,26 @@
+{
+  "id": "2021",
+  "name_pl": "Podciąganie półsztangi wzdłuż tułowia jednorącz",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9726",
+    "9727"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie półsztangi wzdłuż tułowia jednorącz",
+    "gym": true,
+    "home": false,
+    "id": "2021",
+    "iso": false,
+    "photo_1": "9726",
+    "photo_2": "9727",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

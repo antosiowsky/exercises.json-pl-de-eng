@@ -1,0 +1,26 @@
+{
+  "id": "1371",
+  "name_pl": "Żuraw (GHR) ze sztangielką na ławce GHD",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9213",
+    "9214"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) ze sztangielką na ławce GHD",
+    "gym": true,
+    "home": false,
+    "id": "1371",
+    "iso": true,
+    "photo_1": "9213",
+    "photo_2": "9214",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

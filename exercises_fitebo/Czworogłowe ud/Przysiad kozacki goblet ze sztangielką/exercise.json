@@ -1,0 +1,26 @@
+{
+  "id": "1723",
+  "name_pl": "Przysiad kozacki goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6365",
+    "6366"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kozacki goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1723",
+    "iso": false,
+    "photo_1": "6365",
+    "photo_2": "6366",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

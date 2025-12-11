@@ -1,0 +1,26 @@
+{
+  "id": "1614",
+  "name_pl": "Przysiad w oparciu o piłkę szwajcarską",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6440",
+    "6441"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad w oparciu o piłkę szwajcarską",
+    "gym": true,
+    "home": false,
+    "id": "1614",
+    "iso": false,
+    "photo_1": "6440",
+    "photo_2": "6441",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1891",
+  "name_pl": "Wyciskanie sztangielek nad głowę z zarzuceniem ze zgiętych nóg (Push Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9656",
+    "9657"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę z zarzuceniem ze zgiętych nóg (Push Press)",
+    "gym": false,
+    "home": true,
+    "id": "1891",
+    "iso": false,
+    "photo_1": "9656",
+    "photo_2": "9657",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

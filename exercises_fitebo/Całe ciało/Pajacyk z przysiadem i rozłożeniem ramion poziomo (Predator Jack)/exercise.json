@@ -1,0 +1,26 @@
+{
+  "id": "962",
+  "name_pl": "Pajacyk z przysiadem i rozłożeniem ramion poziomo (Predator Jack)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6707",
+    "6708"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pajacyk z przysiadem i rozłożeniem ramion poziomo (Predator Jack)",
+    "gym": false,
+    "home": true,
+    "id": "962",
+    "iso": false,
+    "photo_1": "6707",
+    "photo_2": "6708",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

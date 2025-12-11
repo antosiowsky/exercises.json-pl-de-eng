@@ -1,0 +1,26 @@
+{
+  "id": "2118",
+  "name_pl": "Wyciskanie sztangielek leżąc (wąski chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4975",
+    "4976"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie sztangielek leżąc (wąski chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "2118",
+    "iso": true,
+    "photo_1": "4975",
+    "photo_2": "4976",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1199",
+  "name_pl": "Odwodzenie prostej nogi do boku z gumą (długą) stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7233",
+    "7234"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku z gumą (długą) stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1199",
+    "iso": true,
+    "photo_1": "7233",
+    "photo_2": "7234",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

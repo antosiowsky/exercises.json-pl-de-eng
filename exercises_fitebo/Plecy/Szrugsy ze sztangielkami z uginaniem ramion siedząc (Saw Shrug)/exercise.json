@@ -1,0 +1,26 @@
+{
+  "id": "448",
+  "name_pl": "Szrugsy ze sztangielkami z uginaniem ramion siedząc (Saw Shrug)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3299",
+    "3300"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy ze sztangielkami z uginaniem ramion siedząc (Saw Shrug)",
+    "gym": false,
+    "home": true,
+    "id": "448",
+    "iso": true,
+    "photo_1": "3299",
+    "photo_2": "3300",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

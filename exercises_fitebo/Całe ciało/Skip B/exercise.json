@@ -1,0 +1,27 @@
+{
+  "id": "968",
+  "name_pl": "Skip B",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6731",
+    "6732",
+    "6734"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skip B",
+    "gym": false,
+    "home": true,
+    "id": "968",
+    "iso": false,
+    "photo_1": "6731",
+    "photo_2": "6732",
+    "photo_3": "6734",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

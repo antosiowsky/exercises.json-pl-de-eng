@@ -1,0 +1,25 @@
+{
+  "id": "267",
+  "name_pl": "Pasywny zwis na drążku",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7872"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pasywny zwis na drążku",
+    "gym": true,
+    "home": false,
+    "id": "267",
+    "iso": false,
+    "photo_1": "7872",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

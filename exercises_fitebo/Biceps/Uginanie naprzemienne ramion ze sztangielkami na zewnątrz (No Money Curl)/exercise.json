@@ -1,0 +1,27 @@
+{
+  "id": "522",
+  "name_pl": "Uginanie naprzemienne ramion ze sztangielkami na zewnątrz (No Money Curl)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3481",
+    "3487",
+    "3488"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie naprzemienne ramion ze sztangielkami na zewnątrz (No Money Curl)",
+    "gym": false,
+    "home": true,
+    "id": "522",
+    "iso": true,
+    "photo_1": "3481",
+    "photo_2": "3487",
+    "photo_3": "3488",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

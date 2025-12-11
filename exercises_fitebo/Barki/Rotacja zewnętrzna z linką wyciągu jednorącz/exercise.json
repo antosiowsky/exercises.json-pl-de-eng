@@ -1,0 +1,26 @@
+{
+  "id": "2061",
+  "name_pl": "Rotacja zewnętrzna z linką wyciągu jednorącz",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9437",
+    "9438"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rotacja zewnętrzna z linką wyciągu jednorącz",
+    "gym": true,
+    "home": false,
+    "id": "2061",
+    "iso": false,
+    "photo_1": "9437",
+    "photo_2": "9438",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

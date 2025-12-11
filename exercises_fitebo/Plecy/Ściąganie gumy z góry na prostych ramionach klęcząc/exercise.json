@@ -1,0 +1,26 @@
+{
+  "id": "308",
+  "name_pl": "Ściąganie gumy z góry na prostych ramionach klęcząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3646",
+    "3647"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie gumy z góry na prostych ramionach klęcząc",
+    "gym": false,
+    "home": true,
+    "id": "308",
+    "iso": true,
+    "photo_1": "3646",
+    "photo_2": "3647",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

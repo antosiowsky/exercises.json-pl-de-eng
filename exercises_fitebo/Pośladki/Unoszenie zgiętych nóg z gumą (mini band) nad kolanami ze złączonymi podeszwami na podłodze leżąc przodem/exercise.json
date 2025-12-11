@@ -1,0 +1,26 @@
+{
+  "id": "1155",
+  "name_pl": "Unoszenie zgiętych nóg z gumą (mini band) nad kolanami ze złączonymi podeszwami na podłodze leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7796",
+    "7797"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg z gumą (mini band) nad kolanami ze złączonymi podeszwami na podłodze leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1155",
+    "iso": true,
+    "photo_1": "7796",
+    "photo_2": "7797",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

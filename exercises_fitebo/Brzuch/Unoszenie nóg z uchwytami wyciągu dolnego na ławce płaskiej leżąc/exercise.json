@@ -1,0 +1,26 @@
+{
+  "id": "155",
+  "name_pl": "Unoszenie nóg z uchwytami wyciągu dolnego na ławce płaskiej leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7413",
+    "7414"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg z uchwytami wyciągu dolnego na ławce płaskiej leżąc",
+    "gym": true,
+    "home": false,
+    "id": "155",
+    "iso": true,
+    "photo_1": "7413",
+    "photo_2": "7414",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

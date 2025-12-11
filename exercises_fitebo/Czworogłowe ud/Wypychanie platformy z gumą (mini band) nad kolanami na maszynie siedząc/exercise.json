@@ -1,0 +1,26 @@
+{
+  "id": "1743",
+  "name_pl": "Wypychanie platformy z gumą (mini band) nad kolanami na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5958",
+    "5959"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie platformy z gumą (mini band) nad kolanami na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1743",
+    "iso": false,
+    "photo_1": "5958",
+    "photo_2": "5959",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

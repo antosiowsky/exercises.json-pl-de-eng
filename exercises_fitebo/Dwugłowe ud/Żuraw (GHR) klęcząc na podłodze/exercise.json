@@ -1,0 +1,26 @@
+{
+  "id": "1364",
+  "name_pl": "Żuraw (GHR) klęcząc na podłodze",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8877",
+    "8878"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) klęcząc na podłodze",
+    "gym": false,
+    "home": true,
+    "id": "1364",
+    "iso": true,
+    "photo_1": "8877",
+    "photo_2": "8878",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

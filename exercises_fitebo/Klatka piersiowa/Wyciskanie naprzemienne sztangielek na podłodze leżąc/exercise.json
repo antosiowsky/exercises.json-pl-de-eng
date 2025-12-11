@@ -1,0 +1,27 @@
+{
+  "id": "722",
+  "name_pl": "Wyciskanie naprzemienne sztangielek na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4007",
+    "4009",
+    "4010"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne sztangielek na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "722",
+    "iso": false,
+    "photo_1": "4007",
+    "photo_2": "4009",
+    "photo_3": "4010",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

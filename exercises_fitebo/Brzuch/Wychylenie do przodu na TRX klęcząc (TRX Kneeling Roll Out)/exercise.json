@@ -1,0 +1,26 @@
+{
+  "id": "198",
+  "name_pl": "Wychylenie do przodu na TRX klęcząc (TRX Kneeling Roll Out)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3209",
+    "3211"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wychylenie do przodu na TRX klęcząc (TRX Kneeling Roll Out)",
+    "gym": false,
+    "home": true,
+    "id": "198",
+    "iso": true,
+    "photo_1": "3209",
+    "photo_2": "3211",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

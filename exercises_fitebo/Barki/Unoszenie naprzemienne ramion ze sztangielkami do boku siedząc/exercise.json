@@ -1,0 +1,28 @@
+{
+  "id": "1947",
+  "name_pl": "Unoszenie naprzemienne ramion ze sztangielkami do boku siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5091",
+    "5093",
+    "5091",
+    "5094"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion ze sztangielkami do boku siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1947",
+    "iso": true,
+    "photo_1": "5091",
+    "photo_2": "5093",
+    "photo_3": "5091",
+    "photo_4": "5094",
+    "stat": false,
+    "use": false
+  }
+}

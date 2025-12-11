@@ -1,0 +1,26 @@
+{
+  "id": "1426",
+  "name_pl": "Swing ze sztangielką oburącz",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6168",
+    "6169"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Swing ze sztangielką oburącz",
+    "gym": false,
+    "home": true,
+    "id": "1426",
+    "iso": false,
+    "photo_1": "6168",
+    "photo_2": "6169",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

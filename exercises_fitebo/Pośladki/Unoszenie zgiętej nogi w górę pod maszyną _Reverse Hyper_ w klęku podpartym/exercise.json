@@ -1,0 +1,26 @@
+{
+  "id": "1062",
+  "name_pl": "Unoszenie zgiętej nogi w górę pod maszyną \"Reverse Hyper\" w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9226",
+    "9227"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę pod maszyną \"Reverse Hyper\" w klęku podpartym",
+    "gym": true,
+    "home": false,
+    "id": "1062",
+    "iso": true,
+    "photo_1": "9226",
+    "photo_2": "9227",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

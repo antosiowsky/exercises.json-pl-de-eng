@@ -1,0 +1,26 @@
+{
+  "id": "2137",
+  "name_pl": "Prostowanie ramion z gumą zza głowy jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5985",
+    "5986"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z gumą zza głowy jednorącz w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "2137",
+    "iso": true,
+    "photo_1": "5985",
+    "photo_2": "5986",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

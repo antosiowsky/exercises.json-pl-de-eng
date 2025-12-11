@@ -1,0 +1,26 @@
+{
+  "id": "1545",
+  "name_pl": "Hack przysiad wykroczny",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5515",
+    "5517"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Hack przysiad wykroczny",
+    "gym": true,
+    "home": false,
+    "id": "1545",
+    "iso": false,
+    "photo_1": "5515",
+    "photo_2": "5517",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

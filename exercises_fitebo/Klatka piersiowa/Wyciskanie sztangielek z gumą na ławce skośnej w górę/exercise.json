@@ -1,0 +1,26 @@
+{
+  "id": "662",
+  "name_pl": "Wyciskanie sztangielek z gumą na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3903",
+    "3904"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z gumą na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "662",
+    "iso": false,
+    "photo_1": "3903",
+    "photo_2": "3904",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

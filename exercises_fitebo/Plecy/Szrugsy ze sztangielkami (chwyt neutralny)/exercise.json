@@ -1,0 +1,26 @@
+{
+  "id": "435",
+  "name_pl": "Szrugsy ze sztangielkami (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3268",
+    "3269"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy ze sztangielkami (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "435",
+    "iso": true,
+    "photo_1": "3268",
+    "photo_2": "3269",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

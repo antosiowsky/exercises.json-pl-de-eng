@@ -1,0 +1,27 @@
+{
+  "id": "1758",
+  "name_pl": "Przysiad ze sztangielkami z wyciskaniem nad głowę",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6227",
+    "6228",
+    "6229"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangielkami z wyciskaniem nad głowę",
+    "gym": false,
+    "home": true,
+    "id": "1758",
+    "iso": false,
+    "photo_1": "6227",
+    "photo_2": "6228",
+    "photo_3": "6229",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

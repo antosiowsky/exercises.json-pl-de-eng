@@ -1,0 +1,27 @@
+{
+  "id": "600",
+  "name_pl": "Uginanie ramion ze sztangą łamaną (Siódemki)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3436",
+    "3439",
+    "3437"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą łamaną (Siódemki)",
+    "gym": true,
+    "home": false,
+    "id": "600",
+    "iso": true,
+    "photo_1": "3436",
+    "photo_2": "3439",
+    "photo_3": "3437",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2212",
+  "name_pl": "Wspięcia na palce ze sztangielkami siedząc jednonóż",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "14272",
+    "14273"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce ze sztangielkami siedząc jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "2212",
+    "iso": true,
+    "photo_1": "14272",
+    "photo_2": "14273",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

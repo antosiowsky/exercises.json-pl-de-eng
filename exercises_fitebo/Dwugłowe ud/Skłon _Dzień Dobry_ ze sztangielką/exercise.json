@@ -1,0 +1,26 @@
+{
+  "id": "1376",
+  "name_pl": "Skłon \"Dzień Dobry\" ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6496",
+    "6497"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1376",
+    "iso": true,
+    "photo_1": "6496",
+    "photo_2": "6497",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

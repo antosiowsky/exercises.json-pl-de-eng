@@ -1,0 +1,26 @@
+{
+  "id": "1795",
+  "name_pl": "Wyciskanie sztangi zza głowy z odłożeniem na stojak stojąc (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9044",
+    "9045"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi zza głowy z odłożeniem na stojak stojąc (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "1795",
+    "iso": false,
+    "photo_1": "9044",
+    "photo_2": "9045",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

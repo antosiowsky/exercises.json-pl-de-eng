@@ -1,0 +1,28 @@
+{
+  "id": "890",
+  "name_pl": "Wypychanie talerza sprzed klatki z uniesieniem do przodu stojąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4209",
+    "4210",
+    "4211",
+    "4210"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie talerza sprzed klatki z uniesieniem do przodu stojąc",
+    "gym": false,
+    "home": true,
+    "id": "890",
+    "iso": false,
+    "photo_1": "4209",
+    "photo_2": "4210",
+    "photo_3": "4211",
+    "photo_4": "4210",
+    "stat": false,
+    "use": false
+  }
+}

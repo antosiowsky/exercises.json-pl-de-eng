@@ -1,0 +1,26 @@
+{
+  "id": "1593",
+  "name_pl": "Przysiad ze sztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8826",
+    "8827"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangą",
+    "gym": true,
+    "home": false,
+    "id": "1593",
+    "iso": false,
+    "photo_1": "8826",
+    "photo_2": "8827",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

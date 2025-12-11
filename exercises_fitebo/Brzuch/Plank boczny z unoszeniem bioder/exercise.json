@@ -1,0 +1,26 @@
+{
+  "id": "12",
+  "name_pl": "Plank boczny z unoszeniem bioder",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2481",
+    "2480"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny z unoszeniem bioder",
+    "gym": false,
+    "home": true,
+    "id": "12",
+    "iso": false,
+    "photo_1": "2481",
+    "photo_2": "2480",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

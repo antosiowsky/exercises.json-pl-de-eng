@@ -1,0 +1,26 @@
+{
+  "id": "197",
+  "name_pl": "Piła na TRX w podporze przodem na rękach (TRX Body Saw)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3196",
+    "3197"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Piła na TRX w podporze przodem na rękach (TRX Body Saw)",
+    "gym": false,
+    "home": true,
+    "id": "197",
+    "iso": true,
+    "photo_1": "3196",
+    "photo_2": "3197",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

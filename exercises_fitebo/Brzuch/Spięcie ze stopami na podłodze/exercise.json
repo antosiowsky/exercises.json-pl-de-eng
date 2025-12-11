@@ -1,0 +1,26 @@
+{
+  "id": "84",
+  "name_pl": "Spięcie ze stopami na podłodze",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2581",
+    "2582"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie ze stopami na podłodze",
+    "gym": false,
+    "home": true,
+    "id": "84",
+    "iso": true,
+    "photo_1": "2581",
+    "photo_2": "2582",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

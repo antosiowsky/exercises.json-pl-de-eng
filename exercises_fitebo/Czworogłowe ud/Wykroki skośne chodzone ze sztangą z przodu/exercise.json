@@ -1,0 +1,26 @@
+{
+  "id": "1533",
+  "name_pl": "Wykroki skośne chodzone ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5750",
+    "5751"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki skośne chodzone ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "1533",
+    "iso": false,
+    "photo_1": "5750",
+    "photo_2": "5751",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

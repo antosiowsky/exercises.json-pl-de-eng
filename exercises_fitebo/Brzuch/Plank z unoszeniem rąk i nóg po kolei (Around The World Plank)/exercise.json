@@ -1,0 +1,28 @@
+{
+  "id": "11",
+  "name_pl": "Plank z unoszeniem rąk i nóg po kolei (Around The World Plank)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2888",
+    "2889",
+    "2890",
+    "2891"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z unoszeniem rąk i nóg po kolei (Around The World Plank)",
+    "gym": false,
+    "home": true,
+    "id": "11",
+    "iso": false,
+    "photo_1": "2888",
+    "photo_2": "2889",
+    "photo_3": "2890",
+    "photo_4": "2891",
+    "stat": true,
+    "use": false
+  }
+}

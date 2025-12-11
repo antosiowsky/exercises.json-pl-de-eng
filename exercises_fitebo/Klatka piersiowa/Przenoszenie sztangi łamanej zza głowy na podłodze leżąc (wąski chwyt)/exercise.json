@@ -1,0 +1,26 @@
+{
+  "id": "910",
+  "name_pl": "Przenoszenie sztangi łamanej zza głowy na podłodze leżąc (wąski chwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4267",
+    "4268"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangi łamanej zza głowy na podłodze leżąc (wąski chwyt)",
+    "gym": true,
+    "home": false,
+    "id": "910",
+    "iso": true,
+    "photo_1": "4267",
+    "photo_2": "4268",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

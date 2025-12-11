@@ -1,0 +1,27 @@
+{
+  "id": "1259",
+  "name_pl": "Wykrok do boku z odwodzeniem zgiętej nogi do boku",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8314",
+    "8315",
+    "8319"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z odwodzeniem zgiętej nogi do boku",
+    "gym": false,
+    "home": true,
+    "id": "1259",
+    "iso": false,
+    "photo_1": "8314",
+    "photo_2": "8315",
+    "photo_3": "8319",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1245",
+  "name_pl": "Unoszenie tułowia z odwodzeniem nogi do boku z gumą (mini band) na przedramieniu w podporze bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9622",
+    "9623"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z odwodzeniem nogi do boku z gumą (mini band) na przedramieniu w podporze bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1245",
+    "iso": true,
+    "photo_1": "9622",
+    "photo_2": "9623",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

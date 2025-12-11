@@ -1,0 +1,28 @@
+{
+  "id": "1980",
+  "name_pl": "Unoszenie naprzemienne ramion ze sztangielkami w kształcie litery Y w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4647",
+    "4649",
+    "4647",
+    "4650"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion ze sztangielkami w kształcie litery Y w opadzie tułowia",
+    "gym": false,
+    "home": true,
+    "id": "1980",
+    "iso": true,
+    "photo_1": "4647",
+    "photo_2": "4649",
+    "photo_3": "4647",
+    "photo_4": "4650",
+    "stat": false,
+    "use": false
+  }
+}

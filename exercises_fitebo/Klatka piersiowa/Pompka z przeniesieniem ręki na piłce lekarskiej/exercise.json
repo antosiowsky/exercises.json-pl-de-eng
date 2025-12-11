@@ -1,0 +1,27 @@
+{
+  "id": "877",
+  "name_pl": "Pompka z przeniesieniem ręki na piłce lekarskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4349",
+    "4347",
+    "4348"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka z przeniesieniem ręki na piłce lekarskiej",
+    "gym": true,
+    "home": false,
+    "id": "877",
+    "iso": false,
+    "photo_1": "4349",
+    "photo_2": "4347",
+    "photo_3": "4348",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

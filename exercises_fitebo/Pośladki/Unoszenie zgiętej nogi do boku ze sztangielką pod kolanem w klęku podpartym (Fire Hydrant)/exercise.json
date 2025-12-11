@@ -1,0 +1,26 @@
+{
+  "id": "1215",
+  "name_pl": "Unoszenie zgiętej nogi do boku ze sztangielką pod kolanem w klęku podpartym (Fire Hydrant)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8027",
+    "8028"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi do boku ze sztangielką pod kolanem w klęku podpartym (Fire Hydrant)",
+    "gym": false,
+    "home": true,
+    "id": "1215",
+    "iso": true,
+    "photo_1": "8027",
+    "photo_2": "8028",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

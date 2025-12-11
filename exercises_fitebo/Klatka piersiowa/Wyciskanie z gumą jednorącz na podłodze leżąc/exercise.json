@@ -1,0 +1,26 @@
+{
+  "id": "730",
+  "name_pl": "Wyciskanie z gumą jednorącz na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4089",
+    "4090"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie z gumą jednorącz na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "730",
+    "iso": false,
+    "photo_1": "4089",
+    "photo_2": "4090",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1673",
+  "name_pl": "Przysiad sumo goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7333",
+    "7331"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1673",
+    "iso": false,
+    "photo_1": "7333",
+    "photo_2": "7331",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

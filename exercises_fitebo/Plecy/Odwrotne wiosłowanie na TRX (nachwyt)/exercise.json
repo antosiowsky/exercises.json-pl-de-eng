@@ -1,0 +1,26 @@
+{
+  "id": "321",
+  "name_pl": "Odwrotne wiosłowanie na TRX (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3594",
+    "3595"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Odwrotne wiosłowanie na TRX (nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "321",
+    "iso": false,
+    "photo_1": "3594",
+    "photo_2": "3595",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

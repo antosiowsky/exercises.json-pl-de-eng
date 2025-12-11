@@ -1,0 +1,26 @@
+{
+  "id": "1586",
+  "name_pl": "Schodzenie bokiem z podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9270",
+    "9272"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Schodzenie bokiem z podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1586",
+    "iso": false,
+    "photo_1": "9270",
+    "photo_2": "9272",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

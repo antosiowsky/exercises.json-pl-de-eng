@@ -1,0 +1,26 @@
+{
+  "id": "449",
+  "name_pl": "Szrugsy z talerzami z uginaniem ramion siedząc (Saw Shrug)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3302",
+    "3303"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy z talerzami z uginaniem ramion siedząc (Saw Shrug)",
+    "gym": false,
+    "home": true,
+    "id": "449",
+    "iso": true,
+    "photo_1": "3302",
+    "photo_2": "3303",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

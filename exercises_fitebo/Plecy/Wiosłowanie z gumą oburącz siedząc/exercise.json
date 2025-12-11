@@ -1,0 +1,26 @@
+{
+  "id": "348",
+  "name_pl": "Wiosłowanie z gumą oburącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3717",
+    "3718"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą oburącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "348",
+    "iso": false,
+    "photo_1": "3717",
+    "photo_2": "3718",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

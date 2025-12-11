@@ -1,0 +1,26 @@
+{
+  "id": "1840",
+  "name_pl": "Wyciskanie sztangielki nad głowę jednorącz siedząc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4522",
+    "4523"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielki nad głowę jednorącz siedząc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "1840",
+    "iso": false,
+    "photo_1": "4522",
+    "photo_2": "4523",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

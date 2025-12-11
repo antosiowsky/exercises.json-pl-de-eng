@@ -1,0 +1,26 @@
+{
+  "id": "694",
+  "name_pl": "Wyciskanie sztangielek z rotacją jednorącz na podłodze leżąc (neutralny - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4021",
+    "4042"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją jednorącz na podłodze leżąc (neutralny - podchwyt)",
+    "gym": false,
+    "home": true,
+    "id": "694",
+    "iso": false,
+    "photo_1": "4021",
+    "photo_2": "4042",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

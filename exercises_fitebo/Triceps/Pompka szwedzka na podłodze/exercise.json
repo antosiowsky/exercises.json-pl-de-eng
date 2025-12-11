@@ -1,0 +1,26 @@
+{
+  "id": "2073",
+  "name_pl": "Pompka szwedzka na podłodze",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4929",
+    "4930"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na podłodze",
+    "gym": false,
+    "home": true,
+    "id": "2073",
+    "iso": false,
+    "photo_1": "4929",
+    "photo_2": "4930",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

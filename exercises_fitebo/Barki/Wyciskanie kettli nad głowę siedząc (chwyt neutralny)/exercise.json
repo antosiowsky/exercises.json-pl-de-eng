@@ -1,0 +1,26 @@
+{
+  "id": "1844",
+  "name_pl": "Wyciskanie kettli nad głowę siedząc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4555",
+    "4556"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kettli nad głowę siedząc (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "1844",
+    "iso": false,
+    "photo_1": "4555",
+    "photo_2": "4556",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "241",
+  "name_pl": "Spięcie z prostymi nogami opartymi o piłkę szwajcarską",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3096",
+    "3097"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z prostymi nogami opartymi o piłkę szwajcarską",
+    "gym": true,
+    "home": false,
+    "id": "241",
+    "iso": true,
+    "photo_1": "3096",
+    "photo_2": "3097",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

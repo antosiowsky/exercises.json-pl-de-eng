@@ -1,0 +1,26 @@
+{
+  "id": "335",
+  "name_pl": "Wiosłowanie z linką wyciągu dolnego stojąc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4795",
+    "4796"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu dolnego stojąc",
+    "gym": true,
+    "home": false,
+    "id": "335",
+    "iso": false,
+    "photo_1": "4795",
+    "photo_2": "4796",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

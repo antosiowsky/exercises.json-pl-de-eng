@@ -1,0 +1,28 @@
+{
+  "id": "978",
+  "name_pl": "Rwanie sztangi ze zwisu (Barbell Hang Snatch)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8374",
+    "8364",
+    "8368",
+    "8369"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rwanie sztangi ze zwisu (Barbell Hang Snatch)",
+    "gym": true,
+    "home": false,
+    "id": "978",
+    "iso": false,
+    "photo_1": "8374",
+    "photo_2": "8364",
+    "photo_3": "8368",
+    "photo_4": "8369",
+    "stat": false,
+    "use": false
+  }
+}

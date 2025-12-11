@@ -1,0 +1,26 @@
+{
+  "id": "1409",
+  "name_pl": "Opad nordycki od zgiętych do prostych bioder na ławce",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8269",
+    "8268"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opad nordycki od zgiętych do prostych bioder na ławce",
+    "gym": true,
+    "home": false,
+    "id": "1409",
+    "iso": true,
+    "photo_1": "8269",
+    "photo_2": "8268",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

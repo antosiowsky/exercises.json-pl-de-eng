@@ -1,0 +1,26 @@
+{
+  "id": "382",
+  "name_pl": "Wiosłowanie sztangą giętą na ławce płaskiej leżąc przodem (Cambered Bar Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8997",
+    "8998"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangą giętą na ławce płaskiej leżąc przodem (Cambered Bar Row)",
+    "gym": true,
+    "home": false,
+    "id": "382",
+    "iso": false,
+    "photo_1": "8997",
+    "photo_2": "8998",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

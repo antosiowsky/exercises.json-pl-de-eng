@@ -1,0 +1,27 @@
+{
+  "id": "231",
+  "name_pl": "Przenoszenie piłki szwajcarskiej z rąk do nóg",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3032",
+    "3034",
+    "3035"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie piłki szwajcarskiej z rąk do nóg",
+    "gym": true,
+    "home": false,
+    "id": "231",
+    "iso": true,
+    "photo_1": "3032",
+    "photo_2": "3034",
+    "photo_3": "3035",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

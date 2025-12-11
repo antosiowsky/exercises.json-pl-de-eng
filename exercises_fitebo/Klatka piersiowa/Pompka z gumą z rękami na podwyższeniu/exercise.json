@@ -1,0 +1,26 @@
+{
+  "id": "873",
+  "name_pl": "Pompka z gumą z rękami na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "9554",
+    "9555"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka z gumą z rękami na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "873",
+    "iso": false,
+    "photo_1": "9554",
+    "photo_2": "9555",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

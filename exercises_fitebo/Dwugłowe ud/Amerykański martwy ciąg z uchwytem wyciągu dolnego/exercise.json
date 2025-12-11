@@ -1,0 +1,26 @@
+{
+  "id": "1279",
+  "name_pl": "Amerykański martwy ciąg z uchwytem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8982",
+    "8980"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański martwy ciąg z uchwytem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1279",
+    "iso": false,
+    "photo_1": "8982",
+    "photo_2": "8980",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

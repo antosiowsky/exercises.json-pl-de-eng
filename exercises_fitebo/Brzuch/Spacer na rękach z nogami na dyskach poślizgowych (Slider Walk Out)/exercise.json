@@ -1,0 +1,28 @@
+{
+  "id": "180",
+  "name_pl": "Spacer na rękach z nogami na dyskach poślizgowych (Slider Walk Out)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2743",
+    "2744",
+    "2745",
+    "2746"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Spacer na rękach z nogami na dyskach poślizgowych (Slider Walk Out)",
+    "gym": false,
+    "home": true,
+    "id": "180",
+    "iso": false,
+    "photo_1": "2743",
+    "photo_2": "2744",
+    "photo_3": "2745",
+    "photo_4": "2746",
+    "stat": false,
+    "use": false
+  }
+}

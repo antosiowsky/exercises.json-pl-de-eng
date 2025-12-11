@@ -1,0 +1,26 @@
+{
+  "id": "1892",
+  "name_pl": "Unoszenie ramion do przodu",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4595",
+    "4596"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion do przodu",
+    "gym": false,
+    "home": true,
+    "id": "1892",
+    "iso": true,
+    "photo_1": "4595",
+    "photo_2": "4596",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

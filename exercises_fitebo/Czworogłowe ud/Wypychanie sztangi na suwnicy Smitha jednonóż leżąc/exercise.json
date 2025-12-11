@@ -1,0 +1,26 @@
+{
+  "id": "1750",
+  "name_pl": "Wypychanie sztangi na suwnicy Smitha jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8686",
+    "8687"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie sztangi na suwnicy Smitha jednonóż leżąc",
+    "gym": true,
+    "home": false,
+    "id": "1750",
+    "iso": false,
+    "photo_1": "8686",
+    "photo_2": "8687",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2023",
+  "name_pl": "Podciąganie linki wyciągu dolnego wzdłuż tułowia jednorącz",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7934",
+    "7935"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie linki wyciągu dolnego wzdłuż tułowia jednorącz",
+    "gym": true,
+    "home": false,
+    "id": "2023",
+    "iso": false,
+    "photo_1": "7934",
+    "photo_2": "7935",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

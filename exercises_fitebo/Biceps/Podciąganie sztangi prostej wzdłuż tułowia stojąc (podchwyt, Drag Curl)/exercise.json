@@ -1,0 +1,26 @@
+{
+  "id": "580",
+  "name_pl": "Podciąganie sztangi prostej wzdłuż tułowia stojąc (podchwyt, Drag Curl)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3459",
+    "3460"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangi prostej wzdłuż tułowia stojąc (podchwyt, Drag Curl)",
+    "gym": true,
+    "home": false,
+    "id": "580",
+    "iso": false,
+    "photo_1": "3459",
+    "photo_2": "3460",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

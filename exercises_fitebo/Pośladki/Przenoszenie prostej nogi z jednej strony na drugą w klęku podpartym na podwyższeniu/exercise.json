@@ -1,0 +1,27 @@
+{
+  "id": "1193",
+  "name_pl": "Przenoszenie prostej nogi z jednej strony na drugą w klęku podpartym na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8009",
+    "8010",
+    "8011"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie prostej nogi z jednej strony na drugą w klęku podpartym na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "1193",
+    "iso": true,
+    "photo_1": "8009",
+    "photo_2": "8010",
+    "photo_3": "8011",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

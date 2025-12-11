@@ -1,0 +1,26 @@
+{
+  "id": "1380",
+  "name_pl": "Skłon \"Dzień Dobry\" z gumą (długą) na szyi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6494",
+    "6495"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" z gumą (długą) na szyi",
+    "gym": false,
+    "home": true,
+    "id": "1380",
+    "iso": true,
+    "photo_1": "6494",
+    "photo_2": "6495",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

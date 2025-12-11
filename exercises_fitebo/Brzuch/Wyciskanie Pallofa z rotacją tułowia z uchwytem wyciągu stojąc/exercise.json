@@ -1,0 +1,28 @@
+{
+  "id": "81",
+  "name_pl": "Wyciskanie Pallofa z rotacją tułowia z uchwytem wyciągu stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4161",
+    "4162",
+    "4163",
+    "4162"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie Pallofa z rotacją tułowia z uchwytem wyciągu stojąc",
+    "gym": true,
+    "home": false,
+    "id": "81",
+    "iso": false,
+    "photo_1": "4161",
+    "photo_2": "4162",
+    "photo_3": "4163",
+    "photo_4": "4162",
+    "stat": false,
+    "use": false
+  }
+}

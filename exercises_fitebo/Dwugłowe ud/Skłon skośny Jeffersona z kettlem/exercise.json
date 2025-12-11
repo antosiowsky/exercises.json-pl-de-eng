@@ -1,0 +1,28 @@
+{
+  "id": "1421",
+  "name_pl": "Skłon skośny Jeffersona z kettlem",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8223",
+    "8224",
+    "8225",
+    "8226"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon skośny Jeffersona z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1421",
+    "iso": false,
+    "photo_1": "8223",
+    "photo_2": "8224",
+    "photo_3": "8225",
+    "photo_4": "8226",
+    "stat": false,
+    "use": false
+  }
+}

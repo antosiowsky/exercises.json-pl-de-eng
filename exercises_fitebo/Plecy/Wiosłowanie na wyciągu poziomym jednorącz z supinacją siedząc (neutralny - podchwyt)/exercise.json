@@ -1,0 +1,26 @@
+{
+  "id": "364",
+  "name_pl": "Wiosłowanie na wyciągu poziomym jednorącz z supinacją siedząc (neutralny - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4835",
+    "4838"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na wyciągu poziomym jednorącz z supinacją siedząc (neutralny - podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "364",
+    "iso": false,
+    "photo_1": "4835",
+    "photo_2": "4838",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

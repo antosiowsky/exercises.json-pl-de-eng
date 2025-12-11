@@ -1,0 +1,27 @@
+{
+  "id": "851",
+  "name_pl": "Rozpiętki naprzemienne ze sztangielkami na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4187",
+    "4189",
+    "4190"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki naprzemienne ze sztangielkami na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "851",
+    "iso": false,
+    "photo_1": "4187",
+    "photo_2": "4189",
+    "photo_3": "4190",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

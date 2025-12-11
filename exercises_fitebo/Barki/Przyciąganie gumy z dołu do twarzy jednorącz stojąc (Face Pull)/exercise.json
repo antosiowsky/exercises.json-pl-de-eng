@@ -1,0 +1,26 @@
+{
+  "id": "2028",
+  "name_pl": "Przyciąganie gumy z dołu do twarzy jednorącz stojąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6019",
+    "6020"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie gumy z dołu do twarzy jednorącz stojąc (Face Pull)",
+    "gym": false,
+    "home": true,
+    "id": "2028",
+    "iso": false,
+    "photo_1": "6019",
+    "photo_2": "6020",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

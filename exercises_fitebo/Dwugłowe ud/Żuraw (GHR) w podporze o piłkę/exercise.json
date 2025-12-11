@@ -1,0 +1,26 @@
+{
+  "id": "1367",
+  "name_pl": "Żuraw (GHR) w podporze o piłkę",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8880",
+    "8882"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) w podporze o piłkę",
+    "gym": true,
+    "home": false,
+    "id": "1367",
+    "iso": true,
+    "photo_1": "8880",
+    "photo_2": "8882",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

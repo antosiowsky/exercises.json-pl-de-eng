@@ -1,0 +1,26 @@
+{
+  "id": "158",
+  "name_pl": "Unoszenie kolan na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2812",
+    "2813"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie kolan na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "158",
+    "iso": true,
+    "photo_1": "2812",
+    "photo_2": "2813",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

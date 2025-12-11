@@ -1,0 +1,26 @@
+{
+  "id": "903",
+  "name_pl": "Przenoszenie sztangielki z gumą zza głowy w poprzek ławki leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4236",
+    "4237"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangielki z gumą zza głowy w poprzek ławki leżąc",
+    "gym": true,
+    "home": false,
+    "id": "903",
+    "iso": true,
+    "photo_1": "4236",
+    "photo_2": "4237",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "867",
+  "name_pl": "Pompka na kolanach",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4314",
+    "4315"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka na kolanach",
+    "gym": false,
+    "home": true,
+    "id": "867",
+    "iso": false,
+    "photo_1": "4314",
+    "photo_2": "4315",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

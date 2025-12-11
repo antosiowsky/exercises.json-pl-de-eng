@@ -1,0 +1,26 @@
+{
+  "id": "1084",
+  "name_pl": "Odwodzenie prostej nogi do tyłu z opaską wyciągu dolnego w pochyleniu",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8944",
+    "8946"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do tyłu z opaską wyciągu dolnego w pochyleniu",
+    "gym": true,
+    "home": false,
+    "id": "1084",
+    "iso": true,
+    "photo_1": "8944",
+    "photo_2": "8946",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

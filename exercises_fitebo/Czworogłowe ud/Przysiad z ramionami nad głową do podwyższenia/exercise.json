@@ -1,0 +1,26 @@
+{
+  "id": "1700",
+  "name_pl": "Przysiad z ramionami nad głową do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5914",
+    "5915"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z ramionami nad głową do podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1700",
+    "iso": false,
+    "photo_1": "5914",
+    "photo_2": "5915",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

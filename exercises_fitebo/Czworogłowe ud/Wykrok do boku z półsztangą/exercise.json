@@ -1,0 +1,26 @@
+{
+  "id": "1739",
+  "name_pl": "Wykrok do boku z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9176",
+    "9177"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1739",
+    "iso": false,
+    "photo_1": "9176",
+    "photo_2": "9177",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

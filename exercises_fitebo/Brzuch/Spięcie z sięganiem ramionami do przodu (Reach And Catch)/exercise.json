@@ -1,0 +1,26 @@
+{
+  "id": "100",
+  "name_pl": "Spięcie z sięganiem ramionami do przodu (Reach And Catch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4175",
+    "4176"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z sięganiem ramionami do przodu (Reach And Catch)",
+    "gym": false,
+    "home": true,
+    "id": "100",
+    "iso": true,
+    "photo_1": "4175",
+    "photo_2": "4176",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

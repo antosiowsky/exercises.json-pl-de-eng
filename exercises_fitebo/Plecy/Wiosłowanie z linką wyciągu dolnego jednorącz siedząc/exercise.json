@@ -1,0 +1,26 @@
+{
+  "id": "367",
+  "name_pl": "Wiosłowanie z linką wyciągu dolnego jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4813",
+    "4814"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z linką wyciągu dolnego jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "367",
+    "iso": false,
+    "photo_1": "4813",
+    "photo_2": "4814",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

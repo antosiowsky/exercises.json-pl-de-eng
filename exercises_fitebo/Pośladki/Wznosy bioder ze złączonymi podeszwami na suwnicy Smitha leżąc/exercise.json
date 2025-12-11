@@ -1,0 +1,26 @@
+{
+  "id": "997",
+  "name_pl": "Wznosy bioder ze złączonymi podeszwami na suwnicy Smitha leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8691",
+    "8692"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze złączonymi podeszwami na suwnicy Smitha leżąc",
+    "gym": true,
+    "home": false,
+    "id": "997",
+    "iso": false,
+    "photo_1": "8691",
+    "photo_2": "8692",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

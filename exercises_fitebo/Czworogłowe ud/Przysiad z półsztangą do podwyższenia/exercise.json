@@ -1,0 +1,26 @@
+{
+  "id": "1699",
+  "name_pl": "Przysiad z półsztangą do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9120",
+    "9121"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z półsztangą do podwyższenia",
+    "gym": true,
+    "home": false,
+    "id": "1699",
+    "iso": false,
+    "photo_1": "9120",
+    "photo_2": "9121",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

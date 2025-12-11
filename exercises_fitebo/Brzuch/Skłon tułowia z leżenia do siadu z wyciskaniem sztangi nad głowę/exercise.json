@@ -1,0 +1,26 @@
+{
+  "id": "56",
+  "name_pl": "Skłon tułowia z leżenia do siadu z wyciskaniem sztangi nad głowę",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2569",
+    "2570"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon tułowia z leżenia do siadu z wyciskaniem sztangi nad głowę",
+    "gym": true,
+    "home": false,
+    "id": "56",
+    "iso": true,
+    "photo_1": "2569",
+    "photo_2": "2570",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

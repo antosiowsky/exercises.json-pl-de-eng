@@ -1,0 +1,26 @@
+{
+  "id": "562",
+  "name_pl": "Uginanie ramion ze sztangielką jednorącz na modlitewniku (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6145",
+    "6146"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielką jednorącz na modlitewniku (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "562",
+    "iso": true,
+    "photo_1": "6145",
+    "photo_2": "6146",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

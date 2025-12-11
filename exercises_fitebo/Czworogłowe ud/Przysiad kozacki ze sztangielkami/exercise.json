@@ -1,0 +1,26 @@
+{
+  "id": "1721",
+  "name_pl": "Przysiad kozacki ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6363",
+    "6364"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kozacki ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1721",
+    "iso": false,
+    "photo_1": "6363",
+    "photo_2": "6364",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

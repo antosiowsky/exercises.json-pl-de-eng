@@ -1,0 +1,27 @@
+{
+  "id": "1262",
+  "name_pl": "Wykrok do boku z gumą (mini band) nad kolanami z odwodzeniem prostej nogi do boku",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8320",
+    "8321",
+    "8323"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z gumą (mini band) nad kolanami z odwodzeniem prostej nogi do boku",
+    "gym": false,
+    "home": true,
+    "id": "1262",
+    "iso": false,
+    "photo_1": "8320",
+    "photo_2": "8321",
+    "photo_3": "8323",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

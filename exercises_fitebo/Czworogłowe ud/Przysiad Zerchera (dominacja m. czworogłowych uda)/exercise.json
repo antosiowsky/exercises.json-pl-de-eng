@@ -1,0 +1,26 @@
+{
+  "id": "1632",
+  "name_pl": "Przysiad Zerchera (dominacja m. czworogłowych uda)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7305",
+    "7306"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Zerchera (dominacja m. czworogłowych uda)",
+    "gym": true,
+    "home": false,
+    "id": "1632",
+    "iso": false,
+    "photo_1": "7305",
+    "photo_2": "7306",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

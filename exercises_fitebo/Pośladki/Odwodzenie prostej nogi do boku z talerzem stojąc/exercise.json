@@ -1,0 +1,26 @@
+{
+  "id": "1196",
+  "name_pl": "Odwodzenie prostej nogi do boku z talerzem stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7213",
+    "7214"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku z talerzem stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1196",
+    "iso": true,
+    "photo_1": "7213",
+    "photo_2": "7214",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1751",
+  "name_pl": "Prostowanie nóg na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5965",
+    "5966"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie nóg na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1751",
+    "iso": true,
+    "photo_1": "5965",
+    "photo_2": "5966",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

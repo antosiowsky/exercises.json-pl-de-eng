@@ -1,0 +1,26 @@
+{
+  "id": "272",
+  "name_pl": "Podciąganie na maszynie z odciążeniem (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8746",
+    "8747"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie na maszynie z odciążeniem (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "272",
+    "iso": false,
+    "photo_1": "8746",
+    "photo_2": "8747",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

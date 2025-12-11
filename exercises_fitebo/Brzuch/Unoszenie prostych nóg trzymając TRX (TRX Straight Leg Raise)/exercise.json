@@ -1,0 +1,26 @@
+{
+  "id": "190",
+  "name_pl": "Unoszenie prostych nóg trzymając TRX (TRX Straight Leg Raise)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3221",
+    "3222"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostych nóg trzymając TRX (TRX Straight Leg Raise)",
+    "gym": false,
+    "home": true,
+    "id": "190",
+    "iso": true,
+    "photo_1": "3221",
+    "photo_2": "3222",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1647",
+  "name_pl": "Przysiad ze sztangielkami jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5853",
+    "5852"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangielkami jednonóż (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1647",
+    "iso": false,
+    "photo_1": "5853",
+    "photo_2": "5852",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "171",
+  "name_pl": "Padnij powstań na dyskach poślizgowych (Slider Burpee)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2722",
+    "2723",
+    "2724",
+    "2725"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Padnij powstań na dyskach poślizgowych (Slider Burpee)",
+    "gym": false,
+    "home": true,
+    "id": "171",
+    "iso": false,
+    "photo_1": "2722",
+    "photo_2": "2723",
+    "photo_3": "2724",
+    "photo_4": "2725",
+    "stat": false,
+    "use": false
+  }
+}

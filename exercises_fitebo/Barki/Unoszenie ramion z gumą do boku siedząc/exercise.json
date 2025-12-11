@@ -1,0 +1,26 @@
+{
+  "id": "1949",
+  "name_pl": "Unoszenie ramion z gumą do boku siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5098",
+    "5099"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z gumą do boku siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1949",
+    "iso": true,
+    "photo_1": "5098",
+    "photo_2": "5099",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

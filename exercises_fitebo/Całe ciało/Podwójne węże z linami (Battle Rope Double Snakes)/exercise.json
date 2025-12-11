@@ -1,0 +1,27 @@
+{
+  "id": "945",
+  "name_pl": "Podwójne węże z linami (Battle Rope Double Snakes)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8564",
+    "8565",
+    "8566"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podwójne węże z linami (Battle Rope Double Snakes)",
+    "gym": true,
+    "home": false,
+    "id": "945",
+    "iso": false,
+    "photo_1": "8564",
+    "photo_2": "8565",
+    "photo_3": "8566",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "164",
+  "name_pl": "Unoszenie kolan do łokci stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2694",
+    "2697"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie kolan do łokci stojąc",
+    "gym": false,
+    "home": true,
+    "id": "164",
+    "iso": true,
+    "photo_1": "2694",
+    "photo_2": "2697",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

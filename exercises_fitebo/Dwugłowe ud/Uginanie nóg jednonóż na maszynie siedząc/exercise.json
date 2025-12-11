@@ -1,0 +1,26 @@
+{
+  "id": "1394",
+  "name_pl": "Uginanie nóg jednonóż na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "5972",
+    "5973"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg jednonóż na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1394",
+    "iso": true,
+    "photo_1": "5972",
+    "photo_2": "5973",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "381",
+  "name_pl": "Wiosłowanie sztangielką jednorącz na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3322",
+    "3323"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką jednorącz na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "381",
+    "iso": false,
+    "photo_1": "3322",
+    "photo_2": "3323",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

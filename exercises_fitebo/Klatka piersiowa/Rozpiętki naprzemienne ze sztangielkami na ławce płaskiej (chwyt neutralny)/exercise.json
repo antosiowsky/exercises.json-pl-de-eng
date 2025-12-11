@@ -1,0 +1,27 @@
+{
+  "id": "785",
+  "name_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce płaskiej (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3839",
+    "3840",
+    "3841"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce płaskiej (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "785",
+    "iso": true,
+    "photo_1": "3839",
+    "photo_2": "3840",
+    "photo_3": "3841",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

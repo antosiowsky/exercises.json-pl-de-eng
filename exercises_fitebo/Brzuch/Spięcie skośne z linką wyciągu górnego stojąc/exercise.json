@@ -1,0 +1,26 @@
+{
+  "id": "66",
+  "name_pl": "Spięcie skośne z linką wyciągu górnego stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7382",
+    "7383"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie skośne z linką wyciągu górnego stojąc",
+    "gym": true,
+    "home": false,
+    "id": "66",
+    "iso": true,
+    "photo_1": "7382",
+    "photo_2": "7383",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

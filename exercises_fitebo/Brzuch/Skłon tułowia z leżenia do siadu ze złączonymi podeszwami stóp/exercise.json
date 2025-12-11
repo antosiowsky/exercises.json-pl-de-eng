@@ -1,0 +1,26 @@
+{
+  "id": "54",
+  "name_pl": "Skłon tułowia z leżenia do siadu ze złączonymi podeszwami stóp",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2567",
+    "2568"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon tułowia z leżenia do siadu ze złączonymi podeszwami stóp",
+    "gym": false,
+    "home": true,
+    "id": "54",
+    "iso": true,
+    "photo_1": "2567",
+    "photo_2": "2568",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

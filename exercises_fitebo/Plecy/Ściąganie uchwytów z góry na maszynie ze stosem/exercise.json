@@ -1,0 +1,26 @@
+{
+  "id": "293",
+  "name_pl": "Ściąganie uchwytów z góry na maszynie ze stosem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "5930",
+    "5931"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytów z góry na maszynie ze stosem",
+    "gym": true,
+    "home": false,
+    "id": "293",
+    "iso": false,
+    "photo_1": "5930",
+    "photo_2": "5931",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1390",
+  "name_pl": "Uginanie nóg jednonóż na maszynie leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6620",
+    "6622"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg jednonóż na maszynie leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1390",
+    "iso": true,
+    "photo_1": "6620",
+    "photo_2": "6622",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

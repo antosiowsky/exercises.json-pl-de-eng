@@ -1,0 +1,26 @@
+{
+  "id": "1569",
+  "name_pl": "Przysiad bułgarski ze sztangielką (kontralateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9302",
+    "9303"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad bułgarski ze sztangielką (kontralateralnie)",
+    "gym": false,
+    "home": true,
+    "id": "1569",
+    "iso": false,
+    "photo_1": "9302",
+    "photo_2": "9303",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

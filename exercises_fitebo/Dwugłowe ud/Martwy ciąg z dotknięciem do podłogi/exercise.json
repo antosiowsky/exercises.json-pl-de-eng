@@ -1,0 +1,26 @@
+{
+  "id": "1319",
+  "name_pl": "Martwy ciąg z dotknięciem do podłogi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8128",
+    "8129"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z dotknięciem do podłogi",
+    "gym": false,
+    "home": true,
+    "id": "1319",
+    "iso": false,
+    "photo_1": "8128",
+    "photo_2": "8129",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

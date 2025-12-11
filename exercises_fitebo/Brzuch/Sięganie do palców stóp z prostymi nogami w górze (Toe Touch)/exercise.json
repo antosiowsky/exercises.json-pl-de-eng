@@ -1,0 +1,26 @@
+{
+  "id": "102",
+  "name_pl": "Sięganie do palców stóp z prostymi nogami w górze (Toe Touch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2611",
+    "2612"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Sięganie do palców stóp z prostymi nogami w górze (Toe Touch)",
+    "gym": false,
+    "home": true,
+    "id": "102",
+    "iso": true,
+    "photo_1": "2611",
+    "photo_2": "2612",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

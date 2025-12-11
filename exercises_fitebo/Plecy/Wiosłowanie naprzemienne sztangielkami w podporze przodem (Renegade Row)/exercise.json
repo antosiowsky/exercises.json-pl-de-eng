@@ -1,0 +1,28 @@
+{
+  "id": "393",
+  "name_pl": "Wiosłowanie naprzemienne sztangielkami w podporze przodem (Renegade Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3342",
+    "3343",
+    "3342",
+    "3345"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie naprzemienne sztangielkami w podporze przodem (Renegade Row)",
+    "gym": false,
+    "home": true,
+    "id": "393",
+    "iso": false,
+    "photo_1": "3342",
+    "photo_2": "3343",
+    "photo_3": "3342",
+    "photo_4": "3345",
+    "stat": false,
+    "use": false
+  }
+}

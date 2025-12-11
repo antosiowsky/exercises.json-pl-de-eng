@@ -1,0 +1,28 @@
+{
+  "id": "751",
+  "name_pl": "Wyciskanie naprzemienne na maszynie ze stosem poziomo siedząc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6081",
+    "6088",
+    "6081",
+    "6087"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne na maszynie ze stosem poziomo siedząc",
+    "gym": true,
+    "home": false,
+    "id": "751",
+    "iso": false,
+    "photo_1": "6081",
+    "photo_2": "6088",
+    "photo_3": "6081",
+    "photo_4": "6087",
+    "stat": false,
+    "use": false
+  }
+}

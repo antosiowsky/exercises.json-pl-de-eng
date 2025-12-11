@@ -1,0 +1,26 @@
+{
+  "id": "1655",
+  "name_pl": "Przysiad Zerchera jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5872",
+    "5873"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Zerchera jednonóż (Pistol Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1655",
+    "iso": false,
+    "photo_1": "5872",
+    "photo_2": "5873",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

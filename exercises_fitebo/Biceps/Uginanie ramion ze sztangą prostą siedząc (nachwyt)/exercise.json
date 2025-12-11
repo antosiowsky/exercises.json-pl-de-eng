@@ -1,0 +1,26 @@
+{
+  "id": "477",
+  "name_pl": "Uginanie ramion ze sztangą prostą siedząc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3523",
+    "3524"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą prostą siedząc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "477",
+    "iso": true,
+    "photo_1": "3523",
+    "photo_2": "3524",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

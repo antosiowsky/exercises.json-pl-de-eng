@@ -1,0 +1,26 @@
+{
+  "id": "1971",
+  "name_pl": "Odwrotne rozpiętki ze sztangielką jednorącz klęcząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5089",
+    "5090"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki ze sztangielką jednorącz klęcząc",
+    "gym": false,
+    "home": true,
+    "id": "1971",
+    "iso": true,
+    "photo_1": "5089",
+    "photo_2": "5090",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

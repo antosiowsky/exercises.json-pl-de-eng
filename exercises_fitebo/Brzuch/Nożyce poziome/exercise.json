@@ -1,0 +1,26 @@
+{
+  "id": "253",
+  "name_pl": "Nożyce poziome",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3144",
+    "3145"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Nożyce poziome",
+    "gym": false,
+    "home": true,
+    "id": "253",
+    "iso": true,
+    "photo_1": "3144",
+    "photo_2": "3145",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

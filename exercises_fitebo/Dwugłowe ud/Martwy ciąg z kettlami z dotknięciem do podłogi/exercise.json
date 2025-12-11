@@ -1,0 +1,26 @@
+{
+  "id": "1324",
+  "name_pl": "Martwy ciąg z kettlami z dotknięciem do podłogi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8172",
+    "8173"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z kettlami z dotknięciem do podłogi",
+    "gym": true,
+    "home": false,
+    "id": "1324",
+    "iso": false,
+    "photo_1": "8172",
+    "photo_2": "8173",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

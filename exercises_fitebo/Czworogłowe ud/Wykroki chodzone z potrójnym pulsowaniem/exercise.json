@@ -1,0 +1,28 @@
+{
+  "id": "1491",
+  "name_pl": "Wykroki chodzone z potrójnym pulsowaniem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5486",
+    "5487",
+    "5488",
+    "5487"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki chodzone z potrójnym pulsowaniem",
+    "gym": false,
+    "home": true,
+    "id": "1491",
+    "iso": false,
+    "photo_1": "5486",
+    "photo_2": "5487",
+    "photo_3": "5488",
+    "photo_4": "5487",
+    "stat": false,
+    "use": false
+  }
+}

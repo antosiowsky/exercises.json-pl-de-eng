@@ -1,0 +1,26 @@
+{
+  "id": "472",
+  "name_pl": "Uginanie ramion ze sztangą łamaną stojąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3436",
+    "3437"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą łamaną stojąc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "472",
+    "iso": true,
+    "photo_1": "3436",
+    "photo_2": "3437",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

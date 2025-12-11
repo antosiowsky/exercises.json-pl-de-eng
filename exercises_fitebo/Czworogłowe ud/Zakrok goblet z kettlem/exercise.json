@@ -1,0 +1,26 @@
+{
+  "id": "1499",
+  "name_pl": "Zakrok goblet z kettlem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5425",
+    "5427"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok goblet z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1499",
+    "iso": false,
+    "photo_1": "5425",
+    "photo_2": "5427",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

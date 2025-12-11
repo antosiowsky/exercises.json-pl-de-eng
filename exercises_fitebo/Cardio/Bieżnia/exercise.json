@@ -1,0 +1,25 @@
+{
+  "id": "2191",
+  "name_pl": "Bieżnia",
+  "name_en": null,
+  "muscle_group_id": "99",
+  "muscle_group_name": "Cardio",
+  "photos": [
+    "4753"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Bieżnia",
+    "gym": false,
+    "home": false,
+    "id": "2191",
+    "iso": false,
+    "photo_1": "4753",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

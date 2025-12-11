@@ -1,0 +1,26 @@
+{
+  "id": "1294",
+  "name_pl": "Rumuński martwy ciąg z kettlami (z dotykaniem ud)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8166",
+    "8167"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rumuński martwy ciąg z kettlami (z dotykaniem ud)",
+    "gym": true,
+    "home": false,
+    "id": "1294",
+    "iso": false,
+    "photo_1": "8166",
+    "photo_2": "8167",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

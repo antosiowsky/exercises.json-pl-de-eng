@@ -1,0 +1,26 @@
+{
+  "id": "234",
+  "name_pl": "Przyciąganie kolan z nogami na piłce szwajcarskiej w podporze przodem",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3049",
+    "3050"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie kolan z nogami na piłce szwajcarskiej w podporze przodem",
+    "gym": true,
+    "home": false,
+    "id": "234",
+    "iso": true,
+    "photo_1": "3049",
+    "photo_2": "3050",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

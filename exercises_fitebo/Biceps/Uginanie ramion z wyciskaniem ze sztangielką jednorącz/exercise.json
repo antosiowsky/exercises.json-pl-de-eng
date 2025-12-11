@@ -1,0 +1,27 @@
+{
+  "id": "566",
+  "name_pl": "Uginanie ramion z wyciskaniem ze sztangielką jednorącz",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3507",
+    "3508",
+    "3509"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uginanie ramion z wyciskaniem ze sztangielką jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "566",
+    "iso": false,
+    "photo_1": "3507",
+    "photo_2": "3508",
+    "photo_3": "3509",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

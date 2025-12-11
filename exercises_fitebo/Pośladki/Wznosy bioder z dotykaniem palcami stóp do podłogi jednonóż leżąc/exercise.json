@@ -1,0 +1,26 @@
+{
+  "id": "1007",
+  "name_pl": "Wznosy bioder z dotykaniem palcami stóp do podłogi jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5170",
+    "5171"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z dotykaniem palcami stóp do podłogi jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1007",
+    "iso": false,
+    "photo_1": "5170",
+    "photo_2": "5171",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

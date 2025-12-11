@@ -1,0 +1,26 @@
+{
+  "id": "1960",
+  "name_pl": "Unoszenie ramion z linką wyciągu dolnego do boku jednorącz w pochyleniu do boku (linka z przodu)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9246",
+    "9247"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z linką wyciągu dolnego do boku jednorącz w pochyleniu do boku (linka z przodu)",
+    "gym": true,
+    "home": false,
+    "id": "1960",
+    "iso": true,
+    "photo_1": "9246",
+    "photo_2": "9247",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "933",
+  "name_pl": "Zwis na drążku",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "7872"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Zwis na drążku",
+    "gym": true,
+    "home": false,
+    "id": "933",
+    "iso": false,
+    "photo_1": "7872",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2120",
+  "name_pl": "Wyciskanie francuskie sztangielek z supinacją leżąc (Skullcrusher)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4977",
+    "4978"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangielek z supinacją leżąc (Skullcrusher)",
+    "gym": false,
+    "home": true,
+    "id": "2120",
+    "iso": true,
+    "photo_1": "4977",
+    "photo_2": "4978",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

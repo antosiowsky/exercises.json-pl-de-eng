@@ -1,0 +1,26 @@
+{
+  "id": "1288",
+  "name_pl": "Rzymski martwy ciąg na suwnicy Smitha (bez dotykania ud)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8618",
+    "8617"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rzymski martwy ciąg na suwnicy Smitha (bez dotykania ud)",
+    "gym": true,
+    "home": false,
+    "id": "1288",
+    "iso": false,
+    "photo_1": "8618",
+    "photo_2": "8617",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

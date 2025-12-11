@@ -1,0 +1,26 @@
+{
+  "id": "2161",
+  "name_pl": "Prostowanie ramion z linką wyciągu sprzed klatki jednorącz stojąc bokiem (poziomo)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7514",
+    "7515"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu sprzed klatki jednorącz stojąc bokiem (poziomo)",
+    "gym": true,
+    "home": false,
+    "id": "2161",
+    "iso": true,
+    "photo_1": "7514",
+    "photo_2": "7515",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

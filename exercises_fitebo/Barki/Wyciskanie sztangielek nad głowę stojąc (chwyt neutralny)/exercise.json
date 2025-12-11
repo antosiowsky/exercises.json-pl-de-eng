@@ -1,0 +1,26 @@
+{
+  "id": "1836",
+  "name_pl": "Wyciskanie sztangielek nad głowę stojąc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4492",
+    "4493"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek nad głowę stojąc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "1836",
+    "iso": false,
+    "photo_1": "4492",
+    "photo_2": "4493",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

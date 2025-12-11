@@ -1,0 +1,26 @@
+{
+  "id": "206",
+  "name_pl": "Opuszczanie ekscentryczne nóg",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2751",
+    "2753"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opuszczanie ekscentryczne nóg",
+    "gym": false,
+    "home": true,
+    "id": "206",
+    "iso": true,
+    "photo_1": "2751",
+    "photo_2": "2753",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

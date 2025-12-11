@@ -1,0 +1,26 @@
+{
+  "id": "2044",
+  "name_pl": "Przyciąganie linki wyciągu dolnego do twarzy jednorącz stojąc (Face Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7936",
+    "7937"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu dolnego do twarzy jednorącz stojąc (Face Pull)",
+    "gym": true,
+    "home": false,
+    "id": "2044",
+    "iso": false,
+    "photo_1": "7936",
+    "photo_2": "7937",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

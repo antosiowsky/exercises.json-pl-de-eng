@@ -1,0 +1,26 @@
+{
+  "id": "162",
+  "name_pl": "Unoszenie bioder z prostymi nogami w górze (Świeca)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2675",
+    "2686"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie bioder z prostymi nogami w górze (Świeca)",
+    "gym": false,
+    "home": true,
+    "id": "162",
+    "iso": true,
+    "photo_1": "2675",
+    "photo_2": "2686",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1313",
+  "name_pl": "Martwy ciąg sumo z uchwytem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "7976",
+    "7975"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg sumo z uchwytem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1313",
+    "iso": false,
+    "photo_1": "7976",
+    "photo_2": "7975",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

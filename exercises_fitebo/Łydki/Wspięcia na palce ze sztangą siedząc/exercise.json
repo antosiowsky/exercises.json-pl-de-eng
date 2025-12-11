@@ -1,0 +1,26 @@
+{
+  "id": "2217",
+  "name_pl": "Wspięcia na palce ze sztangą siedząc",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "14274",
+    "14275"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce ze sztangą siedząc",
+    "gym": true,
+    "home": false,
+    "id": "2217",
+    "iso": true,
+    "photo_1": "14274",
+    "photo_2": "14275",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

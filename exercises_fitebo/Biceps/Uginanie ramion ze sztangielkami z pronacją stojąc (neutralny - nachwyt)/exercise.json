@@ -1,0 +1,26 @@
+{
+  "id": "491",
+  "name_pl": "Uginanie ramion ze sztangielkami z pronacją stojąc (neutralny - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3491",
+    "3494"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami z pronacją stojąc (neutralny - nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "491",
+    "iso": true,
+    "photo_1": "3491",
+    "photo_2": "3494",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

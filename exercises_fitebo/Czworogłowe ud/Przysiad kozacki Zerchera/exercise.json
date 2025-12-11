@@ -1,0 +1,26 @@
+{
+  "id": "1726",
+  "name_pl": "Przysiad kozacki Zerchera",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6357",
+    "6358"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kozacki Zerchera",
+    "gym": true,
+    "home": false,
+    "id": "1726",
+    "iso": false,
+    "photo_1": "6357",
+    "photo_2": "6358",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

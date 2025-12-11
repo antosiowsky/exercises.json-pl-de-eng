@@ -1,0 +1,26 @@
+{
+  "id": "312",
+  "name_pl": "Martwy ciąg",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8802",
+    "8803"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg",
+    "gym": true,
+    "home": false,
+    "id": "312",
+    "iso": false,
+    "photo_1": "8802",
+    "photo_2": "8803",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

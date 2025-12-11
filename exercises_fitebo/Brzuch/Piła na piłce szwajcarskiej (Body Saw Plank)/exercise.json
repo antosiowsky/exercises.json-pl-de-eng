@@ -1,0 +1,26 @@
+{
+  "id": "225",
+  "name_pl": "Piła na piłce szwajcarskiej (Body Saw Plank)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2805",
+    "2807"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Piła na piłce szwajcarskiej (Body Saw Plank)",
+    "gym": true,
+    "home": false,
+    "id": "225",
+    "iso": true,
+    "photo_1": "2805",
+    "photo_2": "2807",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1344",
+  "name_pl": "Martwy ciąg na suwnicy Smitha jednonóż",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8640",
+    "8637"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na suwnicy Smitha jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1344",
+    "iso": false,
+    "photo_1": "8640",
+    "photo_2": "8637",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

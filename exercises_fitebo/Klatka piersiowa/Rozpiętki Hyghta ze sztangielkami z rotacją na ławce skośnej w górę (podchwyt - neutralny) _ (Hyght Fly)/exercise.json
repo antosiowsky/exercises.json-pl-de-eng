@@ -1,0 +1,26 @@
+{
+  "id": "780",
+  "name_pl": "Rozpiętki Hyghta ze sztangielkami z rotacją na ławce skośnej w górę (podchwyt - neutralny) / (Hyght Fly)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3965",
+    "3966"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki Hyghta ze sztangielkami z rotacją na ławce skośnej w górę (podchwyt - neutralny) / (Hyght Fly)",
+    "gym": true,
+    "home": false,
+    "id": "780",
+    "iso": true,
+    "photo_1": "3965",
+    "photo_2": "3966",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

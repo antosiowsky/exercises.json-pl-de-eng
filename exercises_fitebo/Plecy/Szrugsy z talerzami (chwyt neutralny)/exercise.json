@@ -1,0 +1,26 @@
+{
+  "id": "438",
+  "name_pl": "Szrugsy z talerzami (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3275",
+    "3276"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy z talerzami (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "438",
+    "iso": true,
+    "photo_1": "3275",
+    "photo_2": "3276",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

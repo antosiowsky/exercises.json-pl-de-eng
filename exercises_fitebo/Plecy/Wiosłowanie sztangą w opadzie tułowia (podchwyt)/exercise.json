@@ -1,0 +1,26 @@
+{
+  "id": "411",
+  "name_pl": "Wiosłowanie sztangą w opadzie tułowia (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3348",
+    "3349"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangą w opadzie tułowia (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "411",
+    "iso": false,
+    "photo_1": "3348",
+    "photo_2": "3349",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2057",
+  "name_pl": "Unoszenie Poliquina",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9369",
+    "9370",
+    "9371",
+    "9372"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Unoszenie Poliquina",
+    "gym": false,
+    "home": true,
+    "id": "2057",
+    "iso": false,
+    "photo_1": "9369",
+    "photo_2": "9370",
+    "photo_3": "9371",
+    "photo_4": "9372",
+    "stat": false,
+    "use": false
+  }
+}

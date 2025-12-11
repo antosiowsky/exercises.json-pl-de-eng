@@ -1,0 +1,26 @@
+{
+  "id": "951",
+  "name_pl": "Spacer farmera ze sztangielkami (Farmer's Walk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6212",
+    "6213"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Spacer farmera ze sztangielkami (Farmer's Walk)",
+    "gym": false,
+    "home": true,
+    "id": "951",
+    "iso": false,
+    "photo_1": "6212",
+    "photo_2": "6213",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

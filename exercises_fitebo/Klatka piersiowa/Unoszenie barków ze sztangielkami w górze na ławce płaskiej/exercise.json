@@ -1,0 +1,26 @@
+{
+  "id": "912",
+  "name_pl": "Unoszenie barków ze sztangielkami w górze na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4284",
+    "4285"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie barków ze sztangielkami w górze na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "912",
+    "iso": true,
+    "photo_1": "4284",
+    "photo_2": "4285",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

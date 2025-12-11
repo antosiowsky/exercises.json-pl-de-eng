@@ -1,0 +1,26 @@
+{
+  "id": "443",
+  "name_pl": "Szrugsy z linką wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8891",
+    "8892"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy z linką wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "443",
+    "iso": true,
+    "photo_1": "8891",
+    "photo_2": "8892",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

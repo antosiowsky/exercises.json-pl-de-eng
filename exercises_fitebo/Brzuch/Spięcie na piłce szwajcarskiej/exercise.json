@@ -1,0 +1,26 @@
+{
+  "id": "229",
+  "name_pl": "Spięcie na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3019",
+    "3020"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "229",
+    "iso": true,
+    "photo_1": "3019",
+    "photo_2": "3020",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

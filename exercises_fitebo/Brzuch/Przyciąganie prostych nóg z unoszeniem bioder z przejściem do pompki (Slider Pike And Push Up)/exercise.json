@@ -1,0 +1,26 @@
+{
+  "id": "174",
+  "name_pl": "Przyciąganie prostych nóg z unoszeniem bioder z przejściem do pompki (Slider Pike And Push Up)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2731",
+    "2732"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie prostych nóg z unoszeniem bioder z przejściem do pompki (Slider Pike And Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "174",
+    "iso": false,
+    "photo_1": "2731",
+    "photo_2": "2732",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

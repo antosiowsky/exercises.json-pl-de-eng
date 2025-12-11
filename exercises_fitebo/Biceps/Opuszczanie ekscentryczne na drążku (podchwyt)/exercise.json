@@ -1,0 +1,26 @@
+{
+  "id": "577",
+  "name_pl": "Opuszczanie ekscentryczne na drążku (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6676",
+    "6675"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Opuszczanie ekscentryczne na drążku (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "577",
+    "iso": false,
+    "photo_1": "6676",
+    "photo_2": "6675",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

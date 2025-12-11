@@ -1,0 +1,26 @@
+{
+  "id": "1372",
+  "name_pl": "Żuraw (GHR) od zgiętych do prostych bioder na ławce GHD (Razor Curl)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9207",
+    "9210"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) od zgiętych do prostych bioder na ławce GHD (Razor Curl)",
+    "gym": true,
+    "home": false,
+    "id": "1372",
+    "iso": true,
+    "photo_1": "9207",
+    "photo_2": "9210",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

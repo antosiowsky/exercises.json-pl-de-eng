@@ -1,0 +1,26 @@
+{
+  "id": "385",
+  "name_pl": "Wiosłowanie sztangielkami w opadzie tułowia siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9541",
+    "9542"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami w opadzie tułowia siedząc",
+    "gym": false,
+    "home": true,
+    "id": "385",
+    "iso": false,
+    "photo_1": "9541",
+    "photo_2": "9542",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

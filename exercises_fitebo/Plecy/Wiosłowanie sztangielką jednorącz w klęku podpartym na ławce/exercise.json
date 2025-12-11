@@ -1,0 +1,26 @@
+{
+  "id": "422",
+  "name_pl": "Wiosłowanie sztangielką jednorącz w klęku podpartym na ławce",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3367",
+    "3368"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką jednorącz w klęku podpartym na ławce",
+    "gym": false,
+    "home": true,
+    "id": "422",
+    "iso": false,
+    "photo_1": "3367",
+    "photo_2": "3368",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

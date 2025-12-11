@@ -1,0 +1,26 @@
+{
+  "id": "1280",
+  "name_pl": "Amerykański martwy ciąg na suwnicy Smitha",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8740",
+    "8741"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański martwy ciąg na suwnicy Smitha",
+    "gym": true,
+    "home": false,
+    "id": "1280",
+    "iso": false,
+    "photo_1": "8740",
+    "photo_2": "8741",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

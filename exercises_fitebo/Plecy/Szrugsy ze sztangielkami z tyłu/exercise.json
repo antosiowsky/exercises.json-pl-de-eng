@@ -1,0 +1,26 @@
+{
+  "id": "434",
+  "name_pl": "Szrugsy ze sztangielkami z tyłu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3266",
+    "3267"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy ze sztangielkami z tyłu",
+    "gym": false,
+    "home": true,
+    "id": "434",
+    "iso": true,
+    "photo_1": "3266",
+    "photo_2": "3267",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "668",
+  "name_pl": "Wyciskanie sztangielek z rotacją na ławce skośnej w górę (neutralny - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3936",
+    "3933"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją na ławce skośnej w górę (neutralny - nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "668",
+    "iso": false,
+    "photo_1": "3936",
+    "photo_2": "3933",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

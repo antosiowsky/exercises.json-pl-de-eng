@@ -1,0 +1,26 @@
+{
+  "id": "734",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "7026",
+    "7025"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "734",
+    "iso": false,
+    "photo_1": "7026",
+    "photo_2": "7025",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2168",
+  "name_pl": "Prostowanie ramion ze sztangielką zza głowy na ławce skośnej w górę leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "9343",
+    "9345"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion ze sztangielką zza głowy na ławce skośnej w górę leżąc bokiem",
+    "gym": true,
+    "home": false,
+    "id": "2168",
+    "iso": true,
+    "photo_1": "9343",
+    "photo_2": "9345",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "203",
+  "name_pl": "Setka (The Hundred)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2749",
+    "2750"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Setka (The Hundred)",
+    "gym": false,
+    "home": true,
+    "id": "203",
+    "iso": true,
+    "photo_1": "2749",
+    "photo_2": "2750",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

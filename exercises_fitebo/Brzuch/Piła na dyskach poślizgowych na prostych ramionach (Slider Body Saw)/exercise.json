@@ -1,0 +1,26 @@
+{
+  "id": "170",
+  "name_pl": "Piła na dyskach poślizgowych na prostych ramionach (Slider Body Saw)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2713",
+    "2714"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Piła na dyskach poślizgowych na prostych ramionach (Slider Body Saw)",
+    "gym": false,
+    "home": true,
+    "id": "170",
+    "iso": true,
+    "photo_1": "2713",
+    "photo_2": "2714",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

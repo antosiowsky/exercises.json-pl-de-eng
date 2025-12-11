@@ -1,0 +1,26 @@
+{
+  "id": "2152",
+  "name_pl": "Prostowanie ramion z linką wyciągu górnego na ławce skośnej w górę leżąc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7479",
+    "7480"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu górnego na ławce skośnej w górę leżąc",
+    "gym": true,
+    "home": false,
+    "id": "2152",
+    "iso": true,
+    "photo_1": "7479",
+    "photo_2": "7480",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

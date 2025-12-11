@@ -1,0 +1,26 @@
+{
+  "id": "216",
+  "name_pl": "Rolowanie z kółkiem stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3005",
+    "3006"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rolowanie z kółkiem stojąc",
+    "gym": true,
+    "home": false,
+    "id": "216",
+    "iso": true,
+    "photo_1": "3005",
+    "photo_2": "3006",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

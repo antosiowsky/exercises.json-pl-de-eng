@@ -1,0 +1,26 @@
+{
+  "id": "1544",
+  "name_pl": "Przysiad wykroczny ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5491",
+    "5493"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "1544",
+    "iso": false,
+    "photo_1": "5491",
+    "photo_2": "5493",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

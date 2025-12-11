@@ -1,0 +1,26 @@
+{
+  "id": "847",
+  "name_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5346",
+    "5345"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki z uchwytami wyciągu dolnego jednorącz na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "847",
+    "iso": false,
+    "photo_1": "5346",
+    "photo_2": "5345",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

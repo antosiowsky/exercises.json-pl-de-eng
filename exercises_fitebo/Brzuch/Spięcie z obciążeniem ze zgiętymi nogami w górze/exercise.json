@@ -1,0 +1,26 @@
+{
+  "id": "92",
+  "name_pl": "Spięcie z obciążeniem ze zgiętymi nogami w górze",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "9578",
+    "9579"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z obciążeniem ze zgiętymi nogami w górze",
+    "gym": false,
+    "home": true,
+    "id": "92",
+    "iso": true,
+    "photo_1": "9578",
+    "photo_2": "9579",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

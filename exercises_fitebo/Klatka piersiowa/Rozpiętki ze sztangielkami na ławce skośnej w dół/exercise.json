@@ -1,0 +1,26 @@
+{
+  "id": "779",
+  "name_pl": "Rozpiętki ze sztangielkami na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3987",
+    "3986"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "779",
+    "iso": true,
+    "photo_1": "3987",
+    "photo_2": "3986",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

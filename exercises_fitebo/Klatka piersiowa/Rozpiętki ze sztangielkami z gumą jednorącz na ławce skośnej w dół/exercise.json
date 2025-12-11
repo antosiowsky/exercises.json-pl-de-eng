@@ -1,0 +1,26 @@
+{
+  "id": "811",
+  "name_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3889",
+    "3888"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami z gumą jednorącz na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "811",
+    "iso": true,
+    "photo_1": "3889",
+    "photo_2": "3888",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

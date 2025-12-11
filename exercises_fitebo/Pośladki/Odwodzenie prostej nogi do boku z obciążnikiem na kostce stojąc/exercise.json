@@ -1,0 +1,26 @@
+{
+  "id": "1200",
+  "name_pl": "Odwodzenie prostej nogi do boku z obciążnikiem na kostce stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7229",
+    "7230"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku z obciążnikiem na kostce stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1200",
+    "iso": true,
+    "photo_1": "7229",
+    "photo_2": "7230",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

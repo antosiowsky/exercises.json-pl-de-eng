@@ -1,0 +1,26 @@
+{
+  "id": "1705",
+  "name_pl": "Przysiad goblet ze sztangielką jednonóż do podwyższenia (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5902",
+    "5903"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad goblet ze sztangielką jednonóż do podwyższenia (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1705",
+    "iso": false,
+    "photo_1": "5902",
+    "photo_2": "5903",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

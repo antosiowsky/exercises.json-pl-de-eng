@@ -1,0 +1,26 @@
+{
+  "id": "118",
+  "name_pl": "Spięcie na BOSU",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2645",
+    "2646"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie na BOSU",
+    "gym": true,
+    "home": false,
+    "id": "118",
+    "iso": true,
+    "photo_1": "2645",
+    "photo_2": "2646",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

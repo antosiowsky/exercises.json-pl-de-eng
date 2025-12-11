@@ -1,0 +1,26 @@
+{
+  "id": "1982",
+  "name_pl": "Unoszenie ramion w kształcie litery Y na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5045",
+    "5046"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion w kształcie litery Y na ławce skośnej w górę leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1982",
+    "iso": true,
+    "photo_1": "5045",
+    "photo_2": "5046",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

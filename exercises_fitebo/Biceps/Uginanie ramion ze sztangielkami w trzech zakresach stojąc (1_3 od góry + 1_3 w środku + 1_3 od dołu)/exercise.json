@@ -1,0 +1,27 @@
+{
+  "id": "513",
+  "name_pl": "Uginanie ramion ze sztangielkami w trzech zakresach stojąc (1/3 od góry + 1/3 w środku + 1/3 od dołu)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3476",
+    "3473",
+    "3472"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami w trzech zakresach stojąc (1/3 od góry + 1/3 w środku + 1/3 od dołu)",
+    "gym": false,
+    "home": true,
+    "id": "513",
+    "iso": true,
+    "photo_1": "3476",
+    "photo_2": "3473",
+    "photo_3": "3472",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

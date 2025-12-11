@@ -1,0 +1,26 @@
+{
+  "id": "1664",
+  "name_pl": "Przysiad z TRX nad głową z gumą (mini band) nad kolanami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8490",
+    "8491"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z TRX nad głową z gumą (mini band) nad kolanami",
+    "gym": false,
+    "home": true,
+    "id": "1664",
+    "iso": false,
+    "photo_1": "8490",
+    "photo_2": "8491",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1596",
+  "name_pl": "Przysiad z gumą (długą) na biodrach klęcząc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6853",
+    "6854"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z gumą (długą) na biodrach klęcząc",
+    "gym": false,
+    "home": true,
+    "id": "1596",
+    "iso": false,
+    "photo_1": "6853",
+    "photo_2": "6854",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

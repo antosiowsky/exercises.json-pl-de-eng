@@ -1,0 +1,26 @@
+{
+  "id": "1864",
+  "name_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha z odłożeniem na blokady siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6994",
+    "6995"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi zza głowy na suwnicy Smitha z odłożeniem na blokady siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1864",
+    "iso": false,
+    "photo_1": "6994",
+    "photo_2": "6995",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

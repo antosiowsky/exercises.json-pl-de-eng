@@ -1,0 +1,26 @@
+{
+  "id": "731",
+  "name_pl": "Wyciskanie sztangielek jednorącz na podłodze leżąc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4021",
+    "4022"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek jednorącz na podłodze leżąc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "731",
+    "iso": false,
+    "photo_1": "4021",
+    "photo_2": "4022",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

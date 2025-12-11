@@ -1,0 +1,26 @@
+{
+  "id": "1874",
+  "name_pl": "Arnoldki ze sztangielką jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4524",
+    "4525"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Arnoldki ze sztangielką jednorącz siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1874",
+    "iso": false,
+    "photo_1": "4524",
+    "photo_2": "4525",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

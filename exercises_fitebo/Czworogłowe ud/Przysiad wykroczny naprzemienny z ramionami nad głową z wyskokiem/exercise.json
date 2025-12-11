@@ -1,0 +1,27 @@
+{
+  "id": "1774",
+  "name_pl": "Przysiad wykroczny naprzemienny z ramionami nad głową z wyskokiem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6258",
+    "6260",
+    "6262"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny naprzemienny z ramionami nad głową z wyskokiem",
+    "gym": false,
+    "home": true,
+    "id": "1774",
+    "iso": false,
+    "photo_1": "6258",
+    "photo_2": "6260",
+    "photo_3": "6262",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

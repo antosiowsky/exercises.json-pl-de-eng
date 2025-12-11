@@ -1,0 +1,28 @@
+{
+  "id": "546",
+  "name_pl": "Uginanie naprzemienne ramion na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6890",
+    "6892",
+    "6890",
+    "6893"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie naprzemienne ramion na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "546",
+    "iso": true,
+    "photo_1": "6890",
+    "photo_2": "6892",
+    "photo_3": "6890",
+    "photo_4": "6893",
+    "stat": false,
+    "use": false
+  }
+}

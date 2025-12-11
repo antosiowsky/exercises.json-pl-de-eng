@@ -1,0 +1,26 @@
+{
+  "id": "1109",
+  "name_pl": "Unoszenie nóg na maszynie \"Reverse Hyper\" leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9222",
+    "9224"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg na maszynie \"Reverse Hyper\" leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1109",
+    "iso": true,
+    "photo_1": "9222",
+    "photo_2": "9224",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

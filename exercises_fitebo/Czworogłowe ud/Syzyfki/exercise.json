@@ -1,0 +1,26 @@
+{
+  "id": "2213",
+  "name_pl": "Syzyfki",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "14290",
+    "14293"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Syzyfki",
+    "gym": false,
+    "home": true,
+    "id": "2213",
+    "iso": false,
+    "photo_1": "14290",
+    "photo_2": "14293",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "983",
+  "name_pl": "Podrzut sztangi do wykroku (Barbell Split Jerk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8375",
+    "8376",
+    "8391",
+    "8382"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podrzut sztangi do wykroku (Barbell Split Jerk)",
+    "gym": true,
+    "home": false,
+    "id": "983",
+    "iso": false,
+    "photo_1": "8375",
+    "photo_2": "8376",
+    "photo_3": "8391",
+    "photo_4": "8382",
+    "stat": false,
+    "use": false
+  }
+}

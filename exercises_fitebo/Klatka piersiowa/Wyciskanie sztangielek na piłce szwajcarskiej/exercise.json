@@ -1,0 +1,26 @@
+{
+  "id": "755",
+  "name_pl": "Wyciskanie sztangielek na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4180",
+    "4181"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "755",
+    "iso": false,
+    "photo_1": "4180",
+    "photo_2": "4181",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

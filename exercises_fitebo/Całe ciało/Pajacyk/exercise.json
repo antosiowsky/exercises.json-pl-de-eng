@@ -1,0 +1,26 @@
+{
+  "id": "2202",
+  "name_pl": "Pajacyk",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "14260",
+    "14261"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pajacyk",
+    "gym": false,
+    "home": true,
+    "id": "2202",
+    "iso": false,
+    "photo_1": "14260",
+    "photo_2": "14261",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

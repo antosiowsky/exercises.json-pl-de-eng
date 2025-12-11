@@ -1,0 +1,26 @@
+{
+  "id": "543",
+  "name_pl": "Uginanie ramion z uchwytami wyciągu górnego z łokciami w górze jednorącz klęcząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "5366",
+    "5365"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z uchwytami wyciągu górnego z łokciami w górze jednorącz klęcząc",
+    "gym": true,
+    "home": false,
+    "id": "543",
+    "iso": true,
+    "photo_1": "5366",
+    "photo_2": "5365",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

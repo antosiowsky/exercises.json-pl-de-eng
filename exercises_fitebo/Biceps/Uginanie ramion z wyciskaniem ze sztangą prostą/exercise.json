@@ -1,0 +1,27 @@
+{
+  "id": "563",
+  "name_pl": "Uginanie ramion z wyciskaniem ze sztangą prostą",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3504",
+    "3505",
+    "3506"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uginanie ramion z wyciskaniem ze sztangą prostą",
+    "gym": true,
+    "home": false,
+    "id": "563",
+    "iso": false,
+    "photo_1": "3504",
+    "photo_2": "3505",
+    "photo_3": "3506",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

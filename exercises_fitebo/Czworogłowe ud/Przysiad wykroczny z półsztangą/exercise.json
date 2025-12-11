@@ -1,0 +1,26 @@
+{
+  "id": "1556",
+  "name_pl": "Przysiad wykroczny z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9728",
+    "9729"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1556",
+    "iso": false,
+    "photo_1": "9728",
+    "photo_2": "9729",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2078",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej w górę leżąc (wąski chwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "6646",
+    "6647"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na ławce skośnej w górę leżąc (wąski chwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2078",
+    "iso": false,
+    "photo_1": "6646",
+    "photo_2": "6647",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

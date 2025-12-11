@@ -1,0 +1,26 @@
+{
+  "id": "1805",
+  "name_pl": "Wyciskanie nad głowę jednorącz",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4461",
+    "4462"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie nad głowę jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "1805",
+    "iso": false,
+    "photo_1": "4461",
+    "photo_2": "4462",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

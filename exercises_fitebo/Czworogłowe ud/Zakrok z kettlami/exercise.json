@@ -1,0 +1,26 @@
+{
+  "id": "1498",
+  "name_pl": "Zakrok z kettlami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5422",
+    "5424"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z kettlami",
+    "gym": true,
+    "home": false,
+    "id": "1498",
+    "iso": false,
+    "photo_1": "5422",
+    "photo_2": "5424",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

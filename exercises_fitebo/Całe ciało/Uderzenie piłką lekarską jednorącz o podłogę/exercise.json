@@ -1,0 +1,26 @@
+{
+  "id": "959",
+  "name_pl": "Uderzenie piłką lekarską jednorącz o podłogę",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "9230",
+    "9232"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uderzenie piłką lekarską jednorącz o podłogę",
+    "gym": true,
+    "home": false,
+    "id": "959",
+    "iso": false,
+    "photo_1": "9230",
+    "photo_2": "9232",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "908",
+  "name_pl": "Przenoszenie z gumą zza głowy na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4259",
+    "4260"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie z gumą zza głowy na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "908",
+    "iso": true,
+    "photo_1": "4259",
+    "photo_2": "4260",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

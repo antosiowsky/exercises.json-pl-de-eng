@@ -1,0 +1,26 @@
+{
+  "id": "179",
+  "name_pl": "Przyciąganie kolana na dysku poślizgowym jednonóż w podporze przodem (Single Leg Slider Knee Tuck)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2741",
+    "2742"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie kolana na dysku poślizgowym jednonóż w podporze przodem (Single Leg Slider Knee Tuck)",
+    "gym": false,
+    "home": true,
+    "id": "179",
+    "iso": true,
+    "photo_1": "2741",
+    "photo_2": "2742",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

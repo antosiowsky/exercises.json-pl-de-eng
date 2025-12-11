@@ -1,0 +1,27 @@
+{
+  "id": "1810",
+  "name_pl": "Wyciskanie naprzemienne kettli do góry dnem nad głowę stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4463",
+    "4467",
+    "4468"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne kettli do góry dnem nad głowę stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1810",
+    "iso": false,
+    "photo_1": "4463",
+    "photo_2": "4467",
+    "photo_3": "4468",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

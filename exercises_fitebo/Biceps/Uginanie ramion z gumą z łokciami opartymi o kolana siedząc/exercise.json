@@ -1,0 +1,26 @@
+{
+  "id": "593",
+  "name_pl": "Uginanie ramion z gumą z łokciami opartymi o kolana siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3673",
+    "3674"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z gumą z łokciami opartymi o kolana siedząc",
+    "gym": false,
+    "home": true,
+    "id": "593",
+    "iso": true,
+    "photo_1": "3673",
+    "photo_2": "3674",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

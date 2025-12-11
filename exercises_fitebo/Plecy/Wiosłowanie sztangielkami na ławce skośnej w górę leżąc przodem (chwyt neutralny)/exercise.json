@@ -1,0 +1,26 @@
+{
+  "id": "378",
+  "name_pl": "Wiosłowanie sztangielkami na ławce skośnej w górę leżąc przodem (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3317",
+    "3318"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami na ławce skośnej w górę leżąc przodem (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "378",
+    "iso": false,
+    "photo_1": "3317",
+    "photo_2": "3318",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

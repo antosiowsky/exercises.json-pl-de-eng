@@ -1,0 +1,26 @@
+{
+  "id": "177",
+  "name_pl": "Pompka na dyskach poślizgowych (Slider Push Up)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2735",
+    "2736"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka na dyskach poślizgowych (Slider Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "177",
+    "iso": false,
+    "photo_1": "2735",
+    "photo_2": "2736",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

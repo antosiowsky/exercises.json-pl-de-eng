@@ -1,0 +1,26 @@
+{
+  "id": "1337",
+  "name_pl": "Martwy ciąg jednonóż",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8153",
+    "8154"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1337",
+    "iso": false,
+    "photo_1": "8153",
+    "photo_2": "8154",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

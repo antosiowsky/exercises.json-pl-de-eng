@@ -1,0 +1,26 @@
+{
+  "id": "1056",
+  "name_pl": "Skłon ze sztangielką między nogami stojąc (Pull Through)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8355",
+    "8358"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon ze sztangielką między nogami stojąc (Pull Through)",
+    "gym": false,
+    "home": true,
+    "id": "1056",
+    "iso": false,
+    "photo_1": "8355",
+    "photo_2": "8358",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

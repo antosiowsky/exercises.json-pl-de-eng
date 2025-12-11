@@ -1,0 +1,26 @@
+{
+  "id": "330",
+  "name_pl": "Odwrotne wiosłowanie na TRX jednorącz z odchyleniem do tyłu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3253",
+    "3256"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Odwrotne wiosłowanie na TRX jednorącz z odchyleniem do tyłu",
+    "gym": false,
+    "home": true,
+    "id": "330",
+    "iso": false,
+    "photo_1": "3253",
+    "photo_2": "3256",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

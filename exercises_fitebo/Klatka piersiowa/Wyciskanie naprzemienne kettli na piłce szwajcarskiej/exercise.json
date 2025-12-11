@@ -1,0 +1,27 @@
+{
+  "id": "758",
+  "name_pl": "Wyciskanie naprzemienne kettli na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4193",
+    "4195",
+    "4196"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne kettli na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "758",
+    "iso": false,
+    "photo_1": "4193",
+    "photo_2": "4195",
+    "photo_3": "4196",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

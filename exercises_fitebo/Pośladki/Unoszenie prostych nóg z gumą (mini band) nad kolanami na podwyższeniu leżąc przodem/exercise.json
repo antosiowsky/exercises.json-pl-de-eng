@@ -1,0 +1,26 @@
+{
+  "id": "1117",
+  "name_pl": "Unoszenie prostych nóg z gumą (mini band) nad kolanami na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7627",
+    "7586"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostych nóg z gumą (mini band) nad kolanami na podwyższeniu leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1117",
+    "iso": true,
+    "photo_1": "7627",
+    "photo_2": "7586",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

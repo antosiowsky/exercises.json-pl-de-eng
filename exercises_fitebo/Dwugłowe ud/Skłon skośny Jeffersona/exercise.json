@@ -1,0 +1,28 @@
+{
+  "id": "1417",
+  "name_pl": "Skłon skośny Jeffersona",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8214",
+    "8215",
+    "8216",
+    "8218"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon skośny Jeffersona",
+    "gym": false,
+    "home": true,
+    "id": "1417",
+    "iso": false,
+    "photo_1": "8214",
+    "photo_2": "8215",
+    "photo_3": "8216",
+    "photo_4": "8218",
+    "stat": false,
+    "use": false
+  }
+}

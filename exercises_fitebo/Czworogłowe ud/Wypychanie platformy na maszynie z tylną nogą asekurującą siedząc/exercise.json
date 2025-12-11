@@ -1,0 +1,26 @@
+{
+  "id": "1744",
+  "name_pl": "Wypychanie platformy na maszynie z tylną nogą asekurującą siedząc",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7665",
+    "7666"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie platformy na maszynie z tylną nogą asekurującą siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1744",
+    "iso": false,
+    "photo_1": "7665",
+    "photo_2": "7666",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

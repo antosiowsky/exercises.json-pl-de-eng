@@ -1,0 +1,26 @@
+{
+  "id": "721",
+  "name_pl": "Wyciskanie sztangielek z gumą na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4075",
+    "4076"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z gumą na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "721",
+    "iso": false,
+    "photo_1": "4075",
+    "photo_2": "4076",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

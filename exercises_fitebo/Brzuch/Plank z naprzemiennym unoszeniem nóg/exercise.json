@@ -1,0 +1,26 @@
+{
+  "id": "7",
+  "name_pl": "Plank z naprzemiennym unoszeniem nóg",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2878",
+    "2879"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z naprzemiennym unoszeniem nóg",
+    "gym": false,
+    "home": true,
+    "id": "7",
+    "iso": false,
+    "photo_1": "2878",
+    "photo_2": "2879",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

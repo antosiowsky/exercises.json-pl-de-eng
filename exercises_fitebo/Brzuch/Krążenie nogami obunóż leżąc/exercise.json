@@ -1,0 +1,27 @@
+{
+  "id": "255",
+  "name_pl": "Krążenie nogami obunóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3149",
+    "3150",
+    "3151"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Krążenie nogami obunóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "255",
+    "iso": true,
+    "photo_1": "3149",
+    "photo_2": "3150",
+    "photo_3": "3151",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

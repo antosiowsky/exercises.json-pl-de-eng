@@ -1,0 +1,27 @@
+{
+  "id": "788",
+  "name_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce płaskiej (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3844",
+    "3845",
+    "3846"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki naprzemienne ze sztangielkami na ławce płaskiej (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "788",
+    "iso": true,
+    "photo_1": "3844",
+    "photo_2": "3845",
+    "photo_3": "3846",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

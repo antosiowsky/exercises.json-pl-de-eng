@@ -1,0 +1,26 @@
+{
+  "id": "872",
+  "name_pl": "Pompka z gumą",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4324",
+    "4325"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka z gumą",
+    "gym": false,
+    "home": true,
+    "id": "872",
+    "iso": false,
+    "photo_1": "4324",
+    "photo_2": "4325",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

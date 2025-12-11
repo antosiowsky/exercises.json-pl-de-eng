@@ -1,0 +1,26 @@
+{
+  "id": "1718",
+  "name_pl": "Przysiad kozacki",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6350",
+    "6351"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kozacki",
+    "gym": false,
+    "home": true,
+    "id": "1718",
+    "iso": false,
+    "photo_1": "6350",
+    "photo_2": "6351",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

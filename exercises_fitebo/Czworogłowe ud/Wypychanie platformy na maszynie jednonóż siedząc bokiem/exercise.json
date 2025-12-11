@@ -1,0 +1,26 @@
+{
+  "id": "1748",
+  "name_pl": "Wypychanie platformy na maszynie jednonóż siedząc bokiem",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5963",
+    "5962"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wypychanie platformy na maszynie jednonóż siedząc bokiem",
+    "gym": true,
+    "home": false,
+    "id": "1748",
+    "iso": false,
+    "photo_1": "5963",
+    "photo_2": "5962",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

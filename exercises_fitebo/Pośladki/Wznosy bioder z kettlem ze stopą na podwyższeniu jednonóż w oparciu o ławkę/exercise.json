@@ -1,0 +1,26 @@
+{
+  "id": "1043",
+  "name_pl": "Wznosy bioder z kettlem ze stopą na podwyższeniu jednonóż w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5224",
+    "5226"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z kettlem ze stopą na podwyższeniu jednonóż w oparciu o ławkę",
+    "gym": true,
+    "home": false,
+    "id": "1043",
+    "iso": false,
+    "photo_1": "5224",
+    "photo_2": "5226",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

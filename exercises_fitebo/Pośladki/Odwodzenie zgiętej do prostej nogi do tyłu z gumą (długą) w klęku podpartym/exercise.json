@@ -1,0 +1,26 @@
+{
+  "id": "1096",
+  "name_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z gumą (długą) w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7181",
+    "7182"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z gumą (długą) w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1096",
+    "iso": true,
+    "photo_1": "7181",
+    "photo_2": "7182",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

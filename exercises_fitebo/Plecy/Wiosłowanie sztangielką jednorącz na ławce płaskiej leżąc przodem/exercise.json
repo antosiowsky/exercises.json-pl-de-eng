@@ -1,0 +1,26 @@
+{
+  "id": "376",
+  "name_pl": "Wiosłowanie sztangielką jednorącz na ławce płaskiej leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3315",
+    "3316"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką jednorącz na ławce płaskiej leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "376",
+    "iso": false,
+    "photo_1": "3315",
+    "photo_2": "3316",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

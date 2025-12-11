@@ -1,0 +1,25 @@
+{
+  "id": "186",
+  "name_pl": "Plank na TRX z rękami na uchwytach",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3603"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank na TRX z rękami na uchwytach",
+    "gym": false,
+    "home": true,
+    "id": "186",
+    "iso": false,
+    "photo_1": "3603",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

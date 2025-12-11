@@ -1,0 +1,26 @@
+{
+  "id": "1063",
+  "name_pl": "Unoszenie zgiętej nogi w górę na suwnicy Smitha w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8709",
+    "8710"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę na suwnicy Smitha w klęku podpartym",
+    "gym": true,
+    "home": false,
+    "id": "1063",
+    "iso": true,
+    "photo_1": "8709",
+    "photo_2": "8710",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

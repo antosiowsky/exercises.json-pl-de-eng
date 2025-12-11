@@ -1,0 +1,26 @@
+{
+  "id": "138",
+  "name_pl": "Spięcie odwrotne (Reverse Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2988",
+    "2989"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie odwrotne (Reverse Crunch)",
+    "gym": false,
+    "home": true,
+    "id": "138",
+    "iso": true,
+    "photo_1": "2988",
+    "photo_2": "2989",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

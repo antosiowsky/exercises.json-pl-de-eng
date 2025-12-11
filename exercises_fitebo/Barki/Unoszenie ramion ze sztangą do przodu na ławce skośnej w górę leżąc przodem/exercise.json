@@ -1,0 +1,26 @@
+{
+  "id": "1925",
+  "name_pl": "Unoszenie ramion ze sztangą do przodu na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4722",
+    "4723"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangą do przodu na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1925",
+    "iso": true,
+    "photo_1": "4722",
+    "photo_2": "4723",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "533",
+  "name_pl": "Uginanie ramion z drążkiem prostym wyciągu dolnego na ławce skośnej w górę siedząc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "5380",
+    "5381"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z drążkiem prostym wyciągu dolnego na ławce skośnej w górę siedząc",
+    "gym": true,
+    "home": false,
+    "id": "533",
+    "iso": true,
+    "photo_1": "5380",
+    "photo_2": "5381",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "749",
+  "name_pl": "Wyciskanie na maszynie z talerzami poziomo jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6096",
+    "6097"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie na maszynie z talerzami poziomo jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "749",
+    "iso": false,
+    "photo_1": "6096",
+    "photo_2": "6097",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

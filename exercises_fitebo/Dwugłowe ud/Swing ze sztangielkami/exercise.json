@@ -1,0 +1,26 @@
+{
+  "id": "1425",
+  "name_pl": "Swing ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6176",
+    "6177"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Swing ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1425",
+    "iso": false,
+    "photo_1": "6176",
+    "photo_2": "6177",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

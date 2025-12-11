@@ -1,0 +1,26 @@
+{
+  "id": "1988",
+  "name_pl": "Odwrotne rozpiętki z linką wyciągu dolnego jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5280",
+    "5281"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z linką wyciągu dolnego jednorącz w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "1988",
+    "iso": true,
+    "photo_1": "5280",
+    "photo_2": "5281",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

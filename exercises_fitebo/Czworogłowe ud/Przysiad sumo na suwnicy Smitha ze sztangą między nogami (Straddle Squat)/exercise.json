@@ -1,0 +1,26 @@
+{
+  "id": "1681",
+  "name_pl": "Przysiad sumo na suwnicy Smitha ze sztangą między nogami (Straddle Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9745",
+    "9746"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo na suwnicy Smitha ze sztangą między nogami (Straddle Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1681",
+    "iso": false,
+    "photo_1": "9745",
+    "photo_2": "9746",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

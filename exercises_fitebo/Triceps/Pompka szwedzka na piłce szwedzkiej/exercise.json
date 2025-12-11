@@ -1,0 +1,26 @@
+{
+  "id": "2070",
+  "name_pl": "Pompka szwedzka na piłce szwedzkiej",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5070",
+    "5074"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na piłce szwedzkiej",
+    "gym": true,
+    "home": false,
+    "id": "2070",
+    "iso": false,
+    "photo_1": "5070",
+    "photo_2": "5074",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

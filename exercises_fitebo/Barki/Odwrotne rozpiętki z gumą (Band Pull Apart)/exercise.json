@@ -1,0 +1,26 @@
+{
+  "id": "2007",
+  "name_pl": "Odwrotne rozpiętki z gumą (Band Pull Apart)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5087",
+    "5088"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z gumą (Band Pull Apart)",
+    "gym": false,
+    "home": true,
+    "id": "2007",
+    "iso": true,
+    "photo_1": "5087",
+    "photo_2": "5088",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

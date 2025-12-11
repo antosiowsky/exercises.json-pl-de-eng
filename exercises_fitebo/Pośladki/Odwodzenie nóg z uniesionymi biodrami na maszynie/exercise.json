@@ -1,0 +1,26 @@
+{
+  "id": "1266",
+  "name_pl": "Odwodzenie nóg z uniesionymi biodrami na maszynie",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6946",
+    "6947"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z uniesionymi biodrami na maszynie",
+    "gym": true,
+    "home": false,
+    "id": "1266",
+    "iso": true,
+    "photo_1": "6946",
+    "photo_2": "6947",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

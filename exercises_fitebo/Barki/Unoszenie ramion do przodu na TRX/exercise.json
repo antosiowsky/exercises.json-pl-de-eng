@@ -1,0 +1,26 @@
+{
+  "id": "1900",
+  "name_pl": "Unoszenie ramion do przodu na TRX",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "8439",
+    "8440"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion do przodu na TRX",
+    "gym": false,
+    "home": true,
+    "id": "1900",
+    "iso": true,
+    "photo_1": "8439",
+    "photo_2": "8440",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

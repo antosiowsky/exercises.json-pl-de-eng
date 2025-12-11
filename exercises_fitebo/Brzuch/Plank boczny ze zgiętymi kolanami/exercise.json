@@ -1,0 +1,25 @@
+{
+  "id": "20",
+  "name_pl": "Plank boczny ze zgiętymi kolanami",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2912"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank boczny ze zgiętymi kolanami",
+    "gym": false,
+    "home": true,
+    "id": "20",
+    "iso": false,
+    "photo_1": "2912",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

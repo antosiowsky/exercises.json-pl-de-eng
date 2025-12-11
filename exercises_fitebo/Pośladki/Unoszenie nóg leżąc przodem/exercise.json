@@ -1,0 +1,26 @@
+{
+  "id": "1107",
+  "name_pl": "Unoszenie nóg leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9674",
+    "9676"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1107",
+    "iso": true,
+    "photo_1": "9674",
+    "photo_2": "9676",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

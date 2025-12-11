@@ -1,0 +1,26 @@
+{
+  "id": "24",
+  "name_pl": "Plank z unoszeniem bioder",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2918",
+    "2919"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z unoszeniem bioder",
+    "gym": false,
+    "home": true,
+    "id": "24",
+    "iso": false,
+    "photo_1": "2918",
+    "photo_2": "2919",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

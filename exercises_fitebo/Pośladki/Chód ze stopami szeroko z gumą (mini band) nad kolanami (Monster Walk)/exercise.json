@@ -1,0 +1,27 @@
+{
+  "id": "1220",
+  "name_pl": "Chód ze stopami szeroko z gumą (mini band) nad kolanami (Monster Walk)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6821",
+    "6821",
+    "6822"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Chód ze stopami szeroko z gumą (mini band) nad kolanami (Monster Walk)",
+    "gym": false,
+    "home": true,
+    "id": "1220",
+    "iso": true,
+    "photo_1": "6821",
+    "photo_2": "6821",
+    "photo_3": "6822",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

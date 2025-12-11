@@ -1,0 +1,26 @@
+{
+  "id": "740",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha z odłożeniem na blokady na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "7033",
+    "7034"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha z odłożeniem na blokady na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "740",
+    "iso": false,
+    "photo_1": "7033",
+    "photo_2": "7034",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

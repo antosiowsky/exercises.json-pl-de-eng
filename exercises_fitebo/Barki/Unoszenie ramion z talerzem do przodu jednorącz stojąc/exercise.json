@@ -1,0 +1,26 @@
+{
+  "id": "1902",
+  "name_pl": "Unoszenie ramion z talerzem do przodu jednorącz stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4619",
+    "4620"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion z talerzem do przodu jednorącz stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1902",
+    "iso": true,
+    "photo_1": "4619",
+    "photo_2": "4620",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

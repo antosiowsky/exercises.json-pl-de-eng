@@ -1,0 +1,26 @@
+{
+  "id": "1972",
+  "name_pl": "Odwrotne rozpiętki ze sztangielkami w opadzie tułowia siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9538",
+    "9539"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki ze sztangielkami w opadzie tułowia siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1972",
+    "iso": true,
+    "photo_1": "9538",
+    "photo_2": "9539",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

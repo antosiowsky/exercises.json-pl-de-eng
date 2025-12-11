@@ -1,0 +1,26 @@
+{
+  "id": "1531",
+  "name_pl": "Wykroki skośne chodzone",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5742",
+    "5743"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki skośne chodzone",
+    "gym": false,
+    "home": true,
+    "id": "1531",
+    "iso": false,
+    "photo_1": "5742",
+    "photo_2": "5743",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

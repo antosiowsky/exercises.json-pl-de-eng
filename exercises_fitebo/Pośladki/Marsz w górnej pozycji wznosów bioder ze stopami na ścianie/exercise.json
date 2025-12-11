@@ -1,0 +1,26 @@
+{
+  "id": "1006",
+  "name_pl": "Marsz w górnej pozycji wznosów bioder ze stopami na ścianie",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9196",
+    "9197"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Marsz w górnej pozycji wznosów bioder ze stopami na ścianie",
+    "gym": false,
+    "home": true,
+    "id": "1006",
+    "iso": false,
+    "photo_1": "9196",
+    "photo_2": "9197",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

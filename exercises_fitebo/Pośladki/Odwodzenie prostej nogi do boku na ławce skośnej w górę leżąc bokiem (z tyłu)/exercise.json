@@ -1,0 +1,26 @@
+{
+  "id": "1189",
+  "name_pl": "Odwodzenie prostej nogi do boku na ławce skośnej w górę leżąc bokiem (z tyłu)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7868",
+    "7867"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku na ławce skośnej w górę leżąc bokiem (z tyłu)",
+    "gym": true,
+    "home": false,
+    "id": "1189",
+    "iso": true,
+    "photo_1": "7868",
+    "photo_2": "7867",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

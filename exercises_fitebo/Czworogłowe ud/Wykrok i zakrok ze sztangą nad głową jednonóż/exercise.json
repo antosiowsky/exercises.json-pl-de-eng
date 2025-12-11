@@ -1,0 +1,27 @@
+{
+  "id": "1456",
+  "name_pl": "Wykrok i zakrok ze sztangą nad głową jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5432",
+    "5433",
+    "5434"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok ze sztangą nad głową jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1456",
+    "iso": false,
+    "photo_1": "5432",
+    "photo_2": "5433",
+    "photo_3": "5434",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

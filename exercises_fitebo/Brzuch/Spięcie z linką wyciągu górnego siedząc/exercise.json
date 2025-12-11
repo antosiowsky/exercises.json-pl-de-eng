@@ -1,0 +1,26 @@
+{
+  "id": "79",
+  "name_pl": "Spięcie z linką wyciągu górnego siedząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4145",
+    "4146"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z linką wyciągu górnego siedząc",
+    "gym": true,
+    "home": false,
+    "id": "79",
+    "iso": true,
+    "photo_1": "4145",
+    "photo_2": "4146",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

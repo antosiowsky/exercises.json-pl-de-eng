@@ -1,0 +1,26 @@
+{
+  "id": "1471",
+  "name_pl": "Wykrok z ramionami nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9262",
+    "9263"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok z ramionami nad głową",
+    "gym": false,
+    "home": true,
+    "id": "1471",
+    "iso": false,
+    "photo_1": "9262",
+    "photo_2": "9263",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

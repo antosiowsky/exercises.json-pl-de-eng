@@ -1,0 +1,26 @@
+{
+  "id": "237",
+  "name_pl": "Spięcie z nogą w górze na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3072",
+    "3074"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z nogą w górze na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "237",
+    "iso": true,
+    "photo_1": "3072",
+    "photo_2": "3074",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

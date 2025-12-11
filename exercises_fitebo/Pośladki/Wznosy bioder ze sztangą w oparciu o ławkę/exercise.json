@@ -1,0 +1,26 @@
+{
+  "id": "1018",
+  "name_pl": "Wznosy bioder ze sztangą w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5188",
+    "5190"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze sztangą w oparciu o ławkę",
+    "gym": true,
+    "home": false,
+    "id": "1018",
+    "iso": false,
+    "photo_1": "5188",
+    "photo_2": "5190",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

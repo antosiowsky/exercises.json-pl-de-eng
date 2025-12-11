@@ -1,0 +1,25 @@
+{
+  "id": "2187",
+  "name_pl": "Skakanka",
+  "name_en": null,
+  "muscle_group_id": "99",
+  "muscle_group_name": "Cardio",
+  "photos": [
+    "8840"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skakanka",
+    "gym": false,
+    "home": false,
+    "id": "2187",
+    "iso": false,
+    "photo_1": "8840",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

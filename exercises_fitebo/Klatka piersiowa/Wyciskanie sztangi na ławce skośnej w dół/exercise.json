@@ -1,0 +1,26 @@
+{
+  "id": "627",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6649",
+    "6648"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "627",
+    "iso": false,
+    "photo_1": "6649",
+    "photo_2": "6648",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1527",
+  "name_pl": "Wykrok skośny goblet z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9173",
+    "9172"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skośny goblet z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1527",
+    "iso": false,
+    "photo_1": "9173",
+    "photo_2": "9172",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

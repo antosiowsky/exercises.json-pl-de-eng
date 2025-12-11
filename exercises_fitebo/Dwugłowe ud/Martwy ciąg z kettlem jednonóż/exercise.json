@@ -1,0 +1,26 @@
+{
+  "id": "1341",
+  "name_pl": "Martwy ciąg z kettlem jednonóż",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8178",
+    "8179"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z kettlem jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1341",
+    "iso": false,
+    "photo_1": "8178",
+    "photo_2": "8179",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

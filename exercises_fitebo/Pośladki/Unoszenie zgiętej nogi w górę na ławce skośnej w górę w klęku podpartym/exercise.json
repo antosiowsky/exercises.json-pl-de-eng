@@ -1,0 +1,26 @@
+{
+  "id": "1060",
+  "name_pl": "Unoszenie zgiętej nogi w górę na ławce skośnej w górę w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7116",
+    "7117"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę na ławce skośnej w górę w klęku podpartym",
+    "gym": true,
+    "home": false,
+    "id": "1060",
+    "iso": true,
+    "photo_1": "7116",
+    "photo_2": "7117",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

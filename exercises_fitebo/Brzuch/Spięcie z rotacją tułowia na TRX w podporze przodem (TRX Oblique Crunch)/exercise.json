@@ -1,0 +1,27 @@
+{
+  "id": "195",
+  "name_pl": "Spięcie z rotacją tułowia na TRX w podporze przodem (TRX Oblique Crunch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3237",
+    "3238",
+    "3239"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z rotacją tułowia na TRX w podporze przodem (TRX Oblique Crunch)",
+    "gym": false,
+    "home": true,
+    "id": "195",
+    "iso": true,
+    "photo_1": "3237",
+    "photo_2": "3238",
+    "photo_3": "3239",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

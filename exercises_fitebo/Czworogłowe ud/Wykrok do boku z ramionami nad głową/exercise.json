@@ -1,0 +1,26 @@
+{
+  "id": "1740",
+  "name_pl": "Wykrok do boku z ramionami nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6402",
+    "6405"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z ramionami nad głową",
+    "gym": false,
+    "home": true,
+    "id": "1740",
+    "iso": false,
+    "photo_1": "6402",
+    "photo_2": "6405",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

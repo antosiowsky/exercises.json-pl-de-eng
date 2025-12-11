@@ -1,0 +1,27 @@
+{
+  "id": "1450",
+  "name_pl": "Wykrok i zakrok z kettlami jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5422",
+    "5423",
+    "5424"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok z kettlami jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1450",
+    "iso": false,
+    "photo_1": "5422",
+    "photo_2": "5423",
+    "photo_3": "5424",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

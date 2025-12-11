@@ -1,0 +1,26 @@
+{
+  "id": "1973",
+  "name_pl": "Odwrotne rozpiętki ze sztangielką jednorącz na ławce skośnej w górę leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4892",
+    "4893"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki ze sztangielką jednorącz na ławce skośnej w górę leżąc bokiem",
+    "gym": true,
+    "home": false,
+    "id": "1973",
+    "iso": true,
+    "photo_1": "4892",
+    "photo_2": "4893",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "871",
+  "name_pl": "Pompka ze stopami na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "9556",
+    "9557"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka ze stopami na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "871",
+    "iso": false,
+    "photo_1": "9556",
+    "photo_2": "9557",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

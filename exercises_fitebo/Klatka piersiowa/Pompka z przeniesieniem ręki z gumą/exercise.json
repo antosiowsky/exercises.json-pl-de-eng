@@ -1,0 +1,27 @@
+{
+  "id": "876",
+  "name_pl": "Pompka z przeniesieniem ręki z gumą",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4342",
+    "4343",
+    "4344"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka z przeniesieniem ręki z gumą",
+    "gym": false,
+    "home": true,
+    "id": "876",
+    "iso": false,
+    "photo_1": "4342",
+    "photo_2": "4343",
+    "photo_3": "4344",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1678",
+  "name_pl": "Przysiad sumo z uchwytem wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7972",
+    "7971"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo z uchwytem wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "1678",
+    "iso": false,
+    "photo_1": "7972",
+    "photo_2": "7971",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

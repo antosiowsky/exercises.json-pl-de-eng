@@ -1,0 +1,27 @@
+{
+  "id": "1434",
+  "name_pl": "Przysiad z wyskokiem na TRX",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8432",
+    "8434",
+    "8437"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z wyskokiem na TRX",
+    "gym": false,
+    "home": true,
+    "id": "1434",
+    "iso": false,
+    "photo_1": "8432",
+    "photo_2": "8434",
+    "photo_3": "8437",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

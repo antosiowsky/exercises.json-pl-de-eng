@@ -1,0 +1,25 @@
+{
+  "id": "1623",
+  "name_pl": "Przysiad izometryczny w oparciu o ścianę ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6458"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przysiad izometryczny w oparciu o ścianę ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1623",
+    "iso": false,
+    "photo_1": "6458",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

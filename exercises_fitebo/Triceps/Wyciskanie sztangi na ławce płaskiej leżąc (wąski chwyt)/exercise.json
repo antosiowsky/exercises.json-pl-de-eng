@@ -1,0 +1,26 @@
+{
+  "id": "2077",
+  "name_pl": "Wyciskanie sztangi na ławce płaskiej leżąc (wąski chwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "6638",
+    "6639"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na ławce płaskiej leżąc (wąski chwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2077",
+    "iso": false,
+    "photo_1": "6638",
+    "photo_2": "6639",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "956",
+  "name_pl": "Spacer kelnera z talerzami (Waiter's Walk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6222",
+    "6223"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Spacer kelnera z talerzami (Waiter's Walk)",
+    "gym": true,
+    "home": false,
+    "id": "956",
+    "iso": false,
+    "photo_1": "6222",
+    "photo_2": "6223",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

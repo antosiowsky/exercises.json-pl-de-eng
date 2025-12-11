@@ -1,0 +1,27 @@
+{
+  "id": "2016",
+  "name_pl": "Podciąganie naprzemienne sztangielek wzdłuż tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4704",
+    "4705",
+    "4706"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie naprzemienne sztangielek wzdłuż tułowia",
+    "gym": false,
+    "home": true,
+    "id": "2016",
+    "iso": false,
+    "photo_1": "4704",
+    "photo_2": "4705",
+    "photo_3": "4706",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

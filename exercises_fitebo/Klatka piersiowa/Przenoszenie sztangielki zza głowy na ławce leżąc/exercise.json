@@ -1,0 +1,26 @@
+{
+  "id": "894",
+  "name_pl": "Przenoszenie sztangielki zza głowy na ławce leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4220",
+    "4221"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangielki zza głowy na ławce leżąc",
+    "gym": true,
+    "home": false,
+    "id": "894",
+    "iso": true,
+    "photo_1": "4220",
+    "photo_2": "4221",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1038",
+  "name_pl": "Wznosy bioder z gumą (długą) na biodrach ze stopami na podwyższeniu w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9069",
+    "9070"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder z gumą (długą) na biodrach ze stopami na podwyższeniu w oparciu o ławkę",
+    "gym": false,
+    "home": true,
+    "id": "1038",
+    "iso": false,
+    "photo_1": "9069",
+    "photo_2": "9070",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

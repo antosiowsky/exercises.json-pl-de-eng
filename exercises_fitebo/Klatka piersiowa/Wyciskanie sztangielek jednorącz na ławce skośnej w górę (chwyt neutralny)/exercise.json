@@ -1,0 +1,26 @@
+{
+  "id": "656",
+  "name_pl": "Wyciskanie sztangielek jednorącz na ławce skośnej w górę (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3928",
+    "3929"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek jednorącz na ławce skośnej w górę (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "656",
+    "iso": false,
+    "photo_1": "3928",
+    "photo_2": "3929",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1707",
+  "name_pl": "Przysiad goblet z kettlem jednonóż do podwyższenia (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5912",
+    "5913"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad goblet z kettlem jednonóż do podwyższenia (Pistol Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1707",
+    "iso": false,
+    "photo_1": "5912",
+    "photo_2": "5913",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

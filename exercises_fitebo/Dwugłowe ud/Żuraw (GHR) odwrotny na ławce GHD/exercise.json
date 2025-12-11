@@ -1,0 +1,26 @@
+{
+  "id": "1370",
+  "name_pl": "Żuraw (GHR) odwrotny na ławce GHD",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9205",
+    "9209"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Żuraw (GHR) odwrotny na ławce GHD",
+    "gym": true,
+    "home": false,
+    "id": "1370",
+    "iso": true,
+    "photo_1": "9205",
+    "photo_2": "9209",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

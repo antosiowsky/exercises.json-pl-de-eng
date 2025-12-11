@@ -1,0 +1,26 @@
+{
+  "id": "2024",
+  "name_pl": "Podciąganie sztangielki wzdłuż tułowia jednorącz",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4712",
+    "4713"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangielki wzdłuż tułowia jednorącz",
+    "gym": false,
+    "home": true,
+    "id": "2024",
+    "iso": false,
+    "photo_1": "4712",
+    "photo_2": "4713",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

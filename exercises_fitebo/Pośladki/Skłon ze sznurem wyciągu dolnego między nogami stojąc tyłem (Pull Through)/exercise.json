@@ -1,0 +1,26 @@
+{
+  "id": "1055",
+  "name_pl": "Skłon ze sznurem wyciągu dolnego między nogami stojąc tyłem (Pull Through)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8931",
+    "8932"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon ze sznurem wyciągu dolnego między nogami stojąc tyłem (Pull Through)",
+    "gym": true,
+    "home": false,
+    "id": "1055",
+    "iso": false,
+    "photo_1": "8931",
+    "photo_2": "8932",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

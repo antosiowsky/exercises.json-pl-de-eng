@@ -1,0 +1,27 @@
+{
+  "id": "647",
+  "name_pl": "Wyciskanie naprzemienne sztangielek na ławce skośnej w górę (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3936",
+    "3938",
+    "3939"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne sztangielek na ławce skośnej w górę (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "647",
+    "iso": false,
+    "photo_1": "3936",
+    "photo_2": "3938",
+    "photo_3": "3939",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

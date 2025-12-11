@@ -1,0 +1,26 @@
+{
+  "id": "1176",
+  "name_pl": "Odwodzenie uniesionych nóg z gumą (mini band) nad kolanami do boku w podporze na rękach",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7993",
+    "7994"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie uniesionych nóg z gumą (mini band) nad kolanami do boku w podporze na rękach",
+    "gym": false,
+    "home": true,
+    "id": "1176",
+    "iso": true,
+    "photo_1": "7993",
+    "photo_2": "7994",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

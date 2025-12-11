@@ -1,0 +1,26 @@
+{
+  "id": "360",
+  "name_pl": "Wiosłowanie na wyciągu poziomym jednorącz siedząc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4833",
+    "4834"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na wyciągu poziomym jednorącz siedząc (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "360",
+    "iso": false,
+    "photo_1": "4833",
+    "photo_2": "4834",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

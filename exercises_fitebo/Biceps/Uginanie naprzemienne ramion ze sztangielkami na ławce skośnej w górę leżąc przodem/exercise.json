@@ -1,0 +1,27 @@
+{
+  "id": "575",
+  "name_pl": "Uginanie naprzemienne ramion ze sztangielkami na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3565",
+    "3567",
+    "3568"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie naprzemienne ramion ze sztangielkami na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "575",
+    "iso": true,
+    "photo_1": "3565",
+    "photo_2": "3567",
+    "photo_3": "3568",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

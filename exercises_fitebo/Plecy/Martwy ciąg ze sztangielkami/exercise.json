@@ -1,0 +1,26 @@
+{
+  "id": "316",
+  "name_pl": "Martwy ciąg ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "8846",
+    "8847"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "316",
+    "iso": false,
+    "photo_1": "8846",
+    "photo_2": "8847",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

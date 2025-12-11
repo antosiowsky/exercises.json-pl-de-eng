@@ -1,0 +1,26 @@
+{
+  "id": "1188",
+  "name_pl": "Odwodzenie prostej nogi do boku ze sztangielką na ławce płaskiej leżąc bokiem (spoza ławki)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7855",
+    "7857"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku ze sztangielką na ławce płaskiej leżąc bokiem (spoza ławki)",
+    "gym": false,
+    "home": true,
+    "id": "1188",
+    "iso": true,
+    "photo_1": "7855",
+    "photo_2": "7857",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

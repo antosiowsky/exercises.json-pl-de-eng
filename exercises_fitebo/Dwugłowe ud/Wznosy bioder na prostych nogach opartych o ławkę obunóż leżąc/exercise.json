@@ -1,0 +1,26 @@
+{
+  "id": "1272",
+  "name_pl": "Wznosy bioder na prostych nogach opartych o ławkę obunóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6309",
+    "6310"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wznosy bioder na prostych nogach opartych o ławkę obunóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1272",
+    "iso": true,
+    "photo_1": "6309",
+    "photo_2": "6310",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1083",
+  "name_pl": "Odwodzenie prostej nogi do tyłu z gumą (długą) w pochyleniu",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8359",
+    "8360"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do tyłu z gumą (długą) w pochyleniu",
+    "gym": false,
+    "home": true,
+    "id": "1083",
+    "iso": true,
+    "photo_1": "8359",
+    "photo_2": "8360",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

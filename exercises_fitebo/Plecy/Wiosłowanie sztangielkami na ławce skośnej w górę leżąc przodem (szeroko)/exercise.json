@@ -1,0 +1,26 @@
+{
+  "id": "380",
+  "name_pl": "Wiosłowanie sztangielkami na ławce skośnej w górę leżąc przodem (szeroko)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3320",
+    "3321"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami na ławce skośnej w górę leżąc przodem (szeroko)",
+    "gym": true,
+    "home": false,
+    "id": "380",
+    "iso": false,
+    "photo_1": "3320",
+    "photo_2": "3321",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

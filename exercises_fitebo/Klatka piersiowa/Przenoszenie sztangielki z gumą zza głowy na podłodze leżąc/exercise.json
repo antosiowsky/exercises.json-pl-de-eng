@@ -1,0 +1,26 @@
+{
+  "id": "909",
+  "name_pl": "Przenoszenie sztangielki z gumą zza głowy na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4255",
+    "4258"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie sztangielki z gumą zza głowy na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "909",
+    "iso": true,
+    "photo_1": "4255",
+    "photo_2": "4258",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

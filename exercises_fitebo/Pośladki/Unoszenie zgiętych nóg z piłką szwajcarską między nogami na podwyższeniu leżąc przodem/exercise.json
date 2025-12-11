@@ -1,0 +1,26 @@
+{
+  "id": "1135",
+  "name_pl": "Unoszenie zgiętych nóg z piłką szwajcarską między nogami na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7636",
+    "7637"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg z piłką szwajcarską między nogami na podwyższeniu leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1135",
+    "iso": true,
+    "photo_1": "7636",
+    "photo_2": "7637",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

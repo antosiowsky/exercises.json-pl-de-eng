@@ -1,0 +1,26 @@
+{
+  "id": "1474",
+  "name_pl": "Wykrok skrzyżny ze sztangą z przodu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9634",
+    "9635"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skrzyżny ze sztangą z przodu",
+    "gym": true,
+    "home": false,
+    "id": "1474",
+    "iso": false,
+    "photo_1": "9634",
+    "photo_2": "9635",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

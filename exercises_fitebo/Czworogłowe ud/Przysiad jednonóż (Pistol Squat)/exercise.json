@@ -1,0 +1,26 @@
+{
+  "id": "1643",
+  "name_pl": "Przysiad jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5842",
+    "5841"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad jednonóż (Pistol Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1643",
+    "iso": false,
+    "photo_1": "5842",
+    "photo_2": "5841",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

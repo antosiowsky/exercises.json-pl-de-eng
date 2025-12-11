@@ -1,0 +1,28 @@
+{
+  "id": "39",
+  "name_pl": "Ptak Pies z dotknięciem kolanem do łokcia (Bird Dog)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3412",
+    "3409",
+    "3410",
+    "3409"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ptak Pies z dotknięciem kolanem do łokcia (Bird Dog)",
+    "gym": false,
+    "home": true,
+    "id": "39",
+    "iso": false,
+    "photo_1": "3412",
+    "photo_2": "3409",
+    "photo_3": "3410",
+    "photo_4": "3409",
+    "stat": true,
+    "use": false
+  }
+}

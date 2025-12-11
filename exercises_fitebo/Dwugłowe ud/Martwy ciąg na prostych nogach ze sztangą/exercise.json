@@ -1,0 +1,27 @@
+{
+  "id": "1329",
+  "name_pl": "Martwy ciąg na prostych nogach ze sztangą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "5661",
+    "5663",
+    "5664"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na prostych nogach ze sztangą",
+    "gym": true,
+    "home": false,
+    "id": "1329",
+    "iso": false,
+    "photo_1": "5661",
+    "photo_2": "5663",
+    "photo_3": "5664",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

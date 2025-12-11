@@ -1,0 +1,26 @@
+{
+  "id": "1796",
+  "name_pl": "Wyciskanie sztangi nad głowę z odłożeniem na stojak siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9051",
+    "9052"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi nad głowę z odłożeniem na stojak siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1796",
+    "iso": false,
+    "photo_1": "9051",
+    "photo_2": "9052",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

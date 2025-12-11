@@ -1,0 +1,26 @@
+{
+  "id": "1229",
+  "name_pl": "Skłon \"Dzień Dobry\" siedząc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "3295",
+    "3296"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon \"Dzień Dobry\" siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1229",
+    "iso": true,
+    "photo_1": "3295",
+    "photo_2": "3296",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

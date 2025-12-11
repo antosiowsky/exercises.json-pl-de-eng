@@ -1,0 +1,26 @@
+{
+  "id": "41",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci w podporze przodem (Mountain Climber)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2541",
+    "2542"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci w podporze przodem (Mountain Climber)",
+    "gym": false,
+    "home": true,
+    "id": "41",
+    "iso": false,
+    "photo_1": "2541",
+    "photo_2": "2542",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

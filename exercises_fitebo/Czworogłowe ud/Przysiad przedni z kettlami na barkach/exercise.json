@@ -1,0 +1,26 @@
+{
+  "id": "1606",
+  "name_pl": "Przysiad przedni z kettlami na barkach",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5817",
+    "5818"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad przedni z kettlami na barkach",
+    "gym": true,
+    "home": false,
+    "id": "1606",
+    "iso": false,
+    "photo_1": "5817",
+    "photo_2": "5818",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

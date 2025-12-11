@@ -1,0 +1,26 @@
+{
+  "id": "42",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci na skos w podporze przodem (Drunken Mountain Climber)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2543",
+    "2544"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci na skos w podporze przodem (Drunken Mountain Climber)",
+    "gym": false,
+    "home": true,
+    "id": "42",
+    "iso": false,
+    "photo_1": "2543",
+    "photo_2": "2544",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

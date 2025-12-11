@@ -1,0 +1,25 @@
+{
+  "id": "28",
+  "name_pl": "Plank na prostych ramionach ze stopami na podwyższeniu",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2515"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank na prostych ramionach ze stopami na podwyższeniu",
+    "gym": false,
+    "home": true,
+    "id": "28",
+    "iso": false,
+    "photo_1": "2515",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

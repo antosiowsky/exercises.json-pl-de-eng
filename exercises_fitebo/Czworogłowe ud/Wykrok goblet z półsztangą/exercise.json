@@ -1,0 +1,26 @@
+{
+  "id": "1466",
+  "name_pl": "Wykrok goblet z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9152",
+    "9151"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok goblet z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1466",
+    "iso": false,
+    "photo_1": "9152",
+    "photo_2": "9151",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

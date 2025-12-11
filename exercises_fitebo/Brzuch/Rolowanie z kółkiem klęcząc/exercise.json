@@ -1,0 +1,26 @@
+{
+  "id": "215",
+  "name_pl": "Rolowanie z kółkiem klęcząc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2776",
+    "2777"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rolowanie z kółkiem klęcząc",
+    "gym": true,
+    "home": false,
+    "id": "215",
+    "iso": true,
+    "photo_1": "2776",
+    "photo_2": "2777",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

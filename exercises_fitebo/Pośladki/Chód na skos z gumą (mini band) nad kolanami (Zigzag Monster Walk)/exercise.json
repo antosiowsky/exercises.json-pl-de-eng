@@ -1,0 +1,28 @@
+{
+  "id": "1221",
+  "name_pl": "Chód na skos z gumą (mini band) nad kolanami (Zigzag Monster Walk)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6827",
+    "6828",
+    "6829",
+    "6831"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Chód na skos z gumą (mini band) nad kolanami (Zigzag Monster Walk)",
+    "gym": false,
+    "home": true,
+    "id": "1221",
+    "iso": true,
+    "photo_1": "6827",
+    "photo_2": "6828",
+    "photo_3": "6829",
+    "photo_4": "6831",
+    "stat": false,
+    "use": false
+  }
+}

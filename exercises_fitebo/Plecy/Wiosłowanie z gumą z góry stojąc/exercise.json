@@ -1,0 +1,26 @@
+{
+  "id": "337",
+  "name_pl": "Wiosłowanie z gumą z góry stojąc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3731",
+    "3732"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą z góry stojąc",
+    "gym": false,
+    "home": true,
+    "id": "337",
+    "iso": false,
+    "photo_1": "3731",
+    "photo_2": "3732",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

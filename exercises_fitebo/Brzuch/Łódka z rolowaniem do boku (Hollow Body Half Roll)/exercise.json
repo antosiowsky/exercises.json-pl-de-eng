@@ -1,0 +1,26 @@
+{
+  "id": "36",
+  "name_pl": "Łódka z rolowaniem do boku (Hollow Body Half Roll)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2531",
+    "2532"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Łódka z rolowaniem do boku (Hollow Body Half Roll)",
+    "gym": false,
+    "home": true,
+    "id": "36",
+    "iso": false,
+    "photo_1": "2531",
+    "photo_2": "2532",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

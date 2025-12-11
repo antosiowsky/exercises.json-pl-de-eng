@@ -1,0 +1,27 @@
+{
+  "id": "1442",
+  "name_pl": "Wykrok do boku z zarzutem ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5453",
+    "5452",
+    "5454"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku z zarzutem ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1442",
+    "iso": false,
+    "photo_1": "5453",
+    "photo_2": "5452",
+    "photo_3": "5454",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

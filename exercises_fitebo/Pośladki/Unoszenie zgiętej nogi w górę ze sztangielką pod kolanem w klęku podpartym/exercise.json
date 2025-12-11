@@ -1,0 +1,26 @@
+{
+  "id": "1061",
+  "name_pl": "Unoszenie zgiętej nogi w górę ze sztangielką pod kolanem w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7110",
+    "7112"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę ze sztangielką pod kolanem w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1061",
+    "iso": true,
+    "photo_1": "7110",
+    "photo_2": "7112",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

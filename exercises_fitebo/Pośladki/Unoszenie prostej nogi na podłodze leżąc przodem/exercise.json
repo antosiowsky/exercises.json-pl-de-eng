@@ -1,0 +1,26 @@
+{
+  "id": "1158",
+  "name_pl": "Unoszenie prostej nogi na podłodze leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7803",
+    "7804"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie prostej nogi na podłodze leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1158",
+    "iso": true,
+    "photo_1": "7803",
+    "photo_2": "7804",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

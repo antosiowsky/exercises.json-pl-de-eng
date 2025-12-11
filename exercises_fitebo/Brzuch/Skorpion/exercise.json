@@ -1,0 +1,27 @@
+{
+  "id": "214",
+  "name_pl": "Skorpion",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3003",
+    "3002",
+    "3004"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skorpion",
+    "gym": false,
+    "home": true,
+    "id": "214",
+    "iso": true,
+    "photo_1": "3003",
+    "photo_2": "3002",
+    "photo_3": "3004",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

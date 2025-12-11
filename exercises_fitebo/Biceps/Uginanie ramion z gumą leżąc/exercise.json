@@ -1,0 +1,26 @@
+{
+  "id": "591",
+  "name_pl": "Uginanie ramion z gumą leżąc",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "4743",
+    "4744"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z gumą leżąc",
+    "gym": false,
+    "home": true,
+    "id": "591",
+    "iso": true,
+    "photo_1": "4743",
+    "photo_2": "4744",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "406",
+  "name_pl": "Wiosłowanie Pendlaya",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9219",
+    "9220"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie Pendlaya",
+    "gym": true,
+    "home": false,
+    "id": "406",
+    "iso": false,
+    "photo_1": "9219",
+    "photo_2": "9220",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

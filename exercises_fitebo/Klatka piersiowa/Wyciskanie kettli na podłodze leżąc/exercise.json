@@ -1,0 +1,26 @@
+{
+  "id": "719",
+  "name_pl": "Wyciskanie kettli na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4043",
+    "4044"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kettli na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "719",
+    "iso": false,
+    "photo_1": "4043",
+    "photo_2": "4044",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

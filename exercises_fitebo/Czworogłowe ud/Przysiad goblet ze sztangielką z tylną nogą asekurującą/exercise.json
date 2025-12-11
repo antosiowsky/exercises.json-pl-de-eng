@@ -1,0 +1,26 @@
+{
+  "id": "1642",
+  "name_pl": "Przysiad goblet ze sztangielką z tylną nogą asekurującą",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6864",
+    "6865"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad goblet ze sztangielką z tylną nogą asekurującą",
+    "gym": false,
+    "home": true,
+    "id": "1642",
+    "iso": false,
+    "photo_1": "6864",
+    "photo_2": "6865",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

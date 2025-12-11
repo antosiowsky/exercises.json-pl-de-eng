@@ -1,0 +1,26 @@
+{
+  "id": "431",
+  "name_pl": "Szrugsy ze sztangą (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9376",
+    "9378"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy ze sztangą (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "431",
+    "iso": true,
+    "photo_1": "9376",
+    "photo_2": "9378",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

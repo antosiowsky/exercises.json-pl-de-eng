@@ -1,0 +1,26 @@
+{
+  "id": "1037",
+  "name_pl": "Wznosy bioder na suwnicy Smitha ze stopami na podwyższeniu w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8705",
+    "8706"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder na suwnicy Smitha ze stopami na podwyższeniu w oparciu o ławkę",
+    "gym": true,
+    "home": false,
+    "id": "1037",
+    "iso": false,
+    "photo_1": "8705",
+    "photo_2": "8706",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

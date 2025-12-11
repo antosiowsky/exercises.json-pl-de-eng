@@ -1,0 +1,26 @@
+{
+  "id": "1990",
+  "name_pl": "Odwrotne rozpiętki z linkami wyciągu górnego leżąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5292",
+    "5293"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwrotne rozpiętki z linkami wyciągu górnego leżąc",
+    "gym": true,
+    "home": false,
+    "id": "1990",
+    "iso": true,
+    "photo_1": "5292",
+    "photo_2": "5293",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

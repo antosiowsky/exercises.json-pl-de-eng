@@ -1,0 +1,26 @@
+{
+  "id": "1184",
+  "name_pl": "Plank z odwodzeniem nogi do boku",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8003",
+    "8004"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z odwodzeniem nogi do boku",
+    "gym": false,
+    "home": true,
+    "id": "1184",
+    "iso": true,
+    "photo_1": "8003",
+    "photo_2": "8004",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

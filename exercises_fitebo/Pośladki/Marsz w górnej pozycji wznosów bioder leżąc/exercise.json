@@ -1,0 +1,26 @@
+{
+  "id": "1005",
+  "name_pl": "Marsz w górnej pozycji wznosów bioder leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5164",
+    "5165"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Marsz w górnej pozycji wznosów bioder leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1005",
+    "iso": false,
+    "photo_1": "5164",
+    "photo_2": "5165",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

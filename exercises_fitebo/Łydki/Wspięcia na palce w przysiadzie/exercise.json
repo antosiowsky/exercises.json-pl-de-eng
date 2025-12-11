@@ -1,0 +1,26 @@
+{
+  "id": "612",
+  "name_pl": "Wspięcia na palce w przysiadzie",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "9350",
+    "9351"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce w przysiadzie",
+    "gym": false,
+    "home": true,
+    "id": "612",
+    "iso": true,
+    "photo_1": "9350",
+    "photo_2": "9351",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

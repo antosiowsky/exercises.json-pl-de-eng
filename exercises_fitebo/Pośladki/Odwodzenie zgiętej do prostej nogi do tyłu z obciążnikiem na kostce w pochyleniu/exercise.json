@@ -1,0 +1,26 @@
+{
+  "id": "1086",
+  "name_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z obciążnikiem na kostce w pochyleniu",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7145",
+    "7148"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej do prostej nogi do tyłu z obciążnikiem na kostce w pochyleniu",
+    "gym": false,
+    "home": true,
+    "id": "1086",
+    "iso": true,
+    "photo_1": "7145",
+    "photo_2": "7148",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

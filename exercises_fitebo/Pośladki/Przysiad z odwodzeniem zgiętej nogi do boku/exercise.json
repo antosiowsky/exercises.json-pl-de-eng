@@ -1,0 +1,27 @@
+{
+  "id": "1253",
+  "name_pl": "Przysiad z odwodzeniem zgiętej nogi do boku",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8298",
+    "8299",
+    "8303"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z odwodzeniem zgiętej nogi do boku",
+    "gym": false,
+    "home": true,
+    "id": "1253",
+    "iso": false,
+    "photo_1": "8298",
+    "photo_2": "8299",
+    "photo_3": "8303",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

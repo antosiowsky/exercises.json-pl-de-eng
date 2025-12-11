@@ -1,0 +1,26 @@
+{
+  "id": "2173",
+  "name_pl": "Prostowanie ramion ze sztangielką do tyłu jednorącz w oparciu o ławkę (Kickback)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5014",
+    "5015"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion ze sztangielką do tyłu jednorącz w oparciu o ławkę (Kickback)",
+    "gym": false,
+    "home": true,
+    "id": "2173",
+    "iso": true,
+    "photo_1": "5014",
+    "photo_2": "5015",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

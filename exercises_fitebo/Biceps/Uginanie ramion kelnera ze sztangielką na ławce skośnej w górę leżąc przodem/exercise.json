@@ -1,0 +1,26 @@
+{
+  "id": "604",
+  "name_pl": "Uginanie ramion kelnera ze sztangielką na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "9516",
+    "9517"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion kelnera ze sztangielką na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "604",
+    "iso": true,
+    "photo_1": "9516",
+    "photo_2": "9517",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

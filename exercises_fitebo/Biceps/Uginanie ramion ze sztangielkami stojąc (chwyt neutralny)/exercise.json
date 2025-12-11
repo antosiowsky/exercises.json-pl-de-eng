@@ -1,0 +1,26 @@
+{
+  "id": "484",
+  "name_pl": "Uginanie ramion ze sztangielkami stojąc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3479",
+    "3480"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami stojąc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "484",
+    "iso": true,
+    "photo_1": "3479",
+    "photo_2": "3480",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

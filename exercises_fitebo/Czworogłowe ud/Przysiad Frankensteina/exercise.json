@@ -1,0 +1,26 @@
+{
+  "id": "2214",
+  "name_pl": "Przysiad Frankensteina",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "14288",
+    "14287"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Frankensteina",
+    "gym": false,
+    "home": true,
+    "id": "2214",
+    "iso": false,
+    "photo_1": "14288",
+    "photo_2": "14287",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

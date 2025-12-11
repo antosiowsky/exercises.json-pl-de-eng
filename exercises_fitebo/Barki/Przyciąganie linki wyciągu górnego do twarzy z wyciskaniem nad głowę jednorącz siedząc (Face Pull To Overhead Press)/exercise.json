@@ -1,0 +1,27 @@
+{
+  "id": "2056",
+  "name_pl": "Przyciąganie linki wyciągu górnego do twarzy z wyciskaniem nad głowę jednorącz siedząc (Face Pull To Overhead Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7915",
+    "7916",
+    "7917"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie linki wyciągu górnego do twarzy z wyciskaniem nad głowę jednorącz siedząc (Face Pull To Overhead Press)",
+    "gym": true,
+    "home": false,
+    "id": "2056",
+    "iso": false,
+    "photo_1": "7915",
+    "photo_2": "7916",
+    "photo_3": "7917",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

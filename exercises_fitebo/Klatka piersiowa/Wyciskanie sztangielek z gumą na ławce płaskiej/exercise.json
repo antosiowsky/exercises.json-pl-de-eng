@@ -1,0 +1,26 @@
+{
+  "id": "661",
+  "name_pl": "Wyciskanie sztangielek z gumą na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3899",
+    "3900"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z gumą na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "661",
+    "iso": false,
+    "photo_1": "3899",
+    "photo_2": "3900",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

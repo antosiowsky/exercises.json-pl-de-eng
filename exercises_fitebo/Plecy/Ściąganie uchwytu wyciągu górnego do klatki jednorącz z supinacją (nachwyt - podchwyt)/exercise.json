@@ -1,0 +1,26 @@
+{
+  "id": "299",
+  "name_pl": "Ściąganie uchwytu wyciągu górnego do klatki jednorącz z supinacją (nachwyt - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4771",
+    "4778"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu wyciągu górnego do klatki jednorącz z supinacją (nachwyt - podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "299",
+    "iso": false,
+    "photo_1": "4771",
+    "photo_2": "4778",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

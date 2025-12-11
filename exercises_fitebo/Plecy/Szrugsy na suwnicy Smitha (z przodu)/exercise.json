@@ -1,0 +1,26 @@
+{
+  "id": "446",
+  "name_pl": "Szrugsy na suwnicy Smitha (z przodu)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7062",
+    "7063"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy na suwnicy Smitha (z przodu)",
+    "gym": true,
+    "home": false,
+    "id": "446",
+    "iso": true,
+    "photo_1": "7062",
+    "photo_2": "7063",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

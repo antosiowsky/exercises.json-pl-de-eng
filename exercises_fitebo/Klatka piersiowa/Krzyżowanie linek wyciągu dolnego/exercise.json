@@ -1,0 +1,26 @@
+{
+  "id": "865",
+  "name_pl": "Krzyżowanie linek wyciągu dolnego",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5348",
+    "5349"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Krzyżowanie linek wyciągu dolnego",
+    "gym": true,
+    "home": false,
+    "id": "865",
+    "iso": true,
+    "photo_1": "5348",
+    "photo_2": "5349",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

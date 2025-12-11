@@ -1,0 +1,26 @@
+{
+  "id": "57",
+  "name_pl": "Skłon tułowia z leżenia do siadu na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4096",
+    "4097"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skłon tułowia z leżenia do siadu na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "57",
+    "iso": true,
+    "photo_1": "4096",
+    "photo_2": "4097",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

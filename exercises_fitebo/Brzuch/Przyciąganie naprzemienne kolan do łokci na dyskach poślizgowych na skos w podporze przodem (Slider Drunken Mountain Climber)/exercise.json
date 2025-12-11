@@ -1,0 +1,26 @@
+{
+  "id": "173",
+  "name_pl": "Przyciąganie naprzemienne kolan do łokci na dyskach poślizgowych na skos w podporze przodem (Slider Drunken Mountain Climber)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2726",
+    "2727"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie naprzemienne kolan do łokci na dyskach poślizgowych na skos w podporze przodem (Slider Drunken Mountain Climber)",
+    "gym": false,
+    "home": true,
+    "id": "173",
+    "iso": false,
+    "photo_1": "2726",
+    "photo_2": "2727",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

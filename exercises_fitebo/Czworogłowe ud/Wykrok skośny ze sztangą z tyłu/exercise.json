@@ -1,0 +1,26 @@
+{
+  "id": "1518",
+  "name_pl": "Wykrok skośny ze sztangą z tyłu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5744",
+    "5745"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok skośny ze sztangą z tyłu",
+    "gym": true,
+    "home": false,
+    "id": "1518",
+    "iso": false,
+    "photo_1": "5744",
+    "photo_2": "5745",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

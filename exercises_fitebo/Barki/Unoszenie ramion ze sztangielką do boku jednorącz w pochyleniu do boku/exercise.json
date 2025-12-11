@@ -1,0 +1,26 @@
+{
+  "id": "1959",
+  "name_pl": "Unoszenie ramion ze sztangielką do boku jednorącz w pochyleniu do boku",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6029",
+    "6030"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielką do boku jednorącz w pochyleniu do boku",
+    "gym": false,
+    "home": true,
+    "id": "1959",
+    "iso": true,
+    "photo_1": "6029",
+    "photo_2": "6030",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

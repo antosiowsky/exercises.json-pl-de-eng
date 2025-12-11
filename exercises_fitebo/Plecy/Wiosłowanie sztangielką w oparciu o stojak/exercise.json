@@ -1,0 +1,26 @@
+{
+  "id": "427",
+  "name_pl": "Wiosłowanie sztangielką w oparciu o stojak",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9003",
+    "9004"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielką w oparciu o stojak",
+    "gym": false,
+    "home": true,
+    "id": "427",
+    "iso": false,
+    "photo_1": "9003",
+    "photo_2": "9004",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

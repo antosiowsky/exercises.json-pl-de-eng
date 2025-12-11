@@ -1,0 +1,26 @@
+{
+  "id": "339",
+  "name_pl": "Wiosłowanie na wyciągu poziomym siedząc",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4823",
+    "4824"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie na wyciągu poziomym siedząc",
+    "gym": true,
+    "home": false,
+    "id": "339",
+    "iso": false,
+    "photo_1": "4823",
+    "photo_2": "4824",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

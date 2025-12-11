@@ -1,0 +1,26 @@
+{
+  "id": "1305",
+  "name_pl": "Klasyczny martwy ciąg z półsztangą",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9114",
+    "9113"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Klasyczny martwy ciąg z półsztangą",
+    "gym": true,
+    "home": false,
+    "id": "1305",
+    "iso": false,
+    "photo_1": "9114",
+    "photo_2": "9113",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

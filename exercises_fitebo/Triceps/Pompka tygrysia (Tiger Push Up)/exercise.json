@@ -1,0 +1,26 @@
+{
+  "id": "2208",
+  "name_pl": "Pompka tygrysia (Tiger Push Up)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "14268",
+    "14269"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka tygrysia (Tiger Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "2208",
+    "iso": false,
+    "photo_1": "14268",
+    "photo_2": "14269",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

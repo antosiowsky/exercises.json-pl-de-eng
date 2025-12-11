@@ -1,0 +1,27 @@
+{
+  "id": "1919",
+  "name_pl": "Unoszenie naprzemienne ramion ze sztangielkami do przodu siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4728",
+    "4730",
+    "4731"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie naprzemienne ramion ze sztangielkami do przodu siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1919",
+    "iso": true,
+    "photo_1": "4728",
+    "photo_2": "4730",
+    "photo_3": "4731",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

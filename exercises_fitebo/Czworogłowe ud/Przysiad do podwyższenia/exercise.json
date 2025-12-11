@@ -1,0 +1,26 @@
+{
+  "id": "1688",
+  "name_pl": "Przysiad do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5878",
+    "5880"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad do podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1688",
+    "iso": false,
+    "photo_1": "5878",
+    "photo_2": "5880",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

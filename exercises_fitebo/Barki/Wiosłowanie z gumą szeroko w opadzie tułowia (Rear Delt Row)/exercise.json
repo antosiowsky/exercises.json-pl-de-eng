@@ -1,0 +1,26 @@
+{
+  "id": "2000",
+  "name_pl": "Wiosłowanie z gumą szeroko w opadzie tułowia (Rear Delt Row)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5110",
+    "5111"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z gumą szeroko w opadzie tułowia (Rear Delt Row)",
+    "gym": false,
+    "home": true,
+    "id": "2000",
+    "iso": false,
+    "photo_1": "5110",
+    "photo_2": "5111",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

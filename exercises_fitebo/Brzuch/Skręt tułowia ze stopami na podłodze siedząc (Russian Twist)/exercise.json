@@ -1,0 +1,26 @@
+{
+  "id": "73",
+  "name_pl": "Skręt tułowia ze stopami na podłodze siedząc (Russian Twist)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2573",
+    "2574"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skręt tułowia ze stopami na podłodze siedząc (Russian Twist)",
+    "gym": false,
+    "home": true,
+    "id": "73",
+    "iso": true,
+    "photo_1": "2573",
+    "photo_2": "2574",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

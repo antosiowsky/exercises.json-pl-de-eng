@@ -1,0 +1,26 @@
+{
+  "id": "1685",
+  "name_pl": "Przysiad sumo z gumą (mini band) nad kolanami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8248",
+    "8249"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo z gumą (mini band) nad kolanami",
+    "gym": false,
+    "home": true,
+    "id": "1685",
+    "iso": false,
+    "photo_1": "8248",
+    "photo_2": "8249",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

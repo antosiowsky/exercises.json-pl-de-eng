@@ -1,0 +1,27 @@
+{
+  "id": "1446",
+  "name_pl": "Wykrok i zakrok ze sztangą z tyłu jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5406",
+    "5407",
+    "5408"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok i zakrok ze sztangą z tyłu jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1446",
+    "iso": false,
+    "photo_1": "5406",
+    "photo_2": "5407",
+    "photo_3": "5408",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

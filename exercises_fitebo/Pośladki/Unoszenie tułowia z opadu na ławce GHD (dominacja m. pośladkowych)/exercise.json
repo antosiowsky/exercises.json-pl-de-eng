@@ -1,0 +1,26 @@
+{
+  "id": "1105",
+  "name_pl": "Unoszenie tułowia z opadu na ławce GHD (dominacja m. pośladkowych)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9203",
+    "9204"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z opadu na ławce GHD (dominacja m. pośladkowych)",
+    "gym": true,
+    "home": false,
+    "id": "1105",
+    "iso": true,
+    "photo_1": "9203",
+    "photo_2": "9204",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

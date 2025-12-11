@@ -1,0 +1,26 @@
+{
+  "id": "1080",
+  "name_pl": "Odwodzenie nogi do tyłu w pochyleniu",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7165",
+    "7166"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nogi do tyłu w pochyleniu",
+    "gym": false,
+    "home": true,
+    "id": "1080",
+    "iso": true,
+    "photo_1": "7165",
+    "photo_2": "7166",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

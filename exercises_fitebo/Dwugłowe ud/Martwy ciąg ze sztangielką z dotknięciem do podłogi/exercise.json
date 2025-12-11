@@ -1,0 +1,26 @@
+{
+  "id": "1321",
+  "name_pl": "Martwy ciąg ze sztangielką z dotknięciem do podłogi",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8137",
+    "8138"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg ze sztangielką z dotknięciem do podłogi",
+    "gym": false,
+    "home": true,
+    "id": "1321",
+    "iso": false,
+    "photo_1": "8137",
+    "photo_2": "8138",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

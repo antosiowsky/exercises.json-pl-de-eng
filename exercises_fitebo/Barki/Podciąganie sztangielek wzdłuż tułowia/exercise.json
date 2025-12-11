@@ -1,0 +1,26 @@
+{
+  "id": "2015",
+  "name_pl": "Podciąganie sztangielek wzdłuż tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4601",
+    "4600"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangielek wzdłuż tułowia",
+    "gym": false,
+    "home": true,
+    "id": "2015",
+    "iso": false,
+    "photo_1": "4601",
+    "photo_2": "4600",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

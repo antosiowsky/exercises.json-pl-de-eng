@@ -1,0 +1,27 @@
+{
+  "id": "516",
+  "name_pl": "Uginanie ramion ze sztangą prostą w trzech zakresach stojąc (1/3 od dołu + 1/3 w środku + 1/3 od góry)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3448",
+    "3449",
+    "3453"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą prostą w trzech zakresach stojąc (1/3 od dołu + 1/3 w środku + 1/3 od góry)",
+    "gym": true,
+    "home": false,
+    "id": "516",
+    "iso": true,
+    "photo_1": "3448",
+    "photo_2": "3449",
+    "photo_3": "3453",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1659",
+  "name_pl": "Przysiad do podwyższenia z gumą (mini band) nad kolanami jednonóż",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8253",
+    "8252"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad do podwyższenia z gumą (mini band) nad kolanami jednonóż",
+    "gym": false,
+    "home": true,
+    "id": "1659",
+    "iso": false,
+    "photo_1": "8253",
+    "photo_2": "8252",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1223",
+  "name_pl": "Chód ze skrzyżowaną gumą (długą) w rękach (Monster Walk)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6806",
+    "6807",
+    "6808"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Chód ze skrzyżowaną gumą (długą) w rękach (Monster Walk)",
+    "gym": false,
+    "home": true,
+    "id": "1223",
+    "iso": true,
+    "photo_1": "6806",
+    "photo_2": "6807",
+    "photo_3": "6808",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

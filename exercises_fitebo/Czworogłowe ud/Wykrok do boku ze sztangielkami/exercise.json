@@ -1,0 +1,26 @@
+{
+  "id": "1731",
+  "name_pl": "Wykrok do boku ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6386",
+    "6387"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykrok do boku ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1731",
+    "iso": false,
+    "photo_1": "6386",
+    "photo_2": "6387",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

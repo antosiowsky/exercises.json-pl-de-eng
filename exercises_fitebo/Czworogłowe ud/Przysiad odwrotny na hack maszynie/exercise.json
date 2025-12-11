@@ -1,0 +1,26 @@
+{
+  "id": "1432",
+  "name_pl": "Przysiad odwrotny na hack maszynie",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9011",
+    "9012"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad odwrotny na hack maszynie",
+    "gym": true,
+    "home": false,
+    "id": "1432",
+    "iso": false,
+    "photo_1": "9011",
+    "photo_2": "9012",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

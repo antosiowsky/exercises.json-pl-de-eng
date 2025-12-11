@@ -1,0 +1,26 @@
+{
+  "id": "249",
+  "name_pl": "Wiatrak z kettlem",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3155",
+    "3156"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiatrak z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "249",
+    "iso": false,
+    "photo_1": "3155",
+    "photo_2": "3156",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

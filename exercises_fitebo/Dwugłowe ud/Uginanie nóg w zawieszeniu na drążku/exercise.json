@@ -1,0 +1,27 @@
+{
+  "id": "1406",
+  "name_pl": "Uginanie nóg w zawieszeniu na drążku",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8716",
+    "8717",
+    "8718"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg w zawieszeniu na drążku",
+    "gym": true,
+    "home": false,
+    "id": "1406",
+    "iso": true,
+    "photo_1": "8716",
+    "photo_2": "8717",
+    "photo_3": "8718",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

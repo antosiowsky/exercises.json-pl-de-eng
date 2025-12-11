@@ -1,0 +1,26 @@
+{
+  "id": "1422",
+  "name_pl": "Swing",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6158",
+    "6159"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Swing",
+    "gym": false,
+    "home": true,
+    "id": "1422",
+    "iso": false,
+    "photo_1": "6158",
+    "photo_2": "6159",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

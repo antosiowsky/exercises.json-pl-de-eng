@@ -1,0 +1,26 @@
+{
+  "id": "958",
+  "name_pl": "Uderzenie piłką lekarską o podłogę",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "8864",
+    "8867"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Uderzenie piłką lekarską o podłogę",
+    "gym": true,
+    "home": false,
+    "id": "958",
+    "iso": false,
+    "photo_1": "8864",
+    "photo_2": "8867",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

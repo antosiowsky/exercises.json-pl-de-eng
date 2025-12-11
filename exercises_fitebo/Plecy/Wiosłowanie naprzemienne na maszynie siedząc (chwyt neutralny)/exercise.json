@@ -1,0 +1,28 @@
+{
+  "id": "396",
+  "name_pl": "Wiosłowanie naprzemienne na maszynie siedząc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6604",
+    "6607",
+    "6604",
+    "6608"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie naprzemienne na maszynie siedząc (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "396",
+    "iso": false,
+    "photo_1": "6604",
+    "photo_2": "6607",
+    "photo_3": "6604",
+    "photo_4": "6608",
+    "stat": false,
+    "use": false
+  }
+}

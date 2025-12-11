@@ -1,0 +1,26 @@
+{
+  "id": "77",
+  "name_pl": "Skręt tułowia na ławce rzymskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "5246",
+    "5245"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skręt tułowia na ławce rzymskiej",
+    "gym": true,
+    "home": false,
+    "id": "77",
+    "iso": true,
+    "photo_1": "5246",
+    "photo_2": "5245",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

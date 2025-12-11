@@ -1,0 +1,26 @@
+{
+  "id": "1953",
+  "name_pl": "Unoszenie ramion na maszynie do boku jednorącz siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6908",
+    "6909"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion na maszynie do boku jednorącz siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1953",
+    "iso": true,
+    "photo_1": "6908",
+    "photo_2": "6909",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

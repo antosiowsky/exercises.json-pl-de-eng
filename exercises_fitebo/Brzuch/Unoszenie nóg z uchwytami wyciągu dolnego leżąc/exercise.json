@@ -1,0 +1,26 @@
+{
+  "id": "154",
+  "name_pl": "Unoszenie nóg z uchwytami wyciągu dolnego leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7415",
+    "7416"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie nóg z uchwytami wyciągu dolnego leżąc",
+    "gym": true,
+    "home": false,
+    "id": "154",
+    "iso": true,
+    "photo_1": "7415",
+    "photo_2": "7416",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

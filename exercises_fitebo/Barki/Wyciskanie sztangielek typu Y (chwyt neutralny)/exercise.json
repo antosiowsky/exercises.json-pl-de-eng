@@ -1,0 +1,26 @@
+{
+  "id": "2207",
+  "name_pl": "Wyciskanie sztangielek typu Y (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "14263",
+    "14262"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek typu Y (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "2207",
+    "iso": false,
+    "photo_1": "14263",
+    "photo_2": "14262",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

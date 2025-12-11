@@ -1,0 +1,26 @@
+{
+  "id": "822",
+  "name_pl": "Rozpiętki z uchwytami wyciągu górnego stojąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5322",
+    "5323"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki z uchwytami wyciągu górnego stojąc",
+    "gym": true,
+    "home": false,
+    "id": "822",
+    "iso": true,
+    "photo_1": "5322",
+    "photo_2": "5323",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

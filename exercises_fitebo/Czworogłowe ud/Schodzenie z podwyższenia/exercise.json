@@ -1,0 +1,27 @@
+{
+  "id": "1584",
+  "name_pl": "Schodzenie z podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9279",
+    "9280",
+    "9281"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Schodzenie z podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1584",
+    "iso": false,
+    "photo_1": "9279",
+    "photo_2": "9280",
+    "photo_3": "9281",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

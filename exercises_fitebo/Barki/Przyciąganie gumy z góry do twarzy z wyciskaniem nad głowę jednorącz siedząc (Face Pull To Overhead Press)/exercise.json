@@ -1,0 +1,27 @@
+{
+  "id": "2040",
+  "name_pl": "Przyciąganie gumy z góry do twarzy z wyciskaniem nad głowę jednorącz siedząc (Face Pull To Overhead Press)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5999",
+    "6000",
+    "6001"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przyciąganie gumy z góry do twarzy z wyciskaniem nad głowę jednorącz siedząc (Face Pull To Overhead Press)",
+    "gym": false,
+    "home": true,
+    "id": "2040",
+    "iso": false,
+    "photo_1": "5999",
+    "photo_2": "6000",
+    "photo_3": "6001",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1163",
+  "name_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w górnej pozycji wznosów bioder ze stopami na ścianie leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9199",
+    "9200"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w górnej pozycji wznosów bioder ze stopami na ścianie leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1163",
+    "iso": true,
+    "photo_1": "9199",
+    "photo_2": "9200",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

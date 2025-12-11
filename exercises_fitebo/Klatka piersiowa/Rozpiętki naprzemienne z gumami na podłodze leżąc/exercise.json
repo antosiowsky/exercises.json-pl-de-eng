@@ -1,0 +1,27 @@
+{
+  "id": "840",
+  "name_pl": "Rozpiętki naprzemienne z gumami na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4069",
+    "4071",
+    "4072"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki naprzemienne z gumami na podłodze leżąc",
+    "gym": false,
+    "home": true,
+    "id": "840",
+    "iso": false,
+    "photo_1": "4069",
+    "photo_2": "4071",
+    "photo_3": "4072",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

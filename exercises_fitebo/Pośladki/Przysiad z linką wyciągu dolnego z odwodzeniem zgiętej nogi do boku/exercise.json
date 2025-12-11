@@ -1,0 +1,28 @@
+{
+  "id": "1255",
+  "name_pl": "Przysiad z linką wyciągu dolnego z odwodzeniem zgiętej nogi do boku",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "8975",
+    "8976",
+    "8975",
+    "8978"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad z linką wyciągu dolnego z odwodzeniem zgiętej nogi do boku",
+    "gym": true,
+    "home": false,
+    "id": "1255",
+    "iso": false,
+    "photo_1": "8975",
+    "photo_2": "8976",
+    "photo_3": "8975",
+    "photo_4": "8978",
+    "stat": false,
+    "use": false
+  }
+}

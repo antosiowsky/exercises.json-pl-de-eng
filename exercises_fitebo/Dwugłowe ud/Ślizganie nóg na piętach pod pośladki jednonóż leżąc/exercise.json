@@ -1,0 +1,26 @@
+{
+  "id": "1405",
+  "name_pl": "Ślizganie nóg na piętach pod pośladki jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6151",
+    "6153"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ślizganie nóg na piętach pod pośladki jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1405",
+    "iso": true,
+    "photo_1": "6151",
+    "photo_2": "6153",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

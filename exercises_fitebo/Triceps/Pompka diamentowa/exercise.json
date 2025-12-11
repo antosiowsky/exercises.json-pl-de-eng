@@ -1,0 +1,26 @@
+{
+  "id": "2072",
+  "name_pl": "Pompka diamentowa",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4931",
+    "4932"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka diamentowa",
+    "gym": false,
+    "home": true,
+    "id": "2072",
+    "iso": false,
+    "photo_1": "4931",
+    "photo_2": "4932",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

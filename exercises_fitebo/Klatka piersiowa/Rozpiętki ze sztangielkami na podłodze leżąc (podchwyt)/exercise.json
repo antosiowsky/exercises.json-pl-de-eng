@@ -1,0 +1,26 @@
+{
+  "id": "831",
+  "name_pl": "Rozpiętki ze sztangielkami na podłodze leżąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4036",
+    "4032"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki ze sztangielkami na podłodze leżąc (podchwyt)",
+    "gym": false,
+    "home": true,
+    "id": "831",
+    "iso": false,
+    "photo_1": "4036",
+    "photo_2": "4032",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

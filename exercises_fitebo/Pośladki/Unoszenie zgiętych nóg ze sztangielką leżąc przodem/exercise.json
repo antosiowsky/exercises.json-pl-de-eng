@@ -1,0 +1,26 @@
+{
+  "id": "1108",
+  "name_pl": "Unoszenie zgiętych nóg ze sztangielką leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9670",
+    "9671"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych nóg ze sztangielką leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1108",
+    "iso": true,
+    "photo_1": "9670",
+    "photo_2": "9671",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

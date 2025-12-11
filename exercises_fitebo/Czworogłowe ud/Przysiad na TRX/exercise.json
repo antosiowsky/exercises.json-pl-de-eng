@@ -1,0 +1,26 @@
+{
+  "id": "1628",
+  "name_pl": "Przysiad na TRX",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8486",
+    "8487"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad na TRX",
+    "gym": false,
+    "home": true,
+    "id": "1628",
+    "iso": false,
+    "photo_1": "8486",
+    "photo_2": "8487",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

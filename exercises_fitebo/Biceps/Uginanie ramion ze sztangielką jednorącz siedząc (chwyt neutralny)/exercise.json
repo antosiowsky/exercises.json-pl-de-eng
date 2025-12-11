@@ -1,0 +1,26 @@
+{
+  "id": "499",
+  "name_pl": "Uginanie ramion ze sztangielką jednorącz siedząc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "9532",
+    "9533"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielką jednorącz siedząc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "499",
+    "iso": true,
+    "photo_1": "9532",
+    "photo_2": "9533",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

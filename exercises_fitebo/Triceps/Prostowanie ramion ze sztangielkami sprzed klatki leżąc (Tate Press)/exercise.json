@@ -1,0 +1,26 @@
+{
+  "id": "2122",
+  "name_pl": "Prostowanie ramion ze sztangielkami sprzed klatki leżąc (Tate Press)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4990",
+    "4991"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion ze sztangielkami sprzed klatki leżąc (Tate Press)",
+    "gym": false,
+    "home": true,
+    "id": "2122",
+    "iso": true,
+    "photo_1": "4990",
+    "photo_2": "4991",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

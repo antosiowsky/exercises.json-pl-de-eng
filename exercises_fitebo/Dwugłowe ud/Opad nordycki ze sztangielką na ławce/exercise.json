@@ -1,0 +1,27 @@
+{
+  "id": "1414",
+  "name_pl": "Opad nordycki ze sztangielką na ławce",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9420",
+    "9425",
+    "9426"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opad nordycki ze sztangielką na ławce",
+    "gym": true,
+    "home": false,
+    "id": "1414",
+    "iso": true,
+    "photo_1": "9420",
+    "photo_2": "9425",
+    "photo_3": "9426",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

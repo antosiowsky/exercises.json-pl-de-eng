@@ -1,0 +1,27 @@
+{
+  "id": "863",
+  "name_pl": "Rozpiętki okrężne (Around The World Fly)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "9360",
+    "9361",
+    "9362"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki okrężne (Around The World Fly)",
+    "gym": true,
+    "home": false,
+    "id": "863",
+    "iso": false,
+    "photo_1": "9360",
+    "photo_2": "9361",
+    "photo_3": "9362",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

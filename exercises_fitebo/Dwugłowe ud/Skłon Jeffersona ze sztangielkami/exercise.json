@@ -1,0 +1,28 @@
+{
+  "id": "1418",
+  "name_pl": "Skłon Jeffersona ze sztangielkami",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8206",
+    "8207",
+    "8208",
+    "8209"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Skłon Jeffersona ze sztangielkami",
+    "gym": false,
+    "home": true,
+    "id": "1418",
+    "iso": false,
+    "photo_1": "8206",
+    "photo_2": "8207",
+    "photo_3": "8208",
+    "photo_4": "8209",
+    "stat": false,
+    "use": false
+  }
+}

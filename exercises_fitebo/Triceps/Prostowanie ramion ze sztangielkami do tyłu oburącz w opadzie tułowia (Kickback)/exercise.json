@@ -1,0 +1,26 @@
+{
+  "id": "2171",
+  "name_pl": "Prostowanie ramion ze sztangielkami do tyłu oburącz w opadzie tułowia (Kickback)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "5018",
+    "5019"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion ze sztangielkami do tyłu oburącz w opadzie tułowia (Kickback)",
+    "gym": false,
+    "home": true,
+    "id": "2171",
+    "iso": true,
+    "photo_1": "5018",
+    "photo_2": "5019",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2022",
+  "name_pl": "Podciąganie linki wyciągu dolnego wzdłuż tułowia leżąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "7944",
+    "7945"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie linki wyciągu dolnego wzdłuż tułowia leżąc",
+    "gym": true,
+    "home": false,
+    "id": "2022",
+    "iso": false,
+    "photo_1": "7944",
+    "photo_2": "7945",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

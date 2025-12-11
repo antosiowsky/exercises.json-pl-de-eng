@@ -1,0 +1,26 @@
+{
+  "id": "319",
+  "name_pl": "Martwy ciąg z deficytu (chwyt rwaniowy)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9678",
+    "9679"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z deficytu (chwyt rwaniowy)",
+    "gym": true,
+    "home": false,
+    "id": "319",
+    "iso": false,
+    "photo_1": "9678",
+    "photo_2": "9679",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

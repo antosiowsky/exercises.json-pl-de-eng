@@ -1,0 +1,26 @@
+{
+  "id": "767",
+  "name_pl": "Rozpiętki na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3946",
+    "3945"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "767",
+    "iso": true,
+    "photo_1": "3946",
+    "photo_2": "3945",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

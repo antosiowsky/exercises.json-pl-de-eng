@@ -1,0 +1,26 @@
+{
+  "id": "2145",
+  "name_pl": "Prostowanie ramion z linką wyciągu zza głowy jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7462",
+    "7463"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu zza głowy jednorącz w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "2145",
+    "iso": true,
+    "photo_1": "7462",
+    "photo_2": "7463",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

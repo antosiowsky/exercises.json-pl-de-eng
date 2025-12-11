@@ -1,0 +1,26 @@
+{
+  "id": "1244",
+  "name_pl": "Unoszenie tułowia z odwodzeniem nogi do boku na przedramieniu w podporze bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9611",
+    "9612"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie tułowia z odwodzeniem nogi do boku na przedramieniu w podporze bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1244",
+    "iso": true,
+    "photo_1": "9611",
+    "photo_2": "9612",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

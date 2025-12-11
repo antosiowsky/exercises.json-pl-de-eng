@@ -1,0 +1,26 @@
+{
+  "id": "630",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej w dół (biakromiczne)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6651",
+    "6650"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na ławce skośnej w dół (biakromiczne)",
+    "gym": true,
+    "home": false,
+    "id": "630",
+    "iso": false,
+    "photo_1": "6651",
+    "photo_2": "6650",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

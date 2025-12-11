@@ -1,0 +1,26 @@
+{
+  "id": "1026",
+  "name_pl": "Wznosy bioder jednonóż w oparciu o ławkę",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5197",
+    "5198"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder jednonóż w oparciu o ławkę",
+    "gym": false,
+    "home": true,
+    "id": "1026",
+    "iso": false,
+    "photo_1": "5197",
+    "photo_2": "5198",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

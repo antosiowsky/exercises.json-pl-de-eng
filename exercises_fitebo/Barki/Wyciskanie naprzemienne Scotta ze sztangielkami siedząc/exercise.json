@@ -1,0 +1,27 @@
+{
+  "id": "1882",
+  "name_pl": "Wyciskanie naprzemienne Scotta ze sztangielkami siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4543",
+    "4545",
+    "4546"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne Scotta ze sztangielkami siedząc",
+    "gym": false,
+    "home": true,
+    "id": "1882",
+    "iso": false,
+    "photo_1": "4543",
+    "photo_2": "4545",
+    "photo_3": "4546",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

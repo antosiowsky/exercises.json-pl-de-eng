@@ -1,0 +1,27 @@
+{
+  "id": "1830",
+  "name_pl": "Wyciskanie naprzemienne nad głowę stojąc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4492",
+    "4494",
+    "4495"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne nad głowę stojąc (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "1830",
+    "iso": false,
+    "photo_1": "4492",
+    "photo_2": "4494",
+    "photo_3": "4495",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

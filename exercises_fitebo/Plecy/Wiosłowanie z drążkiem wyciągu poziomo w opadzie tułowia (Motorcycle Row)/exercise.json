@@ -1,0 +1,26 @@
+{
+  "id": "418",
+  "name_pl": "Wiosłowanie z drążkiem wyciągu poziomo w opadzie tułowia (Motorcycle Row)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "7421",
+    "7422"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie z drążkiem wyciągu poziomo w opadzie tułowia (Motorcycle Row)",
+    "gym": true,
+    "home": false,
+    "id": "418",
+    "iso": false,
+    "photo_1": "7421",
+    "photo_2": "7422",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1497",
+  "name_pl": "Zakrok goblet ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5419",
+    "5421"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok goblet ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1497",
+    "iso": false,
+    "photo_1": "5419",
+    "photo_2": "5421",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

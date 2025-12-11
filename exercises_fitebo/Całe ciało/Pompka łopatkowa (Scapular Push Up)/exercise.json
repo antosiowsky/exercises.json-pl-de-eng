@@ -1,0 +1,26 @@
+{
+  "id": "2203",
+  "name_pl": "Pompka łopatkowa (Scapular Push Up)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "14254",
+    "14255"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Pompka łopatkowa (Scapular Push Up)",
+    "gym": false,
+    "home": true,
+    "id": "2203",
+    "iso": true,
+    "photo_1": "14254",
+    "photo_2": "14255",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

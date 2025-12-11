@@ -1,0 +1,26 @@
+{
+  "id": "1540",
+  "name_pl": "Wykroki skośne chodzone ze sztangą nad głową",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5762",
+    "5763"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wykroki skośne chodzone ze sztangą nad głową",
+    "gym": true,
+    "home": false,
+    "id": "1540",
+    "iso": false,
+    "photo_1": "5762",
+    "photo_2": "5763",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

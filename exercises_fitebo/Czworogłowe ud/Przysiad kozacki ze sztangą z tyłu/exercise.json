@@ -1,0 +1,26 @@
+{
+  "id": "1719",
+  "name_pl": "Przysiad kozacki ze sztangą z tyłu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6352",
+    "6353"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad kozacki ze sztangą z tyłu",
+    "gym": true,
+    "home": false,
+    "id": "1719",
+    "iso": false,
+    "photo_1": "6352",
+    "photo_2": "6353",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

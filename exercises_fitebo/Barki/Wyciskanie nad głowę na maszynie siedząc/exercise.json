@@ -1,0 +1,26 @@
+{
+  "id": "1866",
+  "name_pl": "Wyciskanie nad głowę na maszynie siedząc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "6959",
+    "6960"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie nad głowę na maszynie siedząc",
+    "gym": true,
+    "home": false,
+    "id": "1866",
+    "iso": false,
+    "photo_1": "6959",
+    "photo_2": "6960",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

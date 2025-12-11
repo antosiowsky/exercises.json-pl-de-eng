@@ -1,0 +1,26 @@
+{
+  "id": "1178",
+  "name_pl": "Odwodzenie prostej nogi do boku leżąc bokiem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7194",
+    "7195"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie prostej nogi do boku leżąc bokiem",
+    "gym": false,
+    "home": true,
+    "id": "1178",
+    "iso": true,
+    "photo_1": "7194",
+    "photo_2": "7195",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1173",
+  "name_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w podporze na przedramionach",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7984",
+    "7985"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie nóg z gumą (mini band) nad kolanami do boku w podporze na przedramionach",
+    "gym": false,
+    "home": true,
+    "id": "1173",
+    "iso": true,
+    "photo_1": "7984",
+    "photo_2": "7985",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

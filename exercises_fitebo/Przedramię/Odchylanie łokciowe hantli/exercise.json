@@ -1,0 +1,26 @@
+{
+  "id": "931",
+  "name_pl": "Odchylanie łokciowe hantli",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "4312",
+    "4313"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odchylanie łokciowe hantli",
+    "gym": false,
+    "home": true,
+    "id": "931",
+    "iso": true,
+    "photo_1": "4312",
+    "photo_2": "4313",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

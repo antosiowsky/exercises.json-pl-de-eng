@@ -1,0 +1,26 @@
+{
+  "id": "1506",
+  "name_pl": "Zakrok z półsztangą (kontralateralnie)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "9146",
+    "9148"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok z półsztangą (kontralateralnie)",
+    "gym": true,
+    "home": false,
+    "id": "1506",
+    "iso": false,
+    "photo_1": "9146",
+    "photo_2": "9148",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

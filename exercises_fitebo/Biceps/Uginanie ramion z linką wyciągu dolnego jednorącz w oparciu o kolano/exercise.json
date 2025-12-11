@@ -1,0 +1,26 @@
+{
+  "id": "595",
+  "name_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz w oparciu o kolano",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "5387",
+    "5388"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz w oparciu o kolano",
+    "gym": true,
+    "home": false,
+    "id": "595",
+    "iso": true,
+    "photo_1": "5387",
+    "photo_2": "5388",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

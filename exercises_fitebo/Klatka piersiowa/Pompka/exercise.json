@@ -1,0 +1,26 @@
+{
+  "id": "868",
+  "name_pl": "Pompka",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4316",
+    "4317"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka",
+    "gym": false,
+    "home": true,
+    "id": "868",
+    "iso": false,
+    "photo_1": "4316",
+    "photo_2": "4317",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

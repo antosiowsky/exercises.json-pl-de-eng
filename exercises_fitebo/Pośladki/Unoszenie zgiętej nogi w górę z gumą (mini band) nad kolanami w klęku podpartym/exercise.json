@@ -1,0 +1,26 @@
+{
+  "id": "1068",
+  "name_pl": "Unoszenie zgiętej nogi w górę z gumą (mini band) nad kolanami w klęku podpartym",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7108",
+    "7109"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętej nogi w górę z gumą (mini band) nad kolanami w klęku podpartym",
+    "gym": false,
+    "home": true,
+    "id": "1068",
+    "iso": true,
+    "photo_1": "7108",
+    "photo_2": "7109",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

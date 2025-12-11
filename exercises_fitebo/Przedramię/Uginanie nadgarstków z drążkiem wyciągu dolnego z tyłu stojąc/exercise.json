@@ -1,0 +1,26 @@
+{
+  "id": "929",
+  "name_pl": "Uginanie nadgarstków z drążkiem wyciągu dolnego z tyłu stojąc",
+  "name_en": null,
+  "muscle_group_id": "12",
+  "muscle_group_name": "Przedramię",
+  "photos": [
+    "7443",
+    "7445"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nadgarstków z drążkiem wyciągu dolnego z tyłu stojąc",
+    "gym": true,
+    "home": false,
+    "id": "929",
+    "iso": true,
+    "photo_1": "7443",
+    "photo_2": "7445",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

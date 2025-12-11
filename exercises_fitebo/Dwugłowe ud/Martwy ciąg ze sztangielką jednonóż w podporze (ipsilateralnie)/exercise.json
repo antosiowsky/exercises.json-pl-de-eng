@@ -1,0 +1,26 @@
+{
+  "id": "1348",
+  "name_pl": "Martwy ciąg ze sztangielką jednonóż w podporze (ipsilateralnie)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8238",
+    "8240"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg ze sztangielką jednonóż w podporze (ipsilateralnie)",
+    "gym": false,
+    "home": true,
+    "id": "1348",
+    "iso": false,
+    "photo_1": "8238",
+    "photo_2": "8240",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

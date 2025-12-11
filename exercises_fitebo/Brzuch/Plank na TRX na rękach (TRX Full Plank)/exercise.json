@@ -1,0 +1,25 @@
+{
+  "id": "184",
+  "name_pl": "Plank na TRX na rękach (TRX Full Plank)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3207"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank na TRX na rękach (TRX Full Plank)",
+    "gym": false,
+    "home": true,
+    "id": "184",
+    "iso": false,
+    "photo_1": "3207",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

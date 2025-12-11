@@ -1,0 +1,27 @@
+{
+  "id": "2197",
+  "name_pl": "Przyciąganie kolan naprzemiennie",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "14240",
+    "14239",
+    "14238"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przyciąganie kolan naprzemiennie",
+    "gym": false,
+    "home": true,
+    "id": "2197",
+    "iso": true,
+    "photo_1": "14240",
+    "photo_2": "14239",
+    "photo_3": "14238",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

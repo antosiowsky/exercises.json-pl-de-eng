@@ -1,0 +1,26 @@
+{
+  "id": "777",
+  "name_pl": "Rozpiętki ze sztangielkami na ławce płaskiej",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3838",
+    "3837"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami na ławce płaskiej",
+    "gym": true,
+    "home": false,
+    "id": "777",
+    "iso": true,
+    "photo_1": "3838",
+    "photo_2": "3837",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

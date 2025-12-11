@@ -1,0 +1,26 @@
+{
+  "id": "310",
+  "name_pl": "Ściąganie linki wyciągu górnego na prostych ramionach jednorącz w opadzie tułowia",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4801",
+    "4802"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Ściąganie linki wyciągu górnego na prostych ramionach jednorącz w opadzie tułowia",
+    "gym": true,
+    "home": false,
+    "id": "310",
+    "iso": true,
+    "photo_1": "4801",
+    "photo_2": "4802",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

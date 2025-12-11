@@ -1,0 +1,26 @@
+{
+  "id": "13",
+  "name_pl": "Plank z pajacykami na przedramionach",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2893",
+    "2894"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z pajacykami na przedramionach",
+    "gym": false,
+    "home": true,
+    "id": "13",
+    "iso": false,
+    "photo_1": "2893",
+    "photo_2": "2894",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

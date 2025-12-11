@@ -1,0 +1,26 @@
+{
+  "id": "739",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha jednorącz na ławce skośnej w dół",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "7051",
+    "7052"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha jednorącz na ławce skośnej w dół",
+    "gym": true,
+    "home": false,
+    "id": "739",
+    "iso": false,
+    "photo_1": "7051",
+    "photo_2": "7052",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

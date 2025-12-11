@@ -1,0 +1,26 @@
+{
+  "id": "302",
+  "name_pl": "Ściągnie gumy do klatki leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3682",
+    "3683"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściągnie gumy do klatki leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "302",
+    "iso": false,
+    "photo_1": "3682",
+    "photo_2": "3683",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

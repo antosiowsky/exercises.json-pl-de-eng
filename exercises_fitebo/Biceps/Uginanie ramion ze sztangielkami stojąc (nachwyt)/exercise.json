@@ -1,0 +1,26 @@
+{
+  "id": "483",
+  "name_pl": "Uginanie ramion ze sztangielkami stojąc (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3477",
+    "3478"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami stojąc (nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "483",
+    "iso": true,
+    "photo_1": "3477",
+    "photo_2": "3478",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

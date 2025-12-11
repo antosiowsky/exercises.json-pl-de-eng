@@ -1,0 +1,26 @@
+{
+  "id": "282",
+  "name_pl": "Ściąganie uchwytów wyciągu górnego klęcząc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9448",
+    "9451"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytów wyciągu górnego klęcząc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "282",
+    "iso": false,
+    "photo_1": "9448",
+    "photo_2": "9451",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

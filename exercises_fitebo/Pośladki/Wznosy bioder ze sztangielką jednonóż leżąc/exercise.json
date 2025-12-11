@@ -1,0 +1,26 @@
+{
+  "id": "1012",
+  "name_pl": "Wznosy bioder ze sztangielką jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5696",
+    "5697"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze sztangielką jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1012",
+    "iso": false,
+    "photo_1": "5696",
+    "photo_2": "5697",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

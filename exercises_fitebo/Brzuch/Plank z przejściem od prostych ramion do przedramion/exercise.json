@@ -1,0 +1,27 @@
+{
+  "id": "4",
+  "name_pl": "Plank z przejściem od prostych ramion do przedramion",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2875",
+    "2876",
+    "2877"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Plank z przejściem od prostych ramion do przedramion",
+    "gym": false,
+    "home": true,
+    "id": "4",
+    "iso": false,
+    "photo_1": "2875",
+    "photo_2": "2876",
+    "photo_3": "2877",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

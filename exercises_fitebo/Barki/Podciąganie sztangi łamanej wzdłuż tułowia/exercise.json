@@ -1,0 +1,26 @@
+{
+  "id": "2017",
+  "name_pl": "Podciąganie sztangi łamanej wzdłuż tułowia",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4710",
+    "4711"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie sztangi łamanej wzdłuż tułowia",
+    "gym": true,
+    "home": false,
+    "id": "2017",
+    "iso": false,
+    "photo_1": "4710",
+    "photo_2": "4711",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

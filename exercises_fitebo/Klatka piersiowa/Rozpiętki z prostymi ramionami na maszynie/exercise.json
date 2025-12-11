@@ -1,0 +1,26 @@
+{
+  "id": "858",
+  "name_pl": "Rozpiętki z prostymi ramionami na maszynie",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "6069",
+    "6070"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki z prostymi ramionami na maszynie",
+    "gym": true,
+    "home": false,
+    "id": "858",
+    "iso": false,
+    "photo_1": "6069",
+    "photo_2": "6070",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

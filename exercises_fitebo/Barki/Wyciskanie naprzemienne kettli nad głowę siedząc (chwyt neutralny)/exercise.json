@@ -1,0 +1,27 @@
+{
+  "id": "1845",
+  "name_pl": "Wyciskanie naprzemienne kettli nad głowę siedząc (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4555",
+    "4557",
+    "4558"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie naprzemienne kettli nad głowę siedząc (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "1845",
+    "iso": false,
+    "photo_1": "4555",
+    "photo_2": "4557",
+    "photo_3": "4558",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

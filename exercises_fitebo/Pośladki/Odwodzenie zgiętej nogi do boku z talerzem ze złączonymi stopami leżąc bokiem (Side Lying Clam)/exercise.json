@@ -1,0 +1,26 @@
+{
+  "id": "1210",
+  "name_pl": "Odwodzenie zgiętej nogi do boku z talerzem ze złączonymi stopami leżąc bokiem (Side Lying Clam)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7253",
+    "7256"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej nogi do boku z talerzem ze złączonymi stopami leżąc bokiem (Side Lying Clam)",
+    "gym": false,
+    "home": true,
+    "id": "1210",
+    "iso": true,
+    "photo_1": "7253",
+    "photo_2": "7256",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

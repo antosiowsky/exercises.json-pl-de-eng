@@ -1,0 +1,26 @@
+{
+  "id": "2138",
+  "name_pl": "Prostowanie ramion z gumą z dołu zza głowy siedząc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "8331",
+    "8332"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z gumą z dołu zza głowy siedząc",
+    "gym": false,
+    "home": true,
+    "id": "2138",
+    "iso": true,
+    "photo_1": "8331",
+    "photo_2": "8332",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

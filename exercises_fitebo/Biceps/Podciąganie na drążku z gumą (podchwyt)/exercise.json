@@ -1,0 +1,26 @@
+{
+  "id": "579",
+  "name_pl": "Podciąganie na drążku z gumą (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "6686",
+    "6687"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie na drążku z gumą (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "579",
+    "iso": false,
+    "photo_1": "6686",
+    "photo_2": "6687",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

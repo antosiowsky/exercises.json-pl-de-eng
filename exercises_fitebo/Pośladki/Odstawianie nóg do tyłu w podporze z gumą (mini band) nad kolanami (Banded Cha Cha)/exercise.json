@@ -1,0 +1,28 @@
+{
+  "id": "1227",
+  "name_pl": "Odstawianie nóg do tyłu w podporze z gumą (mini band) nad kolanami (Banded Cha Cha)",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6845",
+    "6846",
+    "6845",
+    "6847"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odstawianie nóg do tyłu w podporze z gumą (mini band) nad kolanami (Banded Cha Cha)",
+    "gym": false,
+    "home": true,
+    "id": "1227",
+    "iso": true,
+    "photo_1": "6845",
+    "photo_2": "6846",
+    "photo_3": "6845",
+    "photo_4": "6847",
+    "stat": false,
+    "use": false
+  }
+}

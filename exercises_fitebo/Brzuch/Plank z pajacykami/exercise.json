@@ -1,0 +1,26 @@
+{
+  "id": "14",
+  "name_pl": "Plank z pajacykami",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2895",
+    "2896"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Plank z pajacykami",
+    "gym": false,
+    "home": true,
+    "id": "14",
+    "iso": false,
+    "photo_1": "2895",
+    "photo_2": "2896",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": true,
+    "use": false
+  }
+}

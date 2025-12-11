@@ -1,0 +1,26 @@
+{
+  "id": "1362",
+  "name_pl": "Martwy ciąg pomiędzy ławkami z kettlem (Straddle Lift)",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8074",
+    "8072"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg pomiędzy ławkami z kettlem (Straddle Lift)",
+    "gym": true,
+    "home": false,
+    "id": "1362",
+    "iso": false,
+    "photo_1": "8074",
+    "photo_2": "8072",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

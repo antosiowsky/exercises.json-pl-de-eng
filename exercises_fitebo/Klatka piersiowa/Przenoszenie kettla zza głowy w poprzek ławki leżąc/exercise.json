@@ -1,0 +1,26 @@
+{
+  "id": "901",
+  "name_pl": "Przenoszenie kettla zza głowy w poprzek ławki leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "4245",
+    "4246"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Przenoszenie kettla zza głowy w poprzek ławki leżąc",
+    "gym": true,
+    "home": false,
+    "id": "901",
+    "iso": true,
+    "photo_1": "4245",
+    "photo_2": "4246",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

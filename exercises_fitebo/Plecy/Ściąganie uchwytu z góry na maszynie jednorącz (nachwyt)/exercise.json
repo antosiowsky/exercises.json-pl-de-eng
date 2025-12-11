@@ -1,0 +1,26 @@
+{
+  "id": "289",
+  "name_pl": "Ściąganie uchwytu z góry na maszynie jednorącz (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6594",
+    "6595"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu z góry na maszynie jednorącz (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "289",
+    "iso": false,
+    "photo_1": "6594",
+    "photo_2": "6595",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

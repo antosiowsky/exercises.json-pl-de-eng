@@ -1,0 +1,26 @@
+{
+  "id": "94",
+  "name_pl": "Spięcie z gumą stojąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "9711",
+    "9712"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z gumą stojąc",
+    "gym": false,
+    "home": true,
+    "id": "94",
+    "iso": true,
+    "photo_1": "9711",
+    "photo_2": "9712",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

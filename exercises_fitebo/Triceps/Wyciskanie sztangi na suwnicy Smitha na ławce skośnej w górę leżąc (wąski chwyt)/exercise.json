@@ -1,0 +1,26 @@
+{
+  "id": "2125",
+  "name_pl": "Wyciskanie sztangi na suwnicy Smitha na ławce skośnej w górę leżąc (wąski chwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7039",
+    "7038"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangi na suwnicy Smitha na ławce skośnej w górę leżąc (wąski chwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2125",
+    "iso": false,
+    "photo_1": "7039",
+    "photo_2": "7038",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

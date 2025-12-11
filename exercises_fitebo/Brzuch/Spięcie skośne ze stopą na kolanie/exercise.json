@@ -1,0 +1,26 @@
+{
+  "id": "89",
+  "name_pl": "Spięcie skośne ze stopą na kolanie",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4358",
+    "4359"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie skośne ze stopą na kolanie",
+    "gym": false,
+    "home": true,
+    "id": "89",
+    "iso": true,
+    "photo_1": "4358",
+    "photo_2": "4359",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

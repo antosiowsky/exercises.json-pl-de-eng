@@ -1,0 +1,26 @@
+{
+  "id": "712",
+  "name_pl": "Wyciskanie sztangielek z rotacją jednorącz 180 st. na ławce skośnej w dół (nachwyt - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3980",
+    "3985"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją jednorącz 180 st. na ławce skośnej w dół (nachwyt - podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "712",
+    "iso": false,
+    "photo_1": "3980",
+    "photo_2": "3985",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

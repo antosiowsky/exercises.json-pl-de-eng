@@ -1,0 +1,26 @@
+{
+  "id": "704",
+  "name_pl": "Wyciskanie sztangielek z rotacją 180 st. na ławce skośnej w górę (nachwyt - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3932",
+    "3942"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie sztangielek z rotacją 180 st. na ławce skośnej w górę (nachwyt - podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "704",
+    "iso": false,
+    "photo_1": "3932",
+    "photo_2": "3942",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

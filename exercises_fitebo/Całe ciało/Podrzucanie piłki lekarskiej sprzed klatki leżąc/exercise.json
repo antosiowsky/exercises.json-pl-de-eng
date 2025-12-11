@@ -1,0 +1,26 @@
+{
+  "id": "957",
+  "name_pl": "Podrzucanie piłki lekarskiej sprzed klatki leżąc",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6794",
+    "6796"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Podrzucanie piłki lekarskiej sprzed klatki leżąc",
+    "gym": true,
+    "home": false,
+    "id": "957",
+    "iso": true,
+    "photo_1": "6794",
+    "photo_2": "6796",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "70",
+  "name_pl": "Spięcie skośne z linką wyciągu dolnego leżąc",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "4168",
+    "4170"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie skośne z linką wyciągu dolnego leżąc",
+    "gym": true,
+    "home": false,
+    "id": "70",
+    "iso": true,
+    "photo_1": "4168",
+    "photo_2": "4170",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

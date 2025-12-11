@@ -1,0 +1,26 @@
+{
+  "id": "529",
+  "name_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz na modlitewniku",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3769",
+    "3770"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion z linką wyciągu dolnego jednorącz na modlitewniku",
+    "gym": true,
+    "home": false,
+    "id": "529",
+    "iso": true,
+    "photo_1": "3769",
+    "photo_2": "3770",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

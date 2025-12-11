@@ -1,0 +1,26 @@
+{
+  "id": "1634",
+  "name_pl": "Przysiad Jeffersona",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8204",
+    "8205"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad Jeffersona",
+    "gym": true,
+    "home": false,
+    "id": "1634",
+    "iso": false,
+    "photo_1": "8204",
+    "photo_2": "8205",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "122",
+  "name_pl": "Rąbanie drewna z linką wyciągu od góry do dołu (Wood Chop)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "7399",
+    "7400"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rąbanie drewna z linką wyciągu od góry do dołu (Wood Chop)",
+    "gym": true,
+    "home": false,
+    "id": "122",
+    "iso": false,
+    "photo_1": "7399",
+    "photo_2": "7400",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

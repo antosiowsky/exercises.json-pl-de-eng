@@ -1,0 +1,26 @@
+{
+  "id": "2133",
+  "name_pl": "Prostowanie ramion z gumą z góry jednorącz klęcząc",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "9703",
+    "9704"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z gumą z góry jednorącz klęcząc",
+    "gym": false,
+    "home": true,
+    "id": "2133",
+    "iso": true,
+    "photo_1": "9703",
+    "photo_2": "9704",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

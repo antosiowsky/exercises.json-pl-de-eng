@@ -1,0 +1,26 @@
+{
+  "id": "2006",
+  "name_pl": "Podciąganie ramion ze sztangielkami z boku wzdłuż tułowia (Armpit Row / Rear Delt Pull)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4643",
+    "4645"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Podciąganie ramion ze sztangielkami z boku wzdłuż tułowia (Armpit Row / Rear Delt Pull)",
+    "gym": false,
+    "home": true,
+    "id": "2006",
+    "iso": false,
+    "photo_1": "4643",
+    "photo_2": "4645",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

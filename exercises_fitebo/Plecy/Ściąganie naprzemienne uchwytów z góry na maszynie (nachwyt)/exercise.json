@@ -1,0 +1,28 @@
+{
+  "id": "288",
+  "name_pl": "Ściąganie naprzemienne uchwytów z góry na maszynie (nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "6586",
+    "6588",
+    "6586",
+    "6589"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie naprzemienne uchwytów z góry na maszynie (nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "288",
+    "iso": false,
+    "photo_1": "6586",
+    "photo_2": "6588",
+    "photo_3": "6586",
+    "photo_4": "6589",
+    "stat": false,
+    "use": false
+  }
+}

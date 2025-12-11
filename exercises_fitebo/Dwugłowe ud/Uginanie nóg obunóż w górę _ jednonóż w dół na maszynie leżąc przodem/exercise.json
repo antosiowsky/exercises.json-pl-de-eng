@@ -1,0 +1,28 @@
+{
+  "id": "1392",
+  "name_pl": "Uginanie nóg obunóż w górę / jednonóż w dół na maszynie leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6620",
+    "6621",
+    "6622",
+    "6620"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg obunóż w górę / jednonóż w dół na maszynie leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1392",
+    "iso": true,
+    "photo_1": "6620",
+    "photo_2": "6621",
+    "photo_3": "6622",
+    "photo_4": "6620",
+    "stat": false,
+    "use": false
+  }
+}

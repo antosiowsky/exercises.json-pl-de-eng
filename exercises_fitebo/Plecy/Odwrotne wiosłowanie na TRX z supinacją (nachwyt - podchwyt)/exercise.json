@@ -1,0 +1,26 @@
+{
+  "id": "325",
+  "name_pl": "Odwrotne wiosłowanie na TRX z supinacją (nachwyt - podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3594",
+    "3597"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Odwrotne wiosłowanie na TRX z supinacją (nachwyt - podchwyt)",
+    "gym": false,
+    "home": true,
+    "id": "325",
+    "iso": false,
+    "photo_1": "3594",
+    "photo_2": "3597",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

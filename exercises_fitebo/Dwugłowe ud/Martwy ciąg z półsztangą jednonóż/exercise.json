@@ -1,0 +1,26 @@
+{
+  "id": "1345",
+  "name_pl": "Martwy ciąg z półsztangą jednonóż",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "7753",
+    "7754"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg z półsztangą jednonóż",
+    "gym": true,
+    "home": false,
+    "id": "1345",
+    "iso": false,
+    "photo_1": "7753",
+    "photo_2": "7754",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "620",
+  "name_pl": "Wspięcia na palce na łydkownicy jednonóż stojąc",
+  "name_en": null,
+  "muscle_group_id": "6",
+  "muscle_group_name": "Łydki",
+  "photos": [
+    "7885",
+    "7886"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wspięcia na palce na łydkownicy jednonóż stojąc",
+    "gym": true,
+    "home": false,
+    "id": "620",
+    "iso": true,
+    "photo_1": "7885",
+    "photo_2": "7886",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

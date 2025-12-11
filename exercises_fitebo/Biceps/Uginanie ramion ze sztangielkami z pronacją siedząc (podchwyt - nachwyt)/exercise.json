@@ -1,0 +1,26 @@
+{
+  "id": "505",
+  "name_pl": "Uginanie ramion ze sztangielkami z pronacją siedząc (podchwyt - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3530",
+    "3535"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangielkami z pronacją siedząc (podchwyt - nachwyt)",
+    "gym": false,
+    "home": true,
+    "id": "505",
+    "iso": true,
+    "photo_1": "3530",
+    "photo_2": "3535",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

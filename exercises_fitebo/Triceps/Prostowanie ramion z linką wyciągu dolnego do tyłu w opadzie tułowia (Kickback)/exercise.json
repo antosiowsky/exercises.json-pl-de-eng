@@ -1,0 +1,26 @@
+{
+  "id": "2166",
+  "name_pl": "Prostowanie ramion z linką wyciągu dolnego do tyłu w opadzie tułowia (Kickback)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "7523",
+    "7524"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Prostowanie ramion z linką wyciągu dolnego do tyłu w opadzie tułowia (Kickback)",
+    "gym": true,
+    "home": false,
+    "id": "2166",
+    "iso": true,
+    "photo_1": "7523",
+    "photo_2": "7524",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

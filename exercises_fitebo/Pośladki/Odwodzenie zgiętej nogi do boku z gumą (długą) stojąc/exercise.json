@@ -1,0 +1,26 @@
+{
+  "id": "1205",
+  "name_pl": "Odwodzenie zgiętej nogi do boku z gumą (długą) stojąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7235",
+    "7236"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Odwodzenie zgiętej nogi do boku z gumą (długą) stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1205",
+    "iso": true,
+    "photo_1": "7235",
+    "photo_2": "7236",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

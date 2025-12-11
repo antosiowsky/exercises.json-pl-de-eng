@@ -1,0 +1,26 @@
+{
+  "id": "415",
+  "name_pl": "Wiosłowanie sztangielkami w opadzie tułowia (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3350",
+    "3351"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami w opadzie tułowia (chwyt neutralny)",
+    "gym": false,
+    "home": true,
+    "id": "415",
+    "iso": false,
+    "photo_1": "3350",
+    "photo_2": "3351",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

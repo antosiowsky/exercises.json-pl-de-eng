@@ -1,0 +1,26 @@
+{
+  "id": "437",
+  "name_pl": "Szrugsy z talerzami z tyłu",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "3272",
+    "3273"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Szrugsy z talerzami z tyłu",
+    "gym": false,
+    "home": true,
+    "id": "437",
+    "iso": true,
+    "photo_1": "3272",
+    "photo_2": "3273",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

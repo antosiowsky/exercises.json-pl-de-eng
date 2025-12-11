@@ -1,0 +1,26 @@
+{
+  "id": "199",
+  "name_pl": "Wychylenie do przodu na TRX stojąc (TRX Standing Roll Out)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3215",
+    "3216"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wychylenie do przodu na TRX stojąc (TRX Standing Roll Out)",
+    "gym": false,
+    "home": true,
+    "id": "199",
+    "iso": true,
+    "photo_1": "3215",
+    "photo_2": "3216",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

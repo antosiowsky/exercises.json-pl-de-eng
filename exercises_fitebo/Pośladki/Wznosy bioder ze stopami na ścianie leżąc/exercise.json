@@ -1,0 +1,26 @@
+{
+  "id": "1008",
+  "name_pl": "Wznosy bioder ze stopami na ścianie leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "9194",
+    "9195"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder ze stopami na ścianie leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1008",
+    "iso": false,
+    "photo_1": "9194",
+    "photo_2": "9195",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

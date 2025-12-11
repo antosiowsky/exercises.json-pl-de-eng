@@ -1,0 +1,26 @@
+{
+  "id": "1386",
+  "name_pl": "Uginanie nóg ze sztangielką na ławce płaskiej leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "6478",
+    "6479"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie nóg ze sztangielką na ławce płaskiej leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "1386",
+    "iso": true,
+    "photo_1": "6478",
+    "photo_2": "6479",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

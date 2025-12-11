@@ -1,0 +1,26 @@
+{
+  "id": "1777",
+  "name_pl": "Wyciskanie żołnierskie sztangi zza głowy stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4429",
+    "4430"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie żołnierskie sztangi zza głowy stojąc",
+    "gym": true,
+    "home": false,
+    "id": "1777",
+    "iso": false,
+    "photo_1": "4429",
+    "photo_2": "4430",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1010",
+  "name_pl": "Wznosy bioder jednonóż leżąc",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "5706",
+    "5707"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wznosy bioder jednonóż leżąc",
+    "gym": false,
+    "home": true,
+    "id": "1010",
+    "iso": false,
+    "photo_1": "5706",
+    "photo_2": "5707",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

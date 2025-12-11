@@ -1,0 +1,26 @@
+{
+  "id": "1236",
+  "name_pl": "Amerykański swing ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6307",
+    "6308"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański swing ze sztangielką",
+    "gym": true,
+    "home": false,
+    "id": "1236",
+    "iso": false,
+    "photo_1": "6307",
+    "photo_2": "6308",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

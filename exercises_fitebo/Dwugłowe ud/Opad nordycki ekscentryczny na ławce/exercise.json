@@ -1,0 +1,27 @@
+{
+  "id": "1412",
+  "name_pl": "Opad nordycki ekscentryczny na ławce",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "9314",
+    "9316",
+    "9317"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opad nordycki ekscentryczny na ławce",
+    "gym": true,
+    "home": false,
+    "id": "1412",
+    "iso": true,
+    "photo_1": "9314",
+    "photo_2": "9316",
+    "photo_3": "9317",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

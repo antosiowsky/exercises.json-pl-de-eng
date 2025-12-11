@@ -1,0 +1,26 @@
+{
+  "id": "1997",
+  "name_pl": "Wiosłowanie sztangielkami szeroko w opadzie tułowia (Rear Delt Row)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5076",
+    "5078"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wiosłowanie sztangielkami szeroko w opadzie tułowia (Rear Delt Row)",
+    "gym": false,
+    "home": true,
+    "id": "1997",
+    "iso": false,
+    "photo_1": "5076",
+    "photo_2": "5078",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

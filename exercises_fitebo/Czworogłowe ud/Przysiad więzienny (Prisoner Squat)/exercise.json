@@ -1,0 +1,26 @@
+{
+  "id": "1592",
+  "name_pl": "Przysiad więzienny (Prisoner Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5802",
+    "5803"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad więzienny (Prisoner Squat)",
+    "gym": false,
+    "home": true,
+    "id": "1592",
+    "iso": false,
+    "photo_1": "5802",
+    "photo_2": "5803",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

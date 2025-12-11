@@ -1,0 +1,26 @@
+{
+  "id": "765",
+  "name_pl": "Rozpiętki ze sztangielkami z pronacją na ławce płaskiej (neutralny - nachwyt)",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "9358",
+    "9359"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami z pronacją na ławce płaskiej (neutralny - nachwyt)",
+    "gym": true,
+    "home": false,
+    "id": "765",
+    "iso": true,
+    "photo_1": "9358",
+    "photo_2": "9359",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1929",
+  "name_pl": "Unoszenie ramion ze sztangą łamaną do przodu stojąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "4685",
+    "4686"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangą łamaną do przodu stojąc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "1929",
+    "iso": true,
+    "photo_1": "4685",
+    "photo_2": "4686",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

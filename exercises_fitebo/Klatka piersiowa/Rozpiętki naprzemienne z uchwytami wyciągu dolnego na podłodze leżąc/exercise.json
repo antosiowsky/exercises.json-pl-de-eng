@@ -1,0 +1,27 @@
+{
+  "id": "842",
+  "name_pl": "Rozpiętki naprzemienne z uchwytami wyciągu dolnego na podłodze leżąc",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "5341",
+    "5344",
+    "5342"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rozpiętki naprzemienne z uchwytami wyciągu dolnego na podłodze leżąc",
+    "gym": true,
+    "home": false,
+    "id": "842",
+    "iso": false,
+    "photo_1": "5341",
+    "photo_2": "5344",
+    "photo_3": "5342",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

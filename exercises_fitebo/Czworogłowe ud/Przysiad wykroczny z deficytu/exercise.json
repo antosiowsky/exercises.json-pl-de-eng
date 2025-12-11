@@ -1,0 +1,26 @@
+{
+  "id": "1558",
+  "name_pl": "Przysiad wykroczny z deficytu",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5769",
+    "5770"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad wykroczny z deficytu",
+    "gym": false,
+    "home": true,
+    "id": "1558",
+    "iso": false,
+    "photo_1": "5769",
+    "photo_2": "5770",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

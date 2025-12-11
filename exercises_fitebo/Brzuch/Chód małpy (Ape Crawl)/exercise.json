@@ -1,0 +1,26 @@
+{
+  "id": "108",
+  "name_pl": "Chód małpy (Ape Crawl)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2966",
+    "2967"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Chód małpy (Ape Crawl)",
+    "gym": false,
+    "home": true,
+    "id": "108",
+    "iso": false,
+    "photo_1": "2966",
+    "photo_2": "2967",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

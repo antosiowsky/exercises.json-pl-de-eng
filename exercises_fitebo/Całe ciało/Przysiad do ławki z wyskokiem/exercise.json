@@ -1,0 +1,26 @@
+{
+  "id": "972",
+  "name_pl": "Przysiad do ławki z wyskokiem",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "7662",
+    "7663"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad do ławki z wyskokiem",
+    "gym": false,
+    "home": true,
+    "id": "972",
+    "iso": false,
+    "photo_1": "7662",
+    "photo_2": "7663",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

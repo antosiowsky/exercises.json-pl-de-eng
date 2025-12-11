@@ -1,0 +1,26 @@
+{
+  "id": "955",
+  "name_pl": "Spacer kelnera z kettlami (Waiter's Walk)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6218",
+    "6219"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Spacer kelnera z kettlami (Waiter's Walk)",
+    "gym": true,
+    "home": false,
+    "id": "955",
+    "iso": false,
+    "photo_1": "6218",
+    "photo_2": "6219",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

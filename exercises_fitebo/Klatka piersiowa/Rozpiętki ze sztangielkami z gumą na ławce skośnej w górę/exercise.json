@@ -1,0 +1,26 @@
+{
+  "id": "807",
+  "name_pl": "Rozpiętki ze sztangielkami z gumą na ławce skośnej w górę",
+  "name_en": null,
+  "muscle_group_id": "1",
+  "muscle_group_name": "Klatka piersiowa",
+  "photos": [
+    "3906",
+    "3905"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Rozpiętki ze sztangielkami z gumą na ławce skośnej w górę",
+    "gym": true,
+    "home": false,
+    "id": "807",
+    "iso": true,
+    "photo_1": "3906",
+    "photo_2": "3905",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

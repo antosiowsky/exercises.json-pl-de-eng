@@ -1,0 +1,26 @@
+{
+  "id": "573",
+  "name_pl": "Uginanie ramion ze sztangą łamaną na ławce skośnej w górę leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "5",
+  "muscle_group_name": "Biceps",
+  "photos": [
+    "3569",
+    "3570"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Uginanie ramion ze sztangą łamaną na ławce skośnej w górę leżąc przodem",
+    "gym": true,
+    "home": false,
+    "id": "573",
+    "iso": true,
+    "photo_1": "3569",
+    "photo_2": "3570",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

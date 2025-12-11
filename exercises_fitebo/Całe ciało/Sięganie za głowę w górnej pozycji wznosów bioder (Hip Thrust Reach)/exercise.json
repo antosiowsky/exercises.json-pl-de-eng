@@ -1,0 +1,28 @@
+{
+  "id": "973",
+  "name_pl": "Sięganie za głowę w górnej pozycji wznosów bioder (Hip Thrust Reach)",
+  "name_en": null,
+  "muscle_group_id": "7",
+  "muscle_group_name": "Całe ciało",
+  "photos": [
+    "6761",
+    "6760",
+    "6761",
+    "6762"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Sięganie za głowę w górnej pozycji wznosów bioder (Hip Thrust Reach)",
+    "gym": false,
+    "home": true,
+    "id": "973",
+    "iso": false,
+    "photo_1": "6761",
+    "photo_2": "6760",
+    "photo_3": "6761",
+    "photo_4": "6762",
+    "stat": false,
+    "use": false
+  }
+}

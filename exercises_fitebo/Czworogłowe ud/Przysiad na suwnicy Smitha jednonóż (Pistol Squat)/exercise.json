@@ -1,0 +1,26 @@
+{
+  "id": "1653",
+  "name_pl": "Przysiad na suwnicy Smitha jednonóż (Pistol Squat)",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8729",
+    "8728"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad na suwnicy Smitha jednonóż (Pistol Squat)",
+    "gym": true,
+    "home": false,
+    "id": "1653",
+    "iso": false,
+    "photo_1": "8729",
+    "photo_2": "8728",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

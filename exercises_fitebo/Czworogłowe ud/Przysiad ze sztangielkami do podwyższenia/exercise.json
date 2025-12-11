@@ -1,0 +1,26 @@
+{
+  "id": "1691",
+  "name_pl": "Przysiad ze sztangielkami do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "5896",
+    "5897"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad ze sztangielkami do podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1691",
+    "iso": false,
+    "photo_1": "5896",
+    "photo_2": "5897",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

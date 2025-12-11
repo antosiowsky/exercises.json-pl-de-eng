@@ -1,0 +1,26 @@
+{
+  "id": "103",
+  "name_pl": "Sięganie naprzemienne do pięt (Heel Touch)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2617",
+    "2618"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Sięganie naprzemienne do pięt (Heel Touch)",
+    "gym": false,
+    "home": true,
+    "id": "103",
+    "iso": true,
+    "photo_1": "2617",
+    "photo_2": "2618",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

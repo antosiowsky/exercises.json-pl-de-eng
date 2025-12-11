@@ -1,0 +1,26 @@
+{
+  "id": "74",
+  "name_pl": "Skręt tułowia z uniesionymi nogami siedząc (Russian Twist)",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "2575",
+    "2576"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Skręt tułowia z uniesionymi nogami siedząc (Russian Twist)",
+    "gym": false,
+    "home": true,
+    "id": "74",
+    "iso": true,
+    "photo_1": "2575",
+    "photo_2": "2576",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

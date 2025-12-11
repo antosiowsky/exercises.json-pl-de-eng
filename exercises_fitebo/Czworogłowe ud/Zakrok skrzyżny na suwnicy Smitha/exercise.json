@@ -1,0 +1,26 @@
+{
+  "id": "1511",
+  "name_pl": "Zakrok skrzyżny na suwnicy Smitha",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8654",
+    "8653"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Zakrok skrzyżny na suwnicy Smitha",
+    "gym": true,
+    "home": false,
+    "id": "1511",
+    "iso": false,
+    "photo_1": "8654",
+    "photo_2": "8653",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "468",
+  "name_pl": "Unoszenie ramion IYTW leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "9588",
+    "9589",
+    "9590",
+    "9591"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion IYTW leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "468",
+    "iso": true,
+    "photo_1": "9588",
+    "photo_2": "9589",
+    "photo_3": "9590",
+    "photo_4": "9591",
+    "stat": false,
+    "use": false
+  }
+}

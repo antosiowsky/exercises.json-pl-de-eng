@@ -1,0 +1,26 @@
+{
+  "id": "2066",
+  "name_pl": "Pompka szwedzka na ławce",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4916",
+    "4917"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na ławce",
+    "gym": false,
+    "home": true,
+    "id": "2066",
+    "iso": false,
+    "photo_1": "4916",
+    "photo_2": "4917",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

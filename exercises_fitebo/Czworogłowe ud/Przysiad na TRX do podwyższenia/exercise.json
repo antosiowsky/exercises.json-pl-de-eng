@@ -1,0 +1,26 @@
+{
+  "id": "1697",
+  "name_pl": "Przysiad na TRX do podwyższenia",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "8463",
+    "8462"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad na TRX do podwyższenia",
+    "gym": false,
+    "home": true,
+    "id": "1697",
+    "iso": false,
+    "photo_1": "8463",
+    "photo_2": "8462",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

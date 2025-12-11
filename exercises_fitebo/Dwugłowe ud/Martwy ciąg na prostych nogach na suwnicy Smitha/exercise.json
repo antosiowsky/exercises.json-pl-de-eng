@@ -1,0 +1,26 @@
+{
+  "id": "1335",
+  "name_pl": "Martwy ciąg na prostych nogach na suwnicy Smitha",
+  "name_en": null,
+  "muscle_group_id": "8",
+  "muscle_group_name": "Dwugłowe ud",
+  "photos": [
+    "8624",
+    "8623"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Martwy ciąg na prostych nogach na suwnicy Smitha",
+    "gym": true,
+    "home": false,
+    "id": "1335",
+    "iso": false,
+    "photo_1": "8624",
+    "photo_2": "8623",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

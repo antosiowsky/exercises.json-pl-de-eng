@@ -1,0 +1,26 @@
+{
+  "id": "2102",
+  "name_pl": "Wyciskanie sztangi prostej leżąc (podchwyt)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4970",
+    "4971"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie sztangi prostej leżąc (podchwyt)",
+    "gym": true,
+    "home": false,
+    "id": "2102",
+    "iso": true,
+    "photo_1": "4970",
+    "photo_2": "4971",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

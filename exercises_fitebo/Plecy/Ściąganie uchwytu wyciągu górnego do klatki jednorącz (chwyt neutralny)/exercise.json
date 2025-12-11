@@ -1,0 +1,26 @@
+{
+  "id": "294",
+  "name_pl": "Ściąganie uchwytu wyciągu górnego do klatki jednorącz (chwyt neutralny)",
+  "name_en": null,
+  "muscle_group_id": "4",
+  "muscle_group_name": "Plecy",
+  "photos": [
+    "4773",
+    "4774"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Ściąganie uchwytu wyciągu górnego do klatki jednorącz (chwyt neutralny)",
+    "gym": true,
+    "home": false,
+    "id": "294",
+    "iso": false,
+    "photo_1": "4773",
+    "photo_2": "4774",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

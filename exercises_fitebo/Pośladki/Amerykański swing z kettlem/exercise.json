@@ -1,0 +1,26 @@
+{
+  "id": "1235",
+  "name_pl": "Amerykański swing z kettlem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "6305",
+    "6306"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Amerykański swing z kettlem",
+    "gym": true,
+    "home": false,
+    "id": "1235",
+    "iso": false,
+    "photo_1": "6305",
+    "photo_2": "6306",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

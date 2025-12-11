@@ -1,0 +1,26 @@
+{
+  "id": "2064",
+  "name_pl": "Pompka szwedzka na poręczach na maszynie z odciążeniem",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "8752",
+    "8751"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Pompka szwedzka na poręczach na maszynie z odciążeniem",
+    "gym": true,
+    "home": false,
+    "id": "2064",
+    "iso": false,
+    "photo_1": "8752",
+    "photo_2": "8751",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

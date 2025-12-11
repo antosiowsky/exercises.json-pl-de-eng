@@ -1,0 +1,26 @@
+{
+  "id": "1671",
+  "name_pl": "Przysiad sumo ze sztangielką",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7327",
+    "7328"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo ze sztangielką",
+    "gym": false,
+    "home": true,
+    "id": "1671",
+    "iso": false,
+    "photo_1": "7327",
+    "photo_2": "7328",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

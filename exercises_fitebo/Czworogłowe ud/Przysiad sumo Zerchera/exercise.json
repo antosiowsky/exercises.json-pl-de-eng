@@ -1,0 +1,26 @@
+{
+  "id": "1683",
+  "name_pl": "Przysiad sumo Zerchera",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "7300",
+    "7301"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Przysiad sumo Zerchera",
+    "gym": true,
+    "home": false,
+    "id": "1683",
+    "iso": false,
+    "photo_1": "7300",
+    "photo_2": "7301",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

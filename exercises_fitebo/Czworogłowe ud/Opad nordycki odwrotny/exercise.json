@@ -1,0 +1,26 @@
+{
+  "id": "1755",
+  "name_pl": "Opad nordycki odwrotny",
+  "name_en": null,
+  "muscle_group_id": "9",
+  "muscle_group_name": "Czworogłowe ud",
+  "photos": [
+    "6156",
+    "6157"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Opad nordycki odwrotny",
+    "gym": false,
+    "home": true,
+    "id": "1755",
+    "iso": true,
+    "photo_1": "6156",
+    "photo_2": "6157",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

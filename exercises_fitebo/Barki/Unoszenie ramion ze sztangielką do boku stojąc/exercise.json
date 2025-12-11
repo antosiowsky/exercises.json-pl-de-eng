@@ -1,0 +1,26 @@
+{
+  "id": "1942",
+  "name_pl": "Unoszenie ramion ze sztangielką do boku stojąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "5178",
+    "5179"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie ramion ze sztangielką do boku stojąc",
+    "gym": false,
+    "home": true,
+    "id": "1942",
+    "iso": true,
+    "photo_1": "5178",
+    "photo_2": "5179",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

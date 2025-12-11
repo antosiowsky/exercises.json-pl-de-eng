@@ -1,0 +1,26 @@
+{
+  "id": "2086",
+  "name_pl": "Wyciskanie francuskie sztangielek na ławce skośnej w dół leżąc (Skullcrusher)",
+  "name_en": null,
+  "muscle_group_id": "11",
+  "muscle_group_name": "Triceps",
+  "photos": [
+    "4984",
+    "4985"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Wyciskanie francuskie sztangielek na ławce skośnej w dół leżąc (Skullcrusher)",
+    "gym": true,
+    "home": false,
+    "id": "2086",
+    "iso": true,
+    "photo_1": "4984",
+    "photo_2": "4985",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

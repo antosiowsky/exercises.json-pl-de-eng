@@ -1,0 +1,26 @@
+{
+  "id": "230",
+  "name_pl": "Spięcie z prostymi ramionami nad głową na piłce szwajcarskiej",
+  "name_en": null,
+  "muscle_group_id": "2",
+  "muscle_group_name": "Brzuch",
+  "photos": [
+    "3023",
+    "3024"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Spięcie z prostymi ramionami nad głową na piłce szwajcarskiej",
+    "gym": true,
+    "home": false,
+    "id": "230",
+    "iso": true,
+    "photo_1": "3023",
+    "photo_2": "3024",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

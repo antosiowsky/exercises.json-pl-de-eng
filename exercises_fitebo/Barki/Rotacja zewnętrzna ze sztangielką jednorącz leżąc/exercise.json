@@ -1,0 +1,26 @@
+{
+  "id": "2060",
+  "name_pl": "Rotacja zewnętrzna ze sztangielką jednorącz leżąc",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "9407",
+    "9408"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Rotacja zewnętrzna ze sztangielką jednorącz leżąc",
+    "gym": false,
+    "home": true,
+    "id": "2060",
+    "iso": false,
+    "photo_1": "9407",
+    "photo_2": "9408",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

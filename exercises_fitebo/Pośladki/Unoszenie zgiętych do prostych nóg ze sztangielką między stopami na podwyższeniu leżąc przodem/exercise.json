@@ -1,0 +1,26 @@
+{
+  "id": "1113",
+  "name_pl": "Unoszenie zgiętych do prostych nóg ze sztangielką między stopami na podwyższeniu leżąc przodem",
+  "name_en": null,
+  "muscle_group_id": "3",
+  "muscle_group_name": "Pośladki",
+  "photos": [
+    "7611",
+    "7616"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": false,
+    "desc_pl": "Unoszenie zgiętych do prostych nóg ze sztangielką między stopami na podwyższeniu leżąc przodem",
+    "gym": false,
+    "home": true,
+    "id": "1113",
+    "iso": true,
+    "photo_1": "7611",
+    "photo_2": "7616",
+    "photo_3": "",
+    "photo_4": "",
+    "stat": false,
+    "use": false
+  }
+}

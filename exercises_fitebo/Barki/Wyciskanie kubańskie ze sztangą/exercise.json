@@ -1,0 +1,28 @@
+{
+  "id": "2216",
+  "name_pl": "Wyciskanie kubańskie ze sztangą",
+  "name_en": null,
+  "muscle_group_id": "10",
+  "muscle_group_name": "Barki",
+  "photos": [
+    "14282",
+    "14283",
+    "14284",
+    "14285"
+  ],
+  "raw_data": {
+    "bui": true,
+    "comp": true,
+    "desc_pl": "Wyciskanie kubańskie ze sztangą",
+    "gym": true,
+    "home": false,
+    "id": "2216",
+    "iso": false,
+    "photo_1": "14282",
+    "photo_2": "14283",
+    "photo_3": "14284",
+    "photo_4": "14285",
+    "stat": false,
+    "use": false
+  }
+}
